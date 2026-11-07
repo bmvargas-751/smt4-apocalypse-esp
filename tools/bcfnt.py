@@ -25,9 +25,12 @@ MORTON = [(sum(((i >> (2 * b)) & 1) << b for b in range(3)),
 
 
 class Bcfnt:
-    def __init__(self, path):
-        self.path = Path(path)
-        self.data = bytearray(self.path.read_bytes())
+    def __init__(self, origen):
+        """`origen`: la ruta de la fuente o sus bytes."""
+        if isinstance(origen, (bytes, bytearray)):
+            self.data = bytearray(origen)
+        else:
+            self.data = bytearray(Path(origen).read_bytes())
         d = self.data
         if d[:4] != b"CFNT":
             raise ValueError("no es CFNT")
@@ -136,10 +139,13 @@ class Bcfnt:
     def index_of(self, code):
         return self.cmap.get(code, self.alt_index)
 
-    def save(self, path):
+    def to_bytes(self):
         for n in self._sheets:
             self._encode_sheet(n)
-        Path(path).write_bytes(self.data)
+        return bytes(self.data)
+
+    def save(self, path):
+        Path(path).write_bytes(self.to_bytes())
 
 
 def sjis(ch):

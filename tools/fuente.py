@@ -146,16 +146,16 @@ class Compositor:
         return n
 
 
-def componer(origen, destino):
-    f = Bcfnt(origen)
+def componer(original):
+    """Bytes de la fuente original → bytes de la fuente con las letras españolas."""
+    f = Bcfnt(original)
     c = Compositor(f)
     for ch, code in ESPANOL.items():
         filas, (left, gw, cw) = c.letra(ch)
         i = f.cmap[code]
         f.set_glyph(i, filas)
         f.set_widths(i, left, gw, cw)
-    f.save(destino)
-    return Bcfnt(destino)
+    return f.to_bytes()
 
 
 def main():
@@ -165,11 +165,12 @@ def main():
     vistas = Path(sys.argv[3]) if len(sys.argv) > 3 else None
     (salida / "font").mkdir(parents=True, exist_ok=True)
     for nombre in FUENTES:
-        nueva = componer(romfs / "font" / f"{nombre}.bcfnt", salida / "font" / f"{nombre}.bcfnt")
+        datos = componer((romfs / "font" / f"{nombre}.bcfnt").read_bytes())
+        (salida / "font" / f"{nombre}.bcfnt").write_bytes(datos)
         print(f"font/{nombre}.bcfnt: {len(ESPANOL)} letras")
         if vistas:
             vistas.mkdir(parents=True, exist_ok=True)
-            w, h, px = render(nueva, [sjis(ch) for ch in PRUEBA], 3)
+            w, h, px = render(Bcfnt(datos), [sjis(ch) for ch in PRUEBA], 3)
             write_png(vistas / f"{nombre}.png", w, h, px)
 
 

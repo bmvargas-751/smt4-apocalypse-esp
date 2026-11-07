@@ -53,10 +53,11 @@ Antes de esto no se decide nada más.
 
 ### Fase 4. Herramientas
 
-- [ ] Adaptador del juego: extraer, insertar, medir ancho y bytes.
+- [ ] Adaptador del juego: medir ancho y bytes. Extraer e insertar ya están (`tools/ctr.py`, `tools/mbm.py`).
 - [ ] Chequeos desde el primer día, con los barridos de THL (y → e, o → u, signos, comillas, léxico regional, calcos frecuentes, mayúsculas, género).
 - [ ] Memoria de traducción: una línea repetida se traduce una vez.
-- [ ] Parche para el emulador, sin la ROM.
+- [x] Instalador (`instalar.py`, `instalar.bat`): arma la traducción desde la copia del jugador y la instala en Azahar, Citra o la SD de una 3DS con Luma3DS. Trae desinstalador y no reparte archivos del juego.
+- [x] Avance por sección (`tools/avance.py --readme`), en el README y en [traduccion/README.md](traduccion/README.md).
 
 ### Fase 5. Piloto
 
@@ -66,7 +67,16 @@ Antes de esto no se decide nada más.
 
 ### Fase 6. Traducción
 
-Datos e interfaz primero; después la historia en orden, las secundarias y las negociaciones por personalidad. Siempre por delante de la partida.
+Datos e interfaz primero; después la historia en orden, las secundarias y las negociaciones por personalidad. Siempre por delante de la partida. Qué entra en cada sección: [traduccion/README.md](traduccion/README.md).
+
+- [ ] 6.1 Interfaz
+- [ ] 6.2 Tablas
+- [ ] 6.3 Datos
+- [ ] 6.4 Historia
+- [ ] 6.5 Secundarias
+- [ ] 6.6 Negociaciones
+- [ ] 6.7 Demonios en combate
+- [ ] 6.8 Contenido descargable
 
 ### Fase 7. Entrega
 
@@ -80,6 +90,7 @@ Datos e interfaz primero; después la historia en orden, las secundarias y las n
 - **«¡Demonios!» y «¡Diablos!»** se vuelven ambiguas en este juego: decidir si se evitan.
 - **Japonés en la versión inglesa:** dos escenas cerca del final quedaron sin traducir. Atlus prometió un parche, pero no hay confirmación de que haya salido. Se traducen desde el japonés.
 - **Límites:** con fuente proporcional se mide en píxeles; en los campos fijos, en bytes. En los mensajes cada carácter ocupa 2 bytes, también la «á».
+- **Tablas (`.tbb`):** guardan nombres y textos cortos en ASCII de un byte (objetos, razas, misiones, lugares, descripciones de menús). Ahí la «á» no puede usar el código de dos bytes de los mensajes; hace falta un código de un byte.
 - **Japonés que quedó en los archivos:** 2844 mensajes, la mayoría (unos 2000) en los mensajes de demonios en combate (`battle/DevilMsg`, `camp/CecDevilMsg`). Ver si el juego los muestra antes de contarlos para traducir.
 
 ## Referencias

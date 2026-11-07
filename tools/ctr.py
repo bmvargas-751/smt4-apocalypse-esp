@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Lee una imagen .3ds descifrada: muestra su cabecera y extrae el RomFS y el ExeFS.
+"""Lee una imagen de 3DS descifrada (.3ds/.cci o .cxi): cabecera, RomFS y ExeFS.
 
     python3 tools/ctr.py info    JUEGO.3ds
     python3 tools/ctr.py extract JUEGO.3ds DESTINO
@@ -22,28 +22,76 @@ def u64(b, o):
     return struct.unpack_from("<Q", b, o)[0]
 
 
+class ImagenInvalida(ValueError):
+    pass
+
+
 class Image:
     def __init__(self, path):
         self.f = open(path, "rb")
-        ncsd = self.read(0, 0x200)
-        if ncsd[0x100:0x104] != b"NCSD":
-            sys.exit("No es una imagen .3ds (falta NCSD).")
-        self.ncch_off = u32(ncsd, 0x120) * 0x200
+        head = self.read(0, 0x200)
+        if head[0x100:0x104] == b"NCSD":
+            self.ncch_off = u32(head, 0x120) * 0x200
+        elif head[0x100:0x104] == b"NCCH":
+            self.ncch_off = 0
+        else:
+            raise ImagenInvalida("no es una imagen de 3DS (.3ds, .cci o .cxi)")
         h = self.read(self.ncch_off, 0x200)
         if h[0x100:0x104] != b"NCCH":
-            sys.exit("La partición 0 no es NCCH.")
+            raise ImagenInvalida("la partición del juego no es NCCH")
         flags = h[0x188:0x190]
         if not flags[7] & 0x4:
-            sys.exit("La imagen está cifrada; hace falta una descifrada.")
+            raise ImagenInvalida("la imagen está cifrada; hace falta una descifrada")
         unit = 0x200 << flags[6]
         self.program_id = u64(h, 0x118)
         self.product = h[0x150:0x160].rstrip(b"\0").decode()
         self.exefs = (self.ncch_off + u32(h, 0x1A0) * unit, u32(h, 0x1A4) * unit)
         self.romfs = (self.ncch_off + u32(h, 0x1B0) * unit, u32(h, 0x1B4) * unit)
+        self._files = None
 
     def read(self, off, size):
         self.f.seek(off)
         return self.f.read(size)
+
+    def files(self):
+        """Índice del RomFS: ruta → (posición en la imagen, tamaño)."""
+        if self._files is not None:
+            return self._files
+        base, _ = self.romfs
+        ivfc = self.read(base, 0x60)
+        if ivfc[:4] != b"IVFC":
+            raise ImagenInvalida("el RomFS no empieza con IVFC")
+        block = 1 << u32(ivfc, 0x4C)
+        l3 = base + (0x60 + u32(ivfc, 0x08) + block - 1) // block * block
+        hdr = self.read(l3, 0x28)
+        dir_meta = self.read(l3 + u32(hdr, 0x0C), u32(hdr, 0x10))
+        file_meta = self.read(l3 + u32(hdr, 0x1C), u32(hdr, 0x20))
+        data = l3 + u32(hdr, 0x24)
+
+        def name(meta, o, at):
+            n = u32(meta, o + at)
+            return meta[o + at + 4:o + at + 4 + n].decode("utf-16-le")
+
+        index = {}
+
+        def walk(d, prefix):
+            f = u32(dir_meta, d + 0x0C)
+            while f != NONE:
+                index[prefix + name(file_meta, f, 0x1C)] = (data + u64(file_meta, f + 0x08),
+                                                            u64(file_meta, f + 0x10))
+                f = u32(file_meta, f + 0x04)
+            c = u32(dir_meta, d + 0x08)
+            while c != NONE:
+                walk(c, prefix + name(dir_meta, c, 0x14) + "/")
+                c = u32(dir_meta, c + 0x04)
+
+        walk(0, "")
+        self._files = index
+        return index
+
+    def read_file(self, path):
+        off, size = self.files()[path]
+        return self.read(off, size)
 
 
 def info(img):
@@ -65,55 +113,28 @@ def extract_exefs(img, out):
 
 
 def extract_romfs(img, out):
-    base, _ = img.romfs
-    ivfc = img.read(base, 0x60)
-    if ivfc[:4] != b"IVFC":
-        sys.exit("El RomFS no empieza con IVFC.")
-    master_hash = u32(ivfc, 0x08)
-    block = 1 << u32(ivfc, 0x4C)
-    l3 = base + (0x60 + master_hash + block - 1) // block * block
-    hdr = img.read(l3, 0x28)
-    dir_meta = img.read(l3 + u32(hdr, 0x0C), u32(hdr, 0x10))
-    file_meta = img.read(l3 + u32(hdr, 0x1C), u32(hdr, 0x20))
-    data = l3 + u32(hdr, 0x24)
-
-    def name(meta, o, at):
-        n = u32(meta, o + at)
-        return meta[o + at + 4:o + at + 4 + n].decode("utf-16-le")
-
-    count = total = 0
-
-    def walk(d, path):
-        nonlocal count, total
-        path.mkdir(parents=True, exist_ok=True)
-        f = u32(dir_meta, d + 0x0C)
-        while f != NONE:
-            off, size = u64(file_meta, f + 0x08), u64(file_meta, f + 0x10)
-            dest = path / name(file_meta, f, 0x1C)
-            with open(dest, "wb") as w:
-                pos = data + off
-                left = size
-                while left:
-                    chunk = img.read(pos, min(left, 1 << 24))
-                    w.write(chunk)
-                    pos += len(chunk)
-                    left -= len(chunk)
-            count += 1
-            total += size
-            f = u32(file_meta, f + 0x04)
-        c = u32(dir_meta, d + 0x08)
-        while c != NONE:
-            walk(c, path / name(dir_meta, c, 0x14))
-            c = u32(dir_meta, c + 0x04)
-
-    walk(0, out)
-    print(f"romfs/  {count} archivos, {total:,} bytes")
+    total = 0
+    for path, (off, size) in img.files().items():
+        dest = out / path
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        with open(dest, "wb") as w:
+            left = size
+            while left:
+                chunk = img.read(off, min(left, 1 << 24))
+                w.write(chunk)
+                off += len(chunk)
+                left -= len(chunk)
+        total += size
+    print(f"romfs/  {len(img.files())} archivos, {total:,} bytes")
 
 
 def main():
     if len(sys.argv) < 3 or sys.argv[1] not in ("info", "extract"):
         sys.exit(__doc__)
-    img = Image(sys.argv[2])
+    try:
+        img = Image(sys.argv[2])
+    except ImagenInvalida as e:
+        sys.exit(f"{sys.argv[2]}: {e}")
     if sys.argv[1] == "info":
         info(img)
         return

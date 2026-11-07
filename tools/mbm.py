@@ -161,28 +161,39 @@ def export(root, out):
     print(f"{n} mensajes en {out}")
 
 
+def leer_textos(archivos):
+    """{key, es} de uno o más JSONL → {archivo .mbm: {id: texto}}; los últimos pisan a los primeros."""
+    cambios = {}
+    for jsonl in archivos:
+        for n, linea in enumerate(open(jsonl, encoding="utf-8"), 1):
+            if not linea.strip():
+                continue
+            d = json.loads(linea)
+            rel, ident = d["key"].rsplit("#", 1)
+            if not d["es"].endswith("{FFFF}"):
+                raise ValueError(f"{jsonl}:{n}: el texto debe terminar en {{FFFF}}")
+            cambios.setdefault(rel, {})[int(ident)] = d["es"]
+    return cambios
+
+
+def aplicar(original, textos, nombre="?"):
+    """Bytes de un .mbm + {id: texto} → bytes del .mbm con esos textos."""
+    m = Mbm(original)
+    por_id = {m.entries[i][0]: i for i in m.order}
+    for ident, es in textos.items():
+        if ident not in por_id:
+            raise ValueError(f"{nombre}#{ident}: ese mensaje no existe")
+        m.texts[por_id[ident]] = es
+    return m.build()
+
+
 def apply(root, jsonl, out):
     """Escribe en `out` los .mbm de `root` con los textos {key, es} de `jsonl`."""
     root, out = Path(root), Path(out)
-    cambios = {}
-    for n, linea in enumerate(open(jsonl, encoding="utf-8"), 1):
-        if not linea.strip():
-            continue
-        d = json.loads(linea)
-        rel, ident = d["key"].rsplit("#", 1)
-        if not d["es"].endswith("{FFFF}"):
-            sys.exit(f"{jsonl}:{n}: el texto debe terminar en {{FFFF}}")
-        cambios.setdefault(rel, {})[int(ident)] = d["es"]
-    for rel, textos in sorted(cambios.items()):
-        m = Mbm((root / rel).read_bytes())
-        por_id = {m.entries[i][0]: i for i in m.order}
-        for ident, es in textos.items():
-            if ident not in por_id:
-                sys.exit(f"{rel}#{ident}: ese mensaje no existe")
-            m.texts[por_id[ident]] = es
+    for rel, textos in sorted(leer_textos([jsonl]).items()):
         dest = out / rel
         dest.parent.mkdir(parents=True, exist_ok=True)
-        dest.write_bytes(m.build())
+        dest.write_bytes(aplicar((root / rel).read_bytes(), textos, rel))
         print(f"{rel}: {len(textos)} mensajes")
 
 
