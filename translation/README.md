@@ -4,9 +4,9 @@ Aquí va nuestra traducción, y nada más: ningún texto del juego.
 
 ## Cómo se divide
 
-La traducción es la fase 6 del [plan](../PLAN.md) y se hace por secciones, en este orden: datos e interfaz primero, después la historia en orden, las secundarias y las negociaciones por personalidad. Cada archivo de mensajes del juego pertenece a una sola sección, según la carpeta donde está (la lista de carpetas está en `SECCIONES`, en [tools/avance.py](../tools/avance.py)).
+La traducción es la fase 6 del [plan](../PLAN.md) y se hace por secciones, en este orden: datos e interfaz primero, después la historia en orden, las secundarias y las negociaciones por personalidad. Cada archivo de mensajes del juego pertenece a una sola sección, según la carpeta donde está (la lista de carpetas está en `SECTIONS`, en [tools/progress.py](../tools/progress.py)).
 
-<!-- avance: lo actualiza `python3 -I tools/avance.py --readme` en cada commit que toca traduccion/ -->
+<!-- progress: lo actualiza `python3 -I tools/progress.py --readme` en cada commit que toca translation/ -->
 | Fase | Sección | Contenido | Traducidos | Total | % |
 |---|---|---|---:|---:|---:|
 | 6.1 | Interfaz | Menús, sistema, combate, fusión, tiendas, guardado, StreetPass y tutoriales | 0 | 707 | 0,0 % |
@@ -18,7 +18,7 @@ La traducción es la fase 6 del [plan](../PLAN.md) y se hace por secciones, en e
 | 6.7 | Demonios en combate | Frases de demonios y compañeros en combate y en StreetPass | 0 | 4.380 | 0,0 % |
 | 6.8 | Contenido descargable | Misiones descargables | 0 | 225 | 0,0 % |
 | | **Total** | | **0** | **24.182** | **0,0 %** |
-<!-- /avance -->
+<!-- /progress -->
 
 - **Se cuentan mensajes**, no palabras: un mensaje puede ser un «Sí» o una escena entera. Muchos se repiten (de los 24.182, 11.490 son distintos), y una línea repetida se traduce una sola vez.
 - **Tablas:** los nombres y los textos cortos de las tablas se cuentan cuando esté la herramienta para leerlas.
@@ -27,7 +27,7 @@ La traducción es la fase 6 del [plan](../PLAN.md) y se hace por secciones, en e
 
 ## Formato
 
-Un JSONL por archivo de mensajes del juego, con su misma ruta: la traducción de `saveLoadUI/saveloadUI.mbm` va en `traduccion/saveLoadUI/saveloadUI.jsonl`. Una línea por mensaje:
+Un JSONL por archivo de mensajes del juego, con su misma ruta: la traducción de `saveLoadUI/saveloadUI.mbm` va en `translation/saveLoadUI/saveloadUI.jsonl`. Una línea por mensaje:
 
 ```json
 {"key": "saveLoadUI/saveloadUI.mbm#1", "es": "Sí{F801}No{F801}{FFFF}"}
@@ -36,4 +36,4 @@ Un JSONL por archivo de mensajes del juego, con su misma ruta: la traducción de
 - `key`: el archivo y el número del mensaje, como los escribe `tools/mbm.py export`.
 - `es`: el texto en español, con los mismos códigos `{XXXX}` que el original. `{F801}` es salto de línea, `{F802}` es cambio de página y `{FFFF}` es el fin del mensaje.
 
-El instalador aplica todo lo que haya en esta carpeta. Los textos de [pruebas/](../pruebas) solo se aplican con `--prueba`.
+El instalador aplica todo lo que haya en esta carpeta. Los textos de [tests/](../tests) solo se aplican con `--test`.

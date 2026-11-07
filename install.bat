@@ -3,6 +3,6 @@ rem Instalador de la traduccion al espanol de SMT IV: Apocalypse (necesita Pytho
 chcp 65001 >nul
 pushd "%~dp0"
 where py >nul 2>nul
-if %errorlevel%==0 (py -3 instalar.py %*) else (python instalar.py %*)
+if %errorlevel%==0 (py -3 install.py %*) else (python install.py %*)
 popd
 pause

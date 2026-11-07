@@ -8,7 +8,7 @@ Traducción fan al español neutro de *Shin Megami Tensei IV: Apocalypse* (Ninte
 
 ## Avance
 
-<!-- avance: lo actualiza `python3 -I tools/avance.py --readme` en cada commit que toca traduccion/ -->
+<!-- progress: lo actualiza `python3 -I tools/progress.py --readme` en cada commit que toca translation/ -->
 **Etapa actual:** Fase 1. Prueba técnica: Ida y vuelta del resto del texto: tablas (`.tbb`), ejecutable y texturas.
 
 | Fase | Sección | Traducidos | Total | % |
@@ -22,16 +22,16 @@ Traducción fan al español neutro de *Shin Megami Tensei IV: Apocalypse* (Ninte
 | 6.7 | Demonios en combate | 0 | 4.380 | 0,0 % |
 | 6.8 | Contenido descargable | 0 | 225 | 0,0 % |
 | | **Total** | **0** | **24.182** | **0,0 %** |
-<!-- /avance -->
+<!-- /progress -->
 
-Qué entra en cada sección y cómo se cuenta: [traduccion/README.md](traduccion/README.md).
+Qué entra en cada sección y cómo se cuenta: [translation/README.md](translation/README.md).
 
 ## Instalar
 
 Necesitas la versión **europea** del juego en un `.3ds` (o `.cxi`) descifrado, y Python 3.
 
 1. Descarga este repositorio.
-2. En Windows, abre `instalar.bat`. En Linux o macOS, ejecuta `python3 instalar.py`.
+2. En Windows, abre `install.bat`. En Linux o macOS, ejecuta `python3 install.py`.
 3. Elige dónde instalar: **Azahar**, **Citra** o **la SD de una 3DS** con Luma3DS. Después arrastra tu `.3ds` a la ventana.
 
 El instalador encuentra solo la carpeta de los emuladores. En una 3DS, activa *Enable game patching* en la configuración de Luma3DS (mantén SELECT al encenderla). Para quitar la traducción, abre el instalador otra vez y elige *Desinstalar*: borra solo lo que instaló.
@@ -40,12 +40,12 @@ El instalador encuentra solo la carpeta de los emuladores. En una 3DS, activa *E
 
 - [PLAN.md](PLAN.md): decisiones, pendientes y fases.
 - [TEAM.md](TEAM.md): cómo se reparten la traducción y la revisión.
-- [traduccion/](traduccion): la traducción, sus secciones y su formato.
+- [translation/](translation): la traducción, sus secciones y su formato.
 - [tools/](tools): las herramientas.
   - `ctr.py`: extrae los archivos del juego.
   - `mbm.py`: lee y escribe los mensajes.
-  - `bcfnt.py` y `fuente.py`: dibujan las letras españolas en las fuentes.
-  - `parche.py`: arma la traducción.
-  - `avance.py`: calcula el avance.
+  - `bcfnt.py`, `font.py` y `letters.py`: dibujan las letras españolas en las fuentes.
+  - `patch.py`: arma la traducción.
+  - `progress.py`: calcula el avance.
 
 El repositorio guarda solo nuestra traducción y nuestras herramientas, nunca texto del juego ni la ROM.

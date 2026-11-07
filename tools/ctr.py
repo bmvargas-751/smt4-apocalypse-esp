@@ -22,7 +22,7 @@ def u64(b, o):
     return struct.unpack_from("<Q", b, o)[0]
 
 
-class ImagenInvalida(ValueError):
+class InvalidImage(ValueError):
     pass
 
 
@@ -35,13 +35,13 @@ class Image:
         elif head[0x100:0x104] == b"NCCH":
             self.ncch_off = 0
         else:
-            raise ImagenInvalida("no es una imagen de 3DS (.3ds, .cci o .cxi)")
+            raise InvalidImage("no es una imagen de 3DS (.3ds, .cci o .cxi)")
         h = self.read(self.ncch_off, 0x200)
         if h[0x100:0x104] != b"NCCH":
-            raise ImagenInvalida("la partición del juego no es NCCH")
+            raise InvalidImage("la partición del juego no es NCCH")
         flags = h[0x188:0x190]
         if not flags[7] & 0x4:
-            raise ImagenInvalida("la imagen está cifrada; hace falta una descifrada")
+            raise InvalidImage("la imagen está cifrada; hace falta una descifrada")
         unit = 0x200 << flags[6]
         self.program_id = u64(h, 0x118)
         self.product = h[0x150:0x160].rstrip(b"\0").decode()
@@ -60,7 +60,7 @@ class Image:
         base, _ = self.romfs
         ivfc = self.read(base, 0x60)
         if ivfc[:4] != b"IVFC":
-            raise ImagenInvalida("el RomFS no empieza con IVFC")
+            raise InvalidImage("el RomFS no empieza con IVFC")
         block = 1 << u32(ivfc, 0x4C)
         l3 = base + (0x60 + u32(ivfc, 0x08) + block - 1) // block * block
         hdr = self.read(l3, 0x28)
@@ -133,7 +133,7 @@ def main():
         sys.exit(__doc__)
     try:
         img = Image(sys.argv[2])
-    except ImagenInvalida as e:
+    except InvalidImage as e:
         sys.exit(f"{sys.argv[2]}: {e}")
     if sys.argv[1] == "info":
         info(img)

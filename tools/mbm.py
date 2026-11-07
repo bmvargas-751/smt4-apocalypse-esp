@@ -19,7 +19,7 @@ Formato (deducido del juego; lo que no se entiende se copia tal cual):
 
 En el texto exportado, el inglés de ancho completo (Ｔｈｅ) se ve como ASCII
 (The) y el espacio ideográfico como espacio. Las letras españolas usan los
-códigos de `letras.py`. Toda palabra que no sea un carácter de doble byte se
+códigos de `letters.py`. Toda palabra que no sea un carácter de doble byte se
 escribe como {XXXX}.
 """
 import json
@@ -29,7 +29,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from letras import ESPANOL, POR_CODIGO  # noqa: E402
+from letters import BY_CODE, SPANISH  # noqa: E402
 
 TAG = re.compile(r"\{([0-9A-F]{4})\}")
 
@@ -41,8 +41,8 @@ def to_text(raw):
         if w[0] == 0xF8 or w == b"\xff\xff":
             out.append("{%s}" % w.hex().upper())
             continue
-        if w[0] << 8 | w[1] in POR_CODIGO:
-            out.append(POR_CODIGO[w[0] << 8 | w[1]])
+        if w[0] << 8 | w[1] in BY_CODE:
+            out.append(BY_CODE[w[0] << 8 | w[1]])
             continue
         try:
             c = w.decode("cp932")
@@ -73,8 +73,8 @@ def from_text(s):
 def _chars(s):
     out = bytearray()
     for c in s:
-        if c in ESPANOL:
-            out += ESPANOL[c].to_bytes(2, "big")
+        if c in SPANISH:
+            out += SPANISH[c].to_bytes(2, "big")
             continue
         if c == " ":
             c = "　"
@@ -161,40 +161,40 @@ def export(root, out):
     print(f"{n} mensajes en {out}")
 
 
-def leer_textos(archivos):
+def read_texts(paths):
     """{key, es} de uno o más JSONL → {archivo .mbm: {id: texto}}; los últimos pisan a los primeros."""
-    cambios = {}
-    for jsonl in archivos:
-        for n, linea in enumerate(open(jsonl, encoding="utf-8"), 1):
-            if not linea.strip():
+    changes = {}
+    for jsonl in paths:
+        for n, line in enumerate(open(jsonl, encoding="utf-8"), 1):
+            if not line.strip():
                 continue
-            d = json.loads(linea)
+            d = json.loads(line)
             rel, ident = d["key"].rsplit("#", 1)
             if not d["es"].endswith("{FFFF}"):
                 raise ValueError(f"{jsonl}:{n}: el texto debe terminar en {{FFFF}}")
-            cambios.setdefault(rel, {})[int(ident)] = d["es"]
-    return cambios
+            changes.setdefault(rel, {})[int(ident)] = d["es"]
+    return changes
 
 
-def aplicar(original, textos, nombre="?"):
+def apply_texts(original, texts, name="?"):
     """Bytes de un .mbm + {id: texto} → bytes del .mbm con esos textos."""
     m = Mbm(original)
-    por_id = {m.entries[i][0]: i for i in m.order}
-    for ident, es in textos.items():
-        if ident not in por_id:
-            raise ValueError(f"{nombre}#{ident}: ese mensaje no existe")
-        m.texts[por_id[ident]] = es
+    by_id = {m.entries[i][0]: i for i in m.order}
+    for ident, es in texts.items():
+        if ident not in by_id:
+            raise ValueError(f"{name}#{ident}: ese mensaje no existe")
+        m.texts[by_id[ident]] = es
     return m.build()
 
 
 def apply(root, jsonl, out):
     """Escribe en `out` los .mbm de `root` con los textos {key, es} de `jsonl`."""
     root, out = Path(root), Path(out)
-    for rel, textos in sorted(leer_textos([jsonl]).items()):
+    for rel, texts in sorted(read_texts([jsonl]).items()):
         dest = out / rel
         dest.parent.mkdir(parents=True, exist_ok=True)
-        dest.write_bytes(aplicar((root / rel).read_bytes(), textos, rel))
-        print(f"{rel}: {len(textos)} mensajes")
+        dest.write_bytes(apply_texts((root / rel).read_bytes(), texts, rel))
+        print(f"{rel}: {len(texts)} mensajes")
 
 
 def main():

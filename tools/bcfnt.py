@@ -18,7 +18,7 @@ import zlib
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from letras import ESPANOL  # noqa: E402
+from letters import SPANISH  # noqa: E402
 
 MORTON = [(sum(((i >> (2 * b)) & 1) << b for b in range(3)),
            sum(((i >> (2 * b + 1)) & 1) << b for b in range(3))) for i in range(64)]
@@ -150,8 +150,8 @@ class Bcfnt:
 
 def sjis(ch):
     """Código de la fuente para un carácter, como lo escribe el texto del juego."""
-    if ch in ESPANOL:
-        return ESPANOL[ch]
+    if ch in SPANISH:
+        return SPANISH[ch]
     if ch == " ":
         ch = "　"
     elif "!" <= ch <= "~":

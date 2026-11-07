@@ -11,4 +11,4 @@ local/
 __pycache__/
 
 # Configuración local del instalador
-instalar.json
+install.json

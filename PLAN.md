@@ -31,10 +31,10 @@ Antes de esto no se decide nada más.
 - [x] Extraer los archivos del juego: `tools/ctr.py extract`, a una carpeta fuera del repo.
 - [x] Ida y vuelta de los mensajes (`.mbm`): 1243 de 1243 archivos idénticos (`tools/mbm.py roundtrip`).
 - [ ] Ida y vuelta del resto del texto: tablas (`.tbb`), ejecutable y texturas.
-- [ ] Una línea con «¿Ñandú? ¡Sí!» en el emulador: mod armado con `pruebas/fuente.jsonl` (mensajes de crear datos, guardar y cargar), falta verlo en el juego.
+- [ ] Una línea con «¿Ñandú? ¡Sí!» en el emulador: mod armado con `tests/font.jsonl` (mensajes de crear datos, guardar y cargar), falta verlo en el juego.
 - [ ] Pseudolocalización: todo el texto un 35% más largo, con á é í ó ú ü ñ, sus mayúsculas, ¿ ¡ y un ID corto por línea. Jugar una hora (menús, combate, negociación, compendio) y anotar los glifos que faltan en cada fuente, los cortes, los cuelgues y el texto que no cambió (está en el ejecutable o en una textura).
 - [ ] Límites: ancho de cada caja en píxeles, renglones por caja y bytes de los campos fijos. Los saltos de línea los pone el texto (`{F801}`), así que los renglones se parten aquí.
-- [x] Fuente: las 16 letras (á é í ó ú ü ñ, sus mayúsculas, ¿ ¡) dibujadas en las 4 fuentes (`tools/fuente.py`), en los códigos del cirílico (`tools/letras.py`).
+- [x] Fuente: las 16 letras (á é í ó ú ü ñ, sus mayúsculas, ¿ ¡) dibujadas en las 4 fuentes (`tools/font.py`), en los códigos del cirílico (`tools/letters.py`).
 
 ### Fase 2. Inventario y presupuesto
 
@@ -56,8 +56,8 @@ Antes de esto no se decide nada más.
 - [ ] Adaptador del juego: medir ancho y bytes. Extraer e insertar ya están (`tools/ctr.py`, `tools/mbm.py`).
 - [ ] Chequeos desde el primer día, con los barridos de THL (y → e, o → u, signos, comillas, léxico regional, calcos frecuentes, mayúsculas, género).
 - [ ] Memoria de traducción: una línea repetida se traduce una vez.
-- [x] Instalador (`instalar.py`, `instalar.bat`): arma la traducción desde la copia del jugador y la instala en Azahar, Citra o la SD de una 3DS con Luma3DS. Trae desinstalador y no reparte archivos del juego.
-- [x] Avance por sección (`tools/avance.py --readme`), en el README y en [traduccion/README.md](traduccion/README.md).
+- [x] Instalador (`install.py`, `install.bat`): arma la traducción desde la copia del jugador y la instala en Azahar, Citra o la SD de una 3DS con Luma3DS. Trae desinstalador y no reparte archivos del juego.
+- [x] Avance por sección (`tools/progress.py --readme`), en el README y en [translation/README.md](translation/README.md).
 
 ### Fase 5. Piloto
 
@@ -67,7 +67,7 @@ Antes de esto no se decide nada más.
 
 ### Fase 6. Traducción
 
-Datos e interfaz primero; después la historia en orden, las secundarias y las negociaciones por personalidad. Siempre por delante de la partida. Qué entra en cada sección: [traduccion/README.md](traduccion/README.md).
+Datos e interfaz primero; después la historia en orden, las secundarias y las negociaciones por personalidad. Siempre por delante de la partida. Qué entra en cada sección: [translation/README.md](translation/README.md).
 
 - [ ] 6.1 Interfaz
 - [ ] 6.2 Tablas
