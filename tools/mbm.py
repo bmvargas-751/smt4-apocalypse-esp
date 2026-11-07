@@ -3,9 +3,13 @@
 
     python3 tools/mbm.py roundtrip ROMFS        lee y reescribe todos, sin cambios, y compara
     python3 tools/mbm.py export ROMFS SALIDA    todos los mensajes a un JSONL
+    python3 tools/mbm.py apply ROMFS TEXTOS.jsonl SALIDA
+                                                escribe en SALIDA los archivos con los textos
+                                                {key, es} de TEXTOS.jsonl
 
 Formato (deducido del juego; lo que no se entiende se copia tal cual):
-  0x00  u32 0, "MSG2", u32 0x10000, u32 tamaño (no siempre coincide), u32 cantidad,
+  0x00  u32 0, "MSG2", u32 0x10000, u32 tamaño (en 631 de 1243 archivos no coincide
+        con el largo y el juego anda igual), u32 cantidad,
         u32 inicio de la tabla (0x20), 8 bytes en cero
   tabla: cantidad × (u32 id, u32 tamaño, u32 posición, u32 0); tamaño 0 = vacía
   textos: palabras de 16 bits big-endian; un carácter Shift-JIS de doble byte,
@@ -14,14 +18,18 @@ Formato (deducido del juego; lo que no se entiende se copia tal cual):
   texto puede haber restos de otra versión; los dos se conservan.
 
 En el texto exportado, el inglés de ancho completo (Ｔｈｅ) se ve como ASCII
-(The) y el espacio ideográfico como espacio. Toda palabra que no sea un
-carácter de doble byte se escribe como {XXXX}.
+(The) y el espacio ideográfico como espacio. Las letras españolas usan los
+códigos de `letras.py`. Toda palabra que no sea un carácter de doble byte se
+escribe como {XXXX}.
 """
 import json
 import re
 import struct
 import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from letras import ESPANOL, POR_CODIGO  # noqa: E402
 
 TAG = re.compile(r"\{([0-9A-F]{4})\}")
 
@@ -32,6 +40,9 @@ def to_text(raw):
         w = raw[j:j + 2]
         if w[0] == 0xF8 or w == b"\xff\xff":
             out.append("{%s}" % w.hex().upper())
+            continue
+        if w[0] << 8 | w[1] in POR_CODIGO:
+            out.append(POR_CODIGO[w[0] << 8 | w[1]])
             continue
         try:
             c = w.decode("cp932")
@@ -62,6 +73,9 @@ def from_text(s):
 def _chars(s):
     out = bytearray()
     for c in s:
+        if c in ESPANOL:
+            out += ESPANOL[c].to_bytes(2, "big")
+            continue
         if c == " ":
             c = "　"
         elif "!" <= c <= "~":
@@ -78,6 +92,8 @@ class Mbm:
         if data[4:8] != b"MSG2":
             raise ValueError("no es MSG2")
         self.header = data[:0x20]
+        # el campo de tamaño se actualiza solo si coincidía con el largo del archivo
+        self.size_ok = struct.unpack_from("<I", data, 0x0C)[0] == len(data)
         count, table = struct.unpack_from("<II", data, 0x10)
         self.table = table
         self.entries = [list(struct.unpack_from("<IIII", data, table + 16 * i)) for i in range(count)]
@@ -110,6 +126,8 @@ class Mbm:
         for i in self.order:
             out += blobs[i]
         out += self.tail
+        if self.size_ok:
+            struct.pack_into("<I", out, 0x0C, len(out))
         return bytes(out)
 
 
@@ -143,11 +161,39 @@ def export(root, out):
     print(f"{n} mensajes en {out}")
 
 
+def apply(root, jsonl, out):
+    """Escribe en `out` los .mbm de `root` con los textos {key, es} de `jsonl`."""
+    root, out = Path(root), Path(out)
+    cambios = {}
+    for n, linea in enumerate(open(jsonl, encoding="utf-8"), 1):
+        if not linea.strip():
+            continue
+        d = json.loads(linea)
+        rel, ident = d["key"].rsplit("#", 1)
+        if not d["es"].endswith("{FFFF}"):
+            sys.exit(f"{jsonl}:{n}: el texto debe terminar en {{FFFF}}")
+        cambios.setdefault(rel, {})[int(ident)] = d["es"]
+    for rel, textos in sorted(cambios.items()):
+        m = Mbm((root / rel).read_bytes())
+        por_id = {m.entries[i][0]: i for i in m.order}
+        for ident, es in textos.items():
+            if ident not in por_id:
+                sys.exit(f"{rel}#{ident}: ese mensaje no existe")
+            m.texts[por_id[ident]] = es
+        dest = out / rel
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        dest.write_bytes(m.build())
+        print(f"{rel}: {len(textos)} mensajes")
+
+
 def main():
     if len(sys.argv) >= 3 and sys.argv[1] == "roundtrip":
         sys.exit(0 if roundtrip(sys.argv[2]) else 1)
     if len(sys.argv) >= 4 and sys.argv[1] == "export":
         export(sys.argv[2], sys.argv[3])
+        return
+    if len(sys.argv) >= 5 and sys.argv[1] == "apply":
+        apply(sys.argv[2], sys.argv[3], sys.argv[4])
         return
     sys.exit(__doc__)
 

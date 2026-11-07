@@ -15,15 +15,13 @@
 1. **El encargo original del prompt de editor de THL** (las 11 secciones). Si está el texto, los roles parten de él; si no, de su resumen.
 2. **Dónde vive el equipo.** Propuesta: un repo propio, como translation-reviewer, con los roles, las plantillas y los chequeos generales. Aquí quedaría solo lo de IVA. Mientras tanto, [TEAM.md](TEAM.md) vive aquí.
 3. **Cómo se ejecuta.** Propuesta: subagentes de Claude Code, un archivo por rol en `.claude/agents/` con su modelo y su esfuerzo, llamados en orden por una skill. El modelo y el esfuerzo de cada rol se deciden con el piloto.
-4. **Otras traducciones fan.** Si existe una de SMT IV al español, decidir si se consulta.
-5. **Registro solemne** (dioses y demonios que hablan de época). En THL quedó «de época, sin *vosotros*»; confirmar si se mantiene.
+4. **Registro solemne** (dioses y demonios que hablan de época). En THL quedó «de época, sin *vosotros*»; confirmar si se mantiene.
 
 ## Fases
 
 ### Fase 0. Antes de empezar
 
-- [ ] Escribir a Projeto Amala, que tradujo SMT IV al portugués (IVA usa el mismo motor), por sus herramientas o notas: extraer e insertar texto, fuente y texturas.
-- [ ] Verificar si existe una traducción fan de SMT IV al español (hay un titular en Noisy Pixel, sin confirmar) y si alguien está traduciendo IVA.
+- [x] Verificar si existe una traducción fan de IVA al español: no hay ninguna (2026-11-07). Se hace desde cero.
 - [x] Revisar la versión del juego: europea, sin actualización.
 
 ### Fase 1. Prueba técnica
@@ -33,10 +31,10 @@ Antes de esto no se decide nada más.
 - [x] Extraer los archivos del juego: `tools/ctr.py extract`, a una carpeta fuera del repo.
 - [x] Ida y vuelta de los mensajes (`.mbm`): 1243 de 1243 archivos idénticos (`tools/mbm.py roundtrip`).
 - [ ] Ida y vuelta del resto del texto: tablas (`.tbb`), ejecutable y texturas.
-- [ ] Una línea con «¿Ñandú? ¡Sí!» en el emulador.
+- [ ] Una línea con «¿Ñandú? ¡Sí!» en el emulador: mod armado con `pruebas/fuente.jsonl` (mensajes de crear datos, guardar y cargar), falta verlo en el juego.
 - [ ] Pseudolocalización: todo el texto un 35% más largo, con á é í ó ú ü ñ, sus mayúsculas, ¿ ¡ y un ID corto por línea. Jugar una hora (menús, combate, negociación, compendio) y anotar los glifos que faltan en cada fuente, los cortes, los cuelgues y el texto que no cambió (está en el ejecutable o en una textura).
-- [ ] Límites: ancho de cada caja en píxeles, renglones por caja, bytes de los campos fijos y si el motor parte las líneas solo.
-- [ ] Fuente: agregar los glifos que falten.
+- [ ] Límites: ancho de cada caja en píxeles, renglones por caja y bytes de los campos fijos. Los saltos de línea los pone el texto (`{F801}`), así que los renglones se parten aquí.
+- [x] Fuente: las 16 letras (á é í ó ú ü ñ, sus mayúsculas, ¿ ¡) dibujadas en las 4 fuentes (`tools/fuente.py`), en los códigos del cirílico (`tools/letras.py`).
 
 ### Fase 2. Inventario y presupuesto
 
@@ -81,9 +79,9 @@ Datos e interfaz primero; después la historia en orden, las secundarias y las n
 - **Nombres insertados** (demonio, objeto, cantidad): sin artículo ni participios con género; fórmulas como «Obtienes: X».
 - **«¡Demonios!» y «¡Diablos!»** se vuelven ambiguas en este juego: decidir si se evitan.
 - **Japonés en la versión inglesa:** dos escenas cerca del final quedaron sin traducir. Atlus prometió un parche, pero no hay confirmación de que haya salido. Se traducen desde el japonés.
-- **Límites:** con fuente proporcional se mide en píxeles; en los campos fijos, en bytes (una «á» puede ocupar el doble).
+- **Límites:** con fuente proporcional se mide en píxeles; en los campos fijos, en bytes. En los mensajes cada carácter ocupa 2 bytes, también la «á».
+- **Japonés que quedó en los archivos:** 2844 mensajes, la mayoría (unos 2000) en los mensajes de demonios en combate (`battle/DevilMsg`, `camp/CecDevilMsg`). Ver si el juego los muestra antes de contarlos para traducir.
 
 ## Referencias
 
-- [Projeto Amala: SMT IV en portugués](https://noisypixel.net/shin-megami-tensei-iv-fan-pt-br-patch-released/) (Noisy Pixel)
 - [Texto sin traducir en IVA](https://www.nintendolife.com/news/2016/09/atlus_issues_apology_for_smtiva_translation_error) (Nintendo Life)
