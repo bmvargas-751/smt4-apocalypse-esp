@@ -30,8 +30,10 @@ Antes de esto no se decide nada más.
 
 - [x] Extraer los archivos del juego: `tools/ctr.py extract`, a una carpeta fuera del repo.
 - [x] Ida y vuelta de los mensajes (`.mbm`): 1243 de 1243 archivos idénticos (`tools/mbm.py roundtrip`).
-- [ ] Ida y vuelta del resto del texto: tablas (`.tbb`), ejecutable y texturas.
-- [ ] Una línea con «¿Ñandú? ¡Sí!» en el emulador: mod armado con `tests/font.jsonl` (mensajes de crear datos, guardar y cargar), falta verlo en el juego.
+- [x] Ida y vuelta de las tablas (`.tbb`): 489 de 489 archivos idénticos (`tools/tbb.py roundtrip`). 6.757 textos para traducir, con su largo máximo en bytes.
+- [ ] Ida y vuelta del ejecutable (`code.bin`): tiene unos mil textos de interfaz en inglés de ancho completo (elementos, estados, mensajes cortos).
+- [ ] Ida y vuelta de las texturas con texto.
+- [ ] Una línea con «¿Ñandú? ¡Sí!» en el emulador, con `install.py --test`: mensajes de crear datos, guardar y cargar (`tests/font.jsonl`) y menú de título, que es de una tabla (`tests/tables.jsonl`). Falta verlo en el juego.
 - [ ] Pseudolocalización: todo el texto un 35% más largo, con á é í ó ú ü ñ, sus mayúsculas, ¿ ¡ y un ID corto por línea. Jugar una hora (menús, combate, negociación, compendio) y anotar los glifos que faltan en cada fuente, los cortes, los cuelgues y el texto que no cambió (está en el ejecutable o en una textura).
 - [ ] Límites: ancho de cada caja en píxeles, renglones por caja y bytes de los campos fijos. Los saltos de línea los pone el texto (`{F801}`), así que los renglones se parten aquí.
 - [x] Fuente: las 16 letras (á é í ó ú ü ñ, sus mayúsculas, ¿ ¡) dibujadas en las 4 fuentes (`tools/font.py`), en los códigos del cirílico (`tools/letters.py`).
@@ -90,7 +92,8 @@ Datos e interfaz primero; después la historia en orden, las secundarias y las n
 - **«¡Demonios!» y «¡Diablos!»** se vuelven ambiguas en este juego: decidir si se evitan.
 - **Japonés en la versión inglesa:** dos escenas cerca del final quedaron sin traducir. Atlus prometió un parche, pero no hay confirmación de que haya salido. Se traducen desde el japonés.
 - **Límites:** con fuente proporcional se mide en píxeles; en los campos fijos, en bytes. En los mensajes cada carácter ocupa 2 bytes, también la «á».
-- **Tablas (`.tbb`):** guardan nombres y textos cortos en ASCII de un byte (objetos, razas, misiones, lugares, descripciones de menús). Ahí la «á» no puede usar el código de dos bytes de los mensajes; hace falta un código de un byte.
+- **Tablas (`.tbb`):** guardan nombres y textos cortos en ASCII de un byte, en campos de largo fijo (objetos, demonios, razas, misiones, lugares, descripciones de menús). Las letras españolas usan los mismos códigos de dos bytes que los mensajes, porque son Shift-JIS válido, como el japonés que también traen las tablas; cuestan un byte más cada una. Falta comprobarlo en el juego. Si en el juego no se ven, la alternativa es un código de un byte (el katakana de un byte, que la fuente trae).
+- **Nombres de demonios:** están en `battle/NKMSortIndex.tbb`, con marcadores internos («Reserved», «Dummy», «(Giant)») que no se muestran.
 - **Japonés que quedó en los archivos:** 2844 mensajes, la mayoría (unos 2000) en los mensajes de demonios en combate (`battle/DevilMsg`, `camp/CecDevilMsg`). Ver si el juego los muestra antes de contarlos para traducir.
 
 ## Referencias

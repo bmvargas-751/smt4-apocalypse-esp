@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Avance de la traducción por sección.
 
-    python3 tools/progress.py [--en EN.jsonl] [--readme]
+    python3 tools/progress.py [--en EN.jsonl] [--tbb TBB.jsonl] [--readme]
 
-Cuenta los mensajes del juego (EN.jsonl, de `mbm.py export`; por defecto
-../smt4a-local/en.jsonl) y los traducidos en translation/. Con --readme
+Cuenta los textos del juego (los mensajes de `mbm.py export` y los de las
+tablas de `tbb.py export`; por defecto ../smt4a-local/en.jsonl y
+../smt4a-local/tbb.jsonl) y los traducidos en translation/. Con --readme
 reescribe las tablas entre <!-- progress --> y <!-- /progress --> en README.md
 y en translation/README.md, y la etapa actual (lo primero pendiente de PLAN.md).
 """
@@ -23,7 +24,7 @@ SECTIONS = [
         "title/", "saveLoadER/", "saveLoadUI/", "clear_save/", "camp/", "unite/", "shop/", "npc_shop/",
         "terminal/", "cec/", "bible/", "fountain/", "name/", "battle/BattleUI.mbm", "battle/Common/",
         "battle/ResultMsg.mbm", "battle/SkillInfoMess.mbm", "event/HowTo/", "addon/aoc_", "map/all/"]),
-    ("6.2", "Tablas", "Nombres de objetos, demonios, misiones y lugares, y textos cortos de menús (.tbb)", None),
+    ("6.2", "Tablas", "Nombres de objetos, demonios, misiones y lugares, y textos cortos de menús (.tbb)", []),
     ("6.3", "Datos", "Descripciones de objetos y habilidades, perfiles de demonios y base de datos de cazadores", [
         "item/", "battle/SkillHelpMess.mbm", "status/", "event/HunterDataBase/"]),
     ("6.4", "Historia", "Eventos, combates de la historia, mapas y tu cuarto", [
@@ -35,6 +36,7 @@ SECTIONS = [
         "battle/DevilMsg/", "camp/CecDevilMsg/", "battle/PartnerAttack.mbm", "battle/Legion/"]),
     ("6.8", "Contenido descargable", "Misiones descargables", ["addon/testdata/"]),
 ]
+TABLES, DLC = "Tablas", "Contenido descargable"
 EXCLUDED = ["test/"]           # mensajes de prueba de los desarrolladores
 UNASSIGNED = "Sin asignar"
 
@@ -42,6 +44,8 @@ UNASSIGNED = "Sin asignar"
 def section_of(path):
     if any(path.startswith(p) for p in EXCLUDED):
         return None
+    if path.endswith(".tbb"):
+        return DLC if path.startswith("addon/testdata/") else TABLES
     best = (0, UNASSIGNED)
     for _, name, _, prefixes in SECTIONS:
         for p in prefixes or []:
@@ -50,14 +54,15 @@ def section_of(path):
     return best[1]
 
 
-def count(en):
+def count(sources):
     total, done, keys = {}, {}, {}
-    for line in open(en, encoding="utf-8"):
-        k = json.loads(line)["key"]
-        s = section_of(k.split("#")[0])
-        if s:
-            keys[k] = s
-            total[s] = total.get(s, 0) + 1
+    for src in sources:
+        for line in open(src, encoding="utf-8"):
+            k = json.loads(line)["key"]
+            s = section_of(k.split("#")[0])
+            if s:
+                keys[k] = s
+                total[s] = total.get(s, 0) + 1
     for jsonl in sorted((REPO / "translation").rglob("*.jsonl")):
         for line in open(jsonl, encoding="utf-8"):
             if line.strip():
@@ -82,9 +87,6 @@ def table(total, done, with_content):
             "|---|---|" + ("---|" if with_content else "") + "---:|---:|---:|"]
     for phase, name, content, prefixes in SECTIONS:
         extra = f" {content} |" if with_content else ""
-        if prefixes is None:
-            rows.append(f"| {phase} | {name} |{extra} — | por medir | — |")
-            continue
         t, d = total.get(name, 0), done.get(name, 0)
         rows.append(f"| {phase} | {name} |{extra} {num(d)} | {num(t)} | {pct(d, t)} |")
     if total.get(UNASSIGNED):
@@ -116,11 +118,13 @@ def replace_block(path, block):
 def main():
     a = argparse.ArgumentParser()
     a.add_argument("--en", default=str(REPO.parent / "smt4a-local" / "en.jsonl"))
+    a.add_argument("--tbb", default=str(REPO.parent / "smt4a-local" / "tbb.jsonl"))
     a.add_argument("--readme", action="store_true")
     args = a.parse_args()
-    if not Path(args.en).exists():
-        sys.exit(f"No encuentro {args.en}; créalo con: python3 tools/mbm.py export ROMFS {args.en}")
-    total, done = count(args.en)
+    for path, tool in ((args.en, "mbm"), (args.tbb, "tbb")):
+        if not Path(path).exists():
+            sys.exit(f"No encuentro {path}; créalo con: python3 tools/{tool}.py export ROMFS {path}")
+    total, done = count([args.en, args.tbb])
     if not args.readme:
         print(table(total, done, False))
         return
