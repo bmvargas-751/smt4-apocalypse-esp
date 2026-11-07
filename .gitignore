@@ -1,0 +1,11 @@
+# Archivos del juego: nunca al repo
+*.3ds
+*.cia
+*.cxi
+*.app
+romfs/
+exefs/
+local/
+
+# Python
+__pycache__/
