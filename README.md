@@ -9,19 +9,19 @@ Traducción fan al español neutro de *Shin Megami Tensei IV: Apocalypse* (Ninte
 ## Avance
 
 <!-- progress: lo actualiza `python3 -I tools/progress.py --readme` en cada commit que toca translation/ -->
-**Etapa actual:** Fase 1. Prueba técnica: Ida y vuelta del resto del texto: tablas (`.tbb`), ejecutable y texturas.
+**Etapa actual:** Fase 1. Prueba técnica: Ida y vuelta del ejecutable (`code.bin`): tiene unos mil textos de interfaz en inglés de ancho completo (elementos, estados, mensajes cortos).
 
 | Fase | Sección | Traducidos | Total | % |
 |---|---|---:|---:|---:|
 | 6.1 | Interfaz | 0 | 707 | 0,0 % |
-| 6.2 | Tablas | — | por medir | — |
+| 6.2 | Tablas | 0 | 6.757 | 0,0 % |
 | 6.3 | Datos | 0 | 3.001 | 0,0 % |
 | 6.4 | Historia | 0 | 2.773 | 0,0 % |
 | 6.5 | Secundarias | 0 | 1.578 | 0,0 % |
 | 6.6 | Negociaciones | 0 | 11.518 | 0,0 % |
 | 6.7 | Demonios en combate | 0 | 4.380 | 0,0 % |
-| 6.8 | Contenido descargable | 0 | 225 | 0,0 % |
-| | **Total** | **0** | **24.182** | **0,0 %** |
+| 6.8 | Contenido descargable | 0 | 542 | 0,0 % |
+| | **Total** | **0** | **31.256** | **0,0 %** |
 <!-- /progress -->
 
 Qué entra en cada sección y cómo se cuenta: [translation/README.md](translation/README.md).
@@ -38,13 +38,21 @@ El instalador encuentra solo la carpeta de los emuladores. En una 3DS, activa *E
 
 ## Documentos
 
-- [PLAN.md](PLAN.md): decisiones, pendientes y fases.
-- [TEAM.md](TEAM.md): cómo se reparten la traducción y la revisión.
+- [PLAN.md](PLAN.md): fases y pendientes técnicos.
+- [TEAM.md](TEAM.md): el equipo de traducción (roles, modelos, controles y el lote paso a paso).
+- Reglas:
+  - [STYLE.md](STYLE.md): guía de estilo.
+  - [TECH.md](TECH.md): reglas técnicas.
+  - [GLOSSARY.md](GLOSSARY.md): glosario.
+  - [characters/](characters): fichas de personajes.
+- [DECISIONS.md](DECISIONS.md) y [PENDING.md](PENDING.md): decisiones tomadas y cola de pendientes.
 - [translation/](translation): la traducción, sus secciones y su formato.
 - [tools/](tools): las herramientas.
-  - `ctr.py`: extrae los archivos del juego.
-  - `mbm.py`: lee y escribe los mensajes.
-  - `bcfnt.py`, `font.py` y `letters.py`: dibujan las letras españolas en las fuentes.
+  - `ctr.py`, `mbm.py`, `tbb.py`: extraen el juego y leen y escriben sus mensajes y tablas.
+  - `bcfnt.py`, `font.py`, `letters.py`: dibujan las letras españolas en las fuentes.
+  - `layout.py`: mide los renglones en píxeles y los parte.
+  - `batch.py`, `check.py`, `review.py`, `corpus.py`: preparan, validan y controlan los lotes.
+  - `smt5v.py`, `build_ooz.sh`: leen los términos oficiales de *SMT V: Vengeance*.
   - `patch.py`: arma la traducción.
   - `progress.py`: calcula el avance.
 
