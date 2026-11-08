@@ -13,3 +13,4 @@ Las decisiones del usuario, con fecha. Una regla nueva de [STYLE.md](STYLE.md), 
 - **2026-11-07** Secciones de la traducción (fase 6) y su avance en el README.
 - **2026-11-07** Modelo y esfuerzo de cada rol ([TEAM.md](TEAM.md#roles)) como punto de partida; se ajustan con el piloto y el set de oro. max solo si lo pide el usuario.
 - **2026-11-07** Controles contra reglas inventadas ([TEAM.md](TEAM.md#controles)).
+- **2026-11-07** «Español neutro, natural, 0 literal» (STYLE E-10). De SMT V se toma solo el término (G-1); los documentos no nombran otra variedad de español.

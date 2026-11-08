@@ -31,7 +31,7 @@ VOSOTROS = re.compile(
     r"|\b(?!caos\b)\w{3,}aos\b|\bidos\b"
     r"|\b(?:estad|venid|mirad|esperad|escuchad|dejad|tened|haced|decid|poned|salid|seguid|volved|traed|sacad|id a)\b",
     re.I)
-PENINSULAR = re.compile(
+REGIONAL = re.compile(
     r"\b(vale|tío|tía|venga|guay|mola\w*|coger|cog[ií]\w*|ordenador|móvil|pasta|majo|maja|gilipollas|joder|"
     r"hostia\w*|pillar|pill[eé]\w*|flipa\w*|chaval\w*|enfad\w+|puls(?:a|as|ar|ando|ado|aste|e|en|ó)|vídeos?|ratón|bombona|"
     r"gafas|bañador\w*|nevera\w*|fard(?:ar|ando|ado|aba\w*|ó|a|as|an|e|es|en)|moter[oa]s?|tragaperras|aparc\w+|jerséis|jersey|"
@@ -115,8 +115,8 @@ def check(key, es):
         warn("porcentaje", "E-57", "porcentaje con espacio")
     if re.search(r"[“”\"]", ven) and not re.search(r"[“”]", ves):
         warn("comillas", "E-58", "el inglés tiene comillas y el español no")
-    for name, rule, rx in (("vosotros", "E-11", VOSOTROS), ("peninsular", "E-12", PENINSULAR),
-                           ("latinoamericano", "E-13", LATAM)):
+    for name, rule, rx in (("vosotros", "E-11", VOSOTROS), ("regional", "E-12", REGIONAL),
+                           ("regional", "E-13", LATAM)):
         found = sorted({x.group(0).lower() for x in rx.finditer(ves)})
         if found:
             warn(name, rule, ", ".join(found))

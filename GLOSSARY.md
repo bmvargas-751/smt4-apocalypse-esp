@@ -4,7 +4,7 @@ Términos fijos de la traducción. La guía de estilo está en [STYLE.md](STYLE.
 
 ## Reglas
 
-- **G-1** Los términos que IVA comparte con *SMT V: Vengeance* (demonios, habilidades, razas, estados, objetos) llevan el de la traducción oficial de SMT V al español. Se toma el término, no el registro, porque esa traducción es de España (usa *vosotros*, *vale*, *venga*, *chaval*). [PLAN]
+- **G-1** Los términos que IVA comparte con *SMT V: Vengeance* (demonios, habilidades, razas, estados, objetos) llevan el de la traducción oficial de SMT V al español. Se toma solo el término; el registro es siempre el de esta traducción: español neutro, natural y nunca literal (E-10). [PLAN]
 - **G-2** Lo propio de IV e IVA se decide aquí. Hasta que esté decidido, el término va a [PENDING.md](PENDING.md) con una propuesta. [PLAN]
 - **G-3** Un término de esta tabla se usa igual en todo el juego. `tools/check.py` avisa cuando el inglés lo tiene y el español no (`glosario`). [Encargo §6]
 

@@ -19,16 +19,16 @@ Aquí no se agrega ninguna regla sin fuente.
 
 ## Español neutro
 
-- **E-10** Español natural, como lo diría una persona en una conversación equivalente, y comprensible en toda América: sin iberismos ni regionalismos marcados de ningún país. [THL]
+- **E-10** Español neutro y natural, nunca literal: como lo diría una persona en una conversación equivalente, comprensible en toda América y sin regionalismos marcados de ningún país. [THL] [Decisión 2026-11-07]
 - **E-11** El plural es siempre *ustedes*, nunca *vosotros*:
   - Verbos en 3.ª persona del plural; pronombres *los/las*, *les* y *se* (*se lo dije*).
   - Posesivo *su*, o *de ustedes* si *su* queda ambiguo.
   - Imperativo con el subjuntivo (*descansen*, *vayan*). Si la frase queda ambigua con *ellos*, se reformula.
 
   [THL]
-- **E-12** Vocabulario de España que se evita, según el contexto y el registro del personaje: [THL]
+- **E-12** Vocabulario regional que se evita, con su forma neutra según el contexto y el registro del personaje: [THL]
 
-  | Evitar (España) | Usar |
+  | Evitar | Usar |
   |---|---|
   | vale | está bien, de acuerdo, bueno, okey (según el tono) |
   | echar de menos | extrañar |
