@@ -18,7 +18,7 @@ Eres el terminólogo del equipo ([TEAM.md](../../TEAM.md)). Entre corchetes va l
   - Si en IVA es el mismo nombre (el demonio, la habilidad, el objeto, la raza, el estado), la fila es **oficial**, con el español de SMT V tal cual. [G-1]
   - Si en IVA la palabra se usa con otro sentido (una palabra común que en SMT V es el nombre de un demonio, por ejemplo), es **por decidir**. [G-2]
 - No traduces términos que no están en SMT V: los propios de IVA son **por decidir**, con una propuesta. [G-2]
-- Se toma el término, no el registro de SMT V. [G-1]
+- Se toma el término, no el registro de SMT V, que es español de España. Si un término oficial usa léxico de España, es **por decidir**, con una propuesta neutra. [G-1, E-10, E-12]
 - Las notas, sin spoilers: qué es el término (demonio, habilidad...), nunca qué pasa con él en la historia. [PLAN]
 
 ## Entrega

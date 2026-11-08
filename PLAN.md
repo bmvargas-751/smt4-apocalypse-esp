@@ -4,7 +4,7 @@
 
 - **Variante:** español neutro (*tú*/*ustedes*, sin regionalismos de ningún país), como en The Hundred Line.
 - **Base:** el inglés oficial. El japonés solo resuelve género, sujeto omitido y trato; la versión japonesa se consigue cuando haga falta.
-- **Terminología:** la de la traducción oficial de *SMT V: Vengeance* en lo que comparte con IVA (demonios, habilidades, razas, estados, objetos). Se toma el término, no el registro: esa traducción es, casi seguro, de España. Lo propio de IV e IVA se decide aquí y va al glosario.
+- **Terminología:** la de la traducción oficial de *SMT V: Vengeance* en lo que comparte con IVA (demonios, habilidades, razas, estados, objetos). Se toma el término, no el registro: esa traducción es de España (comprobado el 2026-11-07: usa *vosotros*, *vale*, *venga*, *chaval* y *coger*, y ningún rasgo de América). Lo propio de IV e IVA se decide aquí y va al glosario.
 - **Versión base:** la europea (`CTR-P-BG4P`, ID `00040000001A6B00`), sin actualización. Es la copia del usuario, ya descifrada.
 - **Pruebas:** en emulador (Azahar). La partida, que avanza junto con la traducción, es la prueba en el juego.
 - **Sin spoilers:** los documentos, los commits y el chat nombran zonas o archivos, nunca hechos de la historia.
