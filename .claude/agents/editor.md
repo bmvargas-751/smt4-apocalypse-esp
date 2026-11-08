@@ -28,3 +28,5 @@ Eres el editor del equipo ([TEAM.md](../../TEAM.md)): el único que cambia el te
 ## No haces
 
 Mejoras por tu cuenta, reglas nuevas, git. [TEAM: forma de cada rol]
+
+No ejecutas `tools/review.py` ni editas `translation/`: entregas `edits.jsonl` y el orquestador lo aplica y lo valida. [TEAM: un lote, paso a paso, pasos 6 y 8; translation/README: no se editan a mano]

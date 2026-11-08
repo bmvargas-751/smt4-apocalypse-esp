@@ -1,0 +1,9 @@
+{"key": "cec/cec_msg.mbm#0", "es": "¿Activar StreetPass para Shin Megami Tensei IV: Apocalypse?{F801}{FFFF}"}
+{"key": "cec/cec_msg.mbm#1", "es": "Para usar esta función, debes aceptar los términos del Contrato de uso de los servicios de Nintendo 3DS.{F801}{F802}En la Configuración de la consola, selecciona Configuración de Internet.{F801}{F802}Luego selecciona Otros ajustes y después Contrato de uso para aceptar los términos.{F801}{FFFF}"}
+{"key": "cec/cec_msg.mbm#2", "es": "No se puede activar StreetPass para más títulos en esta consola Nintendo 3DS.{F801}{F802}Desactiva StreetPass en otro título{F801}desde Administración de StreetPass, en la Configuración de la consola Nintendo 3DS.{F801}{F802}Así podrás activar StreetPass para este juego.{F801}{FFFF}"}
+{"key": "cec/cec_msg.mbm#3", "es": "StreetPass está restringido actualmente en el Control parental.{F801}{F802}Por eso, no se puede usar la función StreetPass de este juego.{F801}{FFFF}"}
+{"key": "cec/cec_msg.mbm#4", "es": "Probando StreetPass.{F801}¿Qué quieres hacer?{F801}{FFFF}"}
+{"key": "cec/cec_msg.mbm#5", "es": "Activar StreetPass{F801}Revisar datos recibidos{F801}{FFFF}"}
+{"key": "cec/cec_msg.mbm#6", "es": "No se recibieron datos nuevos.{F801}{FFFF}"}
+{"key": "cec/cec_msg.mbm#7", "es": "Se canceló la activación de StreetPass.{F801}{FFFF}"}
+{"key": "cec/cec_msg.mbm#8", "es": "Se activó StreetPass para Shin Megami Tensei IV: Apocalypse.{F801}{FFFF}"}

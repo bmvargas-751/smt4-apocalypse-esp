@@ -1,1 +1,9 @@
+{"key": "fountain/mes_data.mbm#1", "es": "{F812}Dummy{0000}{F87A}{0200}Mensaje de prueba del manantial curativo{F801}{FFFF}"}
 {"key": "fountain/mes_data.mbm#2", "es": "Sí{F801}No{F801}{FFFF}"}
+{"key": "fountain/mes_data.mbm#10", "es": "{F812}Espíritu del Manantial{0000}{F81B}{4630}{3130}{3030}{3300}{0000}{0000}Bienvenido...{F801}{FFFF}"}
+{"key": "fountain/mes_data.mbm#11", "es": "{F812}Espíritu del Manantial{0000}Curar costará {F878}{0100} Macca.{F801}¿Le parece bien?{F801}{FFFF}"}
+{"key": "fountain/mes_data.mbm#12", "es": "{F812}Espíritu del Manantial{0000}Me alegra que todos estén bien.{F801}{FFFF}"}
+{"key": "fountain/mes_data.mbm#13", "es": "{F812}Espíritu del Manantial{0000}Lo siento, parece que no tiene suficiente Macca...{F801}{FFFF}"}
+{"key": "fountain/mes_data.mbm#14", "es": "{F812}Espíritu del Manantial{0000}{F81B}{4630}{3130}{3030}{3400}{0000}{0000}¿Cuál es su deseo?{F801}{FFFF}"}
+{"key": "fountain/mes_data.mbm#15", "es": "{F812}Espíritu del Manantial{0000}{F81B}{4630}{3130}{3030}{3500}{0000}{0000}Tenga cuidado. Y recuerde, nunca mire atrás.{F801}{FFFF}"}
+{"key": "fountain/mes_data.mbm#16", "es": "Curación{F801}{FFFF}"}

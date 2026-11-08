@@ -1,0 +1,15 @@
+{"key": "npc_shop/SaintGermain/SaintGermain.mbm#0", "es": "{F872}{0100}{F801}{F872}{0200}{F801}{F872}{0300}{F801}Escuchar explicación{F801}{FFFF}"}
+{"key": "npc_shop/SaintGermain/SaintGermain.mbm#1", "es": "Intercambiar{F801}Cancelar{F801}{FFFF}"}
+{"key": "npc_shop/SaintGermain/SaintGermain.mbm#2", "es": "Sobre {F872}{0100}{F801}Sobre {F872}{0200}{F801}Sobre {F872}{0300}{F801}Volver{F801}{FFFF}"}
+{"key": "npc_shop/SaintGermain/SaintGermain.mbm#10", "es": "{F812}Saint Germain{0000}{F87A}{8B01}Ah... ¿Es la primera vez que nos encontramos?{F801}Mi nombre es Saint Germain.{F801}{F802}Lo sé todo sobre usted. Ah, no permita que eso le inquiete.{F801}{F802}Solo soy una persona dedicada al comercio a quien le encanta coleccionar joyas...{F801}{F802}¿Le interesaría intercambiar algunas joyas por unos objetos que tengo?{F801}{F802}¿Por qué no echa un vistazo?{F801}{FFFF}"}
+{"key": "npc_shop/SaintGermain/SaintGermain.mbm#11", "es": "{F812}Saint Germain{0000}{F87A}{8B01}Hola. ¿Tiene suficientes joyas?{F801}{F802}Elija el objeto que desee...{F801}{FFFF}"}
+{"key": "npc_shop/SaintGermain/SaintGermain.mbm#12", "es": "{F812}Saint Germain{0000}{F87A}{8B01}¿Desea {F872}{0100}?{F801}Entonces necesito {F878}{0100} unidades de {F872}{0200}...{F801}{FFFF}"}
+{"key": "npc_shop/SaintGermain/SaintGermain.mbm#13", "es": "{F812}Saint Germain{0000}{F87A}{8B01}Eso es todo en cuanto a explicaciones...{F801}Ahora responderé a sus deseos...{F801}{FFFF}"}
+{"key": "npc_shop/SaintGermain/SaintGermain.mbm#14", "es": "{F812}Saint Germain{0000}{F87A}{8B01}¿Desea algo más?{F801}Si tiene las joyas, claro...{F801}{FFFF}"}
+{"key": "npc_shop/SaintGermain/SaintGermain.mbm#15", "es": "{F812}Saint Germain{0000}{F87A}{8B01}Supongo que eso es todo...{F801}Espero que todo le haya quedado claro.{F801}{F802}Hasta aquí las explicaciones...{F801}Ahora responderé a sus deseos...{F801}{FFFF}"}
+{"key": "npc_shop/SaintGermain/SaintGermain.mbm#16", "es": "{F812}Saint Germain{0000}{F87A}{8B01}Hmph, parece que no tiene suficientes joyas...{F801}{FFFF}"}
+{"key": "npc_shop/SaintGermain/SaintGermain.mbm#17", "es": "{F812}Saint Germain{0000}{F87A}{8B01}Esperaré con interés nuestro próximo encuentro.{F801}{FFFF}"}
+{"key": "npc_shop/SaintGermain/SaintGermain.mbm#18", "es": "{F812}Saint Germain{0000}{F87A}{8B01}¿Hmm? Parece que ya tiene suficientes de ese objeto.{F801}{F802}No tiene sentido tener más.{F801}Por favor, elija otro.{F801}{FFFF}"}
+{"key": "npc_shop/SaintGermain/SaintGermain.mbm#19", "es": "{F812}Saint Germain{0000}{F87A}{8B01}Se lo explicaré...{F801}{FFFF}"}
+{"key": "npc_shop/SaintGermain/SaintGermain.mbm#20", "es": "{F812}Saint Germain{0000}{F87A}{8B01}¿Sobre qué objeto desea escuchar?{F801}{FFFF}"}
+{"key": "npc_shop/SaintGermain/SaintGermain.mbm#21", "es": "Diamante: {F878}{0100} Esmeralda: {F878}{0300}{F801}Granate: {F878}{0200}{F801}{FFFF}"}

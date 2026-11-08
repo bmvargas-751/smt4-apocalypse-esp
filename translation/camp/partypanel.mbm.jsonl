@@ -1,1 +1,10 @@
+{"key": "camp/partypanel.mbm#0", "es": "〉 ¿Eliminar a {F873}{0100}?{F801}{FFFF}"}
+{"key": "camp/partypanel.mbm#1", "es": "Eliminar{F801}Cancelar{F801}{F802}{FFFF}"}
+{"key": "camp/partypanel.mbm#2", "es": "{F812}Mido{0000}{F87A}{0100}{F813}{0100}{0000}{85C3}{0D00}Elija un espacio para el demonio resultante. También puede cambiarlo por uno de su grupo.{F801}{F802}{FFFF}"}
+{"key": "camp/partypanel.mbm#3", "es": "{F812}Mido{0000}{F87A}{0100}{F813}{0100}{0000}{B6C3}{0D00}Parece que no tiene la experiencia para fusionar este demonio.{F801}{F802}{FFFF}"}
+{"key": "camp/partypanel.mbm#4", "es": "{F812}Mido{0000}{F87A}{0100}{F813}{0100}{0000}{B6C3}{0D00}Parece que este demonio ya está con usted.{F801}{F802}{FFFF}"}
+{"key": "camp/partypanel.mbm#5", "es": "{F812}Mido{0000}{F87A}{0100}{F813}{0100}{0000}{B6C3}{0D00}No puede fusionar esos dos demonios.{F801}{F802}{FFFF}"}
+{"key": "camp/partypanel.mbm#6", "es": "{F812}Mido{0000}{F87A}{0100}{F813}{0100}{0000}{B6C3}{0D00}No parece haber demonios con los que este pueda fusionarse.{F801}{F802}{FFFF}"}
+{"key": "camp/partypanel.mbm#7", "es": "{F812}Mido{0000}{F87A}{0100}{F813}{0100}{0000}{B6C3}{0D00}Parece que no logro encontrar a ese demonio.{F801}{F802}{FFFF}"}
+{"key": "camp/partypanel.mbm#8", "es": "{F812}Mido{0000}{F87A}{0100}{F813}{0100}{0000}{D4C3}{0D00}Si fusiona este demonio, se reiniciará el demonio asociado a su tarjeta DDS. ¿Está de acuerdo?{F801}{F802}{FFFF}"}
 {"key": "camp/partypanel.mbm#9", "es": "Sí{F801}No{F801}{FFFF}"}

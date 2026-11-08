@@ -17,7 +17,7 @@ Términos fijos de la traducción. La guía de estilo está en [STYLE.md](STYLE.
 
 ## Términos
 
-Por sección. *Oficial* (SMT V, G-1) o *decidido* por el usuario (G-2), con fecha. *Provisional* es decidido, pero se comprueba en el juego. Lo que falta decidir está en [PENDING.md](PENDING.md).
+Por sección. *Oficial* (SMT V, G-1) o *decidido* por el usuario (G-2), con fecha. *Provisional* es decidido, pero se comprueba en el juego. En el texto, los términos de sistema van en minúscula a media frase (E-59); la mayúscula de la tabla es la de los menús. Lo que falta decidir está en [PENDING.md](PENDING.md).
 
 ### Interfaz
 
@@ -140,7 +140,7 @@ La etiqueta *System* (unite/unite.mbm#111) va como «Sistema». No está en la t
 | save data bonus | bonificación por datos guardados | Decidido 2026-11-08 (G-2) | Plural: *bonificaciones por datos guardados*. |
 | DDS Card | tarjeta DDS | Decidido 2026-11-08 (G-2) | *DDS* (*Digital Demon Service*) se deja como sigla. |
 | DDS | DDS | Decidido 2026-11-08 (G-2) | Sigla; se deja igual. |
-| Brane | Brana | Decidido 2026-11-08 (G-2) | *la 2.ª Brana*. |
+| Brane | Brana | Decidido 2026-11-08 (G-2) | *2nd Brane* → «Brana 2»: la fuente no tiene «ª». |
 | anomaly | anomalía | Decidido 2026-11-08 (G-2) | |
 | Legion Skill | Habilidad de legión | Decidido 2026-11-08 (G-2) | Plural: *Habilidades de legión*. |
 | Horde Compendium | Compendio de hordas | Decidido 2026-11-08 (G-2) | |
