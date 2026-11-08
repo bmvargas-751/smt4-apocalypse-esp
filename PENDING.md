@@ -45,3 +45,9 @@ Candidatos de SMT V que en IVA tienen otro sentido (G-2). No salen en la Interfa
 - [ ] `Resist Fire` (terminólogo, otro sentido): «Resist Fire/Ice/Elec/Force Weak against Phys/Gun/Light/Dark» (item/ItemHelpMess.mbm#467) → «Resiste fuego/hielo/electricidad/choque». En SMT V es el nombre de una habilidad; en IVA, la descripción de las afinidades de un equipo. *Force* ⇒ *Choque* sale de SMT V.
 
 ## De los lotes
+
+- [ ] `battle/ResultMsg.mbm#17` (delicadas, registro de época): «Ye gods, are you broke!? I’ll come again when you have more money.» → «¡Por los dioses! ¡¿Estás en la ruina?! Volveré cuando tengas más dinero.» Provisional hasta decidir E-31. *¡Por los dioses!* es una exclamación hecha en español con el mismo sabor antiguo que *Ye gods*, y conserva los dioses en plural, que van con Caronte. Como no lleva verbo, sirve para cualquier registro de época que se decida, sin *vosotros*. No es grosería, igual que en el inglés (ficha), y no usa *¡Demonios!* ni *¡Diablos!*, que siguen pendientes. Alternativas: «¡Dioses!», más corta; «¡Válganme los dioses!», si E-31 pide un tono más marcado.
+
+### Lote interfaz-001 (2026-11-08)
+
+- [ ] `battle/Common/common.mbm#54` (reviewer, sin regla): «gracias a Ánimo perdurable» → «(decidir en el glosario)». «Enduring Cheer» no está en el glosario; «Enduring Soul» es «Alma inmortal». Falta decidir si «Enduring» va igual (inmortal) o distinto (perdurable).

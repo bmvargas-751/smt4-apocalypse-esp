@@ -1,0 +1,73 @@
+{"key": "battle/Common/common.mbm#0", "es": "〉 ¡Ya no puedes proteger a {F873}{0600}!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#1", "es": "Escapando...{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#2", "es": "¡No puedes escapar!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#3", "es": "¡Han aparecido refuerzos!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#4", "es": "Te aniquilaron...{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#5", "es": "¡No puedes escapar de este combate!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#6", "es": "Iniciando combate automático... Botón B: Cancelar{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#7", "es": "Iniciando combate automático dirigido... Botón B: Cancelar{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#8", "es": "¡Ataque preventivo exitoso!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#9", "es": "{F873}{0600} se queda mirando al vacío.{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#10", "es": "¡{F873}{0600} pierde el control!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#11", "es": "{F873}{0600} está durmiendo.{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#12", "es": "¡{F873}{0600} no puede moverse!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#13", "es": "{F873}{0600} está chismeando.{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#14", "es": "{F873}{0600} no deja de parlotear.{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#15", "es": "{F873}{0600} sigue charlando.{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#16", "es": "¡{F873}{0600} tiene más suerte!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#17", "es": "¡{F873}{0600} obtiene más turnos en su desesperación!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#18", "es": "¡{F873}{0600} mejora su precisión/evasión!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#19", "es": "¡{F873}{0600} enfermó y tiene el cuerpo rígido!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#20", "es": "¡{F873}{0600} se envenenó!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#21", "es": "El resto del grupo se esfuerza al máximo...{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#22", "es": "¡{F873}{0600} salió volando!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#23", "es": "¡El demonio salió volando!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#24", "es": "¡{F843}{0000} ha caído!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#25", "es": "{F873}{0600} sonríe con malicia...{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#26", "es": "¡{F873}{0600} resistió el ataque!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#27", "es": "¡{F873}{0600} revivió gracias a su Alma inmortal!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#28", "es": "¡{F873}{0600} enfermó!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#29", "es": "¡No tuvo efecto!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#30", "es": "¡Todos recuperaron la compostura!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#31", "es": "¡{F873}{0600} mejora su magia!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#32", "es": "¡Se activó la muerte instantánea!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#33", "es": "Todos sonríen con malicia...{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#34", "es": "¡Se anuló el muro protector!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#35", "es": "¡El muro protector repelió el ataque!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#36", "es": "Marcaron a {F873}{0600}...{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#37", "es": "¡Atravesó la resistencia!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#38", "es": "{F873}{0600} tiene mareos.{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#39", "es": "{F873}{0600} se derrite de amor.{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#40", "es": "{F873}{0600} se enamoró locamente.{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#41", "es": "{F873}{0600} se excita.{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#42", "es": "{F873}{0600} golpea a {F873}{0700}.{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#43", "es": "{F873}{0600} se golpea.{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#44", "es": "{F873}{0600} golpea a alguien de su bando.{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#45", "es": "{F873}{0600} evalúa la situación.{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#46", "es": "{F873}{0600} no logró invocar a su demonio.{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#47", "es": "¡El demonio ignoró la orden!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#48", "es": "¡Tus acompañantes atacan como olas furiosas!{F801}{FFFF}"}
+{"key": "battle/Common/common.mbm#49", "es": "¡Las habilidades están selladas!{F801}{FFFF}"}
+{"key": "battle/Common/common.mbm#50", "es": "{F873}{0600} se prepara para el ataque del enemigo.{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#51", "es": "¡{F872}{0800} desató su poder!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#52", "es": "¡{F873}{0600} interrumpió la acción!{F801}{FFFF}"}
+{"key": "battle/Common/common.mbm#53", "es": "¡{F873}{0600} interviene!{F801}{FFFF}"}
+{"key": "battle/Common/common.mbm#54", "es": "¡{F873}{0600} aguantó el golpe gracias a Ánimo perdurable!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#55", "es": "¡Todas las estadísticas aumentan!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#56", "es": "¡{F873}{0600} evitó que el demonio se perdiera!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#57", "es": "Tu acompañante abandonó el combate...{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#58", "es": "¡Tu acompañante volvió al combate!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#59", "es": "¡Ataque consecutivo de tus acompañantes!{F801}{FFFF}"}
+{"key": "battle/Common/common.mbm#60", "es": "¡Tus acompañantes desatan un ataque devastador!{F801}{FFFF}"}
+{"key": "battle/Common/common.mbm#61", "es": "¡{F873}{0600} tiene las habilidades selladas!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#62", "es": "¡No tiene efecto en {F873}{0600}!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#63", "es": "¡Todas las estadísticas de Mitra-Buda aumentan!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#64", "es": "¡Ya alcanzó su efecto máximo!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#65", "es": "¡La resistencia de {F873}{0600} a {F873}{0700} disminuye!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#66", "es": "¡No puede bajar más!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#67", "es": "¿Usar una Reliquia de resurrección?{F801}{FFFF}"}
+{"key": "battle/Common/common.mbm#68", "es": "Sí{F801}No{F801}{FFFF}"}
+{"key": "battle/Common/common.mbm#69", "es": "¡La Reliquia de resurrección te protegió!{F801}{FFFF}"}
+{"key": "battle/Common/common.mbm#70", "es": "¡{F873}{0600} se volvió débil contra {F873}{0700}!{F801}{FFFF}"}
+{"key": "battle/Common/common.mbm#71", "es": "El Programa de invocación de demonios no funciona...{F801}{FFFF}"}
+{"key": "battle/Common/common.mbm#72", "es": "El demonio no obedeció la orden.{F801}{FFFF}"}

@@ -1,0 +1,16 @@
+{"key": "bible/bible.mbm#0", "es": "{F812}Mido{0000}{F87A}{0100}¿Invocar {F804}{0500}{F875}{0100} {F873}{0100}{F804}{0000} por {F804}{0500}{F878}{0100}{F804}{0000} Macca?{F801}{FFFF}"}
+{"key": "bible/bible.mbm#1", "es": "Sí{F801}No{F801}{FFFF}"}
+{"key": "bible/bible.mbm#2", "es": "{F812}Mido{0000}{F87A}{0100}¿Registrar y sobrescribir{F801}{F804}{0500}{F875}{0100} {F873}{0100}{F804}{0000}?{F801}{FFFF}"}
+{"key": "bible/bible.mbm#3", "es": "{F812}Mido{0000}{F87A}{0100}¿Registrar y sobrescribir todos sus demonios?{F801}{FFFF}"}
+{"key": "bible/bible.mbm#4", "es": "Sí{F801}No{F801}{FFFF}"}
+{"key": "bible/bible.mbm#5", "es": "{F812}Mido{0000}{F87A}{0100}Ya tiene ese demonio en su poder.{F801}{FFFF}"}
+{"key": "bible/bible.mbm#6", "es": "{F812}Mido{0000}{F87A}{0100}No tiene suficiente Macca para invocar a este demonio.{F801}{FFFF}"}
+{"key": "bible/bible.mbm#7", "es": "{F812}Mido{0000}{F87A}{0100}No puede invocar datos de ADN personalizados.{F801}{FFFF}"}
+{"key": "bible/bible.mbm#8", "es": "{F812}Mido{0000}{F87A}{0100}Su nivel no es suficiente para invocar a ese demonio.{F801}{FFFF}"}
+{"key": "bible/bible.mbm#9", "es": "{F812}Mido{0000}{F87A}{0100}Parece que su hueste está llena.{F801}{FFFF}"}
+{"key": "bible/bible.mbm#10", "es": "{F812}Mido{0000}{F87A}{0100}¿Establecer {F804}{0500}{F877}{0100}{F804}{0000} por{F801}{F804}{0500}{F878}{0100}{F804}{0000} Macca?{F801}{FFFF}"}
+{"key": "bible/bible.mbm#11", "es": "Sí{F801}No{F801}{FFFF}"}
+{"key": "bible/bible.mbm#12", "es": "{F812}Mido{0000}{F87A}{0100}No tiene suficiente Macca para establecer esa Habilidad de legión.{F801}{FFFF}"}
+{"key": "bible/bible.mbm#13", "es": "Sí{F801}Usar Vale del compendio{F801}No{F801}{FFFF}"}
+{"key": "bible/bible.mbm#14", "es": "{F812}Mido{0000}{F87A}{0100}¿Usar un {F804}{0500}Vale del compendio{F804}{0000} para invocar a {F804}{0500}{F875}{0100} {F873}{0100}{F804}{0000}?{F801}{FFFF}"}
+{"key": "bible/bible.mbm#15", "es": "Usar Vale del compendio{F801}No{F801}{FFFF}"}

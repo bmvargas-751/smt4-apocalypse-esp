@@ -1,0 +1,28 @@
+{"key": "camp/CecEdit_msg.mbm#0", "es": "〉 ¿Cómo quieres adjuntar el demonio a la tarjeta?{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#1", "es": "Tipo de crecimiento{F801}Tipo de fusión{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#2", "es": "〉 Elige un demonio para adjuntar.{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#3", "es": "Sí{F801}No{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#4", "es": "〉 Se creó la tarjeta. Se enviará por StreetPass a otros jugadores con estos datos:{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#5", "es": "〉 No se puede adjuntar este demonio.{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#6", "es": "〉 ¿Adjuntar este demonio?{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#7", "es": "〉 No tienes demonios que se puedan adjuntar.{F801}Se enviará la tarjeta tal como está...{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#8", "es": "〉 Al adjuntar un demonio invocado, se retirará del grupo.{F801}{F802}〉 ¿Adjuntar este demonio?{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#9", "es": "〉 Elige un mensaje sencillo para las personas con quienes intercambias datos de StreetPass.{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#10", "es": "〉 ¿Es este el mensaje que quieres usar?{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#11", "es": "Sí{F801}No{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#12", "es": "〉 Este demonio ya está adjunto.{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#13", "es": "〉 No tienes demonios adjuntables.{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#14", "es": "〉 Elige un título.{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#15", "es": "〉 ¿Usar este título?{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#16", "es": "Sí{F801}No{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#17", "es": "Elige el equipo que vas a usar.{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#18", "es": "〉 ¿Usar este conjunto de equipo?{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#19", "es": "Guardar{F801}Cancelar{F801}Volver a editar{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#20", "es": "〉 Elige una pose.{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#21", "es": "〉 ¿Te parece bien esta pose?{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#22", "es": "Sí{F801}No{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#23", "es": "Cambiar tipo{F801}Quitar demonio{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#30", "es": "〉 Selecciona el fondo de tu tarjeta DDS.{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#31", "es": "〉 Elige una línea de título para tu tarjeta DDS.{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#32", "es": "〉 Cambia el nombre que aparece en tu tarjeta DDS.{F801}{FFFF}"}
+{"key": "camp/CecEdit_msg.mbm#33", "es": "〉 Elige el equipo que aparece en tu tarjeta DDS.{F801}{FFFF}"}
