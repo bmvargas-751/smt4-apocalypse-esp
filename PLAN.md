@@ -12,10 +12,9 @@
 
 ## Pendiente de decidir
 
-1. **El encargo original del prompt de editor de THL** (las 11 secciones). Si está el texto, los roles parten de él; si no, de su resumen.
-2. **Dónde vive el equipo.** Propuesta: un repo propio, como translation-reviewer, con los roles, las plantillas y los chequeos generales. Aquí quedaría solo lo de IVA. Mientras tanto, [TEAM.md](TEAM.md) vive aquí.
-3. **Cómo se ejecuta.** Propuesta: subagentes de Claude Code, un archivo por rol en `.claude/agents/` con su modelo y su esfuerzo, llamados en orden por una skill. El modelo y el esfuerzo de cada rol se deciden con el piloto.
-4. **Registro solemne** (dioses y demonios que hablan de época). En THL quedó «de época, sin *vosotros*»; confirmar si se mantiene.
+Las decisiones de traducción pendientes están en [PENDING.md](PENDING.md) (el encargo original, el registro de época, «¡Demonios!»).
+
+1. **Dónde vive el equipo.** Propuesta: un repo propio, como translation-reviewer, con los roles, las plantillas y los chequeos generales. Aquí quedaría solo lo de IVA. Mientras tanto, el equipo vive aquí ([TEAM.md](TEAM.md), [.claude/](.claude)).
 
 ## Fases
 
@@ -45,19 +44,20 @@ Antes de esto no se decide nada más.
 
 ### Fase 3. Documentos
 
-- [ ] Glosario alineado con *SMT V: Vengeance*: sus tablas en inglés y en español, emparejadas por ID, con las fórmulas de las descripciones. Lo extraído queda local.
-  - [ ] El usuario instala *SMT V: Vengeance* para sacar sus tablas.
-- [ ] Guía de estilo: la parte general de la de THL, con las reglas numeradas para que los revisores las citen.
-- [ ] Fichas de personajes: género, trato con cada uno, muletillas, groserías.
+- [x] Leer *SMT V: Vengeance*: `tools/smt5v.py` (con ooz, de `tools/build_ooz.sh`) empareja sus nombres en inglés y en español por posición. Lo extraído queda local.
+- [ ] Glosario ([GLOSSARY.md](GLOSSARY.md)): el terminólogo revisa los 318 candidatos de SMT V que aparecen en IVA y propone las filas.
+- [x] Guía de estilo ([STYLE.md](STYLE.md)): la parte general de la de THL y el encargo, con las reglas numeradas para que los revisores las citen.
+- [ ] Fichas de personajes ([characters/](characters)): género, trato con cada uno, muletillas, groserías. Plantilla lista; las escribe el perfilador.
 - [ ] Fichas por personalidad para las negociaciones.
-- [ ] Reglas técnicas: códigos de control, límites, saltos de línea.
-- [ ] Registro de decisiones.
+- [x] Reglas técnicas ([TECH.md](TECH.md)): códigos de control, saltos, caja, bytes y caracteres.
+- [x] Registro de decisiones ([DECISIONS.md](DECISIONS.md)) y cola de pendientes ([PENDING.md](PENDING.md)).
 
 ### Fase 4. Herramientas
 
-- [ ] Adaptador del juego: medir ancho y bytes. Extraer e insertar ya están (`tools/ctr.py`, `tools/mbm.py`).
-- [ ] Chequeos desde el primer día, con los barridos de THL (y → e, o → u, signos, comillas, léxico regional, calcos frecuentes, mayúsculas, género).
-- [ ] Memoria de traducción: una línea repetida se traduce una vez.
+- [x] Adaptador del juego: extraer, insertar, medir el ancho en píxeles y los bytes, y partir los renglones (`tools/ctr.py`, `mbm.py`, `tbb.py`, `layout.py`).
+- [x] Chequeos (`tools/check.py`), con los de THL (y → e, o → u, signos, comillas, léxico regional, vosotros, glosario) y los de IVA (códigos, saltos, caja, bytes, caracteres). Cada aviso cita su regla.
+- [x] Memoria de traducción: una línea repetida se traduce una vez y se copia a las idénticas (`tools/batch.py`).
+- [x] Equipo: los roles como agentes con su modelo y su esfuerzo (`.claude/agents/`), la skill que los ordena (`translate-batch`) y los controles contra reglas inventadas (`tools/review.py`). Ver [TEAM.md](TEAM.md).
 - [x] Instalador (`install.py`, `install.bat`): arma la traducción desde la copia del jugador y la instala en Azahar, Citra o la SD de una 3DS con Luma3DS. Trae desinstalador y no reparte archivos del juego.
 - [x] Avance por sección (`tools/progress.py --readme`), en el README y en [translation/README.md](translation/README.md).
 

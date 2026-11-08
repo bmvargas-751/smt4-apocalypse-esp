@@ -38,14 +38,21 @@ El instalador encuentra solo la carpeta de los emuladores. En una 3DS, activa *E
 
 ## Documentos
 
-- [PLAN.md](PLAN.md): decisiones, pendientes y fases.
-- [TEAM.md](TEAM.md): cómo se reparten la traducción y la revisión.
+- [PLAN.md](PLAN.md): fases y pendientes técnicos.
+- [TEAM.md](TEAM.md): el equipo de traducción (roles, modelos, controles y el lote paso a paso).
+- Reglas:
+  - [STYLE.md](STYLE.md): guía de estilo.
+  - [TECH.md](TECH.md): reglas técnicas.
+  - [GLOSSARY.md](GLOSSARY.md): glosario.
+  - [characters/](characters): fichas de personajes.
+- [DECISIONS.md](DECISIONS.md) y [PENDING.md](PENDING.md): decisiones tomadas y cola de pendientes.
 - [translation/](translation): la traducción, sus secciones y su formato.
 - [tools/](tools): las herramientas.
-  - `ctr.py`: extrae los archivos del juego.
-  - `mbm.py`: lee y escribe los mensajes.
-  - `tbb.py`: lee y escribe las tablas.
-  - `bcfnt.py`, `font.py` y `letters.py`: dibujan las letras españolas en las fuentes.
+  - `ctr.py`, `mbm.py`, `tbb.py`: extraen el juego y leen y escriben sus mensajes y tablas.
+  - `bcfnt.py`, `font.py`, `letters.py`: dibujan las letras españolas en las fuentes.
+  - `layout.py`: mide los renglones en píxeles y los parte.
+  - `batch.py`, `check.py`, `review.py`, `corpus.py`: preparan, validan y controlan los lotes.
+  - `smt5v.py`, `build_ooz.sh`: leen los términos oficiales de *SMT V: Vengeance*.
   - `patch.py`: arma la traducción.
   - `progress.py`: calcula el avance.
 

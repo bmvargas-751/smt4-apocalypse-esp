@@ -27,7 +27,7 @@ La traducción es la fase 6 del [plan](../PLAN.md) y se hace por secciones, en e
 
 ## Formato
 
-Un JSONL por archivo del juego, con su misma ruta: la traducción de `saveLoadUI/saveloadUI.mbm` va en `translation/saveLoadUI/saveloadUI.jsonl`, y la de `title/TitleTable.tbb`, en `translation/title/TitleTable.jsonl`. Una línea por texto.
+Un JSONL por archivo del juego, con su misma ruta y `.jsonl` al final: la traducción de `saveLoadUI/saveloadUI.mbm` va en `translation/saveLoadUI/saveloadUI.mbm.jsonl`, y la de `title/TitleTable.tbb`, en `translation/title/TitleTable.tbb.jsonl`. Una línea por texto. Estos archivos los escriben `tools/batch.py` y `tools/review.py`, no se editan a mano.
 
 **Mensajes** (`.mbm`):
 
@@ -36,7 +36,7 @@ Un JSONL por archivo del juego, con su misma ruta: la traducción de `saveLoadUI
 ```
 
 - `key`: el archivo y el número del mensaje, como los escribe `tools/mbm.py export`.
-- `es`: el texto en español, con los mismos códigos `{XXXX}` que el original. `{F801}` es salto de línea, `{F802}` es cambio de página y `{FFFF}` es el fin del mensaje.
+- `es`: el texto en español, en **forma de lectura** ([TECH.md](../TECH.md) T-2), con los mismos códigos `{XXXX}` que el original. `{F801}` es un salto fijo, `{F802}` es cambio de página y `{FFFF}` es el fin del mensaje. Los saltos que solo sirven para que el párrafo quepa los pone el instalador.
 
 **Tablas** (`.tbb`):
 
@@ -46,5 +46,7 @@ Un JSONL por archivo del juego, con su misma ruta: la traducción de `saveLoadUI
 
 - `key`: el archivo y `tabla.registro.posición`, como los escribe `tools/tbb.py export`.
 - `es`: el texto, sin códigos; el salto de línea es `\n`. Cada campo tiene un largo fijo: `tools/tbb.py export` da su máximo en bytes (`max`). Las letras españolas ocupan 2 bytes y el resto, 1. Si un texto no cabe, el instalador avisa y no lo instala.
+
+Una línea repetida se traduce una sola vez: al guardar, la traducción se copia a las líneas idénticas que no tienen traducción.
 
 El instalador aplica todo lo que haya en esta carpeta. Los textos de [tests/](../tests) solo se aplican con `--test`.
