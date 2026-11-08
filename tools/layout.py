@@ -21,6 +21,7 @@ from bcfnt import Bcfnt  # noqa: E402
 from letters import SPANISH  # noqa: E402
 
 TOKEN = re.compile(r"(\{[0-9A-F]{4}\})")
+SPEAKER = re.compile(r"\{F812\}.*?\{0000\}")    # nombre de quien habla: va en su etiqueta, no en la caja
 BR, PAGE, END = "{F801}", "{F802}", "{FFFF}"
 SENTENCE_END = tuple(".!?:”’)…")
 MEASURE_FONT = "font/TsukuMin_14_14.bcfnt"      # la misma fuente para medir el inglés y el español
@@ -49,8 +50,8 @@ class Meter:
         return self._cache[ch]
 
     def width(self, line):
-        """Ancho en píxeles de un renglón (los códigos no ocupan lugar)."""
-        return sum(self.char(c) or 0 for c in TOKEN.sub("", line))
+        """Ancho en píxeles de un renglón (los códigos y el nombre de quien habla no ocupan lugar)."""
+        return sum(self.char(c) or 0 for c in TOKEN.sub("", SPEAKER.sub("", line)))
 
     def missing(self, text):
         """Caracteres que la fuente no tiene."""
@@ -118,6 +119,7 @@ def wrap(msg, meter, max_width):
         if meter.width(text) <= max_width:
             out.append(text + (BR if broke else ""))
             continue
+        text = SPEAKER.sub(lambda m: m.group().replace(" ", "\0"), text)   # el nombre no se corta
         words, cur = text.split(" "), ""
         pieces = []
         for w in words:
@@ -128,7 +130,7 @@ def wrap(msg, meter, max_width):
             else:
                 cur = trial
         pieces.append(cur)
-        out.append(BR.join(pieces) + (BR if broke else ""))
+        out.append(BR.join(pieces).replace("\0", " ") + (BR if broke else ""))
     return "".join(out) + (END if msg.endswith(END) else "")
 
 

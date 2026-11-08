@@ -7,6 +7,7 @@ Lo que el juego necesita para que el texto no se rompa. Cada regla tiene un núm
 - **T-1** Los códigos `{XXXX}` quedan intactos y en el mismo orden que en el inglés, y el mensaje termina en `{FFFF}` como el original. En las tablas pasa lo mismo con `%d` y `%s`. (`codigos`)
   - `{F804}{0500}` ... `{F804}{0000}`: color.
   - `{F843}{0000}` y otros: insertan un nombre.
+  - `{F812}Nombre{0000}`: el nombre de quien habla. Va en su propia etiqueta, fuera de la caja: no cuenta para el ancho (T-3) y el instalador no lo parte. Se escribe como diga el glosario (G-3).
   - `{F802}`: página nueva.
   - `{FFFF}`: fin del mensaje.
 - **T-2** Saltos de línea:

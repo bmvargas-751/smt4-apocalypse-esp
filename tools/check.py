@@ -52,6 +52,23 @@ def tags(s):
     return [t for t in layout.TOKEN.findall(s) if t != layout.BR]
 
 
+def term_rx(t_es):
+    """El término del glosario con su plural, su género o su conjugación.
+
+    Cada palabra larga pierde su terminación (-o, -a, -es, -ar...) y acepta
+    cualquier otra: «Estado alterado» acepta «estados alterados», «Físico»
+    acepta «físicas» y «registrar» acepta «registro».
+    """
+    parts = []
+    for w in re.split(r"\s+", t_es.strip()):
+        if len(w) > 4 and w.isalpha():
+            stem = re.sub(r"(?:es|os|as|ar|er|ir|[aeos])$", "", w)
+            parts.append(re.escape(stem) + r"\w*")
+        else:
+            parts.append(re.escape(w))
+    return re.compile(r"(?<!\w)" + r"\s+".join(parts) + r"(?!\w)", re.I)
+
+
 def check(key, es):
     eng = corpus.english()[key]
     kind = corpus.kind_of(key)
@@ -128,7 +145,7 @@ def check(key, es):
     if ls > le * 1.6 + 20:
         warn("largo", "E-3", f"{ls} caracteres; el inglés tiene {le}")
     for t_en, t_es in corpus.glossary():
-        if re.search(rf"(?<![A-Za-z]){re.escape(t_en)}(?![A-Za-z])", ven) and t_es.lower() not in ves.lower():
+        if re.search(rf"(?<![A-Za-z]){re.escape(t_en)}(?![A-Za-z])", ven) and not term_rx(t_es).search(ves):
             warn("glosario", "G-3", f"{t_en} → {t_es}")
     return out
 

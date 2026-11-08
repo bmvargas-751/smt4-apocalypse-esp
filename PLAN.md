@@ -34,7 +34,7 @@ Antes de esto no se decide nada más.
 - [ ] Ida y vuelta de las texturas con texto.
 - [ ] Una línea con «¿Ñandú? ¡Sí!» en el emulador, con `install.py --test`: mensajes de crear datos, guardar y cargar (`tests/font.jsonl`) y menú de título, que es de una tabla (`tests/tables.jsonl`). Falta verlo en el juego.
 - [ ] Pseudolocalización: todo el texto un 35% más largo, con á é í ó ú ü ñ, sus mayúsculas, ¿ ¡ y un ID corto por línea. Jugar una hora (menús, combate, negociación, compendio) y anotar los glifos que faltan en cada fuente, los cortes, los cuelgues y el texto que no cambió (está en el ejecutable o en una textura).
-- [ ] Límites: ancho de cada caja en píxeles, renglones por caja y bytes de los campos fijos. Los saltos de línea los pone el texto (`{F801}`), así que los renglones se parten aquí.
+- [ ] Límites: ancho de cada caja en píxeles, renglones por caja, ancho de la etiqueta con el nombre de quien habla (`{F812}`) y bytes de los campos fijos. Los saltos de línea los pone el texto (`{F801}`), así que los renglones se parten aquí.
 - [x] Fuente: las 16 letras (á é í ó ú ü ñ, sus mayúsculas, ¿ ¡) dibujadas en las 4 fuentes (`tools/font.py`), en los códigos del cirílico (`tools/letters.py`).
 
 ### Fase 2. Inventario y presupuesto
@@ -45,9 +45,9 @@ Antes de esto no se decide nada más.
 ### Fase 3. Documentos
 
 - [x] Leer *SMT V: Vengeance*: `tools/smt5v.py` (con ooz, de `tools/build_ooz.sh`) empareja sus nombres en inglés y en español por posición. Lo extraído queda local.
-- [ ] Glosario ([GLOSSARY.md](GLOSSARY.md)): el terminólogo revisa los 318 candidatos de SMT V que aparecen en IVA y propone las filas.
+- [ ] Glosario ([GLOSSARY.md](GLOSSARY.md)): el terminólogo revisa los 317 candidatos de SMT V que aparecen en IVA y, antes de cada sección, sus términos de sistema (`tools/smt5v.py terms`), y propone las filas. Hechos: los 317 candidatos (343 filas oficiales; 29 por decidir en PENDING) y la Interfaz (2026-11-08).
 - [x] Guía de estilo ([STYLE.md](STYLE.md)): la parte general de la de THL y el encargo, con las reglas numeradas para que los revisores las citen.
-- [ ] Fichas de personajes ([characters/](characters)): género, trato con cada uno, muletillas, groserías. Plantilla lista; las escribe el perfilador.
+- [ ] Fichas de personajes ([characters/](characters)): género, trato con cada uno, muletillas, groserías. Plantilla lista; las escribe el perfilador. Hechas: las 9 de la Interfaz (2026-11-08).
 - [ ] Fichas por personalidad para las negociaciones.
 - [x] Reglas técnicas ([TECH.md](TECH.md)): códigos de control, saltos, caja, bytes y caracteres.
 - [x] Registro de decisiones ([DECISIONS.md](DECISIONS.md)) y cola de pendientes ([PENDING.md](PENDING.md)).
@@ -63,7 +63,8 @@ Antes de esto no se decide nada más.
 
 ### Fase 5. Piloto
 
-- [ ] 300 a 500 líneas del comienzo, de todos los tipos, por el equipo completo, con revisión humana de todas.
+- [ ] Piloto de la Interfaz: su primer lote (250 líneas), por el equipo completo, con revisión del usuario de todas las líneas.
+- [ ] Piloto de diálogos: al llegar a la Historia.
 - [ ] Ajustar documentos y roles con lo que salga.
 - [ ] Set de oro: líneas con su traducción buena y sus trampas, para probar cada cambio de prompt.
 
