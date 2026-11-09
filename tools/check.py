@@ -26,7 +26,7 @@ SENTENCE = re.compile(r"[a-záéíóúñ']{3,} [a-záéíóúñ']{3,}")
 SPACING = re.compile(r"  |\s+[,.;:!?](?!\.)|\.\.\.\.")
 VOSOTROS = re.compile(
     r"\b(?:vosotr[oa]s|vuestr[oa]s?|os)\b"
-    r"|\b\w+(?:áis|éis)\b"
+    r"|\b(?!samuráis\b)\w+(?:áis|éis)\b"
     r"|\b(?!(?:\w*(?:dad|tad)|pared|red|sed|usted|merced|césped|huésped|Madrid|David|Brigid|lid|vid|ardid|adalid)\b)"
     r"\w{2,}(?:ad|ed|id)(?:me|nos|lo|la|los|las|le|les)?(?=\s*[!.,?…]|\s*$)"
     r"|\b(?!caos\b)\w{3,}aos\b|\bidos\b"
@@ -132,7 +132,7 @@ def check(key, es):
         # «?» suelto, tras «x», tras coma o entre comillas («???») es un valor desconocido, no una pregunta
         if len(re.findall(r"(?<![\sx,(/?“\"«])\?", " " + ves)) > ves.count("¿"):
             warn("falta_apertura", "E-52", "falta ¿")
-        if ves.count("!") > ves.count("¡"):
+        if len(re.findall(r"(?<!\s)!", " " + ves)) > ves.count("¡"):  # «!» suelto es un marcador, no una exclamación
             warn("falta_apertura", "E-52", "falta ¡")
     if SPACING.search(layout.TOKEN.sub("X", es)) and not SPACING.search(layout.TOKEN.sub("X", en)):  # un código ocupa su lugar
         warn("espacios", "E-54", "espacios o puntos de más")
