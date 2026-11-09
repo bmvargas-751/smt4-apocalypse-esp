@@ -1,6 +1,8 @@
 {"key": "event/quest/QuestData.tbb#0.0.8", "es": "[Apo] Entregar armas"}
+{"key": "event/quest/QuestData.tbb#0.0.64", "es": "Asoc. Cazadores"}
 {"key": "event/quest/QuestData.tbb#0.0.116", "es": "Conseguir armas"}
 {"key": "event/quest/QuestData.tbb#0.1.8", "es": "[Apo] Entregar comida"}
+{"key": "event/quest/QuestData.tbb#0.1.64", "es": "Asoc. Cazadores"}
 {"key": "event/quest/QuestData.tbb#0.1.116", "es": "Reunir comida"}
 {"key": "event/quest/QuestData.tbb#0.2.8", "es": "Consigamos unos demonios"}
 {"key": "event/quest/QuestData.tbb#0.2.64", "es": "Asahi"}
@@ -9,8 +11,10 @@
 {"key": "event/quest/QuestData.tbb#0.3.64", "es": "Skins"}
 {"key": "event/quest/QuestData.tbb#0.3.116", "es": "Rescatar a cazadores capturados por ángeles"}
 {"key": "event/quest/QuestData.tbb#0.4.8", "es": "[Cus] Escolta de VIP"}
+{"key": "event/quest/QuestData.tbb#0.4.64", "es": "Asoc. Cazadores"}
 {"key": "event/quest/QuestData.tbb#0.4.116", "es": "Proteger a Flynn"}
 {"key": "event/quest/QuestData.tbb#0.5.8", "es": "[Cus] Reforzar las defensas"}
+{"key": "event/quest/QuestData.tbb#0.5.64", "es": "Asoc. Cazadores"}
 {"key": "event/quest/QuestData.tbb#0.5.116", "es": "Reforzar la defensa del distrito subterráneo"}
 {"key": "event/quest/QuestData.tbb#0.6.8", "es": "[Otr] xfa paren pelea"}
 {"key": "event/quest/QuestData.tbb#0.6.64", "es": "¿Nozomi?"}
@@ -22,27 +26,37 @@
 {"key": "event/quest/QuestData.tbb#0.8.64", "es": "Asahi"}
 {"key": "event/quest/QuestData.tbb#0.8.116", "es": "Encontrar a Flynn en Ginza"}
 {"key": "event/quest/QuestData.tbb#0.9.8", "es": "[Obj] ! Repeler a Shesha 1"}
+{"key": "event/quest/QuestData.tbb#0.9.64", "es": "Asoc. Cazadores"}
 {"key": "event/quest/QuestData.tbb#0.9.116", "es": "Repeler a Shesha"}
 {"key": "event/quest/QuestData.tbb#0.10.8", "es": "[Inv] Obtener Ame-no-habakiri"}
+{"key": "event/quest/QuestData.tbb#0.10.64", "es": "Asoc. Cazadores"}
 {"key": "event/quest/QuestData.tbb#0.10.116", "es": "Obtener Ame-no-habakiri"}
 {"key": "event/quest/QuestData.tbb#0.11.8", "es": "[Apo] Reunir pieza del radar"}
 {"key": "event/quest/QuestData.tbb#0.11.64", "es": "Ashura-kai"}
 {"key": "event/quest/QuestData.tbb#0.11.116", "es": "Reunir una pieza para el Radar de Shesha"}
 {"key": "event/quest/QuestData.tbb#0.12.8", "es": "[Esc] Guiar a los VIP"}
+{"key": "event/quest/QuestData.tbb#0.12.64", "es": "Asoc. Cazadores"}
 {"key": "event/quest/QuestData.tbb#0.12.116", "es": "Guiar a los samuráis a Kasumigaseki"}
 {"key": "event/quest/QuestData.tbb#0.13.8", "es": "[Obj] ! Repeler a Shesha 2"}
+{"key": "event/quest/QuestData.tbb#0.13.64", "es": "Asoc. Cazadores"}
 {"key": "event/quest/QuestData.tbb#0.13.116", "es": "Repeler a Shesha"}
 {"key": "event/quest/QuestData.tbb#0.14.8", "es": "[Obj] ! Vencer Poderes Divinos"}
+{"key": "event/quest/QuestData.tbb#0.14.64", "es": "Asoc. Cazadores"}
 {"key": "event/quest/QuestData.tbb#0.14.116", "es": "Derrotar a los Poderes Divinos"}
 {"key": "event/quest/QuestData.tbb#0.15.8", "es": "[Otr] Informar en Café Florida"}
+{"key": "event/quest/QuestData.tbb#0.15.64", "es": "Asoc. Cazadores"}
 {"key": "event/quest/QuestData.tbb#0.15.116", "es": "Informar en Café Florida"}
 {"key": "event/quest/QuestData.tbb#0.16.8", "es": "[Obj] ! Matar demonios subt."}
+{"key": "event/quest/QuestData.tbb#0.16.64", "es": "Asoc. Cazadores"}
 {"key": "event/quest/QuestData.tbb#0.16.116", "es": "Derrotar a las fuerzas demoníacas invasoras"}
 {"key": "event/quest/QuestData.tbb#0.17.8", "es": "[Esp] ! Desactivar la barrera"}
+{"key": "event/quest/QuestData.tbb#0.17.64", "es": "Asoc. Cazadores"}
 {"key": "event/quest/QuestData.tbb#0.17.116", "es": "Desactivar el Mandala Tokugawa"}
 {"key": "event/quest/QuestData.tbb#0.18.8", "es": "[Obj] ! Repeler a Shesha 3"}
+{"key": "event/quest/QuestData.tbb#0.18.64", "es": "Asoc. Cazadores"}
 {"key": "event/quest/QuestData.tbb#0.18.116", "es": "Repeler a Shesha"}
 {"key": "event/quest/QuestData.tbb#0.19.8", "es": "[Esc] Entregar suministros"}
+{"key": "event/quest/QuestData.tbb#0.19.64", "es": "Asoc. Cazadores"}
 {"key": "event/quest/QuestData.tbb#0.19.116", "es": "Entregar suministros en Shinjuku"}
 {"key": "event/quest/QuestData.tbb#0.20.8", "es": "0"}
 {"key": "event/quest/QuestData.tbb#0.20.64", "es": "0"}
@@ -51,10 +65,12 @@
 {"key": "event/quest/QuestData.tbb#0.21.64", "es": "Fujiwara"}
 {"key": "event/quest/QuestData.tbb#0.21.116", "es": "Infiltrarse en Mikado y reunir información"}
 {"key": "event/quest/QuestData.tbb#0.22.8", "es": "[Obj] ! Armagedón"}
+{"key": "event/quest/QuestData.tbb#0.22.64", "es": "Asoc. Cazadores"}
 {"key": "event/quest/QuestData.tbb#0.22.116", "es": "Poner fin al Armagedón"}
 {"key": "event/quest/QuestData.tbb#0.23.8", "es": "[Esp] ! Frenar Poderes Divinos"}
 {"key": "event/quest/QuestData.tbb#0.23.64", "es": "Fujiwara"}
 {"key": "event/quest/QuestData.tbb#0.23.116", "es": "Aplastar los planes de los Poderes Divinos"}
+{"key": "event/quest/QuestData.tbb#0.24.64", "es": "Asoc. Cazadores"}
 {"key": "event/quest/QuestData.tbb#0.24.116", "es": "Derrotar a 2 Adramelecs"}
 {"key": "event/quest/QuestData.tbb#0.25.64", "es": "Odín"}
 {"key": "event/quest/QuestData.tbb#0.25.116", "es": "Abrir el Arca en ruinas de Kanda-no-yashiro"}
