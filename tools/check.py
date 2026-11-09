@@ -27,7 +27,7 @@ SPACING = re.compile(r"  |\s+[,.;:!?](?!\.)|\.\.\.\.")
 VOSOTROS = re.compile(
     r"\b(?:vosotr[oa]s|vuestr[oa]s?|os)\b"
     r"|\b\w+(?:áis|éis)\b"
-    r"|\b(?!(?:\w*(?:dad|tad)|pared|red|sed|usted|merced|césped|huésped|Madrid|David|lid|vid|ardid|adalid)\b)"
+    r"|\b(?!(?:\w*(?:dad|tad)|pared|red|sed|usted|merced|césped|huésped|Madrid|David|Brigid|lid|vid|ardid|adalid)\b)"
     r"\w{2,}(?:ad|ed|id)(?:me|nos|lo|la|los|las|le|les)?(?=\s*[!.,?…]|\s*$)"
     r"|\b(?!caos\b)\w{3,}aos\b|\bidos\b"
     r"|\b(?:estad|venid|mirad|esperad|escuchad|dejad|tened|haced|decid|poned|salid|seguid|volved|traed|sacad|id a)\b",
