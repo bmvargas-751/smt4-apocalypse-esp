@@ -1055,12 +1055,12 @@
 {"key": "item/ItemHelpMess.mbm#1203", "es": "Balón para jugar fútbol.{F801}También has visto a gente usar una cabeza de demonio.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1204", "es": "Requiere montaje. Si tan solo hubiera tiempo para armarlo...{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1205", "es": "Aparato para ver videos de DVD.{F801}Antes se consideraba de alta resolución...{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1206", "es": "Aparato para reproducir discos de alta definición.{F801}Tantas siglas parecen confusas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1206", "es": "Aparato para reproducir discos de alta definición.{F801}Tantas siglas confunden a cualquiera.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1207", "es": "Aparato para reproducir y grabar programas y películas.{F801}¿De verdad hacía falta grabarlos?{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1208", "es": "Software de videojuegos.{F801}Envidias el tiempo libre de las generaciones pasadas.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1209", "es": "Instrumento que se toca punteando las cuerdas.{F801}El papá de Asahi practicaba con uno en secreto.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1210", "es": "Reloj pequeño que se lleva en el brazo.{F801}Todo cazador tiene al menos uno.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1211", "es": "Instrumento de viento que se toca soplando.{F801}Manabu solía tocar uno de estos.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1211", "es": "Instrumento de viento de madera que se toca soplando.{F801}Manabu solía tocar uno de estos.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1212", "es": "Disco con música grabada.{F801}Nunca lo escuches más fuerte que los gritos de afuera.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1213", "es": "Disco con video grabado.{F801}Contiene imágenes del mundo como era antes.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1214", "es": "Herramienta para inmovilizar las extremidades de una persona.{F801}Una vez te metiste en problemas por atar a Asahi.{F801}{FFFF}"}
@@ -1121,7 +1121,7 @@
 {"key": "item/ItemHelpMess.mbm#1355", "es": "Maquillaje que se aplica alrededor de los ojos.{F801}Verlo aplicar te da impresión.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1356", "es": "Maquillaje que se aplica en las uñas.{F801}También puede servir como pegamento.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1357", "es": "Maquillaje que se aplica en los párpados.{F801}Las mujeres son muy exigentes con estas cosas.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1358", "es": "Papel desechable para humectar el rostro.{F801}La compañera de cuarto de Asahi las usa.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1358", "es": "Papel desechable para humectar el rostro.{F801}La compañera de cuarto de Asahi la usa.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1359", "es": "Maquillaje para las cejas. Una vez lo usaste para dibujar en la cara de Asahi mientras dormía y te metiste en problemas.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1360", "es": "Maquillaje que se aplica en la cara.{F801}Asahi dice que evita la piel seca.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1361", "es": "Producto que aumenta la cantidad de pestañas.{F801}Lo usan quienes tienen pocas pestañas.{F801}{FFFF}"}
@@ -1129,7 +1129,7 @@
 {"key": "item/ItemHelpMess.mbm#1363", "es": "Maquillaje que se aplica en las mejillas.{F801}Alguien debería enseñarle a Asahi a usarlo.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1364", "es": "Maquillaje para dar grosor a las pestañas.{F801}El aplicador parece una oruga.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1365", "es": "Herramienta para rizar las pestañas.{F801}Has oído que primero hay que calentarla.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1366", "es": "Supuestamente sirve para peinarse.{F801}¡Pero también puede servir como lanzallamas!{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1366", "es": "Supuestamente es para peinarse.{F801}¡Pero también puede servir como lanzallamas!{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1367", "es": "Maquillaje que se aplica en los labios.{F801}Un hombre del subsuelo también lo usa...{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1368", "es": "Producto para lavarse el cabello.{F801}El agua sola no es tan eficaz.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1369", "es": "Producto para lavarse el cuerpo.{F801}No hace falta para el uso diario.{F801}{FFFF}"}
@@ -1137,54 +1137,54 @@
 {"key": "item/ItemHelpMess.mbm#1371", "es": "Producto para evitar que el sudor huela mal.{F801}Al rociarlo se siente fresco.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1372", "es": "Producto que se pega en las uñas.{F801}Curiosamente, no aumenta el ataque...{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1373", "es": "Producto que disfrutan usar las mujeres.{F801}Cuidado de no atraer a un enemigo...{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1374", "es": "Cabello falso para ponerse en la cabeza.{F801}Son geniales para ir disfrazado.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1374", "es": "Cabello falso para ponerse en la cabeza.{F801}Es genial para ir disfrazado.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1375", "es": "Espejo pequeño y portátil.{F801}Sirve para ver lo que hay al doblar una esquina.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1401", "es": "Cubierto para pinchar la comida.{F801}Se parece a ciertas lanzas.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1402", "es": "Toalla pequeña para limpiar la suciedad.{F801}También se usa en primeros auxilios.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1403", "es": "Utensilio de escritura para dejar marcas.{F801}Los cuadernos de Asahi están llenos de marcador.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1404", "es": "Papel encuadernado para tomar notas.{F801}Los teléfonos también pueden hacer esto.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1405", "es": "Puede ser útil en el espionaje...{F801}Solo apóyalo en la oreja y en una pared o puerta.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1405", "es": "Puede ser útil en el espionaje...{F801}Solo apóyala en la oreja y en una pared o puerta.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1406", "es": "Utensilio de cocina para cortar.{F801}También es un arma, pero deja mucho que desear.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1407", "es": "Excelente para servir comida.{F801}Podría usarse como escudo... o quizá no.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1408", "es": "Se usa para cocinar.{F801}O quizá se pueda usar como casco.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1409", "es": "Recipiente para hervir líquidos.{F801}Ideal para las comidas instantáneas, claro.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1410", "es": "Grande y esponjosa, una necesidad básica.{F801}¡Mójala, congélala y podrá hacer daño!{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1411", "es": "Tabla de madera con ruedas.{F801}Puede servir de distracción bastante ruidosa.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1412", "es": "Estera de goma para el suelo.{F801}...¿Qué es el yoga, de todos modos?{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1412", "es": "Tapete de goma para el suelo.{F801}...¿Qué es el yoga, de todos modos?{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1413", "es": "Sirve para remendar tela y coser botones.{F801}En una emergencia, también puede coser heridas.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1414", "es": "Sirve para observar el cielo.{F801}Aunque no hay mucho que ver allá arriba.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1415", "es": "Sirve para limpiarse los dientes.{F801}Tu boca te lo agradecerá después.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1416", "es": "Tiene un cepillo motorizado para limpiar los dientes.{F801}En el pasado les encantaban los aparatos eléctricos.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1417", "es": "Vehículo que se movía con fuerza humana.{F801}Hoy se usa sobre todo bajo tierra, donde es más seguro.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1418", "es": "Parrilla para asar comida.{F801}¡Enciende el fuego y asa un poco de carne de demonio!{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1419", "es": "Líquido para lavar la ropa.{F801}Asahi suele encargarse de la colada.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1419", "es": "Líquido para lavar la ropa.{F801}Asahi suele encargarse de lavar la ropa.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1420", "es": "Máquina para coser tela más rápido.{F801}Eso sí, no sirve para coser heridas.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1421", "es": "Bicicleta motorizada.{F801}Qué desperdicio de electricidad.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1422", "es": "Dispositivo que almacena y libera energía eléctrica.{F801}Es imposible vivir bajo tierra sin estas.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1423", "es": "Da luz en lugares oscuros.{F801}Has visto a un demonio con una...{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1424", "es": "Sirve para calentar y cocinar.{F801}Invaluable cuando sales en una misión.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1423", "es": "Da luz en lugares oscuros.{F801}Has visto a un demonio con uno...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1424", "es": "Sirve para calentar y cocinar.{F801}Imprescindible cuando sales en una misión.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1451", "es": "Madera carbonizada para encender fuego.{F801}También sirve como desodorante.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1452", "es": "Bambú carbonizado para encender fuego.{F801}Nikkari dijo que se pone en el agua potable.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1453", "es": "Da una sensación fresca y refrescante.{F801}Huele a pasta de dientes.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1454", "es": "Suave y refrescante.{F801}Aplicarlo en una herida ayuda a que sane más rápido.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1453", "es": "Da una sensación fresca.{F801}Huele a pasta de dientes.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1454", "es": "Suave y refrescante.{F801}Aplicarla en una herida ayuda a que sane más rápido.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1455", "es": "Tiene un aroma muy particular que divide opiniones.{F801}Sirve para manejar superficies resbaladizas.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1456", "es": "Recipiente con hierbas secas.{F801}Algunas personas las huelen para concentrarse.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1457", "es": "Bloque sólido de aserrín.{F801}Úsalo para enviar señales de humo.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1458", "es": "Libera un humo fragante al encenderse.{F801}Se usa como ofrenda a los muertos.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1459", "es": "Recipiente que contiene una espiral antimosquitos.{F801}Muchos en Japón tienen la forma de un Katakirauwa.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1459", "es": "Recipiente que contiene una espiral antimosquitos.{F801}En Japón, muchos tienen forma de Katakirauwa.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1460", "es": "Vela que emite una fragancia al encenderse.{F801}Cuanto más huele, peor te sientes...{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1461", "es": "Produce una fragancia suave y floral.{F801}Antes la gente se esforzaba mucho por relajarse.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1462", "es": "Produce un aroma bastante fuerte.{F801}Es venenoso, ¡así que no te lo comas!{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1463", "es": "Bloque de incienso en polvo.{F801}Solo hay que calentarlo... No lo prendas con fuego.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1464", "es": "Aceite fragante extraído de una planta.{F801}Excelente para masajes y otros usos.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1465", "es": "Viene de un árbol de olor único.{F801}Pero para ti solo parece madera seca.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1466", "es": "Una bolsa llena de incienso. No se te ocurre mucho más uso que jugar con ella como con una pelota de trapo.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1466", "es": "Una bolsa llena de incienso. No se te ocurre mucho más uso que patearla como pelota.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1467", "es": "Recipiente lleno de fragancias secas.{F801}Una mezcla notable de aromas y de aspecto...{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1468", "es": "Libera un aroma al calentarse.{F801}No se puede usar solo.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1469", "es": "Tiene un aroma dulce y refrescante.{F801}No es un simple trozo de madera.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1470", "es": "Incensario colgado de cadenas de metal.{F801}Sin duda parece extravagante...{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1472", "es": "Secreciones de cierta especie de gato.{F801}Parece caro, pero su olor es desagradable.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1473", "es": "Secreciones de la zona anal de un castor. Sí, así es...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1473", "es": "Secreciones de la zona anal de un castor. Sí, leíste bien...{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1474", "es": "Secreciones de cierta especie de ciervo.{F801}Es tan potente que provoca tos.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1475", "es": "Proviene de los intestinos de una ballena.{F801}Es un desecho, pero muy valorado.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1501", "es": "Moneda de hace mucho tiempo. Es de aluminio y su peso indica su valor.{F801}{FFFF}"}
@@ -1197,25 +1197,25 @@
 {"key": "item/ItemHelpMess.mbm#1508", "es": "Billete de hace mucho tiempo.{F801}Muestra a una mujer de rostro cansado y triste.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1509", "es": "Billete de hace mucho tiempo.{F801}Muestra a un hombre de mediana edad en kimono.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1510", "es": "Tarjeta con un montón de números.{F801}La gente confiaba más en estas que en los macca.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1511", "es": "Anuncia películas de hace mucho tiempo.{F801}¿Por qué no distribuirlos de forma digital?{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1511", "es": "Anuncia películas de hace mucho tiempo.{F801}¿Por qué no distribuirlo de forma digital?{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1512", "es": "Permite la entrada a algún tipo de evento.{F801}Fuera lo que fuera, el evento terminó hace mucho.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1513", "es": "Papelito con palabras y números.{F801}Los valores no están en macca.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1514", "es": "Papel con un nombre y un vocabulario florido.{F801}Hoy no tiene ninguna autoridad.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1515", "es": "Calendario con fechas de hace 25 años.{F801}Los lugares que aparecen ya no existen.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1516", "es": "Formulario para compartir responsabilidades legalmente.{F801}Aunque hoy sería difícil encontrar a un codeudor.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1517", "es": "Papel con los nombres de un montón de personas.{F801}Supones que la mayoría probablemente está muerta.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1517", "es": "Papel con los nombres de un montón de personas.{F801}Supones que la mayoría está muerta.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1518", "es": "Escrito pomposo.{F801}Sin tribunales, estas órdenes no significan nada.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1519", "es": "Tarjeta con una foto y datos personales.{F801}A los demonios les encanta atacar a quienes conducen autos.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1521", "es": "El nombre de una persona y unas palabras peligrosas.{F801}¿Para qué pedir permiso para capturar a un malo?{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1522", "es": "Con una inscripción muy digna.{F801}Hoy nadie honraría su significado.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1523", "es": "Marco lleno de premios y medallas.{F801}Quien lo recibió hace tiempo debió de sentirse orgulloso.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1524", "es": "Servía para señalar que alguien era un héroe.{F801}Si aún existieran, Flynn debería recibir una.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1523", "es": "Marco lleno de premios y medallas.{F801}Quien lo recibió hace tiempo debió de sentir orgullo.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1524", "es": "Servía para señalar que alguien era un héroe.{F801}Si aún existieran, Flynn debería recibir uno.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1551", "es": "Mide la presión arterial.{F801}¿118 sobre 59? ¡Se ve bien!{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1552", "es": "Mide la temperatura corporal.{F801}¿35.3 Celsius? Un poco baja.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1553", "es": "Tela para envolver heridas.{F801}Normalmente no quieres verla.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1554", "es": "Producto para dar primeros auxilios.{F801}Asahi suele llevar algunos consigo.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1555", "es": "Se coloca en el pecho para oír los latidos.{F801}Hace mucho, Asahi y tú jugaban con uno.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1556", "es": "Sostiene el cuerpo para ayudar a caminar.{F801}Tuviste uno una vez, cuando te rompiste el pie.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1556", "es": "Sostiene el cuerpo para ayudar a caminar.{F801}Una vez tuviste una, cuando te rompiste el pie.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1557", "es": "Ayuda a moverse a quienes tienen mal las piernas.{F801}Algunas tienen motores eléctricos.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1558", "es": "Sirve para extraer sangre o inyectar medicinas.{F801}Puede usarse para administrar analgésicos.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1559", "es": "Sirve para estabilizar una parte lesionada del cuerpo.{F801}Aumenta la defensa, pero reduce la agilidad...{F801}{FFFF}"}
@@ -1226,7 +1226,7 @@
 {"key": "item/ItemHelpMess.mbm#1564", "es": "Un anestésico... ¿Pero cómo se usa?{F801}No parece eficaz contra los demonios.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1565", "es": "Fármaco que evita el sueño.{F801}¿Hace falta tomarlo como medicina?{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1566", "es": "Estimula una parte concreta de la anatomía.{F801}Por ahora no le encuentras uso...{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1567", "es": "Medicina de hierbas para aliviar el dolor de garganta.{F801}Antes creías que se escribía “regalís”.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1567", "es": "Medicina de hierbas para el dolor de garganta.{F801}Antes creías que se escribía “regalís”.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1568", "es": "Medicina de hierbas para tratar la fiebre.{F801}El papá de Asahi te obligó a tomarla una vez.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1569", "es": "Medicina que acelera el metabolismo.{F801}¡Tómala antes de entrenar para quemar grasa!{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1570", "es": "Fármaco que dificulta la coagulación de la sangre.{F801}¿Quién querría eso...?{F801}{FFFF}"}
@@ -1235,14 +1235,14 @@
 {"key": "item/ItemHelpMess.mbm#1573", "es": "Analgésico.{F801}Has oído que es sumamente eficaz.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1574", "es": "Fármaco que previene las infecciones.{F801}Esencial para mantenerse sano en el campo de batalla.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1575", "es": "Planta que supuestamente mantiene la buena salud.{F801}La forma de la raíz te recuerda a una Mandrágora.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1601", "es": "Prenda elástica que se usa en los pies.{F801}Se desgastan, así que ten siempre muchas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1601", "es": "Prendas elásticas que se usan en los pies.{F801}Se desgastan, así que ten siempre muchos.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1602", "es": "Prenda que los hombres se envuelven en el cuello.{F801}No es tu estilo, pero sirve de torniquete.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1603", "es": "Ropa interior que se pega al cuerpo.{F801}¡Invaluable en días fríos! Parecida a las medias...{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1604", "es": "Ropa interior que se pega al cuerpo.{F801}¡Invaluable en días fríos! Parecida a las mallas...{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1605", "es": "Calzado con una transpirabilidad suprema.{F801}Pero su poca durabilidad lo hace inadecuado para el combate.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1606", "es": "Zapatos para hacer ejercicio.{F801}Cómodos y fáciles para moverse.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1606", "es": "Zapatos para hacer ejercicio.{F801}Cómodos y prácticos para moverse.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1607", "es": "Excelente para conservar el calor del cuerpo.{F801}Débil contra ataques de Agi, así que hay que tener cuidado.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1608", "es": "Lo usan normalmente las mujeres.{F801}Asahi tiene muchos de estos.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1608", "es": "La usan normalmente las mujeres.{F801}Asahi tiene muchas de estas.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1609", "es": "Prenda superior sin mangas.{F801}Hay versiones formales y antibalas.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1610", "es": "Prenda interior para la parte superior del cuerpo.{F801}Nunca se tienen demasiadas.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1611", "es": "Calzado alto, normalmente de cuero.{F801}Te gustan por lo resistentes que son.{F801}{FFFF}"}
@@ -1255,7 +1255,7 @@
 {"key": "item/ItemHelpMess.mbm#1618", "es": "Atuendo tradicional desde el antiguo Japón.{F801}Hoy en día casi no se usa.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1619", "es": "Zapatos con tacón elevado que usan sobre todo las mujeres.{F801}Incómodos cuando te persiguen los demonios.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1620", "es": "Al parecer, las mujeres los usaban con vestidos.{F801}¿Quizá tengan algún propósito médico?{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1621", "es": "Atuendo que usaban las mujeres en algunos cafés de Tokio.{F801}Te preguntas quién “hizo” este atuendo...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1621", "es": "Lo usaban las mujeres en algunos cafés de Tokio.{F801}Te preguntas a quién “sirvió” este atuendo...{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1622", "es": "Prenda de abrigo de cuero.{F801}¡Alta resistencia al frío y una defensa decente!{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1623", "es": "Un traje elegante.{F801}Pero ahora no tiene sentido usarlo.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1624", "es": "Zapatos de cuero elegantes.{F801}Pero ahora no tiene sentido usarlos.{F801}{FFFF}"}
@@ -1607,13 +1607,13 @@
 {"key": "item/ItemHelpMess.mbm#1984", "es": "Sube en 1 la afinidad positiva de un demonio con el tipo curativo.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1985", "es": "Sube en 1 la afinidad positiva de un demonio con el tipo apoyo.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1986", "es": "Sube en 1 la afinidad positiva de un demonio con el tipo estado alterado.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1987", "es": "Invoca gratis a un demonio del Compendio.{F801}Objetivo: ninguno. Límite: {F87D}{0100}{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1988", "es": "Gema muy preciosa que simboliza la eternidad.{F801}Objetivo: ninguno. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1987", "es": "Invoca gratis a un demonio del compendio.{F801}Objetivo: ninguno. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1988", "es": "Gema muy valiosa que simboliza la eternidad.{F801}Objetivo: ninguno. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1989", "es": "Gema muy preciosa que simboliza la verdad.{F801}Objetivo: ninguno. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1990", "es": "Gema muy preciosa que simboliza la felicidad.{F801}Objetivo: ninguno. Límite: {F87D}{0100}{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1991", "es": "Cura por completo a todos los aliados.{F801}Objetivo: Todos los aliados. Límite: {F87D}{0100}{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1992", "es": "Al ser derrotado, los aliados reviven + 8 iconos de acción.{F801}Objetivo: Todos los aliados. Límite: {F87D}{0100}{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1993", "es": "Da 1 icono de acción hasta el final del combate.{F801}Objetivo: Todos los aliados. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1991", "es": "Cura por completo a todos los aliados.{F801}Objetivo: todos los aliados. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1992", "es": "En caso de derrota, los aliados reviven + 8 iconos de acción.{F801}Objetivo: todos los aliados. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1993", "es": "Da 1 icono de acción hasta el final del combate.{F801}Objetivo: todos los aliados. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1994", "es": "Restaura una pequeña cantidad de PS. Precio de venta alto.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1995", "es": "Cura Pánico. Precio de venta alto.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1996", "es": "Restaura una pequeña cantidad de PM. Precio de venta alto.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
