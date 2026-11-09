@@ -41,6 +41,16 @@ EXCLUDED = ["test/"]           # mensajes de prueba de los desarrolladores
 # Mensajes sueltos de relleno o de prueba, en japonés, que no son texto del juego
 # (DECISIONS 2026-11-08): «ダミー» de la lista de StreetPass y el silabario de prueba.
 EXCLUDED_KEYS = {f"camp/CecEdit_one_msg.mbm#{n}" for n in range(100, 116)} | {"camp/partypanel.mbm#10"}
+# Datos (DECISIONS 2026-11-09): «Dummy.», «Dummy Text» y «ダミー本文».
+EXCLUDED_KEYS |= {"battle/SkillHelpMess.mbm#207", "battle/SkillHelpMess.mbm#251", "item/ItemHelpMess.mbm#15",
+                  "event/HunterDataBase/HunterDataBase.mbm#0"}
+EXCLUDED_KEYS |= {f"status/profile.mbm#{n}" for n in (6, 44, 445, 497, 642, 661, 663)}
+CODE = re.compile(r"\{[0-9A-F]{4}\}")
+
+
+def excluded(key, en):
+    """Fuera de la cuenta: relleno y mensajes sin texto, solo códigos (DECISIONS 2026-11-09)."""
+    return key in EXCLUDED_KEYS or (".mbm#" in key and not CODE.sub("", en).strip())
 UNASSIGNED = "Sin asignar"
 
 
@@ -61,8 +71,9 @@ def count(sources):
     total, done, keys = {}, {}, {}
     for src in sources:
         for line in open(src, encoding="utf-8"):
-            k = json.loads(line)["key"]
-            s = None if k in EXCLUDED_KEYS else section_of(k.split("#")[0])
+            d = json.loads(line)
+            k = d["key"]
+            s = None if excluded(k, d.get("en", "")) else section_of(k.split("#")[0])
             if s:
                 keys[k] = s
                 total[s] = total.get(s, 0) + 1

@@ -31,7 +31,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import corpus  # noqa: E402
 import tbb  # noqa: E402
-from progress import EXCLUDED_KEYS, SECTIONS, section_of  # noqa: E402
+from progress import EXCLUDED_KEYS, SECTIONS, excluded, section_of  # noqa: E402
 
 WORK = corpus.REPO / "build" / "work" / "batches"
 JAPANESE = re.compile("[぀-ヿ一-鿿]")
@@ -69,7 +69,7 @@ def prepare(section=None, prefix=None, size=250, name=None, japanese=False, repe
         if prefix and not rel.startswith(prefix):
             continue
         en = eng[k]["en"]
-        if k in done or (en in done_en and not repeats) or en in seen or k in EXCLUDED_KEYS or (JAPANESE.search(en) and not japanese):
+        if k in done or (en in done_en and not repeats) or en in seen or excluded(k, en) or (JAPANESE.search(en) and not japanese):
             continue
         seen.add(en)
         chosen.append(k)

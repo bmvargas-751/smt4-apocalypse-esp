@@ -71,7 +71,7 @@
 {"key": "item/ItemTable.tbb#1.9.0", "es": "Abalorio de vida"}
 {"key": "item/ItemTable.tbb#1.10.0", "es": "Grimorio ligero"}
 {"key": "item/ItemTable.tbb#1.11.0", "es": "Grimorio denso"}
-{"key": "item/ItemTable.tbb#1.12.0", "es": "Abalorio resurr."}
+{"key": "item/ItemTable.tbb#1.12.0", "es": "Abalorio de resurrección"}
 {"key": "item/ItemTable.tbb#1.13.0", "es": "Bálsamo revivir"}
 {"key": "item/ItemTable.tbb#1.15.0", "es": "Piedra Patra"}
 {"key": "item/ItemTable.tbb#1.16.0", "es": "Piedra Me Patra"}
@@ -85,7 +85,7 @@
 {"key": "item/ItemTable.tbb#1.24.0", "es": "Soda de amrita"}
 {"key": "item/ItemTable.tbb#1.25.0", "es": "Lluvia de amrita"}
 {"key": "item/ItemTable.tbb#1.26.0", "es": "Elixir de chakra"}
-{"key": "item/ItemTable.tbb#1.27.0", "es": "Piedra de invoc."}
+{"key": "item/ItemTable.tbb#1.27.0", "es": "Piedra de invocación"}
 {"key": "item/ItemTable.tbb#1.28.0", "es": "Jet de oro"}
 {"key": "item/ItemTable.tbb#1.29.0", "es": "Bulldozer oro"}
 {"key": "item/ItemTable.tbb#1.30.0", "es": "Incienso de Fu"}
@@ -142,7 +142,7 @@
 {"key": "item/ItemTable.tbb#2.46.0", "es": "Sharur"}
 {"key": "item/ItemTable.tbb#2.47.0", "es": "Espada de luz nocturna"}
 {"key": "item/ItemTable.tbb#2.50.0", "es": "Cazacabezas"}
-{"key": "item/ItemTable.tbb#2.51.0", "es": "Espada energía temp."}
+{"key": "item/ItemTable.tbb#2.51.0", "es": "Espada de energía templada"}
 {"key": "item/ItemTable.tbb#2.53.0", "es": "Caduceo"}
 {"key": "item/ItemTable.tbb#2.56.0", "es": "Sarai maldito"}
 {"key": "item/ItemTable.tbb#2.57.0", "es": "Cuchillo mortal"}
@@ -561,61 +561,61 @@
 {"key": "item/ItemTable.tbb#2.767.0", "es": "Disparo de silencio"}
 {"key": "item/ItemTable.tbb#2.768.0", "es": "Balas de Tenma"}
 {"key": "item/ItemTable.tbb#2.769.0", "es": "Balas todopoderosas"}
-{"key": "item/ItemTable.tbb#3.0.0", "es": "Artilugio 1 est."}
-{"key": "item/ItemTable.tbb#3.1.0", "es": "Artilugio 2 est."}
-{"key": "item/ItemTable.tbb#3.2.0", "es": "Artilugio 3 est."}
-{"key": "item/ItemTable.tbb#3.3.0", "es": "Artilugio 4 est."}
-{"key": "item/ItemTable.tbb#3.4.0", "es": "Artilugio 5 est."}
-{"key": "item/ItemTable.tbb#3.20.0", "es": "Ocio 1 est."}
-{"key": "item/ItemTable.tbb#3.21.0", "es": "Ocio 2 est."}
-{"key": "item/ItemTable.tbb#3.22.0", "es": "Ocio 3 est."}
-{"key": "item/ItemTable.tbb#3.23.0", "es": "Ocio 4 est."}
-{"key": "item/ItemTable.tbb#3.24.0", "es": "Ocio 5 est."}
-{"key": "item/ItemTable.tbb#3.40.0", "es": "Comida 1 est."}
-{"key": "item/ItemTable.tbb#3.41.0", "es": "Comida 2 est."}
-{"key": "item/ItemTable.tbb#3.42.0", "es": "Comida 3 est."}
-{"key": "item/ItemTable.tbb#3.43.0", "es": "Comida 4 est."}
-{"key": "item/ItemTable.tbb#3.44.0", "es": "Comida 5 est."}
-{"key": "item/ItemTable.tbb#3.60.0", "es": "Mueble 1 est."}
-{"key": "item/ItemTable.tbb#3.61.0", "es": "Mueble 2 est."}
-{"key": "item/ItemTable.tbb#3.62.0", "es": "Mueble 3 est."}
-{"key": "item/ItemTable.tbb#3.63.0", "es": "Mueble 4 est."}
-{"key": "item/ItemTable.tbb#3.64.0", "es": "Mueble 5 est."}
-{"key": "item/ItemTable.tbb#3.80.0", "es": "Cosmético 1 est."}
-{"key": "item/ItemTable.tbb#3.81.0", "es": "Cosmético 2 est."}
-{"key": "item/ItemTable.tbb#3.82.0", "es": "Cosmético 3 est."}
-{"key": "item/ItemTable.tbb#3.83.0", "es": "Cosmético 4 est."}
-{"key": "item/ItemTable.tbb#3.84.0", "es": "Cosmético 5 est."}
-{"key": "item/ItemTable.tbb#3.100.0", "es": "Mercancía 1 est."}
-{"key": "item/ItemTable.tbb#3.101.0", "es": "Mercancía 2 est."}
-{"key": "item/ItemTable.tbb#3.102.0", "es": "Mercancía 3 est."}
-{"key": "item/ItemTable.tbb#3.103.0", "es": "Mercancía 4 est."}
-{"key": "item/ItemTable.tbb#3.104.0", "es": "Mercancía 5 est."}
-{"key": "item/ItemTable.tbb#3.120.0", "es": "Fragancia 1 est."}
-{"key": "item/ItemTable.tbb#3.121.0", "es": "Fragancia 2 est."}
-{"key": "item/ItemTable.tbb#3.122.0", "es": "Fragancia 3 est."}
-{"key": "item/ItemTable.tbb#3.123.0", "es": "Fragancia 4 est."}
-{"key": "item/ItemTable.tbb#3.124.0", "es": "Fragancia 5 est."}
-{"key": "item/ItemTable.tbb#3.140.0", "es": "Documento 1 est."}
-{"key": "item/ItemTable.tbb#3.141.0", "es": "Documento 2 est."}
-{"key": "item/ItemTable.tbb#3.142.0", "es": "Documento 3 est."}
-{"key": "item/ItemTable.tbb#3.143.0", "es": "Documento 4 est."}
-{"key": "item/ItemTable.tbb#3.144.0", "es": "Documento 5 est."}
-{"key": "item/ItemTable.tbb#3.160.0", "es": "Medicina 1 est."}
-{"key": "item/ItemTable.tbb#3.161.0", "es": "Medicina 2 est."}
-{"key": "item/ItemTable.tbb#3.162.0", "es": "Medicina 3 est."}
-{"key": "item/ItemTable.tbb#3.163.0", "es": "Medicina 4 est."}
-{"key": "item/ItemTable.tbb#3.164.0", "es": "Medicina 5 est."}
-{"key": "item/ItemTable.tbb#3.180.0", "es": "Ropa 1 est."}
-{"key": "item/ItemTable.tbb#3.181.0", "es": "Ropa 2 est."}
-{"key": "item/ItemTable.tbb#3.182.0", "es": "Ropa 3 est."}
-{"key": "item/ItemTable.tbb#3.183.0", "es": "Ropa 4 est."}
-{"key": "item/ItemTable.tbb#3.184.0", "es": "Ropa 5 est."}
-{"key": "item/ItemTable.tbb#3.189.0", "es": "Material negro 1 est."}
-{"key": "item/ItemTable.tbb#3.190.0", "es": "Material negro 2 est."}
-{"key": "item/ItemTable.tbb#3.191.0", "es": "Material negro 3 est."}
-{"key": "item/ItemTable.tbb#3.192.0", "es": "Material negro 4 est."}
-{"key": "item/ItemTable.tbb#3.193.0", "es": "Material negro 5 est."}
+{"key": "item/ItemTable.tbb#3.0.0", "es": "Artilugio de 1 estrella"}
+{"key": "item/ItemTable.tbb#3.1.0", "es": "Artilugio de 2 estrellas"}
+{"key": "item/ItemTable.tbb#3.2.0", "es": "Artilugio de 3 estrellas"}
+{"key": "item/ItemTable.tbb#3.3.0", "es": "Artilugio de 4 estrellas"}
+{"key": "item/ItemTable.tbb#3.4.0", "es": "Artilugio de 5 estrellas"}
+{"key": "item/ItemTable.tbb#3.20.0", "es": "Ocio de 1 estrella"}
+{"key": "item/ItemTable.tbb#3.21.0", "es": "Ocio de 2 estrellas"}
+{"key": "item/ItemTable.tbb#3.22.0", "es": "Ocio de 3 estrellas"}
+{"key": "item/ItemTable.tbb#3.23.0", "es": "Ocio de 4 estrellas"}
+{"key": "item/ItemTable.tbb#3.24.0", "es": "Ocio de 5 estrellas"}
+{"key": "item/ItemTable.tbb#3.40.0", "es": "Comida de 1 estrella"}
+{"key": "item/ItemTable.tbb#3.41.0", "es": "Comida de 2 estrellas"}
+{"key": "item/ItemTable.tbb#3.42.0", "es": "Comida de 3 estrellas"}
+{"key": "item/ItemTable.tbb#3.43.0", "es": "Comida de 4 estrellas"}
+{"key": "item/ItemTable.tbb#3.44.0", "es": "Comida de 5 estrellas"}
+{"key": "item/ItemTable.tbb#3.60.0", "es": "Mueble de 1 estrella"}
+{"key": "item/ItemTable.tbb#3.61.0", "es": "Mueble de 2 estrellas"}
+{"key": "item/ItemTable.tbb#3.62.0", "es": "Mueble de 3 estrellas"}
+{"key": "item/ItemTable.tbb#3.63.0", "es": "Mueble de 4 estrellas"}
+{"key": "item/ItemTable.tbb#3.64.0", "es": "Mueble de 5 estrellas"}
+{"key": "item/ItemTable.tbb#3.80.0", "es": "Cosmético de 1 estrella"}
+{"key": "item/ItemTable.tbb#3.81.0", "es": "Cosmético de 2 estrellas"}
+{"key": "item/ItemTable.tbb#3.82.0", "es": "Cosmético de 3 estrellas"}
+{"key": "item/ItemTable.tbb#3.83.0", "es": "Cosmético de 4 estrellas"}
+{"key": "item/ItemTable.tbb#3.84.0", "es": "Cosmético de 5 estrellas"}
+{"key": "item/ItemTable.tbb#3.100.0", "es": "Mercancía de 1 estrella"}
+{"key": "item/ItemTable.tbb#3.101.0", "es": "Mercancía de 2 estrellas"}
+{"key": "item/ItemTable.tbb#3.102.0", "es": "Mercancía de 3 estrellas"}
+{"key": "item/ItemTable.tbb#3.103.0", "es": "Mercancía de 4 estrellas"}
+{"key": "item/ItemTable.tbb#3.104.0", "es": "Mercancía de 5 estrellas"}
+{"key": "item/ItemTable.tbb#3.120.0", "es": "Fragancia de 1 estrella"}
+{"key": "item/ItemTable.tbb#3.121.0", "es": "Fragancia de 2 estrellas"}
+{"key": "item/ItemTable.tbb#3.122.0", "es": "Fragancia de 3 estrellas"}
+{"key": "item/ItemTable.tbb#3.123.0", "es": "Fragancia de 4 estrellas"}
+{"key": "item/ItemTable.tbb#3.124.0", "es": "Fragancia de 5 estrellas"}
+{"key": "item/ItemTable.tbb#3.140.0", "es": "Documento de 1 estrella"}
+{"key": "item/ItemTable.tbb#3.141.0", "es": "Documento de 2 estrellas"}
+{"key": "item/ItemTable.tbb#3.142.0", "es": "Documento de 3 estrellas"}
+{"key": "item/ItemTable.tbb#3.143.0", "es": "Documento de 4 estrellas"}
+{"key": "item/ItemTable.tbb#3.144.0", "es": "Documento de 5 estrellas"}
+{"key": "item/ItemTable.tbb#3.160.0", "es": "Medicina de 1 estrella"}
+{"key": "item/ItemTable.tbb#3.161.0", "es": "Medicina de 2 estrellas"}
+{"key": "item/ItemTable.tbb#3.162.0", "es": "Medicina de 3 estrellas"}
+{"key": "item/ItemTable.tbb#3.163.0", "es": "Medicina de 4 estrellas"}
+{"key": "item/ItemTable.tbb#3.164.0", "es": "Medicina de 5 estrellas"}
+{"key": "item/ItemTable.tbb#3.180.0", "es": "Ropa de 1 estrella"}
+{"key": "item/ItemTable.tbb#3.181.0", "es": "Ropa de 2 estrellas"}
+{"key": "item/ItemTable.tbb#3.182.0", "es": "Ropa de 3 estrellas"}
+{"key": "item/ItemTable.tbb#3.183.0", "es": "Ropa de 4 estrellas"}
+{"key": "item/ItemTable.tbb#3.184.0", "es": "Ropa de 5 estrellas"}
+{"key": "item/ItemTable.tbb#3.189.0", "es": "Material negro de 1 estrella"}
+{"key": "item/ItemTable.tbb#3.190.0", "es": "Material negro de 2 estrellas"}
+{"key": "item/ItemTable.tbb#3.191.0", "es": "Material negro de 3 estrellas"}
+{"key": "item/ItemTable.tbb#3.192.0", "es": "Material negro de 4 estrellas"}
+{"key": "item/ItemTable.tbb#3.193.0", "es": "Material negro de 5 estrellas"}
 {"key": "item/ItemTable.tbb#4.0.0", "es": "Mouse"}
 {"key": "item/ItemTable.tbb#4.1.0", "es": "Teclado"}
 {"key": "item/ItemTable.tbb#4.2.0", "es": "Cable LAN"}
