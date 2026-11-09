@@ -6,7 +6,7 @@
 {"key": "terminal/mes_data.mbm#6", "es": "〉 La Terminal no puede acceder a {F811}{3300} por ahora.{F801}{FFFF}"}
 {"key": "terminal/mes_data.mbm#7", "es": "〉 No se puede usar la Terminal porque no hay a dónde viajar.{F801}{FFFF}"}
 {"key": "terminal/mes_data.mbm#10", "es": "{F812}Voz del sistema{0000}{F81B}{4630}{3039}{3032}{3600}{0000}{0000}Esta es la Terminal de Mikado.{F801}{FFFF}"}
-{"key": "terminal/mes_data.mbm#11", "es": "{F812}Voz del sistema{0000}{F81B}{4630}{3039}{3032}{3500}{0000}{0000}Esta es la Terminal del Cielo.{F801}{FFFF}"}
+{"key": "terminal/mes_data.mbm#11", "es": "{F812}Voz del sistema{0000}{F81B}{4630}{3039}{3032}{3500}{0000}{0000}Esta es la Terminal de Sky Tower.{F801}{FFFF}"}
 {"key": "terminal/mes_data.mbm#12", "es": "{F812}Voz del sistema{0000}{F81B}{4630}{3039}{3031}{3900}{0000}{0000}Esta es la Terminal de Ueno.{F801}{FFFF}"}
 {"key": "terminal/mes_data.mbm#13", "es": "{F812}Voz del sistema{0000}{F81B}{4630}{3039}{3031}{3600}{0000}{0000}Esta es la Terminal de Kasumigaseki.{F801}{FFFF}"}
 {"key": "terminal/mes_data.mbm#14", "es": "{F812}Voz del sistema{0000}{F81B}{4630}{3039}{3031}{3400}{0000}{0000}Esta es la Terminal de Shinjuku.{F801}{FFFF}"}

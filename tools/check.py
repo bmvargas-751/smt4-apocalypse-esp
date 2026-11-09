@@ -12,6 +12,7 @@ import argparse
 import json
 import re
 import sys
+import unicodedata
 from collections import Counter
 from pathlib import Path
 
@@ -22,22 +23,22 @@ import tbb  # noqa: E402
 
 EN_WORDS = re.compile(r"\b(the|you|and|what|this|that|is|are|was|don't|I'm|it's|with|for|have|just|gonna)\b", re.I)
 SENTENCE = re.compile(r"[a-záéíóúñ']{3,} [a-záéíóúñ']{3,}")
-SPACING = re.compile(r"  |\s+[,.;:!?](?!\.)|\.\.\.\.")
+SPACING = re.compile(r"  |\s+[,.;:!?](?![.\d])|\.\.\.\.")
 VOSOTROS = re.compile(
     r"\b(?:vosotr[oa]s|vuestr[oa]s?|os)\b"
-    r"|\b\w+(?:áis|éis)\b"
-    r"|\b(?!(?:\w*(?:dad|tad)|pared|red|sed|usted|merced|césped|huésped|Madrid|David|lid|vid|ardid|adalid)\b)"
+    r"|\b(?!samuráis\b)\w+(?:áis|éis)\b"
+    r"|\b(?!(?:\w*(?:dad|tad)|pared|red|sed|usted|merced|césped|huésped|Madrid|David|Brigid|lid|vid|ardid|adalid)\b)"
     r"\w{2,}(?:ad|ed|id)(?:me|nos|lo|la|los|las|le|les)?(?=\s*[!.,?…]|\s*$)"
     r"|\b(?!caos\b)\w{3,}aos\b|\bidos\b"
     r"|\b(?:estad|venid|mirad|esperad|escuchad|dejad|tened|haced|decid|poned|salid|seguid|volved|traed|sacad|id a)\b",
     re.I)
 REGIONAL = re.compile(
-    r"\b(vale(?! del compendio)|tío|tía|venga|guay|mola\w*|coger|cog[ií]\w*|ordenador|móvil|pasta|majo|maja|gilipollas|joder|"
+    r"\b(vale(?! del compendio)|tío|tía|venga|guay|mola\w*|coger|cog[ií]\w*|ordenador|móvil|pasta(?! de dientes| dental)|majo|maja|gilipollas|joder|"
     r"hostia\w*|pillar|pill[eé]\w*|flipa\w*|chaval\w*|enfad\w+|puls(?:a|as|ar|ando|ado|aste|e|en|ó)|vídeos?|ratón|bombona|"
     r"gafas|bañador\w*|nevera\w*|fard(?:ar|ando|ado|aba\w*|ó|a|as|an|e|es|en)|moter[oa]s?|tragaperras|aparc\w+|jerséis|jersey|"
     r"auriculares|setas?|coches?|cubos? de basura|marcapáginas|ambientador\w*|megafonía)\b", re.I)
 LATAM = re.compile(
-    r"¿ya\?|\b(fome|lata|plata|tomar desayuno|chido|bac[aá]n|boludo|wey|pana|harto|po|cachai|recién|qué onda|nomás)\b",
+    r"¿ya\?|\b(fome|qué lata|plata|tomar desayuno|chido|bac[aá]n|boludo|wey|pana|harto|(?-i:po)|cachai|recién|qué onda|nomás)\b",
     re.I)
 Y_E = re.compile(r"(?<![\w])[yY] (?=[hH]?[iíIÍ](?![aeouáéóú]))")
 O_U = re.compile(r"(?<![\w])[oO] (?=[hH]?[oóOÓ])")
@@ -60,13 +61,20 @@ def term_rx(t_es):
     acepta «físicas» y «registrar» acepta «registro».
     """
     parts = []
-    for w in re.split(r"\s+", t_es.strip()):
+    for w in re.split(r"\s+", plain(t_es.strip())):
         if len(w) > 4 and w.isalpha():
             stem = re.sub(r"(?:es|os|as|ar|er|ir|[aeos])$", "", w)
             parts.append(re.escape(stem) + r"\w*")
+        elif w.isalpha() and len(w) > 2:
+            parts.append(re.escape(w) + r"(?:s|es)?")  # plural de palabras cortas: Hada, Hadas
         else:
             parts.append(re.escape(w))
     return re.compile(r"(?<!\w)" + r"\s+".join(parts) + r"(?!\w)", re.I)
+
+
+def plain(s):
+    """Sin tildes, para comparar «Magia» con «mágico»."""
+    return unicodedata.normalize("NFD", s).encode("ascii", "ignore").decode()
 
 
 def check(key, es):
@@ -126,7 +134,7 @@ def check(key, es):
         # «?» suelto, tras «x», tras coma o entre comillas («???») es un valor desconocido, no una pregunta
         if len(re.findall(r"(?<![\sx,(/?“\"«])\?", " " + ves)) > ves.count("¿"):
             warn("falta_apertura", "E-52", "falta ¿")
-        if ves.count("!") > ves.count("¡"):
+        if len(re.findall(r"(?<!\s)!", " " + ves)) > ves.count("¡"):  # «!» suelto es un marcador, no una exclamación
             warn("falta_apertura", "E-52", "falta ¡")
     if SPACING.search(layout.TOKEN.sub("X", es)) and not SPACING.search(layout.TOKEN.sub("X", en)):  # un código ocupa su lugar
         warn("espacios", "E-54", "espacios o puntos de más")
@@ -147,7 +155,7 @@ def check(key, es):
     if ls > le * 1.6 + 20:
         warn("largo", "E-3", f"{ls} caracteres; el inglés tiene {le}")
     for t_en, t_es in corpus.glossary():
-        if re.search(rf"(?<![A-Za-z]){re.escape(t_en)}(?![A-Za-z])", ven) and not term_rx(t_es).search(ves):
+        if re.search(rf"(?<![A-Za-z]){re.escape(t_en)}(?![A-Za-z])", ven) and not term_rx(t_es).search(plain(ves)):
             warn("glosario", "G-3", f"{t_en} → {t_es}")
     return out
 

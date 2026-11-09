@@ -1,0 +1,918 @@
+{"key": "item/ItemTable.tbb#0.0.0", "es": "ID de cadete cazador"}
+{"key": "item/ItemTable.tbb#0.1.0", "es": "Medalla fantasma"}
+{"key": "item/ItemTable.tbb#0.2.0", "es": "Teléfono roto"}
+{"key": "item/ItemTable.tbb#0.3.0", "es": "Teléfono de Nozomi"}
+{"key": "item/ItemTable.tbb#0.4.0", "es": "Daga de jade"}
+{"key": "item/ItemTable.tbb#0.5.0", "es": "Pergamino de guía"}
+{"key": "item/ItemTable.tbb#0.6.0", "es": "Sensor"}
+{"key": "item/ItemTable.tbb#0.7.0", "es": "Radar de Shesha"}
+{"key": "item/ItemTable.tbb#0.8.0", "es": "Tarjeta de empleado"}
+{"key": "item/ItemTable.tbb#0.9.0", "es": "Llave del sótano S4"}
+{"key": "item/ItemTable.tbb#0.10.0", "es": "Llave del sótano S2"}
+{"key": "item/ItemTable.tbb#0.11.0", "es": "Disco de Myoko"}
+{"key": "item/ItemTable.tbb#0.12.0", "es": "Teléfono"}
+{"key": "item/ItemTable.tbb#0.13.0", "es": "Suministros"}
+{"key": "item/ItemTable.tbb#0.14.0", "es": "Guantelete falso"}
+{"key": "item/ItemTable.tbb#0.15.0", "es": "Anzuelo"}
+{"key": "item/ItemTable.tbb#0.16.0", "es": "Guantelete roto"}
+{"key": "item/ItemTable.tbb#0.17.0", "es": "Lentes de Asahi"}
+{"key": "item/ItemTable.tbb#0.18.0", "es": "Guantelete de Akira"}
+{"key": "item/ItemTable.tbb#0.19.0", "es": "Llave maestra bodega"}
+{"key": "item/ItemTable.tbb#0.20.0", "es": "Katana de Masakado"}
+{"key": "item/ItemTable.tbb#0.21.0", "es": "Pilar de Budha"}
+{"key": "item/ItemTable.tbb#0.22.0", "es": "Pilar de Shani"}
+{"key": "item/ItemTable.tbb#0.23.0", "es": "Pilar de Shukra"}
+{"key": "item/ItemTable.tbb#0.24.0", "es": "Pilar de Mangala"}
+{"key": "item/ItemTable.tbb#0.25.0", "es": "Pilar de Brihaspati"}
+{"key": "item/ItemTable.tbb#0.26.0", "es": "Pilar de Chandra"}
+{"key": "item/ItemTable.tbb#0.27.0", "es": "Pilar de Rahu"}
+{"key": "item/ItemTable.tbb#0.28.0", "es": "Pilar de Ketu"}
+{"key": "item/ItemTable.tbb#0.29.0", "es": "Pilar de Surya"}
+{"key": "item/ItemTable.tbb#0.30.0", "es": "Emblema del mazo"}
+{"key": "item/ItemTable.tbb#0.31.0", "es": "Emblema del espejo"}
+{"key": "item/ItemTable.tbb#0.32.0", "es": "Emblema del caballo"}
+{"key": "item/ItemTable.tbb#0.33.0", "es": "Sello de la ilusión"}
+{"key": "item/ItemTable.tbb#0.34.0", "es": "Sello del rechazo"}
+{"key": "item/ItemTable.tbb#0.35.0", "es": "Llave del corredor"}
+{"key": "item/ItemTable.tbb#0.36.0", "es": "Pluma de diosa"}
+{"key": "item/ItemTable.tbb#0.37.0", "es": "Boleto retorcido"}
+{"key": "item/ItemTable.tbb#0.60.0", "es": "Teléfono usado"}
+{"key": "item/ItemTable.tbb#0.61.0", "es": "Llave Kasumigaseki A"}
+{"key": "item/ItemTable.tbb#0.62.0", "es": "Llave Kasumigaseki B"}
+{"key": "item/ItemTable.tbb#0.63.0", "es": "Tarjeta de Toyosu"}
+{"key": "item/ItemTable.tbb#0.64.0", "es": "Comida enlatada"}
+{"key": "item/ItemTable.tbb#0.65.0", "es": "Suministros médicos"}
+{"key": "item/ItemTable.tbb#0.66.0", "es": "Ropa de invierno"}
+{"key": "item/ItemTable.tbb#0.67.0", "es": "LED rojos"}
+{"key": "item/ItemTable.tbb#0.68.0", "es": "LED azules"}
+{"key": "item/ItemTable.tbb#0.69.0", "es": "Líquido blanco"}
+{"key": "item/ItemTable.tbb#0.70.0", "es": "Carne de Nue"}
+{"key": "item/ItemTable.tbb#0.71.0", "es": "Retoño fuerte"}
+{"key": "item/ItemTable.tbb#0.72.0", "es": "Muestra de agua"}
+{"key": "item/ItemTable.tbb#0.73.0", "es": "Fotos de fantasmas"}
+{"key": "item/ItemTable.tbb#0.74.0", "es": "Ojo de Catoblepas"}
+{"key": "item/ItemTable.tbb#0.75.0", "es": "Bola de incienso roja"}
+{"key": "item/ItemTable.tbb#0.76.0", "es": "Futotama-gushi"}
+{"key": "item/ItemTable.tbb#0.77.0", "es": "Antena de la estación"}
+{"key": "item/ItemTable.tbb#0.78.0", "es": "Tarjeta negra"}
+{"key": "item/ItemTable.tbb#0.79.0", "es": "Folleto de compras"}
+{"key": "item/ItemTable.tbb#0.80.0", "es": "Solución de aceite"}
+{"key": "item/ItemTable.tbb#0.89.0", "es": "Piel de Mamedanuki"}
+{"key": "item/ItemTable.tbb#0.92.0", "es": "???"}
+{"key": "item/ItemTable.tbb#1.0.0", "es": "Medicina"}
+{"key": "item/ItemTable.tbb#1.1.0", "es": "Piedra vital"}
+{"key": "item/ItemTable.tbb#1.2.0", "es": "Abalorio"}
+{"key": "item/ItemTable.tbb#1.3.0", "es": "Collar abalorios"}
+{"key": "item/ItemTable.tbb#1.4.0", "es": "Gota de chakra"}
+{"key": "item/ItemTable.tbb#1.5.0", "es": "Bote de chakra"}
+{"key": "item/ItemTable.tbb#1.6.0", "es": "Gran chakra"}
+{"key": "item/ItemTable.tbb#1.7.0", "es": "Gota de soma"}
+{"key": "item/ItemTable.tbb#1.8.0", "es": "Soma"}
+{"key": "item/ItemTable.tbb#1.9.0", "es": "Abalorio de vida"}
+{"key": "item/ItemTable.tbb#1.10.0", "es": "Grimorio ligero"}
+{"key": "item/ItemTable.tbb#1.11.0", "es": "Grimorio denso"}
+{"key": "item/ItemTable.tbb#1.12.0", "es": "Abalorio resurr."}
+{"key": "item/ItemTable.tbb#1.13.0", "es": "Bálsamo revivir"}
+{"key": "item/ItemTable.tbb#1.15.0", "es": "Piedra Patra"}
+{"key": "item/ItemTable.tbb#1.16.0", "es": "Piedra Me Patra"}
+{"key": "item/ItemTable.tbb#1.17.0", "es": "Antiveneno"}
+{"key": "item/ItemTable.tbb#1.18.0", "es": "Tarjeta 10 pts"}
+{"key": "item/ItemTable.tbb#1.19.0", "es": "Agua curativa"}
+{"key": "item/ItemTable.tbb#1.20.0", "es": "Fruta sagrada"}
+{"key": "item/ItemTable.tbb#1.21.0", "es": "Hoja de revivir"}
+{"key": "item/ItemTable.tbb#1.22.0", "es": "Desintoxicante"}
+{"key": "item/ItemTable.tbb#1.23.0", "es": "Tarjeta 20 pts"}
+{"key": "item/ItemTable.tbb#1.24.0", "es": "Soda de amrita"}
+{"key": "item/ItemTable.tbb#1.25.0", "es": "Lluvia de amrita"}
+{"key": "item/ItemTable.tbb#1.26.0", "es": "Elixir de chakra"}
+{"key": "item/ItemTable.tbb#1.27.0", "es": "Piedra de invoc."}
+{"key": "item/ItemTable.tbb#1.28.0", "es": "Jet de oro"}
+{"key": "item/ItemTable.tbb#1.29.0", "es": "Bulldozer oro"}
+{"key": "item/ItemTable.tbb#1.30.0", "es": "Incienso de Fu"}
+{"key": "item/ItemTable.tbb#1.31.0", "es": "Incienso de Ma"}
+{"key": "item/ItemTable.tbb#1.32.0", "es": "Incienso de De"}
+{"key": "item/ItemTable.tbb#1.33.0", "es": "Incienso de Ag"}
+{"key": "item/ItemTable.tbb#1.34.0", "es": "Incienso de Su"}
+{"key": "item/ItemTable.tbb#1.35.0", "es": "Piedra Maragi"}
+{"key": "item/ItemTable.tbb#1.36.0", "es": "Piedra Agilao"}
+{"key": "item/ItemTable.tbb#1.37.0", "es": "Piedra Mabufu"}
+{"key": "item/ItemTable.tbb#1.38.0", "es": "Piedra Bufula"}
+{"key": "item/ItemTable.tbb#1.39.0", "es": "Piedra Mazio"}
+{"key": "item/ItemTable.tbb#1.40.0", "es": "Piedra Zionga"}
+{"key": "item/ItemTable.tbb#1.41.0", "es": "Piedra Mazan"}
+{"key": "item/ItemTable.tbb#1.42.0", "es": "Piedra Zanma"}
+{"key": "item/ItemTable.tbb#1.43.0", "es": "Piedra Mahama"}
+{"key": "item/ItemTable.tbb#1.44.0", "es": "Piedra Mamudo"}
+{"key": "item/ItemTable.tbb#1.45.0", "es": "Piedra Megido"}
+{"key": "item/ItemTable.tbb#1.46.0", "es": "Piedra Megidola"}
+{"key": "item/ItemTable.tbb#1.47.0", "es": "Orbe de agujas"}
+{"key": "item/ItemTable.tbb#1.48.0", "es": "Gas noqueador"}
+{"key": "item/ItemTable.tbb#1.49.0", "es": "Gas venenoso"}
+{"key": "item/ItemTable.tbb#1.50.0", "es": "Gas nervioso"}
+{"key": "item/ItemTable.tbb#1.51.0", "es": "Espejo ofensivo"}
+{"key": "item/ItemTable.tbb#1.52.0", "es": "Espejo mágico"}
+{"key": "item/ItemTable.tbb#1.53.0", "es": "Piedra Tetraja"}
+{"key": "item/ItemTable.tbb#1.54.0", "es": "Piedra Dekaja"}
+{"key": "item/ItemTable.tbb#1.55.0", "es": "Piedra Dekunda"}
+{"key": "item/ItemTable.tbb#1.56.0", "es": "Máscara de oro"}
+{"key": "item/ItemTable.tbb#1.57.0", "es": "Carne del Cielo"}
+{"key": "item/ItemTable.tbb#1.58.0", "es": "Filete celestial"}
+{"key": "item/ItemTable.tbb#1.59.0", "es": "Demolomo A5"}
+{"key": "item/ItemTable.tbb#2.0.0", "es": "Daga de cazador"}
+{"key": "item/ItemTable.tbb#2.3.0", "es": "Espada sin nombre"}
+{"key": "item/ItemTable.tbb#2.6.0", "es": "Cuchillo de Pixie"}
+{"key": "item/ItemTable.tbb#2.8.0", "es": "Dies Irae"}
+{"key": "item/ItemTable.tbb#2.11.0", "es": "Athame"}
+{"key": "item/ItemTable.tbb#2.14.0", "es": "Nihil"}
+{"key": "item/ItemTable.tbb#2.15.0", "es": "Espada ninja"}
+{"key": "item/ItemTable.tbb#2.17.0", "es": "Maza vieja"}
+{"key": "item/ItemTable.tbb#2.19.0", "es": "Cuchillo cortador"}
+{"key": "item/ItemTable.tbb#2.20.0", "es": "Imanotsurugi"}
+{"key": "item/ItemTable.tbb#2.23.0", "es": "Martillo de batalla"}
+{"key": "item/ItemTable.tbb#2.27.0", "es": "Hoja del dragón verde"}
+{"key": "item/ItemTable.tbb#2.30.0", "es": "Cortaplagas"}
+{"key": "item/ItemTable.tbb#2.32.0", "es": "Cuchillo lunar"}
+{"key": "item/ItemTable.tbb#2.34.0", "es": "Aymur"}
+{"key": "item/ItemTable.tbb#2.35.0", "es": "Usumidori"}
+{"key": "item/ItemTable.tbb#2.37.0", "es": "Daga de Bizen"}
+{"key": "item/ItemTable.tbb#2.38.0", "es": "Harpe del sueño"}
+{"key": "item/ItemTable.tbb#2.39.0", "es": "Kotetsu"}
+{"key": "item/ItemTable.tbb#2.42.0", "es": "Onimaru Kunitsuna"}
+{"key": "item/ItemTable.tbb#2.43.0", "es": "Kogarasumaru"}
+{"key": "item/ItemTable.tbb#2.46.0", "es": "Sharur"}
+{"key": "item/ItemTable.tbb#2.47.0", "es": "Espada de luz nocturna"}
+{"key": "item/ItemTable.tbb#2.50.0", "es": "Cazacabezas"}
+{"key": "item/ItemTable.tbb#2.51.0", "es": "Espada energía temp."}
+{"key": "item/ItemTable.tbb#2.53.0", "es": "Caduceo"}
+{"key": "item/ItemTable.tbb#2.56.0", "es": "Sarai maldito"}
+{"key": "item/ItemTable.tbb#2.57.0", "es": "Cuchillo mortal"}
+{"key": "item/ItemTable.tbb#2.60.0", "es": "Varita de loto"}
+{"key": "item/ItemTable.tbb#2.61.0", "es": "Bizen Osafune"}
+{"key": "item/ItemTable.tbb#2.62.0", "es": "Gan Jiang"}
+{"key": "item/ItemTable.tbb#2.66.0", "es": "Mo Ye"}
+{"key": "item/ItemTable.tbb#2.68.0", "es": "Shamshir"}
+{"key": "item/ItemTable.tbb#2.71.0", "es": "Cuchillo solar"}
+{"key": "item/ItemTable.tbb#2.73.0", "es": "Masamune"}
+{"key": "item/ItemTable.tbb#2.74.0", "es": "Mjolnir"}
+{"key": "item/ItemTable.tbb#2.77.0", "es": "Espada del emperador"}
+{"key": "item/ItemTable.tbb#2.78.0", "es": "Laevateinn"}
+{"key": "item/ItemTable.tbb#2.79.0", "es": "Hinokagutsuchi"}
+{"key": "item/ItemTable.tbb#2.80.0", "es": "Espada del Caos"}
+{"key": "item/ItemTable.tbb#2.81.0", "es": "Bastón de fase"}
+{"key": "item/ItemTable.tbb#2.82.0", "es": "Hoja segadora"}
+{"key": "item/ItemTable.tbb#2.84.0", "es": "Espada de Navarre"}
+{"key": "item/ItemTable.tbb#2.85.0", "es": "Lanza rúnica"}
+{"key": "item/ItemTable.tbb#2.88.0", "es": "Espada de plasma"}
+{"key": "item/ItemTable.tbb#2.90.0", "es": "Lanza maldita"}
+{"key": "item/ItemTable.tbb#2.92.0", "es": "Gae Bolg"}
+{"key": "item/ItemTable.tbb#2.93.0", "es": "Lanza de pesadilla"}
+{"key": "item/ItemTable.tbb#2.94.0", "es": "Voulge"}
+{"key": "item/ItemTable.tbb#2.95.0", "es": "Glaive venenoso"}
+{"key": "item/ItemTable.tbb#2.96.0", "es": "Tridente"}
+{"key": "item/ItemTable.tbb#2.97.0", "es": "Lanza de Dubthach"}
+{"key": "item/ItemTable.tbb#2.98.0", "es": "Ame-no-nuboko"}
+{"key": "item/ItemTable.tbb#2.99.0", "es": "Ukonvasara"}
+{"key": "item/ItemTable.tbb#2.100.0", "es": "Espada de hueso"}
+{"key": "item/ItemTable.tbb#2.101.0", "es": "Azada de acero"}
+{"key": "item/ItemTable.tbb#2.102.0", "es": "Tokkosho"}
+{"key": "item/ItemTable.tbb#2.103.0", "es": "Pilar de fuego"}
+{"key": "item/ItemTable.tbb#2.104.0", "es": "Brionac"}
+{"key": "item/ItemTable.tbb#2.105.0", "es": "Espada de la esperanza"}
+{"key": "item/ItemTable.tbb#2.106.0", "es": "Kutune Sirka"}
+{"key": "item/ItemTable.tbb#2.107.0", "es": "Claymore"}
+{"key": "item/ItemTable.tbb#2.108.0", "es": "Espada de Aquila"}
+{"key": "item/ItemTable.tbb#2.109.0", "es": "Youkou Haken"}
+{"key": "item/ItemTable.tbb#2.110.0", "es": "Longinus"}
+{"key": "item/ItemTable.tbb#2.111.0", "es": "Ame-no-habakiri"}
+{"key": "item/ItemTable.tbb#2.112.0", "es": "Ame-no-murakumo"}
+{"key": "item/ItemTable.tbb#2.113.0", "es": "Espada de Sofía"}
+{"key": "item/ItemTable.tbb#2.114.0", "es": "Lanza mágica del vigor"}
+{"key": "item/ItemTable.tbb#2.125.0", "es": "Pistola SOCOM"}
+{"key": "item/ItemTable.tbb#2.127.0", "es": "Rifle Ultra"}
+{"key": "item/ItemTable.tbb#2.129.0", "es": "Rifle CC"}
+{"key": "item/ItemTable.tbb#2.131.0", "es": "Pistola M36711"}
+{"key": "item/ItemTable.tbb#2.133.0", "es": "Rifle Kunitomo"}
+{"key": "item/ItemTable.tbb#2.135.0", "es": "Rifle salvaje"}
+{"key": "item/ItemTable.tbb#2.137.0", "es": "Rifle Scar"}
+{"key": "item/ItemTable.tbb#2.139.0", "es": "Desert Hawk"}
+{"key": "item/ItemTable.tbb#2.141.0", "es": "Rifle MX"}
+{"key": "item/ItemTable.tbb#2.143.0", "es": "Pistola del amor"}
+{"key": "item/ItemTable.tbb#2.145.0", "es": "Rifle de batalla"}
+{"key": "item/ItemTable.tbb#2.146.0", "es": "Pistola estelar"}
+{"key": "item/ItemTable.tbb#2.147.0", "es": "Pistola de luz"}
+{"key": "item/ItemTable.tbb#2.148.0", "es": "Rifle SVO"}
+{"key": "item/ItemTable.tbb#2.150.0", "es": "Barrett S28"}
+{"key": "item/ItemTable.tbb#2.151.0", "es": "AMR Phantom"}
+{"key": "item/ItemTable.tbb#2.153.0", "es": "Pistola de plasma"}
+{"key": "item/ItemTable.tbb#2.155.0", "es": "Revólver pesado .50"}
+{"key": "item/ItemTable.tbb#2.156.0", "es": "Peacemaker"}
+{"key": "item/ItemTable.tbb#2.157.0", "es": "Bazuca de acero"}
+{"key": "item/ItemTable.tbb#2.159.0", "es": "Stradivari"}
+{"key": "item/ItemTable.tbb#2.164.0", "es": "Bazuca inteligente"}
+{"key": "item/ItemTable.tbb#2.168.0", "es": "Bazuca as"}
+{"key": "item/ItemTable.tbb#2.170.0", "es": "Bazuca grande"}
+{"key": "item/ItemTable.tbb#2.172.0", "es": "Bazuca maligna"}
+{"key": "item/ItemTable.tbb#2.174.0", "es": "Bazuca BB"}
+{"key": "item/ItemTable.tbb#2.178.0", "es": "Bazuca gigoló"}
+{"key": "item/ItemTable.tbb#2.180.0", "es": "Bazuca láser"}
+{"key": "item/ItemTable.tbb#2.181.0", "es": "Bazuca suprema"}
+{"key": "item/ItemTable.tbb#2.182.0", "es": "Bazuca de rayos"}
+{"key": "item/ItemTable.tbb#2.184.0", "es": "Bazuca hiper"}
+{"key": "item/ItemTable.tbb#2.186.0", "es": "Bazuca cristalina"}
+{"key": "item/ItemTable.tbb#2.190.0", "es": "Trompeta de ángel"}
+{"key": "item/ItemTable.tbb#2.205.0", "es": "Serren Auto"}
+{"key": "item/ItemTable.tbb#2.209.0", "es": "Ametralladora CC"}
+{"key": "item/ItemTable.tbb#2.213.0", "es": "Magoichi Auto"}
+{"key": "item/ItemTable.tbb#2.215.0", "es": "Ametralladora MP9"}
+{"key": "item/ItemTable.tbb#2.217.0", "es": "Ametralladora Scar"}
+{"key": "item/ItemTable.tbb#2.219.0", "es": "AR-33"}
+{"key": "item/ItemTable.tbb#2.222.0", "es": "Ametralladora 90P"}
+{"key": "item/ItemTable.tbb#2.223.0", "es": "M367 LMG"}
+{"key": "item/ItemTable.tbb#2.227.0", "es": "MG32E"}
+{"key": "item/ItemTable.tbb#2.235.0", "es": "Mikado Custom"}
+{"key": "item/ItemTable.tbb#2.236.0", "es": "Fuego Megido"}
+{"key": "item/ItemTable.tbb#2.240.0", "es": "Ropa bélica carmesí"}
+{"key": "item/ItemTable.tbb#2.241.0", "es": "Ropa bélica azul"}
+{"key": "item/ItemTable.tbb#2.242.0", "es": "Ropa bélica amarilla"}
+{"key": "item/ItemTable.tbb#2.243.0", "es": "Punk amarillo"}
+{"key": "item/ItemTable.tbb#2.244.0", "es": "Punk rojo"}
+{"key": "item/ItemTable.tbb#2.245.0", "es": "Punk morado"}
+{"key": "item/ItemTable.tbb#2.246.0", "es": "Ninja jade"}
+{"key": "item/ItemTable.tbb#2.247.0", "es": "Ninja carmesí"}
+{"key": "item/ItemTable.tbb#2.248.0", "es": "Ninja blanco"}
+{"key": "item/ItemTable.tbb#2.250.0", "es": "Marine azul"}
+{"key": "item/ItemTable.tbb#2.251.0", "es": "Marine blanco"}
+{"key": "item/ItemTable.tbb#2.252.0", "es": "Marine azul marino"}
+{"key": "item/ItemTable.tbb#2.253.0", "es": "Oficial gris"}
+{"key": "item/ItemTable.tbb#2.254.0", "es": "Oficial rojo"}
+{"key": "item/ItemTable.tbb#2.255.0", "es": "Oficial verde"}
+{"key": "item/ItemTable.tbb#2.256.0", "es": "Armadura negra"}
+{"key": "item/ItemTable.tbb#2.257.0", "es": "Armadura blanca"}
+{"key": "item/ItemTable.tbb#2.258.0", "es": "Armadura de sangre"}
+{"key": "item/ItemTable.tbb#2.260.0", "es": "Torso desnudo"}
+{"key": "item/ItemTable.tbb#2.261.0", "es": "Torso desnudo morado"}
+{"key": "item/ItemTable.tbb#2.262.0", "es": "Torso desnudo naranja"}
+{"key": "item/ItemTable.tbb#2.263.0", "es": "Servoarmadura gris"}
+{"key": "item/ItemTable.tbb#2.264.0", "es": "Servoarmadura arena"}
+{"key": "item/ItemTable.tbb#2.265.0", "es": "Servoarmadura oliva"}
+{"key": "item/ItemTable.tbb#2.266.0", "es": "Traje hazmat amarillo"}
+{"key": "item/ItemTable.tbb#2.267.0", "es": "Traje hazmat azul"}
+{"key": "item/ItemTable.tbb#2.268.0", "es": "Traje hazmat verde"}
+{"key": "item/ItemTable.tbb#2.270.0", "es": "Gótico oscuro"}
+{"key": "item/ItemTable.tbb#2.271.0", "es": "Gótico verdoso"}
+{"key": "item/ItemTable.tbb#2.272.0", "es": "Gótico de fantasía"}
+{"key": "item/ItemTable.tbb#2.273.0", "es": "Sigilo gris"}
+{"key": "item/ItemTable.tbb#2.274.0", "es": "Sigilo verde"}
+{"key": "item/ItemTable.tbb#2.275.0", "es": "Sigilo blanco"}
+{"key": "item/ItemTable.tbb#2.276.0", "es": "Jinbaori dorado"}
+{"key": "item/ItemTable.tbb#2.277.0", "es": "Jinbaori azul"}
+{"key": "item/ItemTable.tbb#2.278.0", "es": "Jinbaori rojo"}
+{"key": "item/ItemTable.tbb#2.280.0", "es": "Combate azul-naranja"}
+{"key": "item/ItemTable.tbb#2.281.0", "es": "Combate rosa-azul"}
+{"key": "item/ItemTable.tbb#2.282.0", "es": "Combate negro-blanco"}
+{"key": "item/ItemTable.tbb#2.290.0", "es": "Uniforme azul"}
+{"key": "item/ItemTable.tbb#2.291.0", "es": "Uniforme verde"}
+{"key": "item/ItemTable.tbb#2.292.0", "es": "Uniforme naranja"}
+{"key": "item/ItemTable.tbb#2.297.0", "es": "Héroe rojo"}
+{"key": "item/ItemTable.tbb#2.298.0", "es": "Héroe azul"}
+{"key": "item/ItemTable.tbb#2.299.0", "es": "Héroe verde"}
+{"key": "item/ItemTable.tbb#2.300.0", "es": "Jinete calavera negro"}
+{"key": "item/ItemTable.tbb#2.301.0", "es": "Jinete calavera rojo"}
+{"key": "item/ItemTable.tbb#2.302.0", "es": "Jinete calavera verde"}
+{"key": "item/ItemTable.tbb#2.303.0", "es": "Agente azul"}
+{"key": "item/ItemTable.tbb#2.304.0", "es": "Agente rojo"}
+{"key": "item/ItemTable.tbb#2.305.0", "es": "Agente blanco"}
+{"key": "item/ItemTable.tbb#2.311.0", "es": "???"}
+{"key": "item/ItemTable.tbb#2.312.0", "es": "???"}
+{"key": "item/ItemTable.tbb#2.313.0", "es": "???"}
+{"key": "item/ItemTable.tbb#2.314.0", "es": "???"}
+{"key": "item/ItemTable.tbb#2.315.0", "es": "???"}
+{"key": "item/ItemTable.tbb#2.316.0", "es": "???"}
+{"key": "item/ItemTable.tbb#2.317.0", "es": "???"}
+{"key": "item/ItemTable.tbb#2.318.0", "es": "???"}
+{"key": "item/ItemTable.tbb#2.320.0", "es": "Militar verde"}
+{"key": "item/ItemTable.tbb#2.321.0", "es": "Militar amarillo"}
+{"key": "item/ItemTable.tbb#2.322.0", "es": "Militar azul"}
+{"key": "item/ItemTable.tbb#2.330.0", "es": "Traje Demonica"}
+{"key": "item/ItemTable.tbb#2.331.0", "es": "Demonica negro"}
+{"key": "item/ItemTable.tbb#2.335.0", "es": "Abrigo pirotécnico"}
+{"key": "item/ItemTable.tbb#2.336.0", "es": "Genke Rindo"}
+{"key": "item/ItemTable.tbb#2.337.0", "es": "Armadura del Úlster"}
+{"key": "item/ItemTable.tbb#2.338.0", "es": "Nibelungen"}
+{"key": "item/ItemTable.tbb#2.340.0", "es": "Prenda de la esperanza"}
+{"key": "item/ItemTable.tbb#2.341.0", "es": "Alas del Orden"}
+{"key": "item/ItemTable.tbb#2.342.0", "es": "Cuernos del Caos"}
+{"key": "item/ItemTable.tbb#2.351.0", "es": "Máscara azul"}
+{"key": "item/ItemTable.tbb#2.352.0", "es": "Máscara verde"}
+{"key": "item/ItemTable.tbb#2.353.0", "es": "Máscara plateada"}
+{"key": "item/ItemTable.tbb#2.355.0", "es": "Uniforme de samurái"}
+{"key": "item/ItemTable.tbb#2.356.0", "es": "Traje de cazador"}
+{"key": "item/ItemTable.tbb#2.357.0", "es": "Traje de maestro"}
+{"key": "item/ItemTable.tbb#2.358.0", "es": "Traje samurái superior"}
+{"key": "item/ItemTable.tbb#2.359.0", "es": "Traje de cazador"}
+{"key": "item/ItemTable.tbb#2.360.0", "es": "Ropa bélica carmesí"}
+{"key": "item/ItemTable.tbb#2.361.0", "es": "Ropa bélica azul"}
+{"key": "item/ItemTable.tbb#2.362.0", "es": "Ropa bélica amarilla"}
+{"key": "item/ItemTable.tbb#2.363.0", "es": "Punk rojo"}
+{"key": "item/ItemTable.tbb#2.364.0", "es": "Punk amarillo"}
+{"key": "item/ItemTable.tbb#2.365.0", "es": "Punk morado"}
+{"key": "item/ItemTable.tbb#2.366.0", "es": "Ninja jade"}
+{"key": "item/ItemTable.tbb#2.367.0", "es": "Ninja carmesí"}
+{"key": "item/ItemTable.tbb#2.368.0", "es": "Ninja blanco"}
+{"key": "item/ItemTable.tbb#2.370.0", "es": "Marine azul"}
+{"key": "item/ItemTable.tbb#2.371.0", "es": "Marine blanco"}
+{"key": "item/ItemTable.tbb#2.372.0", "es": "Marine azul marino"}
+{"key": "item/ItemTable.tbb#2.373.0", "es": "Oficial gris"}
+{"key": "item/ItemTable.tbb#2.374.0", "es": "Oficial rojo"}
+{"key": "item/ItemTable.tbb#2.375.0", "es": "Oficial verde"}
+{"key": "item/ItemTable.tbb#2.376.0", "es": "Armadura negra"}
+{"key": "item/ItemTable.tbb#2.377.0", "es": "Armadura blanca"}
+{"key": "item/ItemTable.tbb#2.378.0", "es": "Armadura de sangre"}
+{"key": "item/ItemTable.tbb#2.380.0", "es": "Torso desnudo"}
+{"key": "item/ItemTable.tbb#2.381.0", "es": "Torso desnudo morado"}
+{"key": "item/ItemTable.tbb#2.382.0", "es": "Torso desnudo naranja"}
+{"key": "item/ItemTable.tbb#2.383.0", "es": "Servoarmadura gris"}
+{"key": "item/ItemTable.tbb#2.384.0", "es": "Servoarmadura arena"}
+{"key": "item/ItemTable.tbb#2.385.0", "es": "Servoarmadura oliva"}
+{"key": "item/ItemTable.tbb#2.386.0", "es": "Traje hazmat amarillo"}
+{"key": "item/ItemTable.tbb#2.387.0", "es": "Traje hazmat azul"}
+{"key": "item/ItemTable.tbb#2.388.0", "es": "Traje hazmat verde"}
+{"key": "item/ItemTable.tbb#2.390.0", "es": "Gótico oscuro"}
+{"key": "item/ItemTable.tbb#2.391.0", "es": "Gótico verdoso"}
+{"key": "item/ItemTable.tbb#2.392.0", "es": "Gótico de fantasía"}
+{"key": "item/ItemTable.tbb#2.393.0", "es": "Sigilo gris"}
+{"key": "item/ItemTable.tbb#2.394.0", "es": "Sigilo verde"}
+{"key": "item/ItemTable.tbb#2.395.0", "es": "Sigilo blanco"}
+{"key": "item/ItemTable.tbb#2.396.0", "es": "Jinbaori dorado"}
+{"key": "item/ItemTable.tbb#2.397.0", "es": "Jinbaori azul"}
+{"key": "item/ItemTable.tbb#2.398.0", "es": "Jinbaori rojo"}
+{"key": "item/ItemTable.tbb#2.400.0", "es": "Combate azul-naranja"}
+{"key": "item/ItemTable.tbb#2.401.0", "es": "Combate rosa-azul"}
+{"key": "item/ItemTable.tbb#2.402.0", "es": "Combate negro-blanco"}
+{"key": "item/ItemTable.tbb#2.410.0", "es": "Uniforme azul"}
+{"key": "item/ItemTable.tbb#2.411.0", "es": "Uniforme verde"}
+{"key": "item/ItemTable.tbb#2.412.0", "es": "Uniforme naranja"}
+{"key": "item/ItemTable.tbb#2.417.0", "es": "Héroe rojo"}
+{"key": "item/ItemTable.tbb#2.418.0", "es": "Héroe azul"}
+{"key": "item/ItemTable.tbb#2.419.0", "es": "Héroe verde"}
+{"key": "item/ItemTable.tbb#2.420.0", "es": "Jinete calavera negro"}
+{"key": "item/ItemTable.tbb#2.421.0", "es": "Jinete calavera rojo"}
+{"key": "item/ItemTable.tbb#2.422.0", "es": "Jinete calavera verde"}
+{"key": "item/ItemTable.tbb#2.423.0", "es": "Agente azul"}
+{"key": "item/ItemTable.tbb#2.424.0", "es": "Agente rojo"}
+{"key": "item/ItemTable.tbb#2.425.0", "es": "Agente blanco"}
+{"key": "item/ItemTable.tbb#2.436.0", "es": "???"}
+{"key": "item/ItemTable.tbb#2.437.0", "es": "???"}
+{"key": "item/ItemTable.tbb#2.438.0", "es": "???"}
+{"key": "item/ItemTable.tbb#2.440.0", "es": "Militar verde"}
+{"key": "item/ItemTable.tbb#2.441.0", "es": "Militar amarillo"}
+{"key": "item/ItemTable.tbb#2.442.0", "es": "Militar azul"}
+{"key": "item/ItemTable.tbb#2.450.0", "es": "Traje Demonica"}
+{"key": "item/ItemTable.tbb#2.451.0", "es": "Demonica negro"}
+{"key": "item/ItemTable.tbb#2.455.0", "es": "Abrigo pirotécnico"}
+{"key": "item/ItemTable.tbb#2.456.0", "es": "Genke Rindo"}
+{"key": "item/ItemTable.tbb#2.457.0", "es": "Armadura del Úlster"}
+{"key": "item/ItemTable.tbb#2.458.0", "es": "Nibelungen"}
+{"key": "item/ItemTable.tbb#2.460.0", "es": "Prenda de la esperanza"}
+{"key": "item/ItemTable.tbb#2.461.0", "es": "Alas del Orden"}
+{"key": "item/ItemTable.tbb#2.462.0", "es": "Cuernos del Caos"}
+{"key": "item/ItemTable.tbb#2.471.0", "es": "Máscara azul"}
+{"key": "item/ItemTable.tbb#2.472.0", "es": "Máscara verde"}
+{"key": "item/ItemTable.tbb#2.473.0", "es": "Máscara plateada"}
+{"key": "item/ItemTable.tbb#2.475.0", "es": "Uniforme de samurái"}
+{"key": "item/ItemTable.tbb#2.476.0", "es": "Traje de cazador"}
+{"key": "item/ItemTable.tbb#2.477.0", "es": "Traje de maestro"}
+{"key": "item/ItemTable.tbb#2.478.0", "es": "Traje samurái superior"}
+{"key": "item/ItemTable.tbb#2.479.0", "es": "Traje de cazador"}
+{"key": "item/ItemTable.tbb#2.480.0", "es": "Ropa bélica carmesí"}
+{"key": "item/ItemTable.tbb#2.481.0", "es": "Ropa bélica azul"}
+{"key": "item/ItemTable.tbb#2.482.0", "es": "Ropa bélica amarilla"}
+{"key": "item/ItemTable.tbb#2.483.0", "es": "Punk rojo"}
+{"key": "item/ItemTable.tbb#2.484.0", "es": "Punk morado"}
+{"key": "item/ItemTable.tbb#2.485.0", "es": "Punk amarillo"}
+{"key": "item/ItemTable.tbb#2.486.0", "es": "Ninja jade"}
+{"key": "item/ItemTable.tbb#2.487.0", "es": "Ninja carmesí"}
+{"key": "item/ItemTable.tbb#2.488.0", "es": "Ninja blanco"}
+{"key": "item/ItemTable.tbb#2.490.0", "es": "Marine azul"}
+{"key": "item/ItemTable.tbb#2.491.0", "es": "Marine blanco"}
+{"key": "item/ItemTable.tbb#2.492.0", "es": "Marine azul marino"}
+{"key": "item/ItemTable.tbb#2.493.0", "es": "Oficial gris"}
+{"key": "item/ItemTable.tbb#2.494.0", "es": "Oficial rojo"}
+{"key": "item/ItemTable.tbb#2.495.0", "es": "Oficial verde"}
+{"key": "item/ItemTable.tbb#2.496.0", "es": "Armadura negra"}
+{"key": "item/ItemTable.tbb#2.497.0", "es": "Armadura blanca"}
+{"key": "item/ItemTable.tbb#2.498.0", "es": "Armadura de sangre"}
+{"key": "item/ItemTable.tbb#2.500.0", "es": "Torso desnudo"}
+{"key": "item/ItemTable.tbb#2.501.0", "es": "Torso desnudo morado"}
+{"key": "item/ItemTable.tbb#2.502.0", "es": "Torso desnudo naranja"}
+{"key": "item/ItemTable.tbb#2.503.0", "es": "Servoarmadura gris"}
+{"key": "item/ItemTable.tbb#2.504.0", "es": "Servoarmadura arena"}
+{"key": "item/ItemTable.tbb#2.505.0", "es": "Servoarmadura oliva"}
+{"key": "item/ItemTable.tbb#2.506.0", "es": "Traje hazmat amarillo"}
+{"key": "item/ItemTable.tbb#2.507.0", "es": "Traje hazmat azul"}
+{"key": "item/ItemTable.tbb#2.508.0", "es": "Traje hazmat verde"}
+{"key": "item/ItemTable.tbb#2.510.0", "es": "Gótico oscuro"}
+{"key": "item/ItemTable.tbb#2.511.0", "es": "Gótico verdoso"}
+{"key": "item/ItemTable.tbb#2.512.0", "es": "Gótico de fantasía"}
+{"key": "item/ItemTable.tbb#2.513.0", "es": "Sigilo gris"}
+{"key": "item/ItemTable.tbb#2.514.0", "es": "Sigilo verde"}
+{"key": "item/ItemTable.tbb#2.515.0", "es": "Sigilo blanco"}
+{"key": "item/ItemTable.tbb#2.516.0", "es": "Jinbaori dorado"}
+{"key": "item/ItemTable.tbb#2.517.0", "es": "Jinbaori azul"}
+{"key": "item/ItemTable.tbb#2.518.0", "es": "Jinbaori rojo"}
+{"key": "item/ItemTable.tbb#2.520.0", "es": "Combate azul-naranja"}
+{"key": "item/ItemTable.tbb#2.521.0", "es": "Combate rosa-azul"}
+{"key": "item/ItemTable.tbb#2.522.0", "es": "Combate negro-blanco"}
+{"key": "item/ItemTable.tbb#2.530.0", "es": "Uniforme azul"}
+{"key": "item/ItemTable.tbb#2.531.0", "es": "Uniforme verde"}
+{"key": "item/ItemTable.tbb#2.532.0", "es": "Uniforme naranja"}
+{"key": "item/ItemTable.tbb#2.537.0", "es": "Héroe rojo"}
+{"key": "item/ItemTable.tbb#2.538.0", "es": "Héroe azul"}
+{"key": "item/ItemTable.tbb#2.539.0", "es": "Héroe verde"}
+{"key": "item/ItemTable.tbb#2.540.0", "es": "Jinete calavera negro"}
+{"key": "item/ItemTable.tbb#2.541.0", "es": "Jinete calavera rojo"}
+{"key": "item/ItemTable.tbb#2.542.0", "es": "Jinete calavera verde"}
+{"key": "item/ItemTable.tbb#2.543.0", "es": "Agente azul"}
+{"key": "item/ItemTable.tbb#2.544.0", "es": "Agente rojo"}
+{"key": "item/ItemTable.tbb#2.545.0", "es": "Agente blanco"}
+{"key": "item/ItemTable.tbb#2.556.0", "es": "???"}
+{"key": "item/ItemTable.tbb#2.557.0", "es": "???"}
+{"key": "item/ItemTable.tbb#2.558.0", "es": "???"}
+{"key": "item/ItemTable.tbb#2.560.0", "es": "Militar verde"}
+{"key": "item/ItemTable.tbb#2.561.0", "es": "Militar amarillo"}
+{"key": "item/ItemTable.tbb#2.562.0", "es": "Militar azul"}
+{"key": "item/ItemTable.tbb#2.570.0", "es": "Traje Demonica"}
+{"key": "item/ItemTable.tbb#2.571.0", "es": "Demonica negro"}
+{"key": "item/ItemTable.tbb#2.575.0", "es": "Abrigo pirotécnico"}
+{"key": "item/ItemTable.tbb#2.576.0", "es": "Genke Rindo"}
+{"key": "item/ItemTable.tbb#2.577.0", "es": "Armadura del Úlster"}
+{"key": "item/ItemTable.tbb#2.578.0", "es": "Nibelungen"}
+{"key": "item/ItemTable.tbb#2.580.0", "es": "Prenda de la esperanza"}
+{"key": "item/ItemTable.tbb#2.581.0", "es": "Alas del Orden"}
+{"key": "item/ItemTable.tbb#2.582.0", "es": "Cuernos del Caos"}
+{"key": "item/ItemTable.tbb#2.591.0", "es": "Máscara azul"}
+{"key": "item/ItemTable.tbb#2.592.0", "es": "Máscara verde"}
+{"key": "item/ItemTable.tbb#2.593.0", "es": "Máscara plateada"}
+{"key": "item/ItemTable.tbb#2.595.0", "es": "Uniforme de samurái"}
+{"key": "item/ItemTable.tbb#2.596.0", "es": "Traje de cazador"}
+{"key": "item/ItemTable.tbb#2.597.0", "es": "Traje de maestro"}
+{"key": "item/ItemTable.tbb#2.598.0", "es": "Traje samurái superior"}
+{"key": "item/ItemTable.tbb#2.599.0", "es": "Traje de cazador"}
+{"key": "item/ItemTable.tbb#2.600.0", "es": "Arete de cazador"}
+{"key": "item/ItemTable.tbb#2.606.0", "es": "Arete rojo"}
+{"key": "item/ItemTable.tbb#2.607.0", "es": "Arete azul"}
+{"key": "item/ItemTable.tbb#2.611.0", "es": "Arete de mariscal"}
+{"key": "item/ItemTable.tbb#2.612.0", "es": "Arete de caudillo"}
+{"key": "item/ItemTable.tbb#2.617.0", "es": "Arete blanco"}
+{"key": "item/ItemTable.tbb#2.621.0", "es": "Arete de estratega"}
+{"key": "item/ItemTable.tbb#2.622.0", "es": "Arete negro"}
+{"key": "item/ItemTable.tbb#2.626.0", "es": "Arete de demonio"}
+{"key": "item/ItemTable.tbb#2.627.0", "es": "Arete de la compañía"}
+{"key": "item/ItemTable.tbb#2.631.0", "es": "Arete de fuego"}
+{"key": "item/ItemTable.tbb#2.632.0", "es": "Arete de hielo"}
+{"key": "item/ItemTable.tbb#2.633.0", "es": "Arete de rayo"}
+{"key": "item/ItemTable.tbb#2.634.0", "es": "Arete de viento"}
+{"key": "item/ItemTable.tbb#2.636.0", "es": "Arete de poder"}
+{"key": "item/ItemTable.tbb#2.637.0", "es": "Arete de disparo"}
+{"key": "item/ItemTable.tbb#2.639.0", "es": "Arete de oscuridad"}
+{"key": "item/ItemTable.tbb#2.640.0", "es": "Arete de luz"}
+{"key": "item/ItemTable.tbb#2.641.0", "es": "Arete de batalla"}
+{"key": "item/ItemTable.tbb#2.642.0", "es": "Arete de magia"}
+{"key": "item/ItemTable.tbb#2.646.0", "es": "Arete crítico"}
+{"key": "item/ItemTable.tbb#2.647.0", "es": "Arete de furia"}
+{"key": "item/ItemTable.tbb#2.651.0", "es": "Esencia de acero"}
+{"key": "item/ItemTable.tbb#2.652.0", "es": "Esencia de sabio"}
+{"key": "item/ItemTable.tbb#2.656.0", "es": "Alma ardiente"}
+{"key": "item/ItemTable.tbb#2.657.0", "es": "Alma helada"}
+{"key": "item/ItemTable.tbb#2.658.0", "es": "Alma de rayo"}
+{"key": "item/ItemTable.tbb#2.659.0", "es": "Alma de tormenta"}
+{"key": "item/ItemTable.tbb#2.661.0", "es": "Alma de oscuridad"}
+{"key": "item/ItemTable.tbb#2.662.0", "es": "Alma de luz"}
+{"key": "item/ItemTable.tbb#2.664.0", "es": "Rosario de fuerza"}
+{"key": "item/ItemTable.tbb#2.665.0", "es": "Rosario de la mente"}
+{"key": "item/ItemTable.tbb#2.666.0", "es": "Arete resistente"}
+{"key": "item/ItemTable.tbb#2.667.0", "es": "Arete afilado"}
+{"key": "item/ItemTable.tbb#2.668.0", "es": "Arete de héroe"}
+{"key": "item/ItemTable.tbb#2.671.0", "es": "Anillo de músculo"}
+{"key": "item/ItemTable.tbb#2.672.0", "es": "Anillo de artillero"}
+{"key": "item/ItemTable.tbb#2.673.0", "es": "Arete de amistad"}
+{"key": "item/ItemTable.tbb#2.674.0", "es": "Arete de infortunio"}
+{"key": "item/ItemTable.tbb#2.694.0", "es": "Escamas de contención"}
+{"key": "item/ItemTable.tbb#2.695.0", "es": "Anillo de Babilonia"}
+{"key": "item/ItemTable.tbb#2.696.0", "es": "Rosario del neófito"}
+{"key": "item/ItemTable.tbb#2.697.0", "es": "Fantasista"}
+{"key": "item/ItemTable.tbb#2.699.0", "es": "Anillo de intelecto"}
+{"key": "item/ItemTable.tbb#2.701.0", "es": "Anillo de la iluminación"}
+{"key": "item/ItemTable.tbb#2.705.0", "es": "Pulsera del sabio"}
+{"key": "item/ItemTable.tbb#2.706.0", "es": "Pulsera del maestro"}
+{"key": "item/ItemTable.tbb#2.707.0", "es": "Pulsera del rey sabio"}
+{"key": "item/ItemTable.tbb#2.708.0", "es": "Pulsera del caudillo"}
+{"key": "item/ItemTable.tbb#2.710.0", "es": "???"}
+{"key": "item/ItemTable.tbb#2.711.0", "es": "???"}
+{"key": "item/ItemTable.tbb#2.712.0", "es": "???"}
+{"key": "item/ItemTable.tbb#2.714.0", "es": "Anillo de la esperanza"}
+{"key": "item/ItemTable.tbb#2.715.0", "es": "Arete del paragón"}
+{"key": "item/ItemTable.tbb#2.717.0", "es": "???"}
+{"key": "item/ItemTable.tbb#2.718.0", "es": "???"}
+{"key": "item/ItemTable.tbb#2.720.0", "es": "Balas FMJ"}
+{"key": "item/ItemTable.tbb#2.724.0", "es": "Balas pesadas"}
+{"key": "item/ItemTable.tbb#2.725.0", "es": "Balas de punta blanda"}
+{"key": "item/ItemTable.tbb#2.726.0", "es": "Balas de sueño"}
+{"key": "item/ItemTable.tbb#2.727.0", "es": "Balas tóxicas"}
+{"key": "item/ItemTable.tbb#2.728.0", "es": "Balas Flaemis"}
+{"key": "item/ItemTable.tbb#2.729.0", "es": "Balas Aquans"}
+{"key": "item/ItemTable.tbb#2.730.0", "es": "Balas Erthys"}
+{"key": "item/ItemTable.tbb#2.731.0", "es": "Balas Aeros"}
+{"key": "item/ItemTable.tbb#2.732.0", "es": "Balas de acero"}
+{"key": "item/ItemTable.tbb#2.733.0", "es": "Balas de virus"}
+{"key": "item/ItemTable.tbb#2.734.0", "es": "Balas de Salamandra"}
+{"key": "item/ItemTable.tbb#2.735.0", "es": "Balas de Ondina"}
+{"key": "item/ItemTable.tbb#2.736.0", "es": "Balas de Gnomo"}
+{"key": "item/ItemTable.tbb#2.737.0", "es": "Balas de Sílfide"}
+{"key": "item/ItemTable.tbb#2.738.0", "es": "Balas de pánico"}
+{"key": "item/ItemTable.tbb#2.739.0", "es": "Balas de atadura"}
+{"key": "item/ItemTable.tbb#2.740.0", "es": "Balas de llamas"}
+{"key": "item/ItemTable.tbb#2.741.0", "es": "Balas de escarcha"}
+{"key": "item/ItemTable.tbb#2.742.0", "es": "Balas de rayo"}
+{"key": "item/ItemTable.tbb#2.743.0", "es": "Balas de tormenta"}
+{"key": "item/ItemTable.tbb#2.744.0", "es": "Balas de punta hueca"}
+{"key": "item/ItemTable.tbb#2.745.0", "es": "Balas Magnum"}
+{"key": "item/ItemTable.tbb#2.746.0", "es": "Balas de Inferno"}
+{"key": "item/ItemTable.tbb#2.747.0", "es": "Balas de Cocito"}
+{"key": "item/ItemTable.tbb#2.748.0", "es": "Balas Enelysios"}
+{"key": "item/ItemTable.tbb#2.749.0", "es": "Balas de Céfiro"}
+{"key": "item/ItemTable.tbb#2.750.0", "es": "Balas de veneno"}
+{"key": "item/ItemTable.tbb#2.751.0", "es": "Balas de Prometeo"}
+{"key": "item/ItemTable.tbb#2.752.0", "es": "Disparo de Suzaku"}
+{"key": "item/ItemTable.tbb#2.753.0", "es": "Bomba de Genbu"}
+{"key": "item/ItemTable.tbb#2.754.0", "es": "Balas de Baihu"}
+{"key": "item/ItemTable.tbb#2.755.0", "es": "Balas largas"}
+{"key": "item/ItemTable.tbb#2.756.0", "es": "Balas AP"}
+{"key": "item/ItemTable.tbb#2.757.0", "es": "Disparo aturdidor"}
+{"key": "item/ItemTable.tbb#2.758.0", "es": "Balas de Hefesto"}
+{"key": "item/ItemTable.tbb#2.759.0", "es": "Balas de Poseidón"}
+{"key": "item/ItemTable.tbb#2.760.0", "es": "Balas de Zeus"}
+{"key": "item/ItemTable.tbb#2.761.0", "es": "Balas de Hermes"}
+{"key": "item/ItemTable.tbb#2.762.0", "es": "Balas de Gouma"}
+{"key": "item/ItemTable.tbb#2.763.0", "es": "Balas de Shinno"}
+{"key": "item/ItemTable.tbb#2.764.0", "es": "Disparo rosa"}
+{"key": "item/ItemTable.tbb#2.765.0", "es": "Balas del dios oscuro"}
+{"key": "item/ItemTable.tbb#2.766.0", "es": "Balas del dios de luz"}
+{"key": "item/ItemTable.tbb#2.767.0", "es": "Disparo de silencio"}
+{"key": "item/ItemTable.tbb#2.768.0", "es": "Balas de Tenma"}
+{"key": "item/ItemTable.tbb#2.769.0", "es": "Balas todopoderosas"}
+{"key": "item/ItemTable.tbb#3.0.0", "es": "Artilugio 1 est."}
+{"key": "item/ItemTable.tbb#3.1.0", "es": "Artilugio 2 est."}
+{"key": "item/ItemTable.tbb#3.2.0", "es": "Artilugio 3 est."}
+{"key": "item/ItemTable.tbb#3.3.0", "es": "Artilugio 4 est."}
+{"key": "item/ItemTable.tbb#3.4.0", "es": "Artilugio 5 est."}
+{"key": "item/ItemTable.tbb#3.20.0", "es": "Ocio 1 est."}
+{"key": "item/ItemTable.tbb#3.21.0", "es": "Ocio 2 est."}
+{"key": "item/ItemTable.tbb#3.22.0", "es": "Ocio 3 est."}
+{"key": "item/ItemTable.tbb#3.23.0", "es": "Ocio 4 est."}
+{"key": "item/ItemTable.tbb#3.24.0", "es": "Ocio 5 est."}
+{"key": "item/ItemTable.tbb#3.40.0", "es": "Comida 1 est."}
+{"key": "item/ItemTable.tbb#3.41.0", "es": "Comida 2 est."}
+{"key": "item/ItemTable.tbb#3.42.0", "es": "Comida 3 est."}
+{"key": "item/ItemTable.tbb#3.43.0", "es": "Comida 4 est."}
+{"key": "item/ItemTable.tbb#3.44.0", "es": "Comida 5 est."}
+{"key": "item/ItemTable.tbb#3.60.0", "es": "Mueble 1 est."}
+{"key": "item/ItemTable.tbb#3.61.0", "es": "Mueble 2 est."}
+{"key": "item/ItemTable.tbb#3.62.0", "es": "Mueble 3 est."}
+{"key": "item/ItemTable.tbb#3.63.0", "es": "Mueble 4 est."}
+{"key": "item/ItemTable.tbb#3.64.0", "es": "Mueble 5 est."}
+{"key": "item/ItemTable.tbb#3.80.0", "es": "Cosmético 1 est."}
+{"key": "item/ItemTable.tbb#3.81.0", "es": "Cosmético 2 est."}
+{"key": "item/ItemTable.tbb#3.82.0", "es": "Cosmético 3 est."}
+{"key": "item/ItemTable.tbb#3.83.0", "es": "Cosmético 4 est."}
+{"key": "item/ItemTable.tbb#3.84.0", "es": "Cosmético 5 est."}
+{"key": "item/ItemTable.tbb#3.100.0", "es": "Mercancía 1 est."}
+{"key": "item/ItemTable.tbb#3.101.0", "es": "Mercancía 2 est."}
+{"key": "item/ItemTable.tbb#3.102.0", "es": "Mercancía 3 est."}
+{"key": "item/ItemTable.tbb#3.103.0", "es": "Mercancía 4 est."}
+{"key": "item/ItemTable.tbb#3.104.0", "es": "Mercancía 5 est."}
+{"key": "item/ItemTable.tbb#3.120.0", "es": "Fragancia 1 est."}
+{"key": "item/ItemTable.tbb#3.121.0", "es": "Fragancia 2 est."}
+{"key": "item/ItemTable.tbb#3.122.0", "es": "Fragancia 3 est."}
+{"key": "item/ItemTable.tbb#3.123.0", "es": "Fragancia 4 est."}
+{"key": "item/ItemTable.tbb#3.124.0", "es": "Fragancia 5 est."}
+{"key": "item/ItemTable.tbb#3.140.0", "es": "Documento 1 est."}
+{"key": "item/ItemTable.tbb#3.141.0", "es": "Documento 2 est."}
+{"key": "item/ItemTable.tbb#3.142.0", "es": "Documento 3 est."}
+{"key": "item/ItemTable.tbb#3.143.0", "es": "Documento 4 est."}
+{"key": "item/ItemTable.tbb#3.144.0", "es": "Documento 5 est."}
+{"key": "item/ItemTable.tbb#3.160.0", "es": "Medicina 1 est."}
+{"key": "item/ItemTable.tbb#3.161.0", "es": "Medicina 2 est."}
+{"key": "item/ItemTable.tbb#3.162.0", "es": "Medicina 3 est."}
+{"key": "item/ItemTable.tbb#3.163.0", "es": "Medicina 4 est."}
+{"key": "item/ItemTable.tbb#3.164.0", "es": "Medicina 5 est."}
+{"key": "item/ItemTable.tbb#3.180.0", "es": "Ropa 1 est."}
+{"key": "item/ItemTable.tbb#3.181.0", "es": "Ropa 2 est."}
+{"key": "item/ItemTable.tbb#3.182.0", "es": "Ropa 3 est."}
+{"key": "item/ItemTable.tbb#3.183.0", "es": "Ropa 4 est."}
+{"key": "item/ItemTable.tbb#3.184.0", "es": "Ropa 5 est."}
+{"key": "item/ItemTable.tbb#3.189.0", "es": "Material negro 1 est."}
+{"key": "item/ItemTable.tbb#3.190.0", "es": "Material negro 2 est."}
+{"key": "item/ItemTable.tbb#3.191.0", "es": "Material negro 3 est."}
+{"key": "item/ItemTable.tbb#3.192.0", "es": "Material negro 4 est."}
+{"key": "item/ItemTable.tbb#3.193.0", "es": "Material negro 5 est."}
+{"key": "item/ItemTable.tbb#4.0.0", "es": "Mouse"}
+{"key": "item/ItemTable.tbb#4.1.0", "es": "Teclado"}
+{"key": "item/ItemTable.tbb#4.2.0", "es": "Cable LAN"}
+{"key": "item/ItemTable.tbb#4.3.0", "es": "Tostadora"}
+{"key": "item/ItemTable.tbb#4.4.0", "es": "Calculadora"}
+{"key": "item/ItemTable.tbb#4.5.0", "es": "Microondas"}
+{"key": "item/ItemTable.tbb#4.6.0", "es": "Tarjeta memoria"}
+{"key": "item/ItemTable.tbb#4.7.0", "es": "Despertador"}
+{"key": "item/ItemTable.tbb#4.8.0", "es": "Secador de pelo"}
+{"key": "item/ItemTable.tbb#4.9.0", "es": "Hub USB"}
+{"key": "item/ItemTable.tbb#4.10.0", "es": "Disco duro"}
+{"key": "item/ItemTable.tbb#4.11.0", "es": "Ventilador"}
+{"key": "item/ItemTable.tbb#4.12.0", "es": "Tarjeta de video"}
+{"key": "item/ItemTable.tbb#4.13.0", "es": "Tarjeta de sonido"}
+{"key": "item/ItemTable.tbb#4.14.0", "es": "0"}
+{"key": "item/ItemTable.tbb#4.15.0", "es": "CPU"}
+{"key": "item/ItemTable.tbb#4.16.0", "es": "Videocámara"}
+{"key": "item/ItemTable.tbb#4.17.0", "es": "Cámara digital"}
+{"key": "item/ItemTable.tbb#4.18.0", "es": "Purificador de aire"}
+{"key": "item/ItemTable.tbb#4.19.0", "es": "0"}
+{"key": "item/ItemTable.tbb#4.20.0", "es": "Aspiradora"}
+{"key": "item/ItemTable.tbb#4.21.0", "es": "Climatizador"}
+{"key": "item/ItemTable.tbb#4.22.0", "es": "Lavadora"}
+{"key": "item/ItemTable.tbb#4.23.0", "es": "Monitor"}
+{"key": "item/ItemTable.tbb#4.50.0", "es": "Consola portátil"}
+{"key": "item/ItemTable.tbb#4.51.0", "es": "Consola de juegos"}
+{"key": "item/ItemTable.tbb#4.52.0", "es": "Balón de fútbol"}
+{"key": "item/ItemTable.tbb#4.53.0", "es": "Maqueta"}
+{"key": "item/ItemTable.tbb#4.54.0", "es": "Grabador de DVD"}
+{"key": "item/ItemTable.tbb#4.55.0", "es": "Grabador HD"}
+{"key": "item/ItemTable.tbb#4.56.0", "es": "DVR"}
+{"key": "item/ItemTable.tbb#4.57.0", "es": "Disco de juego"}
+{"key": "item/ItemTable.tbb#4.58.0", "es": "Guitarra"}
+{"key": "item/ItemTable.tbb#4.59.0", "es": "Reloj de pulsera"}
+{"key": "item/ItemTable.tbb#4.60.0", "es": "Saxofón"}
+{"key": "item/ItemTable.tbb#4.61.0", "es": "Álbum en CD"}
+{"key": "item/ItemTable.tbb#4.62.0", "es": "DVD"}
+{"key": "item/ItemTable.tbb#4.63.0", "es": "Sogas"}
+{"key": "item/ItemTable.tbb#4.64.0", "es": "Bolsa"}
+{"key": "item/ItemTable.tbb#4.65.0", "es": "DVD para adultos"}
+{"key": "item/ItemTable.tbb#4.66.0", "es": "Disco HD"}
+{"key": "item/ItemTable.tbb#4.67.0", "es": "Disco HD adultos"}
+{"key": "item/ItemTable.tbb#4.68.0", "es": "Cigarrillo"}
+{"key": "item/ItemTable.tbb#4.69.0", "es": "Traje de bondage"}
+{"key": "item/ItemTable.tbb#4.70.0", "es": "Juguete para ellas"}
+{"key": "item/ItemTable.tbb#4.71.0", "es": "iPet"}
+{"key": "item/ItemTable.tbb#4.72.0", "es": "Cine en casa"}
+{"key": "item/ItemTable.tbb#4.73.0", "es": "iPot"}
+{"key": "item/ItemTable.tbb#4.74.0", "es": "TV digital"}
+{"key": "item/ItemTable.tbb#4.100.0", "es": "Café enlatado"}
+{"key": "item/ItemTable.tbb#4.101.0", "es": "Jugo enlatado"}
+{"key": "item/ItemTable.tbb#4.102.0", "es": "Sopa enlatada"}
+{"key": "item/ItemTable.tbb#4.103.0", "es": "Bebida energética"}
+{"key": "item/ItemTable.tbb#4.104.0", "es": "Botella de refresco"}
+{"key": "item/ItemTable.tbb#4.105.0", "es": "Salsa de soya"}
+{"key": "item/ItemTable.tbb#4.106.0", "es": "Miso"}
+{"key": "item/ItemTable.tbb#4.107.0", "es": "Vinagre"}
+{"key": "item/ItemTable.tbb#4.108.0", "es": "Azúcar"}
+{"key": "item/ItemTable.tbb#4.109.0", "es": "Sal"}
+{"key": "item/ItemTable.tbb#4.110.0", "es": "Comida al instante"}
+{"key": "item/ItemTable.tbb#4.111.0", "es": "Comida saludable"}
+{"key": "item/ItemTable.tbb#4.112.0", "es": "Comida congelada"}
+{"key": "item/ItemTable.tbb#4.113.0", "es": "Comida seca"}
+{"key": "item/ItemTable.tbb#4.114.0", "es": "Lata de cerveza"}
+{"key": "item/ItemTable.tbb#4.115.0", "es": "Shochu"}
+{"key": "item/ItemTable.tbb#4.116.0", "es": "Sake"}
+{"key": "item/ItemTable.tbb#4.117.0", "es": "Shaoxingjiu"}
+{"key": "item/ItemTable.tbb#4.118.0", "es": "Whisky"}
+{"key": "item/ItemTable.tbb#4.119.0", "es": "Brandy"}
+{"key": "item/ItemTable.tbb#4.120.0", "es": "Ración de urgencia"}
+{"key": "item/ItemTable.tbb#4.121.0", "es": "Verdura enlatada"}
+{"key": "item/ItemTable.tbb#4.122.0", "es": "Fruta enlatada"}
+{"key": "item/ItemTable.tbb#4.123.0", "es": "Pescado enlatado"}
+{"key": "item/ItemTable.tbb#4.124.0", "es": "Carne enlatada"}
+{"key": "item/ItemTable.tbb#4.150.0", "es": "Mesa de trabajo"}
+{"key": "item/ItemTable.tbb#4.151.0", "es": "Mesa de PC"}
+{"key": "item/ItemTable.tbb#4.152.0", "es": "Mesa de estudio"}
+{"key": "item/ItemTable.tbb#4.153.0", "es": "Silla"}
+{"key": "item/ItemTable.tbb#4.154.0", "es": "0"}
+{"key": "item/ItemTable.tbb#4.155.0", "es": "Estante"}
+{"key": "item/ItemTable.tbb#4.156.0", "es": "Gabinete"}
+{"key": "item/ItemTable.tbb#4.157.0", "es": "Cojín"}
+{"key": "item/ItemTable.tbb#4.158.0", "es": "0"}
+{"key": "item/ItemTable.tbb#4.159.0", "es": "0"}
+{"key": "item/ItemTable.tbb#4.160.0", "es": "Alfombra"}
+{"key": "item/ItemTable.tbb#4.161.0", "es": "Cortina"}
+{"key": "item/ItemTable.tbb#4.162.0", "es": "Almohada"}
+{"key": "item/ItemTable.tbb#4.163.0", "es": "0"}
+{"key": "item/ItemTable.tbb#4.164.0", "es": "0"}
+{"key": "item/ItemTable.tbb#4.165.0", "es": "Clóset"}
+{"key": "item/ItemTable.tbb#4.166.0", "es": "Mesa"}
+{"key": "item/ItemTable.tbb#4.167.0", "es": "0"}
+{"key": "item/ItemTable.tbb#4.168.0", "es": "0"}
+{"key": "item/ItemTable.tbb#4.169.0", "es": "0"}
+{"key": "item/ItemTable.tbb#4.170.0", "es": "Cama"}
+{"key": "item/ItemTable.tbb#4.171.0", "es": "Sofá"}
+{"key": "item/ItemTable.tbb#4.200.0", "es": "Caja de maquillaje"}
+{"key": "item/ItemTable.tbb#4.201.0", "es": "Coletero de tela"}
+{"key": "item/ItemTable.tbb#4.202.0", "es": "Base de maquillaje"}
+{"key": "item/ItemTable.tbb#4.203.0", "es": "Perfilador labial"}
+{"key": "item/ItemTable.tbb#4.204.0", "es": "Delineador de ojos"}
+{"key": "item/ItemTable.tbb#4.205.0", "es": "Esmalte de uñas"}
+{"key": "item/ItemTable.tbb#4.206.0", "es": "Sombra de ojos"}
+{"key": "item/ItemTable.tbb#4.207.0", "es": "Mascarilla facial"}
+{"key": "item/ItemTable.tbb#4.208.0", "es": "Lápiz de cejas"}
+{"key": "item/ItemTable.tbb#4.209.0", "es": "Loción de belleza"}
+{"key": "item/ItemTable.tbb#4.210.0", "es": "Pestañas"}
+{"key": "item/ItemTable.tbb#4.211.0", "es": "Brillo labial"}
+{"key": "item/ItemTable.tbb#4.212.0", "es": "Rubor"}
+{"key": "item/ItemTable.tbb#4.213.0", "es": "Rímel"}
+{"key": "item/ItemTable.tbb#4.214.0", "es": "Rizapestañas"}
+{"key": "item/ItemTable.tbb#4.215.0", "es": "Laca capilar"}
+{"key": "item/ItemTable.tbb#4.216.0", "es": "Lápiz labial"}
+{"key": "item/ItemTable.tbb#4.217.0", "es": "Champú"}
+{"key": "item/ItemTable.tbb#4.218.0", "es": "Jabón corporal"}
+{"key": "item/ItemTable.tbb#4.219.0", "es": "Acondicionador"}
+{"key": "item/ItemTable.tbb#4.220.0", "es": "Desodorante"}
+{"key": "item/ItemTable.tbb#4.221.0", "es": "Uñas postizas"}
+{"key": "item/ItemTable.tbb#4.222.0", "es": "Perfume elegante"}
+{"key": "item/ItemTable.tbb#4.223.0", "es": "Peluca"}
+{"key": "item/ItemTable.tbb#4.224.0", "es": "Espejo de bolsillo"}
+{"key": "item/ItemTable.tbb#4.250.0", "es": "Tenedor"}
+{"key": "item/ItemTable.tbb#4.251.0", "es": "Toalla"}
+{"key": "item/ItemTable.tbb#4.252.0", "es": "Marcador"}
+{"key": "item/ItemTable.tbb#4.253.0", "es": "Cuaderno"}
+{"key": "item/ItemTable.tbb#4.254.0", "es": "Taza"}
+{"key": "item/ItemTable.tbb#4.255.0", "es": "Cuchillo nuevo"}
+{"key": "item/ItemTable.tbb#4.256.0", "es": "Plato nuevo"}
+{"key": "item/ItemTable.tbb#4.257.0", "es": "Olla nueva"}
+{"key": "item/ItemTable.tbb#4.258.0", "es": "Tetera nueva"}
+{"key": "item/ItemTable.tbb#4.259.0", "es": "Toalla de baño"}
+{"key": "item/ItemTable.tbb#4.260.0", "es": "Patineta"}
+{"key": "item/ItemTable.tbb#4.261.0", "es": "Tapete de yoga"}
+{"key": "item/ItemTable.tbb#4.262.0", "es": "Kit de costura"}
+{"key": "item/ItemTable.tbb#4.263.0", "es": "Telescopio"}
+{"key": "item/ItemTable.tbb#4.264.0", "es": "Pasta de dientes"}
+{"key": "item/ItemTable.tbb#4.265.0", "es": "Cepillo de dientes"}
+{"key": "item/ItemTable.tbb#4.266.0", "es": "Bicicleta"}
+{"key": "item/ItemTable.tbb#4.267.0", "es": "Parrilla"}
+{"key": "item/ItemTable.tbb#4.268.0", "es": "Detergente"}
+{"key": "item/ItemTable.tbb#4.269.0", "es": "Máquina de coser"}
+{"key": "item/ItemTable.tbb#4.270.0", "es": "Ciclomotor"}
+{"key": "item/ItemTable.tbb#4.271.0", "es": "Batería"}
+{"key": "item/ItemTable.tbb#4.272.0", "es": "Farol"}
+{"key": "item/ItemTable.tbb#4.273.0", "es": "Briqueta"}
+{"key": "item/ItemTable.tbb#4.300.0", "es": "Carbón blanco"}
+{"key": "item/ItemTable.tbb#4.301.0", "es": "Carbón de bambú"}
+{"key": "item/ItemTable.tbb#4.302.0", "es": "Menta"}
+{"key": "item/ItemTable.tbb#4.303.0", "es": "Artemisa"}
+{"key": "item/ItemTable.tbb#4.304.0", "es": "Resina de pino"}
+{"key": "item/ItemTable.tbb#4.305.0", "es": "Hierbas secas"}
+{"key": "item/ItemTable.tbb#4.306.0", "es": "Madera para humo"}
+{"key": "item/ItemTable.tbb#4.307.0", "es": "Incienso"}
+{"key": "item/ItemTable.tbb#4.308.0", "es": "Espiral repelente"}
+{"key": "item/ItemTable.tbb#4.309.0", "es": "Vela aromática"}
+{"key": "item/ItemTable.tbb#4.310.0", "es": "Lavanda"}
+{"key": "item/ItemTable.tbb#4.311.0", "es": "Narciso"}
+{"key": "item/ItemTable.tbb#4.312.0", "es": "Bola de incienso"}
+{"key": "item/ItemTable.tbb#4.313.0", "es": "Aceite esencial"}
+{"key": "item/ItemTable.tbb#4.314.0", "es": "Madera de agar"}
+{"key": "item/ItemTable.tbb#4.315.0", "es": "Sachet"}
+{"key": "item/ItemTable.tbb#4.316.0", "es": "Popurrí"}
+{"key": "item/ItemTable.tbb#4.317.0", "es": "Difusor de aroma"}
+{"key": "item/ItemTable.tbb#4.318.0", "es": "Sándalo"}
+{"key": "item/ItemTable.tbb#4.319.0", "es": "Incensario"}
+{"key": "item/ItemTable.tbb#4.321.0", "es": "Almizcle de civeta"}
+{"key": "item/ItemTable.tbb#4.322.0", "es": "Castóreo"}
+{"key": "item/ItemTable.tbb#4.323.0", "es": "Almizcle de ciervo"}
+{"key": "item/ItemTable.tbb#4.324.0", "es": "Ámbar gris"}
+{"key": "item/ItemTable.tbb#4.350.0", "es": "Moneda de 1 yen"}
+{"key": "item/ItemTable.tbb#4.351.0", "es": "Moneda 5 yen"}
+{"key": "item/ItemTable.tbb#4.352.0", "es": "Moneda 10 yen"}
+{"key": "item/ItemTable.tbb#4.353.0", "es": "Moneda 100 yen"}
+{"key": "item/ItemTable.tbb#4.354.0", "es": "Moneda 500 yen"}
+{"key": "item/ItemTable.tbb#4.355.0", "es": "Billete 1000 yen"}
+{"key": "item/ItemTable.tbb#4.356.0", "es": "Billete 2000 yen"}
+{"key": "item/ItemTable.tbb#4.357.0", "es": "Billete 5000 yen"}
+{"key": "item/ItemTable.tbb#4.358.0", "es": "Billete 10000 yen"}
+{"key": "item/ItemTable.tbb#4.359.0", "es": "Tarjeta de crédito"}
+{"key": "item/ItemTable.tbb#4.360.0", "es": "Folleto de película"}
+{"key": "item/ItemTable.tbb#4.361.0", "es": "Entrada"}
+{"key": "item/ItemTable.tbb#4.362.0", "es": "Factura"}
+{"key": "item/ItemTable.tbb#4.363.0", "es": "Orden de registro"}
+{"key": "item/ItemTable.tbb#4.364.0", "es": "Calendario"}
+{"key": "item/ItemTable.tbb#4.365.0", "es": "Garantía solidaria"}
+{"key": "item/ItemTable.tbb#4.366.0", "es": "Lista de invitados"}
+{"key": "item/ItemTable.tbb#4.367.0", "es": "Acusación formal"}
+{"key": "item/ItemTable.tbb#4.368.0", "es": "Licencia"}
+{"key": "item/ItemTable.tbb#4.369.0", "es": "0"}
+{"key": "item/ItemTable.tbb#4.370.0", "es": "Orden de arresto"}
+{"key": "item/ItemTable.tbb#4.371.0", "es": "Sello imperial"}
+{"key": "item/ItemTable.tbb#4.372.0", "es": "Comisión policial"}
+{"key": "item/ItemTable.tbb#4.373.0", "es": "Honor nacional"}
+{"key": "item/ItemTable.tbb#4.400.0", "es": "Manómetro"}
+{"key": "item/ItemTable.tbb#4.401.0", "es": "Termómetro"}
+{"key": "item/ItemTable.tbb#4.402.0", "es": "Venda"}
+{"key": "item/ItemTable.tbb#4.403.0", "es": "Venda pequeña"}
+{"key": "item/ItemTable.tbb#4.404.0", "es": "Estetoscopio"}
+{"key": "item/ItemTable.tbb#4.405.0", "es": "Muleta"}
+{"key": "item/ItemTable.tbb#4.406.0", "es": "Silla de ruedas"}
+{"key": "item/ItemTable.tbb#4.407.0", "es": "Jeringa"}
+{"key": "item/ItemTable.tbb#4.408.0", "es": "Yeso"}
+{"key": "item/ItemTable.tbb#4.409.0", "es": "Suplemento"}
+{"key": "item/ItemTable.tbb#4.410.0", "es": "Vitamina A"}
+{"key": "item/ItemTable.tbb#4.411.0", "es": "Vitamina C"}
+{"key": "item/ItemTable.tbb#4.412.0", "es": "Ibuprofeno"}
+{"key": "item/ItemTable.tbb#4.413.0", "es": "Cloroformo"}
+{"key": "item/ItemTable.tbb#4.414.0", "es": "Cafeína"}
+{"key": "item/ItemTable.tbb#4.415.0", "es": "Sildenafilo"}
+{"key": "item/ItemTable.tbb#4.416.0", "es": "Raíz de regaliz"}
+{"key": "item/ItemTable.tbb#4.417.0", "es": "Raíz de kudzu"}
+{"key": "item/ItemTable.tbb#4.418.0", "es": "Taurina"}
+{"key": "item/ItemTable.tbb#4.419.0", "es": "Aspirina"}
+{"key": "item/ItemTable.tbb#4.420.0", "es": "Morfina"}
+{"key": "item/ItemTable.tbb#4.421.0", "es": "Fentanilo"}
+{"key": "item/ItemTable.tbb#4.422.0", "es": "Oxicodona"}
+{"key": "item/ItemTable.tbb#4.423.0", "es": "Penicilina"}
+{"key": "item/ItemTable.tbb#4.424.0", "es": "Ginseng"}
+{"key": "item/ItemTable.tbb#4.450.0", "es": "Calcetines"}
+{"key": "item/ItemTable.tbb#4.451.0", "es": "Corbata"}
+{"key": "item/ItemTable.tbb#4.452.0", "es": "Mallas"}
+{"key": "item/ItemTable.tbb#4.453.0", "es": "Medias"}
+{"key": "item/ItemTable.tbb#4.454.0", "es": "Sandalia"}
+{"key": "item/ItemTable.tbb#4.455.0", "es": "Tenis"}
+{"key": "item/ItemTable.tbb#4.456.0", "es": "Suéter"}
+{"key": "item/ItemTable.tbb#4.457.0", "es": "Falda"}
+{"key": "item/ItemTable.tbb#4.458.0", "es": "Chaleco"}
+{"key": "item/ItemTable.tbb#4.459.0", "es": "Camiseta"}
+{"key": "item/ItemTable.tbb#4.460.0", "es": "Botas"}
+{"key": "item/ItemTable.tbb#4.461.0", "es": "Camisola"}
+{"key": "item/ItemTable.tbb#4.462.0", "es": "Ropa interior"}
+{"key": "item/ItemTable.tbb#4.463.0", "es": "Parka"}
+{"key": "item/ItemTable.tbb#4.464.0", "es": "Abrigo largo"}
+{"key": "item/ItemTable.tbb#4.465.0", "es": "Traje de baño"}
+{"key": "item/ItemTable.tbb#4.466.0", "es": "Jeans"}
+{"key": "item/ItemTable.tbb#4.467.0", "es": "Kimono"}
+{"key": "item/ItemTable.tbb#4.468.0", "es": "Tacones"}
+{"key": "item/ItemTable.tbb#4.469.0", "es": "Corsé"}
+{"key": "item/ItemTable.tbb#4.470.0", "es": "Traje de sirvienta"}
+{"key": "item/ItemTable.tbb#4.471.0", "es": "Chaqueta de cuero"}
+{"key": "item/ItemTable.tbb#4.472.0", "es": "Traje elegante"}
+{"key": "item/ItemTable.tbb#4.473.0", "es": "Zapatos elegantes"}
+{"key": "item/ItemTable.tbb#4.474.0", "es": "Vestido elegante"}
+{"key": "item/ItemTable.tbb#4.476.0", "es": "Piroxeno"}
+{"key": "item/ItemTable.tbb#4.481.0", "es": "Tectita"}
+{"key": "item/ItemTable.tbb#4.486.0", "es": "Acondrita"}
+{"key": "item/ItemTable.tbb#4.487.0", "es": "Condrita"}
+{"key": "item/ItemTable.tbb#4.491.0", "es": "Octaedrita"}
+{"key": "item/ItemTable.tbb#4.492.0", "es": "Hexaedrita"}
+{"key": "item/ItemTable.tbb#4.493.0", "es": "Ataxita"}
+{"key": "item/ItemTable.tbb#4.496.0", "es": "Mesosiderita"}
+{"key": "item/ItemTable.tbb#4.497.0", "es": "Palasita"}
+{"key": "item/ItemTable.tbb#4.508.0", "es": "VHS"}
+{"key": "item/ItemTable.tbb#6.0.0", "es": "Cuerda de límites"}
+{"key": "item/ItemTable.tbb#6.1.0", "es": "Incienso de Fu (pequeño)"}
+{"key": "item/ItemTable.tbb#6.2.0", "es": "Incienso de Ma (pequeño)"}
+{"key": "item/ItemTable.tbb#6.3.0", "es": "Incienso de De (pequeño)"}
+{"key": "item/ItemTable.tbb#6.4.0", "es": "Incienso de Ag (pequeño)"}
+{"key": "item/ItemTable.tbb#6.5.0", "es": "Incienso de Su (pequeño)"}
+{"key": "item/ItemTable.tbb#6.6.0", "es": "Incienso de PS"}
+{"key": "item/ItemTable.tbb#6.7.0", "es": "Incienso de PM"}
+{"key": "item/ItemTable.tbb#6.8.0", "es": "Piedra Agi"}
+{"key": "item/ItemTable.tbb#6.9.0", "es": "Piedra Bufu"}
+{"key": "item/ItemTable.tbb#6.10.0", "es": "Piedra Zio"}
+{"key": "item/ItemTable.tbb#6.11.0", "es": "Piedra Zan"}
+{"key": "item/ItemTable.tbb#6.12.0", "es": "Piedra Hama"}
+{"key": "item/ItemTable.tbb#6.13.0", "es": "Piedra Hamaon"}
+{"key": "item/ItemTable.tbb#6.14.0", "es": "Piedra Mudo"}
+{"key": "item/ItemTable.tbb#6.15.0", "es": "Piedra Mudoon"}
+{"key": "item/ItemTable.tbb#6.16.0", "es": "Agua seductora"}
+{"key": "item/ItemTable.tbb#6.17.0", "es": "Kit de mejora de espada"}
+{"key": "item/ItemTable.tbb#6.18.0", "es": "Kit de mejora de arma"}
+{"key": "item/ItemTable.tbb#6.19.0", "es": "Kit de mejora de armadura"}
+{"key": "item/ItemTable.tbb#6.20.0", "es": "Bezoar de buey"}
+{"key": "item/ItemTable.tbb#6.21.0", "es": "Bebida energética"}
+{"key": "item/ItemTable.tbb#6.22.0", "es": "Tarjeta de 5 puntos"}
+{"key": "item/ItemTable.tbb#6.23.0", "es": "Piedra del destino"}
+{"key": "item/ItemTable.tbb#6.24.0", "es": "Táctica: físico"}
+{"key": "item/ItemTable.tbb#6.25.0", "es": "Táctica: disparo"}
+{"key": "item/ItemTable.tbb#6.26.0", "es": "Táctica: fuego"}
+{"key": "item/ItemTable.tbb#6.27.0", "es": "Táctica: hielo"}
+{"key": "item/ItemTable.tbb#6.28.0", "es": "Táctica: electricidad"}
+{"key": "item/ItemTable.tbb#6.29.0", "es": "Táctica: choque"}
+{"key": "item/ItemTable.tbb#6.30.0", "es": "Táctica: luz"}
+{"key": "item/ItemTable.tbb#6.31.0", "es": "Táctica: oscuridad"}
+{"key": "item/ItemTable.tbb#6.32.0", "es": "Táctica: todopoderoso"}
+{"key": "item/ItemTable.tbb#6.33.0", "es": "Táctica: curativo"}
+{"key": "item/ItemTable.tbb#6.34.0", "es": "Táctica: apoyo"}
+{"key": "item/ItemTable.tbb#6.35.0", "es": "Táctica: estado alterado"}
+{"key": "item/ItemTable.tbb#6.36.0", "es": "Vale del compendio"}
+{"key": "item/ItemTable.tbb#6.37.0", "es": "Diamante"}
+{"key": "item/ItemTable.tbb#6.38.0", "es": "Granate"}
+{"key": "item/ItemTable.tbb#6.39.0", "es": "Esmeralda"}
+{"key": "item/ItemTable.tbb#6.40.0", "es": "Gema de curación total"}
+{"key": "item/ItemTable.tbb#6.41.0", "es": "Reliquia de resurrección"}
+{"key": "item/ItemTable.tbb#6.42.0", "es": "Reloj de arena"}
+{"key": "item/ItemTable.tbb#6.43.0", "es": "???"}
+{"key": "item/ItemTable.tbb#6.44.0", "es": "???"}
+{"key": "item/ItemTable.tbb#6.45.0", "es": "???"}
+{"key": "item/ItemTable.tbb#6.46.0", "es": "???"}

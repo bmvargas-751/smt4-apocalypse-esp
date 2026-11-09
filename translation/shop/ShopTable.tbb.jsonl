@@ -1,0 +1,103 @@
+{"key": "shop/ShopTable.tbb#0.0.0", "es": "Comprar armas"}
+{"key": "shop/ShopTable.tbb#0.0.64", "es": "Compra distintos tipos de armas"}
+{"key": "shop/ShopTable.tbb#0.1.0", "es": "Comprar traje"}
+{"key": "shop/ShopTable.tbb#0.1.64", "es": "Compra varias armaduras"}
+{"key": "shop/ShopTable.tbb#0.2.0", "es": "Comprar objeto"}
+{"key": "shop/ShopTable.tbb#0.2.64", "es": "Ver los objetos disponibles"}
+{"key": "shop/ShopTable.tbb#0.3.0", "es": "Vender bienes"}
+{"key": "shop/ShopTable.tbb#0.3.64", "es": "Vende tu inventario"}
+{"key": "shop/ShopTable.tbb#0.4.0", "es": "Espadas"}
+{"key": "shop/ShopTable.tbb#0.4.64", "es": "Ver las espadas disponibles"}
+{"key": "shop/ShopTable.tbb#0.5.0", "es": "Armas de fuego"}
+{"key": "shop/ShopTable.tbb#0.5.64", "es": "Ver armas de fuego disponibles"}
+{"key": "shop/ShopTable.tbb#0.6.0", "es": "Balas"}
+{"key": "shop/ShopTable.tbb#0.6.64", "es": "Ver las balas disponibles"}
+{"key": "shop/ShopTable.tbb#0.7.0", "es": "Cabeza"}
+{"key": "shop/ShopTable.tbb#0.7.64", "es": "Ver equipo de cabeza disponible"}
+{"key": "shop/ShopTable.tbb#0.8.0", "es": "Torso"}
+{"key": "shop/ShopTable.tbb#0.8.64", "es": "Ver equipo de torso disponible"}
+{"key": "shop/ShopTable.tbb#0.9.0", "es": "Piernas"}
+{"key": "shop/ShopTable.tbb#0.9.64", "es": "Ver equipo de piernas disponible"}
+{"key": "shop/ShopTable.tbb#0.10.0", "es": "Accesorios"}
+{"key": "shop/ShopTable.tbb#0.10.64", "es": "Ver los accesorios disponibles"}
+{"key": "shop/ShopTable.tbb#1.0.0", "es": "Tienda de armas ficticia"}
+{"key": "shop/ShopTable.tbb#1.0.40", "es": "Ficticio"}
+{"key": "shop/ShopTable.tbb#1.0.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.1.0", "es": "Mercado negro"}
+{"key": "shop/ShopTable.tbb#1.1.40", "es": "Una tienda en Shinjuku."}
+{"key": "shop/ShopTable.tbb#1.1.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.2.0", "es": "Mercado negro"}
+{"key": "shop/ShopTable.tbb#1.2.40", "es": "Una tienda en Shibuya."}
+{"key": "shop/ShopTable.tbb#1.2.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.3.0", "es": "Mercado negro"}
+{"key": "shop/ShopTable.tbb#1.3.40", "es": "Una tienda en Ikebukuro."}
+{"key": "shop/ShopTable.tbb#1.3.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.4.0", "es": "Mercado negro"}
+{"key": "shop/ShopTable.tbb#1.4.40", "es": "Una tienda en Ginza."}
+{"key": "shop/ShopTable.tbb#1.4.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.5.0", "es": "Mercado negro"}
+{"key": "shop/ShopTable.tbb#1.5.40", "es": "Una tienda en Ueno."}
+{"key": "shop/ShopTable.tbb#1.5.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.6.0", "es": "Club exclusivo"}
+{"key": "shop/ShopTable.tbb#1.6.40", "es": "Un club exclusivo en Ginza."}
+{"key": "shop/ShopTable.tbb#1.6.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.7.0", "es": "Club exclusivo"}
+{"key": "shop/ShopTable.tbb#1.7.40", "es": "Un club exclusivo en Ginza."}
+{"key": "shop/ShopTable.tbb#1.7.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.8.0", "es": "Herrería de S"}
+{"key": "shop/ShopTable.tbb#1.8.40", "es": "Tienda del Reino de Mikado."}
+{"key": "shop/ShopTable.tbb#1.8.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.9.0", "es": "Tienda de armas"}
+{"key": "shop/ShopTable.tbb#1.9.40", "es": "Una tienda en Kasumigaseki."}
+{"key": "shop/ShopTable.tbb#1.9.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.10.0", "es": "Tienda de armas"}
+{"key": "shop/ShopTable.tbb#1.10.40", "es": "Tienda en Shinjuku infernal."}
+{"key": "shop/ShopTable.tbb#1.10.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.11.0", "es": "Tienda de armas"}
+{"key": "shop/ShopTable.tbb#1.11.40", "es": "Tienda en Shibuya infernal."}
+{"key": "shop/ShopTable.tbb#1.11.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.12.0", "es": "Mercado negro"}
+{"key": "shop/ShopTable.tbb#1.12.40", "es": "Una tienda en Kinshicho."}
+{"key": "shop/ShopTable.tbb#1.12.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.13.0", "es": "Tienda de objetos ficticia"}
+{"key": "shop/ShopTable.tbb#1.13.40", "es": "Ficticio"}
+{"key": "shop/ShopTable.tbb#1.13.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.14.0", "es": "Antigua tienda Ashura-kai"}
+{"key": "shop/ShopTable.tbb#1.14.40", "es": "Una tienda en Shinjuku."}
+{"key": "shop/ShopTable.tbb#1.14.108", "es": "Tienda oficial Ashura-kai"}
+{"key": "shop/ShopTable.tbb#1.15.0", "es": "Antigua tienda Ashura-kai"}
+{"key": "shop/ShopTable.tbb#1.15.40", "es": "Una tienda en Shibuya."}
+{"key": "shop/ShopTable.tbb#1.15.108", "es": "Tienda oficial Ashura-kai"}
+{"key": "shop/ShopTable.tbb#1.16.0", "es": "Antigua tienda Ashura-kai"}
+{"key": "shop/ShopTable.tbb#1.16.40", "es": "Una tienda en Ikebukuro."}
+{"key": "shop/ShopTable.tbb#1.16.108", "es": "Tienda oficial Ashura-kai"}
+{"key": "shop/ShopTable.tbb#1.17.0", "es": "Antigua tienda Ashura-kai"}
+{"key": "shop/ShopTable.tbb#1.17.40", "es": "Una tienda en Ginza."}
+{"key": "shop/ShopTable.tbb#1.17.108", "es": "Tienda oficial Ashura-kai"}
+{"key": "shop/ShopTable.tbb#1.18.0", "es": "Club exclusivo"}
+{"key": "shop/ShopTable.tbb#1.18.40", "es": "Un club exclusivo en Ginza."}
+{"key": "shop/ShopTable.tbb#1.18.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.19.0", "es": "Antigua tienda Ashura-kai"}
+{"key": "shop/ShopTable.tbb#1.19.40", "es": "Una tienda en Ueno."}
+{"key": "shop/ShopTable.tbb#1.19.108", "es": "Tienda oficial Ashura-kai"}
+{"key": "shop/ShopTable.tbb#1.20.0", "es": "Tienda oficial Ashura-kai"}
+{"key": "shop/ShopTable.tbb#1.20.40", "es": "Una tienda en Toyosu."}
+{"key": "shop/ShopTable.tbb#1.20.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.21.0", "es": "Tienda oficial Ashura-kai"}
+{"key": "shop/ShopTable.tbb#1.21.40", "es": "Una tienda en Tennozu."}
+{"key": "shop/ShopTable.tbb#1.21.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.22.0", "es": "Botica de C "}
+{"key": "shop/ShopTable.tbb#1.22.40", "es": "Tienda del Reino de Mikado."}
+{"key": "shop/ShopTable.tbb#1.22.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.23.0", "es": "Farmacia"}
+{"key": "shop/ShopTable.tbb#1.23.40", "es": "Tienda en Shinjuku arrasado. "}
+{"key": "shop/ShopTable.tbb#1.23.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.24.0", "es": "Farmacia"}
+{"key": "shop/ShopTable.tbb#1.24.40", "es": "Tienda en Shinjuku infernal."}
+{"key": "shop/ShopTable.tbb#1.24.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.25.0", "es": "Farmacia"}
+{"key": "shop/ShopTable.tbb#1.25.40", "es": "Tienda en Shibuya infernal."}
+{"key": "shop/ShopTable.tbb#1.25.108", "es": "0"}
+{"key": "shop/ShopTable.tbb#1.26.0", "es": "Antigua tienda Ashura-kai"}
+{"key": "shop/ShopTable.tbb#1.26.40", "es": "Una tienda en Kinshicho."}
+{"key": "shop/ShopTable.tbb#1.26.108", "es": "Tienda oficial Ashura-kai"}

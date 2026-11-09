@@ -1,0 +1,13 @@
+{"key": "event/quest/QuestUITable.tbb#0.0.1", "es": "Una misión en curso."}
+{"key": "event/quest/QuestUITable.tbb#0.1.1", "es": "Una misión que se puede aceptar."}
+{"key": "event/quest/QuestUITable.tbb#0.2.1", "es": "Una misión que se puede aceptar.\nPuedes tomarla varias veces."}
+{"key": "event/quest/QuestUITable.tbb#0.3.1", "es": "Una misión completada."}
+{"key": "event/quest/QuestUITable.tbb#0.4.1", "es": "Una misión que se puede completar.\nPuedes tomarla varias veces."}
+{"key": "event/quest/QuestUITable.tbb#0.5.1", "es": "Una misión que no se puede aceptar\npor ahora."}
+{"key": "event/quest/QuestUITable.tbb#0.6.1", "es": "Una misión en pausa."}
+{"key": "event/quest/QuestUITable.tbb#0.7.1", "es": "Los objetos pedidos están listos.\nEntrégalos en la Taberna de K."}
+{"key": "event/quest/QuestUITable.tbb#0.8.1", "es": "Los objetos pedidos están listos.\nEntrégalos en la Asociación de Cazadores."}
+{"key": "event/quest/QuestUITable.tbb#0.9.1", "es": "Los objetos pedidos están listos.\nEntrégalos en el lugar indicado."}
+{"key": "event/quest/QuestUITable.tbb#0.10.1", "es": "Recibiste un mensaje de agradecimiento\ndel cliente."}
+{"key": "event/quest/QuestUITable.tbb#0.11.1", "es": "Una misión que empieza al aceptarla.\nAcéptala presionando el botón A."}
+{"key": "event/quest/QuestUITable.tbb#0.12.1", "es": "Presiona el botón A para recibir el objeto."}

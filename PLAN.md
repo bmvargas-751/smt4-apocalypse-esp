@@ -72,8 +72,8 @@ Antes de esto no se decide nada más.
 
 Datos e interfaz primero; después la historia en orden, las secundarias y las negociaciones por personalidad. Siempre por delante de la partida. Qué entra en cada sección: [translation/README.md](translation/README.md).
 
-- [ ] 6.1 Interfaz
-- [ ] 6.2 Tablas
+- [x] 6.1 Interfaz (2026-11-08)
+- [x] 6.2 Tablas (2026-11-09)
 - [ ] 6.3 Datos
 - [ ] 6.4 Historia
 - [ ] 6.5 Secundarias
