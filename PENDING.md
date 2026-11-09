@@ -51,3 +51,7 @@ Candidatos de SMT V que en IVA tienen otro sentido (G-2). No salen en la Interfa
 ### Lote interfaz-001 (2026-11-08)
 
 - [ ] `battle/Common/common.mbm#54` (reviewer, sin regla): «gracias a Ánimo perdurable» → «(decidir en el glosario)». «Enduring Cheer» no está en el glosario; «Enduring Soul» es «Alma inmortal». Falta decidir si «Enduring» va igual (inmortal) o distinto (perdurable).
+
+### Lote interfaz-003 (2026-11-08)
+
+- [ ] `unite/unite.mbm#62` (reviewer, duda): *Foul Slime* → «Limo fétido» (provisional) o «Fétido Limo». IVA escribe raza + nombre en 133 líneas (*Fairy Napaea*, *Night Mokoi*); SMT V nunca los junta en el texto y usa la raza como sustantivo (*Foul Talisman* ⇒ *Talismán de Fétido*). Se decide con las Negociaciones o las Tablas, como regla para todos.

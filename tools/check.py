@@ -123,8 +123,8 @@ def check(key, es):
         warn("caracteres", "T-5", "la fuente no tiene: " + " ".join(missing))
 
     if not re.match(r"[\s.…—]*[a-záéíóúñ]", ves.strip()):
-        # «?» suelto, tras «x» o tras coma es un valor desconocido («elemento ? x?, ?»), no una pregunta
-        if len(re.findall(r"(?<![\sx,(/])\?", " " + ves)) > ves.count("¿"):
+        # «?» suelto, tras «x», tras coma o entre comillas («???») es un valor desconocido, no una pregunta
+        if len(re.findall(r"(?<![\sx,(/?“\"«])\?", " " + ves)) > ves.count("¿"):
             warn("falta_apertura", "E-52", "falta ¿")
         if ves.count("!") > ves.count("¡"):
             warn("falta_apertura", "E-52", "falta ¡")

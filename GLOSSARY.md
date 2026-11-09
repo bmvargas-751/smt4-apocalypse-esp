@@ -190,6 +190,9 @@ La etiqueta *System* (unite/unite.mbm#111) va como «Sistema». No está en la t
 | Merkabah | Merkabah | Decidido 2026-11-08 (G-2) | Nombre propio. |
 | Divine Powers | Poderes Divinos | Decidido 2026-11-08 (G-2) | Un grupo de dioses, no la raza *Divine* (que se decide en Tablas). |
 | Mitra-Buddha | Mitra-Buda | Decidido 2026-11-08 (G-2) | |
+| performance | capacidades | Decidido 2026-11-08 (G-2) | Las de un demonio, en la búsqueda de fusión. |
+
+Opciones del menú de fusión (provisional, se comprueban en el juego): *Search* → «Buscar», *Special* → «Especial», *End* → «Terminar». No van en la tabla porque son palabras comunes en otras frases.
 
 Pisos del ascensor (provisional, se comprueba en el juego): *1F, 2F...* → «P1, P2...»; *B1, B2...* → «S1, S2...». No van en la tabla porque son opciones sueltas.
 
