@@ -5,7 +5,7 @@
 {"key": "battle/SkillHelpMess.mbm#5", "es": "Ataque medio de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#6", "es": "Ataque intenso de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#7", "es": "1-4 ataques débiles de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#8", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa: perforación{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#8", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa maliciosa: perforación{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#9", "es": "1-4 ataques medios de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#10", "es": "Ataque débil de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#11", "es": "Ataque medio de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
@@ -15,7 +15,7 @@
 {"key": "battle/SkillHelpMess.mbm#15", "es": "Ataque intenso de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#16", "es": "1-4 ataques débiles de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#17", "es": "1-4 ataques medios de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#18", "es": "Ataque intenso de {F87D}{0E00}. Muerte instantánea posible{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#18", "es": "Ataque intenso de tipo {F87D}{0E00}. Muerte instantánea posible{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#19", "es": "Ataque débil de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#20", "es": "Ataque medio de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#21", "es": "Ataque intenso de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
@@ -32,13 +32,13 @@
 {"key": "battle/SkillHelpMess.mbm#32", "es": "Ataque medio de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#33", "es": "Ataque intenso de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#34", "es": "1-4 ataques débiles de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#35", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa: perforación{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#35", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa maliciosa: perforación{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#36", "es": "1-4 ataques medios de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#37", "es": "Ataque débil de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#38", "es": "Ataque medio de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#39", "es": "Ataque intenso de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#40", "es": "Ataque extremo de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#41", "es": "Ataque extremo {F87D}{0E00}, sonrisa: estadísticas disminuidas{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#41", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa maliciosa: estadísticas disminuidas{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#42", "es": "Ataque medio de tipo {F87D}{0E00}. Inflige Pánico{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#43", "es": "Ataque de tipo {F87D}{0E00}. Fuerte contra demonios del Caos{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#44", "es": "Ataque de tipo {F87D}{0E00}. Fuerte contra demonios neutrales{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
@@ -46,16 +46,16 @@
 {"key": "battle/SkillHelpMess.mbm#46", "es": "Ataque de tipo {F87D}{0E00}. Absorbe PS del enemigo{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#47", "es": "Ataque de tipo {F87D}{0E00}. Absorbe PM del enemigo{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#48", "es": "Ataque de tipo {F87D}{0E00}. Absorbe PS/PM del enemigo{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#49", "es": "Ataque débil de tipo {F87D}{0E00}. Sonrisa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#50", "es": "Ataque intenso de {F87D}{0E00}. Sonrisa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#51", "es": "Ataque débil de tipo {F87D}{0E00}. Sonrisa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#52", "es": "Ataque intenso de {F87D}{0E00}. Sonrisa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#53", "es": "Ataque extremo de {F87D}{0E00}. Sonrisa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#54", "es": "Ataque débil de tipo {F87D}{0E00}. Sonrisa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#55", "es": "Ataque intenso de {F87D}{0E00}. Sonrisa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#56", "es": "Ataque débil de tipo {F87D}{0E00}. Sonrisa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#57", "es": "Ataque intenso de {F87D}{0E00}. Sonrisa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#58", "es": "Ataque extremo de {F87D}{0E00}. Sonrisa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#49", "es": "Ataque débil de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#50", "es": "Ataque intenso de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#51", "es": "Ataque débil de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#52", "es": "Ataque intenso de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#53", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#54", "es": "Ataque débil de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#55", "es": "Ataque intenso de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#56", "es": "Ataque débil de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#57", "es": "Ataque intenso de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#58", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#59", "es": "Inflige el estado alterado Sueño{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#60", "es": "Inflige el estado alterado Sueño{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#61", "es": "Inflige el estado alterado Veneno{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
@@ -94,8 +94,8 @@
 {"key": "battle/SkillHelpMess.mbm#94", "es": "Revive del K.O. con todos los PS{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#95", "es": "Revive con todos los PS a costa de su vida{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#96", "es": "2-4 ataques intensos de tipo {F87D}{0E00}. Sonrisa maliciosa: defensa disminuida. Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#97", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa: perforación{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#98", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa: perforación{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#97", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa maliciosa: perforación{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#98", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa maliciosa: perforación{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#99", "es": "Inflige el estado alterado Silencio{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#100", "es": "Inflige el estado alterado Silencio{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#101", "es": "Aumenta el ataque físico{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
@@ -123,7 +123,7 @@
 {"key": "battle/SkillHelpMess.mbm#123", "es": "Aplica todos los efectos positivos; reduce PS a 1{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#124", "es": "Invoca a un demonio aliado{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#125", "es": "Invoca a un demonio aliado y lo revive del K.O.{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#126", "es": "Ataque intenso de {F87D}{0E00}. Sonrisa maliciosa: perforación{F801}Objetivo: {F87D}{0F00}. Efecto: estadísticas disminuidas{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#126", "es": "Ataque intenso de tipo {F87D}{0E00}. Sonrisa maliciosa: perforación{F801}Objetivo: {F87D}{0F00}. Efecto: estadísticas disminuidas{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#127", "es": "Invoca demonios de mayor nivel de tu hueste{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#128", "es": "Restaura PS{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#129", "es": "Restaura muchos PS{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
@@ -131,9 +131,9 @@
 {"key": "battle/SkillHelpMess.mbm#131", "es": "Restaura muchos PS{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#132", "es": "Provoca sonrisa maliciosa{F801}Objetivo: {F87D}{0F00}. Condición: sin estados alterados{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#133", "es": "Quita la sonrisa maliciosa{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#134", "es": "Ataque intenso de {F87D}{0E00}. Sonrisa maliciosa: perforación{F801}Objetivo: {F87D}{0F00}. Efecto: Pánico{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#134", "es": "Ataque intenso de tipo {F87D}{0E00}. Sonrisa maliciosa: perforación{F801}Objetivo: {F87D}{0F00}. Efecto: Pánico{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#135", "es": "Inflige el 66% de los PS del objetivo como daño de tipo {F87D}{0E00}. Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#136", "es": "Ataque extremo de {F87D}{0E00}. Sonrisa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#136", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#137", "es": "Escape asegurado cuando es posible{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#138", "es": "Aumenta los PS máximos durante el combate{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#139", "es": "Provoca sonrisa maliciosa y aumenta al máximo el ataque y la magia. Objetivo: {F87D}{0F00}{F801}{FFFF}"}
@@ -181,7 +181,7 @@
 {"key": "battle/SkillHelpMess.mbm#181", "es": "Ataque débil de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#182", "es": "Ataque medio de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#183", "es": "Ataque intenso de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#184", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa: perforación{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#184", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa maliciosa: perforación{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#185", "es": "Ataque débil de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#186", "es": "Ataque medio de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#187", "es": "Ataque intenso de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
@@ -232,8 +232,8 @@
 {"key": "battle/SkillHelpMess.mbm#233", "es": "Evita los estados alterados hasta el próximo turno{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#234", "es": "Ataque medio de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}. Efecto: perforación, defensa disminuida{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#235", "es": "Ataque medio de tipo {F87D}{0E00}. Los estados alterados aumentan la potencia. Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#236", "es": "Absorbe la debilidad hasta tu próximo turno{F801}Objetivo: {F87D}{0F00}. Activación: sonrisa y efectos positivos{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#237", "es": "Ataque débil de {F87D}{0E00}. Sonrisa maliciosa: más potencia{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#236", "es": "Absorbe la debilidad hasta tu próximo turno{F801}Objetivo: {F87D}{0F00}. Activación: sonrisa maliciosa y efectos positivos{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#237", "es": "Ataque débil de tipo {F87D}{0E00}. Sonrisa maliciosa: más potencia{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#238", "es": "Inflige Veneno, Enfermedad y Atadura{F801}Objetivo: {F87D}{0F00}. Efecto: Ataque disminuido{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#239", "es": "Inflige Sueño, Pánico y Encanto{F801}Objetivo: {F87D}{0F00}. Efecto: Defensa disminuida{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#240", "es": "Puede hacer un ataque físico al inicio del combate{F801}Efecto: perforación, muerte instantánea{F801}{FFFF}"}
@@ -250,9 +250,9 @@
 {"key": "battle/SkillHelpMess.mbm#252", "es": "2-3 ataques intensos de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#253", "es": "Cambia tu debilidad cuando la aprovechan{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#254", "es": "Inflige Encanto{F801}Objetivo: {F87D}{0F00}. Efecto: reduce al máximo la defensa{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#255", "es": "Ataque extremo de {F87D}{0E00}. Sonrisa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#255", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#256", "es": "Ataque de {F87D}{0E00}. Resistencia a la luz afecta la potencia{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#257", "es": "Ataque extremo de {F87D}{0E00}. Sonrisa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#257", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#258", "es": "2 ataques extremos de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}. Efecto: perforación{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#259", "es": "Aumenta al máximo defensa y precisión/evasión{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#260", "es": "Al recibir el siguiente golpe, inflige el mismo daño. Sonrisa maliciosa: continuo. Objetivo: {F87D}{0F00}{F801}{FFFF}"}
@@ -289,7 +289,7 @@
 {"key": "battle/SkillHelpMess.mbm#291", "es": "Anula Dekaja durante un turno{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#292", "es": "Ataque de tipo {F87D}{0E00} que reduce los PS a 1{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#293", "es": "Ataque de tipo {F87D}{0E00}. Absorbe PM del enemigo{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#294", "es": "Ataque extremo de {F87D}{0E00}. Sonrisa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#294", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#295", "es": "Anula todos los efectos de apoyo{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#296", "es": "Ataque medio de tipo {F87D}{0F00}. Inflige Atadura/Pánico/Encanto Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#297", "es": "Ataque de muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
@@ -319,7 +319,7 @@
 {"key": "battle/SkillHelpMess.mbm#321", "es": "Añade 3 iconos de acción{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#322", "es": "2-3 ataques intensos de tipo {F87D}{0E00}. Inflige Atadura{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#323", "es": "Reduce ataque, defensa y precisión/evasión{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#324", "es": "Ataque extremo de {F87D}{0E00}. Sonrisa: el doble de daño{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#324", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa maliciosa: el doble de daño{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#325", "es": "Ataque extremo de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#326", "es": "Ataque extremo de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}. Efecto: defensa disminuida{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#327", "es": "Ataque intenso de tipo {F87D}{0E00}. Crítico alto{F801}Objetivo: {F87D}{0F00}. Efecto: perforación{F801}{FFFF}"}
@@ -330,8 +330,8 @@
 {"key": "battle/SkillHelpMess.mbm#332", "es": "4 ataques intensos de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}. Efecto: perforación{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#333", "es": "Ataque extremo de tipo {F87D}{0E00}. Gana debilidad al hielo{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#334", "es": "Ataque extremo de tipo {F87D}{0E00}. Gana debilidad al fuego{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#335", "es": "Ataque extremo de {F87D}{0E00}. Gana debilidad al choque{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#336", "es": "Ataque extremo de {F87D}{0E00}. Gana debilidad a electricidad{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#335", "es": "Ataque extremo de tipo {F87D}{0E00}. Gana debilidad al choque{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#336", "es": "Ataque extremo de tipo {F87D}{0E00}. Gana debilidad a electricidad{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#337", "es": "1-5 ataques extremos de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#338", "es": "Ataque de tipo {F87D}{0E00}. Muy eficaz contra YHVH{F801}Objetivo: {F87D}{0F00}. Efecto: debilita una resistencia al azar{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#339", "es": "Ataque débil de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
@@ -341,7 +341,7 @@
 {"key": "battle/SkillHelpMess.mbm#343", "es": "Ataque débil de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}. Efecto: quita los efectos positivos{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#344", "es": "El próximo ataque mágico causa 2.5 veces el daño{F801}Objetivo: {F87D}{0F00}. Efecto: perforación{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#345", "es": "Ataque de tipo {F87D}{0E00}. Absorbe PS/PM del enemigo{F801}Objetivo: {F87D}{0F00}. Sonrisa maliciosa: más potencia{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#346", "es": "Ataque intenso de {F87D}{0E00}. Sonrisa: muerte instantánea{F801}Objetivo: {F87D}{0F00}. Efecto: defensa disminuida{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#346", "es": "Ataque intenso de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}. Efecto: defensa disminuida{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#347", "es": "Ataque intenso de tipo {F87D}{0E00}. Objetivo: {F87D}{0F00}{F801}Efecto: defensa y precisión/evasión disminuidas{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#348", "es": "Ataque intenso de tipo {F87D}{0E00}. Absorbe PS del enemigo{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#349", "es": "Ataque extremo de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
@@ -356,23 +356,23 @@
 {"key": "battle/SkillHelpMess.mbm#358", "es": "Reduce al máximo todas las estadísticas{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#359", "es": "Ataque débil de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#360", "es": "3-4 ataques intensos de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#361", "es": "Ataque débil de {F87D}{0E00}. Sonrisa maliciosa: más potencia{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#361", "es": "Ataque débil de tipo {F87D}{0E00}. Sonrisa maliciosa: más potencia{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#362", "es": "Ataque extremo de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#363", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa: perforación{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#363", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa maliciosa: perforación{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#364", "es": "Ataque extremo de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}. Condición: solo con sonrisa maliciosa{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#365", "es": "Ataque extremo de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}. Condición: solo con sonrisa maliciosa{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#366", "es": "Ataque medio de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#367", "es": "Ataque medio de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#368", "es": "Ataque medio de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#369", "es": "Ataque medio de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#370", "es": "Ataque intenso de {F87D}{0E00}. Sonrisa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#371", "es": "Ataque intenso de {F87D}{0E00}. Sonrisa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#370", "es": "Ataque intenso de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#371", "es": "Ataque intenso de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#372", "es": "Ataque medio de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#373", "es": "Repele ataques físicos/de disparo por un turno{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#374", "es": "Repele ataques mágicos sin estado por un turno{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#375", "es": "Quita los efectos positivos{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#376", "es": "Quita los efectos negativos{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#377", "es": "Ataque intenso de {F87D}{0E00}. Sonrisa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#377", "es": "Ataque intenso de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#378", "es": "Inflige el estado alterado Encanto{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#379", "es": "2-4 ataques intensos de tipo {F87D}{0E00}. Inflige Mareo{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#380", "es": "Sin efecto{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
@@ -394,7 +394,7 @@
 {"key": "battle/SkillHelpMess.mbm#396", "es": "Ataque intenso de tipo {F87D}{0E00}. Inflige Silencio{F801}Objetivo: {F87D}{0F00}. Efecto: Precisión/evasión disminuida{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#397", "es": "Aumenta mucho la precisión/evasión{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#398", "es": "Ataque débil de tipo {F87D}{0E00}. Estados alterados aumentan potencia. Objetivo: {F87D}{0F00}. Efecto: perforación{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#399", "es": "Ataque débil de tipo {F87D}{0E00}. Sonrisa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#399", "es": "Ataque débil de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#400", "es": "Ataque débil de tipo {F87D}{0E00}. Inflige Encanto{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#401", "es": "Aumenta la resistencia a los ataques físicos{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#402", "es": "Anula los ataques físicos{F801}{FFFF}"}

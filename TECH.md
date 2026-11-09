@@ -16,6 +16,7 @@ Lo que el juego necesita para que el texto no se rompa. Cada regla tiene un núm
 - **T-3** La caja:
   - **Mensajes:** el instalador parte cada renglón por palabras para que ninguno pase del renglón más ancho del inglés en el mismo archivo, medido en píxeles con la fuente del juego. Así, una página no puede tener más renglones que la página más larga del inglés en ese archivo. (`caja`)
   - **Tablas:** ningún renglón puede ser más ancho que el más ancho del inglés en la misma columna, ni tener más renglones que el inglés. (`ancho`, `renglones`)
+  - Este límite es el del inglés, no el de la pantalla: el juego puede tener más lugar, y solo la prueba en el juego lo dice. Por eso el aviso no obliga a recortar. Se permiten abreviaturas reconocibles («Ac. de combate», «Asoc.», «máx.»); nunca se quitan palabras ni se acorta de forma que se pierda el sentido («quita positivos» por «quita efectos positivos», «Sonrisa:» por «Sonrisa maliciosa:», «Entr. Matadioses»). Si la forma completa no cabe, va completa y con su aviso, y se revisa en el juego. El largo en bytes de las tablas (T-4) sí es un límite duro. [DECISIONS 2026-11-09]
 
 ## Tablas (`.tbb`)
 
