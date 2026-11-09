@@ -1,7 +1,67 @@
+{"key": "unite/SearchTable.tbb#0.0.8", "es": "Demonio que incluir"}
+{"key": "unite/SearchTable.tbb#0.0.68", "es": "Este demonio siempre se usará en las\nfusiones."}
+{"key": "unite/SearchTable.tbb#0.1.8", "es": "Demonio que excluir"}
+{"key": "unite/SearchTable.tbb#0.1.68", "es": "Este demonio nunca se usará en las fusiones."}
+{"key": "unite/SearchTable.tbb#0.2.8", "es": "Más"}
+{"key": "unite/SearchTable.tbb#0.2.68", "es": "Ver u ocultar opciones de búsqueda detalladas."}
+{"key": "unite/SearchTable.tbb#0.3.8", "es": "Los 10 mejores"}
+{"key": "unite/SearchTable.tbb#0.3.68", "es": "Ver las diez mejores opciones de Mido entre\nlos resultados de la búsqueda."}
+{"key": "unite/SearchTable.tbb#0.4.8", "es": "Solo demonios nuevos"}
+{"key": "unite/SearchTable.tbb#0.4.68", "es": "Muestra solo los demonios con los que\nnunca te has aliado."}
+{"key": "unite/SearchTable.tbb#0.5.8", "es": "Aún más"}
+{"key": "unite/SearchTable.tbb#0.5.68", "es": "Ver u ocultar más opciones de búsqueda."}
+{"key": "unite/SearchTable.tbb#0.6.8", "es": "Nivel "}
+{"key": "unite/SearchTable.tbb#0.6.68", "es": "Elige un nivel para el demonio que quieres\ncrear."}
 {"key": "unite/SearchTable.tbb#0.7.8", "es": "Raza"}
+{"key": "unite/SearchTable.tbb#0.7.68", "es": "Elige la raza del demonio que quieres\ncrear."}
 {"key": "unite/SearchTable.tbb#0.8.8", "es": "Demonio"}
+{"key": "unite/SearchTable.tbb#0.8.68", "es": "Elige un demonio específico que quieres\ncrear."}
 {"key": "unite/SearchTable.tbb#0.9.8", "es": "Tipo de habilidad"}
+{"key": "unite/SearchTable.tbb#0.9.68", "es": "Elige el tipo de habilidad que quieres\nque tenga el demonio resultante."}
+{"key": "unite/SearchTable.tbb#0.10.8", "es": "Nombre de habilidad"}
+{"key": "unite/SearchTable.tbb#0.10.68", "es": "Elige una habilidad específica que quieres\nque tenga el demonio resultante."}
 {"key": "unite/SearchTable.tbb#0.11.8", "es": "Afinidades"}
+{"key": "unite/SearchTable.tbb#0.11.68", "es": "Elige la afinidad elemental que quieres\nfortalecer."}
+{"key": "unite/SearchTable.tbb#0.12.8", "es": "Opciones adicionales"}
+{"key": "unite/SearchTable.tbb#0.12.68", "es": "Ver u ocultar opciones de búsqueda\ndetalladas adicionales."}
+{"key": "unite/SearchTable.tbb#0.13.8", "es": "Incluir el compendio"}
+{"key": "unite/SearchTable.tbb#0.13.68", "es": "Incluye tu Compendio de demonios en la\nbúsqueda de fusión. *Tarda más"}
+{"key": "unite/SearchTable.tbb#0.14.8", "es": "Vale del compendio"}
+{"key": "unite/SearchTable.tbb#0.14.68", "es": "Invoca gratis a un demonio del compendio\ncon un vale."}
+{"key": "unite/SearchTable.tbb#0.15.8", "es": "Excluir Elementales"}
+{"key": "unite/SearchTable.tbb#0.15.68", "es": "Excluye la raza “Elemental” de la\nbúsqueda de fusión."}
+{"key": "unite/SearchTable.tbb#1.0.8", "es": "Charlar con Mido"}
+{"key": "unite/SearchTable.tbb#1.1.8", "es": "¿Qué es la fusión de demonios?"}
+{"key": "unite/SearchTable.tbb#1.2.8", "es": "Demonios componentes y resultantes"}
+{"key": "unite/SearchTable.tbb#1.3.8", "es": "Límite de fusión"}
 {"key": "unite/SearchTable.tbb#1.4.8", "es": "Herencia de habilidades"}
 {"key": "unite/SearchTable.tbb#1.5.8", "es": "Fusiones recomendadas"}
+{"key": "unite/SearchTable.tbb#1.6.8", "es": "Cómo usar las fusiones recomendadas"}
+{"key": "unite/SearchTable.tbb#1.7.8", "es": "¿Qué es la búsqueda de fusión?"}
+{"key": "unite/SearchTable.tbb#1.8.8", "es": "Búsqueda de fusión: cómo empezar"}
+{"key": "unite/SearchTable.tbb#1.9.8", "es": "Búsqueda de fusión: condiciones"}
+{"key": "unite/SearchTable.tbb#1.10.8", "es": "Búsqueda de fusión: elegir el demonio"}
+{"key": "unite/SearchTable.tbb#1.11.8", "es": "Búsqueda de fusión: componentes"}
+{"key": "unite/SearchTable.tbb#1.12.8", "es": "Búsqueda de fusión: elegir habilidades"}
+{"key": "unite/SearchTable.tbb#1.13.8", "es": "Búsqueda de fusión: fusionar"}
+{"key": "unite/SearchTable.tbb#1.14.8", "es": "Condiciones: demonio que incluir"}
+{"key": "unite/SearchTable.tbb#1.15.8", "es": "Condiciones: demonio que excluir"}
+{"key": "unite/SearchTable.tbb#1.16.8", "es": "Condiciones: los 10 mejores"}
+{"key": "unite/SearchTable.tbb#1.17.8", "es": "Condiciones: solo demonios nuevos"}
+{"key": "unite/SearchTable.tbb#1.18.8", "es": "Condiciones: raza"}
+{"key": "unite/SearchTable.tbb#1.19.8", "es": "Condiciones: demonio"}
+{"key": "unite/SearchTable.tbb#1.20.8", "es": "Condiciones: tipo de habilidad"}
+{"key": "unite/SearchTable.tbb#1.21.8", "es": "Condiciones: nombre de habilidad"}
+{"key": "unite/SearchTable.tbb#1.22.8", "es": "Condiciones: afinidades"}
+{"key": "unite/SearchTable.tbb#1.23.8", "es": "Condiciones: incluir compendio"}
+{"key": "unite/SearchTable.tbb#1.24.8", "es": "Condiciones: excluir Elementales"}
+{"key": "unite/SearchTable.tbb#1.25.8", "es": "¿Qué es la fusión básica?"}
+{"key": "unite/SearchTable.tbb#1.26.8", "es": "Cómo usar la fusión básica"}
+{"key": "unite/SearchTable.tbb#1.27.8", "es": "¿Qué es el Compendio de demonios?"}
+{"key": "unite/SearchTable.tbb#1.28.8", "es": "Ver el Compendio de demonios"}
+{"key": "unite/SearchTable.tbb#1.29.8", "es": "Registro en el Compendio de demonios"}
+{"key": "unite/SearchTable.tbb#1.30.8", "es": "Compendio de demonios: sobrescribir"}
+{"key": "unite/SearchTable.tbb#1.31.8", "es": "Compendio de demonios: precios"}
+{"key": "unite/SearchTable.tbb#1.32.8", "es": "Compendio de demonios: debilitado"}
 {"key": "unite/SearchTable.tbb#1.33.8", "es": "Leyes de la fusión"}
+{"key": "unite/SearchTable.tbb#1.34.8", "es": "Leyes de la fusión: raza del demonio"}
