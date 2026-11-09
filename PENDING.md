@@ -15,17 +15,13 @@ Formato: `- [ ] \`clave\` (rol, motivo): «fragmento» → «propuesta». Por qu
 Candidatos de SMT V que en IVA tienen otro sentido (G-2). No salen en la Interfaz: se deciden al llegar a su sección (DECISIONS 2026-11-08).
 
 - [ ] `Man` (terminólogo, otro sentido): «Huh? You don’t have it? Man, this sucks.» (battle/talk/TalkToneBoss51.mbm#60; 41 veces) → no se fija como término. En SMT V es una etiqueta de quien habla (*Hombre*); en IVA casi siempre es la interjección (*vaya*, *qué mala suerte*, según el tono) o parte de otra etiqueta (*Man’s voice*).
-- [ ] `Four Heavenly Kings` (terminólogo, otro sentido): «one of the Four Heavenly Kings in Buddhist lore» (status/profile.mbm#396) → «Cuatro Reyes Celestiales». En SMT V es una habilidad; en IVA, el grupo de deidades budistas.
-- [ ] `Gungnir` (terminólogo, otro sentido): «I will give you my spear, Gungnir.» (battle/event/BtlEvent041/BtlEvent041.mbm#102) → «Gungnir». En SMT V es una habilidad; en IVA, la lanza de Odín.
-- [ ] `Ragnarok` (terminólogo, otro sentido): «It is said that it will live through Ragnarok.» (status/profile.mbm#60; 11 veces) → «Ragnarok» (*el Ragnarok*). En SMT V es una habilidad; en IVA, el fin del mundo de la mitología nórdica.
-- [ ] `Universe Ring` (terminólogo, otro sentido): «Qiankun Quan (Universe Ring)» (status/profile.mbm#225) → «Anillo universal», como SMT V. En SMT V es una habilidad; en IVA, el arma de un mito.
-- [ ] `Walpurgisnacht` (terminólogo, otro sentido): «Bilwis appears on Walpurgisnacht» (status/profile.mbm#444) → «la noche de Walpurgis». En SMT V es una habilidad (*Noche de Walpurgis*); en IVA, la fiesta.
-- [ ] `Mother Earth` (terminólogo, otro sentido): «A Mother Earth goddess of Japanese lore» (status/profile.mbm#43) → «diosa madre de la tierra». En SMT V es una habilidad; en IVA, una descripción.
 - [ ] `Teacher` (terminólogo, otro sentido): «Teacher...? You’re alright, you know?» (battle/talk/TalkToneBoy.mbm#313) → no se fija: *profesor* o *maestro* según la línea. En SMT V es una etiqueta de quien habla.
 - [ ] `Concentrate` (terminólogo, otro sentido): «Concentrate your fire!» (battle/PartnerAttack.mbm#90) → no se fija; es el verbo común. En SMT V es una habilidad.
-- [ ] `Fortune` (terminólogo, otro sentido): «she turns the Wheel of Fortune» (status/profile.mbm#40; también *Seven Gods of Fortune*, #395) → no se fija; *fortuna* (*la Rueda de la Fortuna*, *los Siete Dioses de la Fortuna*). En SMT V es un objeto (*Predicción*).
 - [ ] `Confusion` (terminólogo, otro sentido): «Confusion and uncertainty is written across your friends’ faces.» (event/e063/e063.mbm#23) → no se fija; es la palabra común. En SMT V es un estado alterado que IVA no tiene (IVA usa *Panic*).
-- [ ] `Resist Fire` (terminólogo, otro sentido): «Resist Fire/Ice/Elec/Force Weak against Phys/Gun/Light/Dark» (item/ItemHelpMess.mbm#467) → «Resiste fuego/hielo/electricidad/choque». En SMT V es el nombre de una habilidad; en IVA, la descripción de las afinidades de un equipo. *Force* ⇒ *Choque* sale de SMT V.
+
+### Datos (2026-11-09)
+
+- [ ] `item/ItemTable.tbb#1.57.0` (orquestador, ancho T-3): *Expanse Meat* → «Carne de la Inmensidad», como lo decidido (*Expanse* → «Inmensidad»), no cabe en su columna: 157 px, y el inglés más ancho llega a 112 (*Gold Death Mask*). Queda «Carne del Cielo» (103 px) hasta decidir. Opciones: a) «Carne de la Inmensidad» y verlo en el juego; b) dejar «Carne del Cielo»; c) otro nombre corto.
 
 ## De los lotes
 
