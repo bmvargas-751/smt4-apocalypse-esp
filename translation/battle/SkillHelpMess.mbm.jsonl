@@ -85,8 +85,8 @@
 {"key": "battle/SkillHelpMess.mbm#85", "es": "Restaura muchos PS{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#86", "es": "Restaura todos los PS{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#87", "es": "Restaura todos los PS. Sonrisa maliciosa: quita los estados alterados. Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#88", "es": "Cura Sueño/Pánico/Atadura/Encanto/Silencio/Mareo{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#89", "es": "Cura Sueño/Pánico/Atadura/Encanto/Silencio/Mareo{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#88", "es": "Quita Sueño/Pánico/Atadura/Encanto/Silencio/Mareo{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#89", "es": "Quita Sueño/Pánico/Atadura/Encanto/Silencio/Mareo{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#90", "es": "Quita Veneno/Enfermedad{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#91", "es": "2-4 ataques intensos de tipo {F87D}{0E00}{F801}Objetivo: {F87D}{0F00}. Efecto: Marca{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#92", "es": "Quita todos los estados alterados{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}

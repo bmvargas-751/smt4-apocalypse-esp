@@ -90,3 +90,8 @@ Títulos de misiones (event/quest/SubQuestData.tbb y QuestData.tbb, columna 8, m
 - [ ] **Caja de las descripciones de habilidades** (orquestador, ancho T-3; 340 px, 2 renglones): con la decisión del 2026-11-09 (el ancho es un aviso; no se quitan palabras), van completas «Sonrisa maliciosa:», «de tipo {elemento}» y «quita efectos positivos». Quedan 16 con aviso de caja en battle/SkillHelpMess.mbm (`tools/check.py datos-001`): se ven en el juego. El medidor no cuenta el nombre del elemento que inserta el juego ({F87D}{0E00}).
 - [ ] **«Ataques de luz perforan al enemigo con:»** (`#479`, `#480`, `#488`-`#493`; *X attacks pierce enemy:* + *Drain/Repel/Null/Resist X*): el corrector propuso «al enemigo con:»; el revisor dice que es comprensible pero poco natural y que no hay forma uniforme que quepa. ¿Se deja?
 - [ ] **Decimales** (revisor, sin regla): «2.5 veces el daño» (`#122`, `#344`) y «daño x2.5» (`#121`). ¿Punto o coma decimal? Ninguna regla lo dice.
+
+### Lote datos-002 (2026-11-09)
+
+- [ ] `item/ItemHelpMess.mbm#1035` (traductor y revisor, delicada E-23): «The modern design screams ”hoity toity.”» → «Su diseño moderno grita “pretencioso”.». Provisional: *hoity toity* es una burla de lo presumido; la primera propuesta («pura exquisitez») sonaba a elogio.
+- [ ] `item/ItemHelpMess.mbm#901` (revisor, género E-40): «cortada de una Nue» frente a «un Mamedanuki» (#920). El glosario y las fichas no fijan el género de los demonios cuando se nombran como especie. ¿Concuerdan con el género del demonio (si se sabe) o van siempre en masculino?

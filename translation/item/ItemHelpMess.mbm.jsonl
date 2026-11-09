@@ -12,17 +12,17 @@
 {"key": "item/ItemHelpMess.mbm#12", "es": "Otorga EXP suficiente para subir de nivel.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#13", "es": "Revive del K.O.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#14", "es": "Revive del K.O. con todos los PS.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#16", "es": "Quita Sueño/Pánico/Atadura/Encanto/Silencio/Mareo.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#17", "es": "Quita Sueño/Pánico/Atadura/Encanto/Silencio/Mareo.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#18", "es": "Quita Veneno/Enfermedad.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#16", "es": "Cura Sueño/Pánico/Atadura/Encanto/Silencio/Mareo.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#17", "es": "Cura Sueño/Pánico/Atadura/Encanto/Silencio/Mareo.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#18", "es": "Cura Veneno/Enfermedad.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#19", "es": "Otorga 10 puntos de app.{F801}PA actuales: {F87D}{0000}. Tras usarlo: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#20", "es": "Restaura una cantidad pequeña y fija de PS.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#21", "es": "Restaura todos los PS.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#22", "es": "Revive del K.O.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#23", "es": "Quita Veneno/Enfermedad.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#23", "es": "Cura Veneno/Enfermedad.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#24", "es": "Otorga 20 puntos de app.{F801}PA actuales: {F87D}{0000}. Tras usarlo: {F87D}{0100}{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#25", "es": "Quita todos los estados alterados.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#26", "es": "Quita todos los estados alterados.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#25", "es": "Cura todos los estados alterados.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#26", "es": "Cura todos los estados alterados.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#27", "es": "Restaura una cantidad pequeña y fija de PM. Usos ilimitados.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#28", "es": "Invoca o devuelve a un demonio y lo revive del K.O.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#29", "es": "Artesanía dorada que se puede vender.{F801}Objetivo: ninguno. Límite: {F87D}{0100}{F801}{FFFF}"}
@@ -49,7 +49,7 @@
 {"key": "item/ItemHelpMess.mbm#50", "es": "Inflige Veneno.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#51", "es": "Inflige Atadura.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#52", "es": "Repele ataques físicos/de disparo por un turno.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#53", "es": "Repele ataques mágicos sin estado por un turno.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#53", "es": "Repele ataques mágicos que no causan estados por un turno.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#54", "es": "Anula un ataque de luz o de oscuridad.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#55", "es": "Quita los efectos positivos.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#56", "es": "Quita los efectos negativos.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
@@ -655,7 +655,7 @@
 {"key": "item/ItemHelpMess.mbm#775", "es": "Efecto: {F87D}{0C00}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#776", "es": "Efecto: {F87D}{0D00}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#777", "es": "Efecto: {F87D}{0D00}{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#778", "es": "Efecto: el reclutamiento tiene más éxito con{F801}demonios de nivel bajo{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#778", "es": "Efecto: Reclutar tiene más éxito con{F801}demonios de nivel bajo{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#779", "es": "Efecto: se vuelve débil contra todos los tipos de ataque{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#780", "es": "Efecto: {F87D}{0D00}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#781", "es": "Potencia: {F87D}{0200}, {F87D}{0400}{F801}Efecto: {F87D}{0600}{F801}{FFFF}"}
@@ -709,8 +709,8 @@
 {"key": "item/ItemHelpMess.mbm#829", "es": "Potencia: {F87D}{0200}, {F87D}{0400}{F801}Efecto: {F87D}{0600}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#830", "es": "Potencia: {F87D}{0200}, {F87D}{0400}{F801}Efecto: {F87D}{0600}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#831", "es": "Prueba de que eres un cadete cazador.{F801}También sirve como identificación.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#832", "es": "Algo bueno podría pasar si juntas estos...{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#833", "es": "Teléfono con la pantalla rota.{F801}Aun así, las funciones básicas parecen funcionar.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#832", "es": "Algo bueno podría pasar si juntas estas...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#833", "es": "Teléfono con grietas.{F801}Aun así, las funciones básicas parecen andar bien.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#834", "es": "¿Teléfono del cliente Nozomi?{F801}Puede llevarte a Yoyogi mediante una Terminal.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#835", "es": "Daga de Oberón, del Bosque de las Hadas.{F801}Destruye los muros de espectros con energía espiritual.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#836", "es": "Indicaciones para recorrer el Jardín Laberinto:{F801}“Luz tres veces. Sombra una vez. Luz una vez.”{F801}{FFFF}"}
@@ -719,7 +719,7 @@
 {"key": "item/ItemHelpMess.mbm#839", "es": "Da acceso al ascensor de Midtown que va al primer piso.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#840", "es": "Da acceso al S4 de Kasumigaseki.{F801}Es necesaria para llegar al laboratorio.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#841", "es": "Da acceso al S2 de Kasumigaseki.{F801}Demuestra la confianza de la Asociación de Cazadores.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#842", "es": "Cakraratna que contiene el alma de un monje de alto rango.{F801}El medio de Tenkai.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#842", "es": "Cakraratna que contiene el alma de un monje de alto rango.{F801}El médium de Tenkai.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#843", "es": "Teléfono reparado por Dagda.{F801}También sirve como residencia de la deidad.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#844", "es": "Suministros para entregar en Shinjuku.{F801}Atados con una soga para que el contenido no se derrame.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#845", "es": "Guantelete falso hecho para que puedas pasar el puesto de control de los ángeles.{F801}{FFFF}"}
@@ -769,19 +769,19 @@
 {"key": "item/ItemHelpMess.mbm#889", "es": "Objeto de valor{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#890", "es": "Objeto de valor{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#891", "es": "Recuperado de una zona residencial.{F801}Está bastante sucio.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#892", "es": "Tarjeta llave de un área sellada.{F801}Solo se entrega a Cazadores de confianza.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#893", "es": "Tarjeta llave de un área sellada.{F801}Solo se entrega a Cazadores de confianza.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#894", "es": "Tarjeta llave de un área sellada.{F801}Solo se entrega a Cazadores de confianza.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#892", "es": "Tarjeta llave de un área sellada.{F801}Solo se entrega a cazadores de confianza.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#893", "es": "Tarjeta llave de un área sellada.{F801}Solo se entrega a cazadores de confianza.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#894", "es": "Tarjeta llave de un área sellada.{F801}Solo se entrega a cazadores de confianza.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#895", "es": "Caja de comida enlatada.{F801}Todas parecen estar dentro de la fecha de vencimiento.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#896", "es": "Caja de medicinas y dispositivos médicos.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#897", "es": "Caja de ropa gruesa y nueva.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#898", "es": "Bolsa de dispositivos que emiten una luz roja.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#899", "es": "Bolsa de dispositivos que emiten una luz azul.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#900", "es": "Sustancia lechosa extraída de una Churel.{F801}Tiene una fragancia suave y dulce.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#901", "es": "Una buena tajada de carne con vetas, cortada de una Nue.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#901", "es": "Una tajada de carne bien marmoleada, cortada de una Nue.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#902", "es": "Retoño resistente de una planta que se multiplicó al adaptarse a un entorno hostil.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#903", "es": "Agua sacada del estanque de la Universidad Gakushuin.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#904", "es": "Fotografías tomadas en el Domo de Tokio.{F801}Muestran una cantidad inquietante de demonios.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#904", "es": "Fotografías tomadas en el Tokyo Dome.{F801}Muestran una cantidad inquietante de demonios.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#905", "es": "Ojo endurecido de un demonio.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#906", "es": "Gema formada con sangre solidificada de Peri.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#907", "es": "Árbol de hoja perenne frondoso, adornado con telas, magatama, espejos y otros ornamentos.{F801}{FFFF}"}
@@ -868,7 +868,7 @@
 {"key": "item/ItemHelpMess.mbm#988", "es": "Reliquia hallada bajo Tokio{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#989", "es": "Reliquia hallada bajo Tokio{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#990", "es": "Reliquia hallada bajo Tokio{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#991", "es": "Alimento sumamente poco apetitoso.{F801}Sus olores ofensivos repelen a los de corazón débil.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#991", "es": "Alimento sumamente poco apetitoso.{F801}Sus olores ofensivos repelen a los impresionables.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#992", "es": "Alimento poco apetitoso.{F801}Eso sí, tiene todos los nutrientes básicos.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#993", "es": "Alimento apetitoso.{F801}Es seguro comerlo, pero está lejos de ser “gourmet”.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#994", "es": "Alimento bastante apetitoso.{F801}Hasta el empaque se ve delicioso.{F801}{FFFF}"}
@@ -912,7 +912,7 @@
 {"key": "item/ItemHelpMess.mbm#1032", "es": "Cosméticos que suelen usar las mujeres.{F801}Con señales de uso, pero nada grave.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1033", "es": "Cosméticos que suelen usar las mujeres.{F801}En buen estado, parece que casi no se usaron.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1034", "es": "Cosméticos que suelen usar las mujeres.{F801}Empaque único y bastante elegante.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1035", "es": "Cosméticos que suelen usar las mujeres.{F801}Su diseño moderno grita “pura exquisitez”.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1035", "es": "Cosméticos que suelen usar las mujeres.{F801}Su diseño moderno grita “pretencioso”.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1036", "es": "Reliquia hallada bajo Tokio{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1037", "es": "Reliquia hallada bajo Tokio{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1038", "es": "Reliquia hallada bajo Tokio{F801}{FFFF}"}
@@ -928,7 +928,7 @@
 {"key": "item/ItemHelpMess.mbm#1048", "es": "Reliquia hallada bajo Tokio{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1049", "es": "Reliquia hallada bajo Tokio{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1050", "es": "Reliquia hallada bajo Tokio{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1051", "es": "Un objeto cotidiano fabricado hace mucho.{F801}Sin duda se usó, tiene piezas rotas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1051", "es": "Un objeto cotidiano fabricado hace mucho.{F801}Sin duda se usó: tiene piezas rotas.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1052", "es": "Un objeto cotidiano fabricado hace mucho.{F801}Parece desgastado, pero no se ve roto.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1053", "es": "Un objeto cotidiano fabricado hace mucho.{F801}Bastante limpio y todavía en buen estado.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1054", "es": "Un objeto cotidiano fabricado hace mucho.{F801}Casi como nuevo, en su mayor parte.{F801}{FFFF}"}
@@ -988,7 +988,7 @@
 {"key": "item/ItemHelpMess.mbm#1108", "es": "Reliquia hallada bajo Tokio{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1109", "es": "Reliquia hallada bajo Tokio{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1110", "es": "Reliquia hallada bajo Tokio{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1111", "es": "Suministros médicos que se usaron hace mucho.{F801}Está tan sucio que no se recomienda usarlo.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1111", "es": "Suministros médicos que se usaron hace mucho.{F801}Están tan sucios que no se recomienda usarlos.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1112", "es": "Suministros médicos que se usaron hace mucho.{F801}Parece que aún podría cumplir su función.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1113", "es": "Suministros médicos que se usaron hace mucho.{F801}Se pueden usar sin motivo de alarma.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1114", "es": "Suministros médicos raros de hace mucho.{F801}De alta calidad, sin duda no de una marca barata.{F801}{FFFF}"}
@@ -1017,7 +1017,7 @@
 {"key": "item/ItemHelpMess.mbm#1137", "es": "Reliquia hallada bajo Tokio{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1138", "es": "Reliquia hallada bajo Tokio{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1139", "es": "Reliquia hallada bajo Tokio{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1140", "es": "Mineral misterioso que rara vez se encuentra en Tokio.{F801}Para ser sincero, no parece valioso.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1140", "es": "Mineral misterioso que rara vez se encuentra en Tokio.{F801}A decir verdad, no parece valioso.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1141", "es": "Mineral misterioso que rara vez se encuentra en Tokio.{F801}Aunque es poco común, tiene poco valor.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1142", "es": "Mineral misterioso que rara vez se encuentra en Tokio.{F801}Si lo pules, podría ser valioso.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1143", "es": "Mineral misterioso que rara vez se encuentra en Tokio.{F801}Hasta un aficionado vería que es un buen hallazgo.{F801}{FFFF}"}
@@ -1031,18 +1031,18 @@
 {"key": "item/ItemHelpMess.mbm#1151", "es": "Dispositivo para mover un cursor en una computadora.{F801}Las personas mayores están acostumbradas a usarlos.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1152", "es": "Dispositivo para ingresar letras en una computadora.{F801}Las personas mayores están acostumbradas a usarlos.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1153", "es": "Cable para conectar una computadora a Internet.{F801}Se ven mucho en las Asociaciones de Cazadores.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1154", "es": "Dispositivo para tostar pan.{F801}Un demonio podría atacar mientras lo usas...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1154", "es": "Dispositivo para tostar pan.{F801}¡Un demonio podría atacar mientras lo usas...!{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1155", "es": "Máquina que ayuda con los cálculos.{F801}Bastante redundante si tienes un teléfono.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1156", "es": "Dispositivo para calentar comida.{F801}Podría explotar si metes carne de demonio.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1157", "es": "Dispositivo para guardar imágenes y otros datos.{F801}Por desgracia, es muy fácil perderlo.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1158", "es": "Dispositivo para ayudarte a despertar a tiempo.{F801}Un teléfono hace todo lo que él hace.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1158", "es": "Dispositivo para ayudarte a despertar a tiempo.{F801}Un teléfono hace todo eso.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1159", "es": "Máquina para ayudarte a secar el cabello.{F801}Se ve a Asahi usando una con frecuencia.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1160", "es": "Dispositivo que permite que las máquinas se comuniquen.{F801}No tienes idea de para qué existe.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1161", "es": "Dispositivo de memoria externa.{F801}Probablemente cabrían muchos demonios.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1162", "es": "Dispositivo que emite aire con aspas giratorias.{F801}Hablarle de cerca produce un efecto curioso.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1162", "es": "Dispositivo que emite aire con aspas giratorias.{F801}Hablarle produce un efecto curioso.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1163", "es": "Componente de computadora con un ventilador de enfriamiento.{F801}Una antigüedad de cuando hacían falta ventiladores.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1164", "es": "Amplía las capacidades de sonido de una computadora.{F801}Los teléfonos producen audio de calidad sin uno.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1166", "es": "La unidad central de procesamiento de una computadora.{F801}En realidad se venden a buen precio.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1166", "es": "La unidad central de procesamiento de una computadora.{F801}En realidad se vende a buen precio.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1167", "es": "Dispositivo para grabar videos.{F801}Puedes usar un teléfono en su lugar.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1168", "es": "Dispositivo para tomar fotografías.{F801}Puedes usar un teléfono en su lugar.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1169", "es": "Aparato que limpia el aire del entorno.{F801}La comida es más importante que el aire.{F801}{FFFF}"}
@@ -1052,7 +1052,7 @@
 {"key": "item/ItemHelpMess.mbm#1174", "es": "Dispositivo que muestra las imágenes de una computadora.{F801}Como los de la Asociación de Cazadores.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1201", "es": "Consola de videojuegos que puedes llevar contigo.{F801}Pero no hay tiempo para jugar afuera.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1202", "es": "Consola de videojuegos que no es portátil.{F801}Envidias el tiempo libre de las generaciones pasadas.{F801}{FFFF}"}
-{"key": "item/ItemHelpMess.mbm#1203", "es": "Balón para jugar al fútbol.{F801}También has visto a gente usar una cabeza de demonio.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1203", "es": "Balón para jugar fútbol.{F801}También has visto a gente usar una cabeza de demonio.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1204", "es": "Requiere montaje. Si tan solo hubiera tiempo para armarlo...{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1959", "es": "Ataque débil de tipo fuego.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1960", "es": "Ataque débil de tipo hielo.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
