@@ -87,6 +87,3 @@ Títulos de misiones (event/quest/SubQuestData.tbb y QuestData.tbb, columna 8, m
 - [ ] `map/all/ms_search_Table.tbb#0.102.0` (reviewer, sin regla): «¡Surprise! Camera» → «(sin cambio hasta decidir)». El «!» es parte del nombre de la tienda (parodia de una cadena de cámaras; el japonés es «Bikkuri», sorpresa), no una exclamación. «¡» añade un signo que el inglés no tiene (E-3); sin él, check.py avisa «falta ¡» (E-52), que no pensaba en marcas. Opciones: (a) dejar «¡Surprise! Camera»; (b) «Surprise! Camera», que tendría que quedar como excepción del validador; (c) traducirlo, «¡Sorpresa! Cámara». Duda: lo decide el usuario.
 - [ ] `npc_room/NpcRoomTable.tbb#1.367.38`, `#1.375.38` (reviewer, E-10): *cross-dresser* → «Travesti» (actual). En parte de América «travesti» nombra una identidad, no una forma de vestir. Alternativa que cabe: «Crossdresser».
 - [ ] `npc_room/NpcRoomTable.tbb` y `quest_center/common/NpcHaichiTable.tbb` (reviewer, E-40): etiquetas de habitantes sin género en el inglés (*child*, *Thug*, *Composed teen*, *Uniformed Hunter*, y muchos *Samurai*, *Hunter*, *monk*, *farmer* con adjetivo) quedaron en masculino. Hace falta una decisión de conjunto: masculino genérico, o confirmarlas en el juego.
-
-### Lote tablas-006 (2026-11-09)
-
