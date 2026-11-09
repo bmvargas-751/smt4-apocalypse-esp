@@ -1,0 +1,11 @@
+{"key": "npc_shop/DevilMarket/DevilMarket.mbm#0", "es": "{F872}{0100}{F801}{F872}{0200}{F801}{F872}{0300}{F801}Volver{F801}{FFFF}"}
+{"key": "npc_shop/DevilMarket/DevilMarket.mbm#1", "es": "Comprar{F801}Cancelar{F801}{FFFF}"}
+{"key": "npc_shop/DevilMarket/DevilMarket.mbm#2", "es": "{F872}{0100}{F801}{F872}{0200}{F801}DESCONOCIDO{F801}Volver{F801}{FFFF}"}
+{"key": "npc_shop/DevilMarket/DevilMarket.mbm#3", "es": "{F872}{0100}{F801}DESCONOCIDO{F801}DESCONOCIDO{F801}Volver{F801}{FFFF}"}
+{"key": "npc_shop/DevilMarket/DevilMarket.mbm#10", "es": "{F812}Hombre encapuchado{0000}{F87A}{1F00}{F81B}{4930}{3237}{3030}{3200}{0000}{0000}Oye, mucho gusto, {F804}{0500}Matadioses{F804}{0000}.{F801}Bienvenido al Mercado de demonios.{F801}{F802}Compramos y vendemos demonios con Macca.{F801}Los que vendemos son muy especiales.{F801}{F802}Seguro que te gustarán algunos de los demonios que tenemos a la venta.{F801}{FFFF}"}
+{"key": "npc_shop/DevilMarket/DevilMarket.mbm#11", "es": "{F812}Hombre encapuchado{0000}{F87A}{1F00}{F81B}{4930}{3237}{3030}{3200}{0000}{0000}Oye, {F804}{0500}Matadioses{F804}{0000}...{F801}Si ves un demonio que te guste, seguro que podemos llegar a un trato.{F801}{FFFF}"}
+{"key": "npc_shop/DevilMarket/DevilMarket.mbm#12", "es": "{F812}Hombre encapuchado{0000}{F87A}{1F00}{F872}{0100}, ¿verdad?{F801}Serán {F878}{0200} Macca.{F801}{FFFF}"}
+{"key": "npc_shop/DevilMarket/DevilMarket.mbm#13", "es": "{F812}Hombre encapuchado{0000}{F87A}{1F00}{F81B}{4930}{3237}{3030}{3400}{0000}{0000}Oye, no tienes suficiente Macca.{F801}Sin Macca, no hay demonios.{F801}{FFFF}"}
+{"key": "npc_shop/DevilMarket/DevilMarket.mbm#14", "es": "{F812}Hombre encapuchado{0000}{F87A}{1F00}{F81B}{4930}{3237}{3030}{3400}{0000}{0000}Vamos, no tienes un espacio libre.{F801}No puedo vendértelo si no tienes lugar.{F801}{FFFF}"}
+{"key": "npc_shop/DevilMarket/DevilMarket.mbm#15", "es": "{F812}Hombre encapuchado{0000}{F87A}{1F00}Hmm... Ya tienes este demonio en tu hueste.{F801}{FFFF}"}
+{"key": "npc_shop/DevilMarket/DevilMarket.mbm#16", "es": "{F812}Hombre encapuchado{0000}{F87A}{1F00}¿Quieres algún otro demonio?{F801}{FFFF}"}

@@ -1,0 +1,8 @@
+{"key": "name/name.mbm#0", "es": "〉 Escribe un nombre.{F801}{FFFF}"}
+{"key": "name/name.mbm#1", "es": "〉 ¿Está bien “{F811}{3200}”?{F801}{FFFF}"}
+{"key": "name/name.mbm#2", "es": "Sí{F801}No{F801}{F802}{FFFF}"}
+{"key": "name/name.mbm#3", "es": "〉 ¿Qué quieres hacer?{F801}{FFFF}"}
+{"key": "name/name.mbm#4", "es": "Seguir escribiendo{F801}Cancelar escritura{F801}{F802}{FFFF}"}
+{"key": "name/name.mbm#5", "es": "Seguir escribiendo{F801}Volver al predeterminado{F801}{F802}{FFFF}"}
+{"key": "name/name.mbm#6", "es": "〉 No se puede usar ese nombre.{F801}{FFFF}"}
+{"key": "name/name.mbm#7", "es": "〉 ¿Cancelar?{F801}{FFFF}"}

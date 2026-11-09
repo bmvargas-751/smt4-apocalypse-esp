@@ -1,0 +1,19 @@
+{"key": "battle/ResultMsg.mbm#0", "es": "〉 Distribuye puntos entre las estadísticas que quieras aumentar.{F801}{F802}{FFFF}"}
+{"key": "battle/ResultMsg.mbm#1", "es": "〉 ¡El nivel de {F873}{0100} aumentó en {F878}{0100}!{F801}{F802}{FFFF}"}
+{"key": "battle/ResultMsg.mbm#2", "es": "〉 Parece que está a punto de ocurrir un cambio en {F873}{0100}...{F801}{F802}{FFFF}"}
+{"key": "battle/ResultMsg.mbm#3", "es": "〉 Parece que está a punto de ocurrir un cambio en {F873}{0100}...{F801}{F802}〉 Pero {F843}{0000} aún no podría controlar al demonio transformado.{F801}{F802}{FFFF}"}
+{"key": "battle/ResultMsg.mbm#4", "es": "〉 Está a punto de ocurrir un cambio en {F873}{0100}...{F801}{F802}{FFFF}"}
+{"key": "battle/ResultMsg.mbm#5", "es": "〉 ¿Permites que suceda?{F801}{F802}{FFFF}"}
+{"key": "battle/ResultMsg.mbm#6", "es": "Sí{F801}No{F801}{FFFF}"}
+{"key": "battle/ResultMsg.mbm#7", "es": "〉 ¡{F873}{0200} se transformó en{F801}{F873}{0100}!{F801}{F802}{FFFF}"}
+{"key": "battle/ResultMsg.mbm#8", "es": "〉 {F873}{0100} está a punto de despertar nuevos poderes...{F801}{F802}{FFFF}"}
+{"key": "battle/ResultMsg.mbm#9", "es": "〉 ¿Permites que {F804}{0500}{F877}{0100}{F804}{0000} se transforme en {F804}{0500}{F877}{0200}{F804}{0000}?{F801}{F802}{FFFF}"}
+{"key": "battle/ResultMsg.mbm#10", "es": "{F871}{0100}(mensaje del evento de regalo){F801}{F802}{FFFF}"}
+{"key": "battle/ResultMsg.mbm#11", "es": "〉 Obtienes: {F804}{0500}{F872}{0100}{F804}{0000}.{F801}{F802}{FFFF}"}
+{"key": "battle/ResultMsg.mbm#12", "es": "〉 Obtienes {F804}{0500}{F878}{0100}{F804}{0000} punto(s) de app.{F801}{F802}{FFFF}"}
+{"key": "battle/ResultMsg.mbm#13", "es": "Este demonio aprendió todo lo que podía. Puede transmitir una {F804}{0500}habilidad susurrada{F804}{0000}.{F801}{F802}Es una habilidad suya que se le puede enseñar a {F843}{0000}.{F801}{F802}Si susurra una que {F843}{0000} ya conoce, esa habilidad se fortalecerá un poco.{F801}{F802}Un demonio solo puede susurrar una vez.{F801}{F802}{FFFF}"}
+{"key": "battle/ResultMsg.mbm#14", "es": "Apareció Caronte.{F801}{FFFF}"}
+{"key": "battle/ResultMsg.mbm#15", "es": "{F812}Caronte{0000}{F87A}{0100}Bien, tomaré lo que se me prometió...{F801}{FFFF}"}
+{"key": "battle/ResultMsg.mbm#16", "es": "Perdiste {F878}{0100} Macca.{F801}{FFFF}"}
+{"key": "battle/ResultMsg.mbm#17", "es": "¡Por los dioses! ¡¿Estás en la ruina?! Volveré cuando tengas más dinero.{F801}{FFFF}"}
+{"key": "battle/ResultMsg.mbm#18", "es": "{F843}{0000}: aumentó su número de habilidades. {F801}{FFFF}"}

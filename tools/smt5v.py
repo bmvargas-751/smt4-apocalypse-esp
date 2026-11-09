@@ -2,13 +2,21 @@
 """Términos oficiales de SMT V: Vengeance (inglés → español) para el glosario.
 
     python3 tools/smt5v.py candidates [--paks CARPETA] [--out SALIDA.tsv]
+    python3 tools/smt5v.py terms [--section SECCIÓN] [--out SALIDA.tsv]
 
-Lee las tablas de nombres de SMT V en inglés y en español (habilidades,
-objetos, personajes y demonios, razas, estados), las empareja por posición
-(cada idioma tiene las mismas entradas en el mismo orden) y busca cada término
-inglés en los textos de IVA (los JSONL de `mbm.py export` y `tbb.py export`).
-Escribe un TSV con: inglés, español oficial, tabla de SMT V, veces en IVA.
-Lo extraído es texto de otro juego: el TSV queda fuera del repo.
+candidates: lee las tablas de nombres de SMT V en inglés y en español
+(habilidades, objetos, personajes y demonios, razas, estados), las empareja por
+posición (cada idioma tiene las mismas entradas en el mismo orden) y busca cada
+término inglés en los textos de IVA (los JSONL de `mbm.py export` y
+`tbb.py export`). Escribe un TSV con: inglés, español oficial, tabla de SMT V,
+veces en IVA.
+
+terms: saca lo que IVA escribe con mayúscula y repite (Macca, Demon
+Compendium, HP), salvo lo que ya está en candidates, y lo busca en los menús y
+textos de sistema de SMT V emparejados igual: la etiqueta idéntica, si la hay,
+y dos ejemplos con su español. Con --section, solo los términos de esa sección.
+
+Lo extraído es texto de otro juego: los TSV quedan fuera del repo.
 
 Los paquetes de SMT V vienen comprimidos con Oodle. Se descomprimen con ooz,
 de código abierto, compilado en cada equipo con `tools/build_ooz.sh` (no va
@@ -37,6 +45,8 @@ TABLES = {
     "estado": "Camp/Status/StatusConditionName.uexp",
 }
 GUID = re.compile(r"^[0-9A-F]{32}$")
+SYSTEM = ("Battle/Common/", "Battle/Skill/", "Camp/", "Common/", "CommonWindow/", "Facility/",
+          "Inherit/", "Item/", "NewGame/", "Option/", "Result/", "Title/", "Unite/")
 
 
 # ---------- paquetes de Unreal Engine 4 (versión 11, índice sin cifrar) ----------
@@ -233,14 +243,147 @@ def candidates(paks, out):
     print(f"{len(pairs)} términos oficiales; {len(rows)} aparecen en IVA {by_kind} → {out}")
 
 
+# ---------- términos de sistema ----------
+
+CODE = re.compile(r"\{[0-9A-F]{4}\}|<[^>]*>|\n")
+TITLE = re.compile(r"[A-Z][A-Za-z'’\-]+(?:[ ](?:of[ ](?:the[ ])?)?[A-Z][A-Za-z'’\-]+)*")
+ACRONYM = re.compile(r"(?<![A-Za-z])[A-Z]{2,4}(?![A-Za-z])")
+OPENER = re.compile(r"(?:^|[.!?…:]|[\"“(\[—])\s*$")
+CONTRACTION = re.compile(r"['’](?:[a-z]{1,2})?$|^I['’]")
+LEADING = {"The", "If", "Unless", "When", "But", "And", "Or", "So", "A", "An"}
+
+
+def system_pairs(paks):
+    """[(inglés, español, tabla)] de los menús y textos de sistema de SMT V."""
+    pre = BINTABLE.format(lang="en")
+    names = set(TABLES.values()) | {"Camp/Status/DevilProfile.uexp"}
+    out, seen = [], set()
+    for path in sorted(paks.index):
+        if not (path.startswith(pre) and path.endswith(".uexp")):
+            continue
+        table = path[len(pre):]
+        if table in names or not table.startswith(SYSTEM):
+            continue
+        en, es = texts(paks, table, "en"), texts(paks, table, "es")
+        if len(en) != len(es):
+            print(f"aviso: {table} no se empareja ({len(en)} / {len(es)}); se salta", file=sys.stderr)
+            continue
+        for a, b in zip(en, es):
+            a, b = CODE.sub(" ", a).strip(), CODE.sub(" ", b).strip()
+            if a and b and (a, b) not in seen:
+                seen.add((a, b))
+                out.append((a, b, table.rsplit("/", 1)[-1].removesuffix(".uexp")))
+    return out
+
+
+def iva_text(section=None):
+    """(todo el inglés de IVA, el de la sección), sin códigos."""
+    sys.path.insert(0, str(REPO / "tools"))
+    from progress import section_of
+    big, sec = [], []
+    for name in ("en.jsonl", "tbb.jsonl"):
+        path = LOCAL / name
+        if path.exists():
+            for line in open(path, encoding="utf-8"):
+                r = json.loads(line)
+                text = CODE.sub("\n", r["en"])
+                big.append(text)
+                if section is None or section_of(r["key"].split("#")[0]) == section:
+                    sec.append(text)
+    return big, sec
+
+
+def iva_terms(big, sec):
+    """{término: veces en IVA} de lo que IVA escribe con mayúscula y aparece en `sec`."""
+    total, in_sec, mid = {}, set(), {}
+    sec = set(sec)
+    for text in big:
+        here = text in sec
+        for rx in (TITLE, ACRONYM):
+            for m in rx.finditer(text):
+                t = m.group()
+                if len(t) < 2:
+                    continue
+                total[t] = total.get(t, 0) + 1
+                if here:
+                    in_sec.add(t)
+                if not OPENER.search(text[:m.start()].rsplit("\n", 1)[-1]):
+                    mid[t] = mid.get(t, 0) + 1
+    joined = "\n".join(big)
+    out = {}
+    for t, n in total.items():
+        if t not in in_sec or CONTRACTION.search(t) or t.split()[0] in LEADING:
+            continue
+        if " " in t:
+            keep = n >= 2
+        elif t.isupper():
+            keep = n >= 3
+        else:
+            low = len(re.findall(rf"(?<![A-Za-z]){re.escape(t.lower())}(?![A-Za-z])", joined))
+            keep = mid.get(t, 0) >= 2 and mid.get(t, 0) >= low
+        if keep:
+            out[t] = n
+    return out
+
+
+def word(t):
+    return re.compile(rf"(?<![A-Za-z]){re.escape(t)}(?![A-Za-z])", re.I)
+
+
+def terms(paks, section, out):
+    """Términos de IVA con su español en SMT V, por dos vías:
+    lo que IVA escribe con mayúscula (iva_terms) y las etiquetas cortas de los
+    menús de SMT V (hasta 3 palabras) que IVA usa 2 veces o más en la sección."""
+    pairs = system_pairs(paks)
+    known = {en.lower() for en, _, _ in official_pairs(paks)}
+    big, sec = iva_text(section)
+    found = {t: ("mayúscula", n) for t, n in iva_terms(big, sec).items()}
+    joined, sec_joined = "\n".join(big), "\n".join(sec)
+    have = {t.lower() for t in found}
+    for a in sorted({a for a, _, _ in pairs if len(a.split()) <= 3 and len(a) >= 3}):
+        if a.lower() in have or a.lower() in known or not re.search(r"[A-Za-z]{2}", a):
+            continue
+        if len(word(a).findall(sec_joined)) >= 2:
+            found[a] = ("etiqueta de SMT V", len(word(a).findall(joined)))
+            have.add(a.lower())
+    rows = []
+    for t, (how, _) in found.items():
+        if t.lower() in known:
+            continue
+        rx, labels, examples = word(t), {}, []
+        exact = re.compile(rx.pattern) if how == "mayúscula" else rx
+        for a, b, table in pairs:
+            if a.lower() == t.lower():
+                labels[b] = labels.get(b, 0) + 1
+            elif rx.search(a):
+                examples.append((len(a), a, b, table))
+        label = " / ".join(f"{b} ({c})" for b, c in sorted(labels.items(), key=lambda x: -x[1])[:3])
+        examples.sort()
+        ex = " ‖ ".join(f"{a[:140]} ⇒ {b[:140]} [{table}]" for _, a, b, table in examples[:2])
+        rows.append((t, how, len(exact.findall(joined)), len(exact.findall(sec_joined)), label, len(examples), ex))
+    rows.sort(key=lambda r: (-r[3], -r[2], r[0]))
+    with open(out, "w", encoding="utf-8") as w:
+        w.write("en\tvia\tveces_en_iva\tveces_en_seccion\tsmtv_etiqueta\tsmtv_ejemplos\tejemplos\n")
+        for r in rows:
+            w.write("\t".join(map(str, r)) + "\n")
+    with_smtv = sum(1 for r in rows if r[4] or r[5])
+    print(f"{len(pairs)} textos de sistema de SMT V; {len(rows)} términos de IVA"
+          f"{' en ' + section if section else ''}, {with_smtv} con algo en SMT V → {out}")
+
+
 def main():
     a = argparse.ArgumentParser()
-    a.add_argument("command", choices=["candidates"])
+    a.add_argument("command", choices=["candidates", "terms"])
     a.add_argument("--paks", default=str(PAKS))
     a.add_argument("--ooz", default=str(OOZ))
-    a.add_argument("--out", default=str(LOCAL / "glossary-candidates.tsv"))
+    a.add_argument("--section", help="terms: solo los términos que aparecen en esta sección")
+    a.add_argument("--out")
     args = a.parse_args()
-    candidates(Paks(args.paks, args.ooz), args.out)
+    paks = Paks(args.paks, args.ooz)
+    if args.command == "candidates":
+        candidates(paks, args.out or str(LOCAL / "glossary-candidates.tsv"))
+    else:
+        terms(paks, args.section, args.out or str(LOCAL / "system-terms.tsv"))
 
 
 if __name__ == "__main__":

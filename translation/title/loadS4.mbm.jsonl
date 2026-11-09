@@ -1,0 +1,25 @@
+{"key": "title/loadS4.mbm#0", "es": "Si quieres recibir las bonificaciones por datos guardados, prepara una tarjeta SD con la versión descargable de Shin Megami Tensei IV instalada.{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#1", "es": "〉 ¿Empezar a recibir las bonificaciones por datos guardados?{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#2", "es": "Sí{F801}No{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#3", "es": "〉 Comenzará el proceso de bonificación por datos guardados.{F801}{F802}〉 Si quieres cancelar este proceso, tendrás que reiniciar el juego.{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#5", "es": "Inserta una tarjeta SD con la versión descargable de Shin Megami{F801}Tensei IV instalada.{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#6", "es": "〉 Presiona el botón A cuando hayas insertado una tarjeta SD con la versión descargable de Shin Megami Tensei IV instalada.{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#7", "es": "〉 ¿Cancelar la recepción de las bonificaciones por datos guardados?{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#8", "es": "〉 La tarjeta SD no se insertó correctamente.{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#9", "es": "No se pudieron leer los datos de guardado.{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#10", "es": "〉 Los datos de guardado de Shin Megami Tensei IV se leyeron correctamente.{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#11", "es": "Inserta tu tarjeta de juego de Shin Megami Tensei IV:{F801}Apocalypse o una tarjeta SD con la versión descargable del juego.{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#12", "es": "〉 Presiona el botón A cuando hayas insertado tu versión de Shin Megami Tensei IV:{F801}Apocalypse.{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#13", "es": "〉 La tarjeta de juego de Shin Megami Tensei IV: Apocalypse no se insertó correctamente.{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#15", "es": "〉 Recibirás distintas bonificaciones según cuántas veces hayas completado el juego.{F801}{F802}〉 Además, recibirás títulos según los finales que hayas alcanzado.{F801}{F802}〉 Podrás asignar un título una vez que hayas desbloqueado las funciones de StreetPass.{F801}{F802}〉 ¿Qué datos de guardado quieres cargar?{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#16", "es": "Datos de guardado 1{F801}Datos de guardado 2{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#17", "es": "〉 Se canceló la importación de las bonificaciones por datos guardados.{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#18", "es": "〉 Error al guardar.{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#19", "es": "〉 La importación de las bonificaciones por datos guardados fue exitosa.{F801}{F802}〉 Las bonificaciones cargadas se desbloquearán al inicio del juego.{F801}{F802}〉 Puedes recibirlas en Buzón, dentro del menú.{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#20", "es": "〉 El juego se reiniciará ahora.{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#21", "es": "Mensaje de depuración{F801}Con Modo Home activado, se reinicia solo.{F801}Con Modo Home desactivado, hay que reiniciarlo manualmente.{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#22", "es": "No se pudo leer la tarjeta de juego.{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#23", "es": "No existen datos de guardado.{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#24", "es": "〉 Shin Megami Tensei IV:{F801}Apocalypse se cargó correctamente.{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#25", "es": "〉 Finalizando la importación de la bonificación por datos guardados.{F801}{FFFF}"}
+{"key": "title/loadS4.mbm#26", "es": "〉 ¿Quieres leer los datos de guardado {F811}{0000}?{F801}{FFFF}"}

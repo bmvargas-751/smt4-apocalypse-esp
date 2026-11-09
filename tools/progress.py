@@ -38,6 +38,9 @@ SECTIONS = [
 ]
 TABLES, DLC = "Tablas", "Contenido descargable"
 EXCLUDED = ["test/"]           # mensajes de prueba de los desarrolladores
+# Mensajes sueltos de relleno o de prueba, en japonés, que no son texto del juego
+# (DECISIONS 2026-11-08): «ダミー» de la lista de StreetPass y el silabario de prueba.
+EXCLUDED_KEYS = {f"camp/CecEdit_one_msg.mbm#{n}" for n in range(100, 116)} | {"camp/partypanel.mbm#10"}
 UNASSIGNED = "Sin asignar"
 
 
@@ -59,7 +62,7 @@ def count(sources):
     for src in sources:
         for line in open(src, encoding="utf-8"):
             k = json.loads(line)["key"]
-            s = section_of(k.split("#")[0])
+            s = None if k in EXCLUDED_KEYS else section_of(k.split("#")[0])
             if s:
                 keys[k] = s
                 total[s] = total.get(s, 0) + 1

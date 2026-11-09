@@ -32,7 +32,7 @@ VOSOTROS = re.compile(
     r"|\b(?:estad|venid|mirad|esperad|escuchad|dejad|tened|haced|decid|poned|salid|seguid|volved|traed|sacad|id a)\b",
     re.I)
 REGIONAL = re.compile(
-    r"\b(vale|tío|tía|venga|guay|mola\w*|coger|cog[ií]\w*|ordenador|móvil|pasta|majo|maja|gilipollas|joder|"
+    r"\b(vale(?! del compendio)|tío|tía|venga|guay|mola\w*|coger|cog[ií]\w*|ordenador|móvil|pasta|majo|maja|gilipollas|joder|"
     r"hostia\w*|pillar|pill[eé]\w*|flipa\w*|chaval\w*|enfad\w+|puls(?:a|as|ar|ando|ado|aste|e|en|ó)|vídeos?|ratón|bombona|"
     r"gafas|bañador\w*|nevera\w*|fard(?:ar|ando|ado|aba\w*|ó|a|as|an|e|es|en)|moter[oa]s?|tragaperras|aparc\w+|jerséis|jersey|"
     r"auriculares|setas?|coches?|cubos? de basura|marcapáginas|ambientador\w*|megafonía)\b", re.I)
@@ -50,6 +50,23 @@ def visible(s):
 
 def tags(s):
     return [t for t in layout.TOKEN.findall(s) if t != layout.BR]
+
+
+def term_rx(t_es):
+    """El término del glosario con su plural, su género o su conjugación.
+
+    Cada palabra larga pierde su terminación (-o, -a, -es, -ar...) y acepta
+    cualquier otra: «Estado alterado» acepta «estados alterados», «Físico»
+    acepta «físicas» y «registrar» acepta «registro».
+    """
+    parts = []
+    for w in re.split(r"\s+", t_es.strip()):
+        if len(w) > 4 and w.isalpha():
+            stem = re.sub(r"(?:es|os|as|ar|er|ir|[aeos])$", "", w)
+            parts.append(re.escape(stem) + r"\w*")
+        else:
+            parts.append(re.escape(w))
+    return re.compile(r"(?<!\w)" + r"\s+".join(parts) + r"(?!\w)", re.I)
 
 
 def check(key, es):
@@ -81,7 +98,8 @@ def check(key, es):
         wrapped = layout.wrap(es, m, width)
         if max(layout.page_lines(wrapped)) > rows:
             warn("caja", "T-3", f"{max(layout.page_lines(wrapped))} renglones en una página (máximo {rows})")
-        too_wide = [w for w in re.split(r"[ \n]", layout.TOKEN.sub("", es)) if m.width(w) > width]
+        lines = es.replace(layout.BR, " ").replace("{F802}", " ")  # un salto separa palabras
+        too_wide = [w for w in re.split(r"[ \n]", layout.TOKEN.sub("", lines)) if m.width(w) > width]
         if too_wide:
             warn("caja", "T-3", f"palabra más ancha que la caja: {too_wide[0]}")
     else:
@@ -105,11 +123,12 @@ def check(key, es):
         warn("caracteres", "T-5", "la fuente no tiene: " + " ".join(missing))
 
     if not re.match(r"[\s.…—]*[a-záéíóúñ]", ves.strip()):
-        if ves.count("?") > ves.count("¿"):
+        # «?» suelto, tras «x», tras coma o entre comillas («???») es un valor desconocido, no una pregunta
+        if len(re.findall(r"(?<![\sx,(/?“\"«])\?", " " + ves)) > ves.count("¿"):
             warn("falta_apertura", "E-52", "falta ¿")
         if ves.count("!") > ves.count("¡"):
             warn("falta_apertura", "E-52", "falta ¡")
-    if SPACING.search(layout.TOKEN.sub("", es)) and not SPACING.search(layout.TOKEN.sub("", en)):
+    if SPACING.search(layout.TOKEN.sub("X", es)) and not SPACING.search(layout.TOKEN.sub("X", en)):  # un código ocupa su lugar
         warn("espacios", "E-54", "espacios o puntos de más")
     if PERCENT.search(ves):
         warn("porcentaje", "E-57", "porcentaje con espacio")
@@ -128,7 +147,7 @@ def check(key, es):
     if ls > le * 1.6 + 20:
         warn("largo", "E-3", f"{ls} caracteres; el inglés tiene {le}")
     for t_en, t_es in corpus.glossary():
-        if re.search(rf"(?<![A-Za-z]){re.escape(t_en)}(?![A-Za-z])", ven) and t_es.lower() not in ves.lower():
+        if re.search(rf"(?<![A-Za-z]){re.escape(t_en)}(?![A-Za-z])", ven) and not term_rx(t_es).search(ves):
             warn("glosario", "G-3", f"{t_en} → {t_es}")
     return out
 

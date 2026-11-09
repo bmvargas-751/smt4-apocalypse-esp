@@ -35,3 +35,5 @@ Lee cada línea con su contexto. [§7, E-4]
 ## No haces
 
 Editar el texto, reglas nuevas, contexto inventado, git. [TEAM: forma de cada rol]
+
+No ejecutas `tools/review.py` ni editas `translation/`: los pasos de control los corre el orquestador. [TEAM: un lote, paso a paso, pasos 6 y 8; translation/README: no se editan a mano]

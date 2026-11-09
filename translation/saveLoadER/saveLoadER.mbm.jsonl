@@ -1,0 +1,32 @@
+{"key": "saveLoadER/saveLoadER.mbm#0", "es": "〉 Se inicializarán los datos de guardado.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#1", "es": "〉 Inicializando datos de guardado...{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#2", "es": "〉 Los datos de guardado se inicializaron.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#3", "es": "〉 Los datos de guardado están dañados.{F801}Inicializando...{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#4", "es": "〉 No se pudo acceder a los datos de guardado.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#5", "es": "〉 No se pudieron inicializar los datos de guardado.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#6", "es": "〉 Los datos de guardado estaban dañados y se eliminaron.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#7", "es": "〉 Datos de guardado dañados.{F801}Inicializando datos de guardado...{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#10", "es": "〉 No se detectó la tarjeta SD.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#11", "es": "〉 Los datos adicionales están dañados.{F801}Recreando los datos adicionales.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#12", "es": "〉 No se detectó la tarjeta SD.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#13", "es": "〉 Los datos adicionales están dañados.{F801}Recreando los datos adicionales.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#14", "es": "〉 No se detectó la tarjeta SD.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#15", "es": "〉 La tarjeta SD está protegida contra escritura.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#16", "es": "〉 No se detectó la tarjeta SD.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#17", "es": "〉 Sin datos adicionales de{F801}Shin Megami Tensei IV: Apocalypse.{F801}{F802}〉 Se crearán nuevos datos adicionales para este juego.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#20", "es": "〉 Creando datos adicionales...{F801}Este proceso puede tardar un poco.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#21", "es": "〉 Se crearon los datos adicionales.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#22", "es": "〉 Espacio insuficiente en la tarjeta SD. No se crearon los datos adicionales.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#23", "es": "〉 Un error interrumpió el proceso. No se crearon los datos adicionales.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#24", "es": "〉 Tarjeta SD protegida contra escritura.{F801}No se crearon los datos adicionales.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#25", "es": "〉 Error al acceder a la tarjeta SD. No se pudieron crear los datos adicionales.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#26", "es": "〉 No se pudo acceder a la tarjeta SD.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#27", "es": "〉 No se detectó la tarjeta SD.{F801}No se crearon los datos adicionales.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#28", "es": "〉 Sin datos adicionales de{F801}Shin Megami Tensei IV: Apocalypse.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#30", "es": "〉 Los datos se dañaron y se eliminaron. Intenta guardar de nuevo.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#31", "es": "〉 No se pudo escribir en la tarjeta SD.{F801}Intenta guardar de nuevo.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#32", "es": "〉 La tarjeta SD está protegida contra escritura.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#33", "es": "〉 No se detectó la tarjeta SD.{F801}No se pudo escribir en la tarjeta SD.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#34", "es": "〉 Espacio insuficiente en la tarjeta SD.{F801}No se pudo escribir en la tarjeta SD.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#35", "es": "〉 No se detectó la tarjeta SD.{F801}{FFFF}"}
+{"key": "saveLoadER/saveLoadER.mbm#36", "es": "〉 No se encontraron datos.{F801}{FFFF}"}
