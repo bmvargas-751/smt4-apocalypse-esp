@@ -28,3 +28,4 @@ Las decisiones del usuario, con fecha. Una regla nueva de [STYLE.md](STYLE.md), 
 - **2026-11-08** *2nd Brane* → «Brana 2» (la fuente no tiene «ª»). Los términos de sistema van en minúscula a media frase (E-59). Al jugador se le da la bienvenida con «Bienvenido» (es masculino según las fichas). «Ofertas», no «rebajas».
 - **2026-11-08** Recomendaciones del piloto aprobadas: «¡Envenenaron a X!» (E-42) y «Por favor» en los avisos que lo traen en inglés. *Macca* sigue como en la tabla.
 - **2026-11-08** *performance* → «capacidades». *Search/Special/End* → «Buscar/Especial/Terminar», provisionales.
+- **2026-11-08** Interfaz: se traducen por si acaso las 2 líneas en japonés con sentido (Burroughs y el aviso de terminal); las 17 de relleno o prueba («ダミー», el silabario) quedan fuera de la cuenta.

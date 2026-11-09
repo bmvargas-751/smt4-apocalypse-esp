@@ -9,7 +9,7 @@ La traducción es la fase 6 del [plan](../PLAN.md) y se hace por secciones, en e
 <!-- progress: lo actualiza `python3 -I tools/progress.py --readme` en cada commit que toca translation/ -->
 | Fase | Sección | Contenido | Traducidos | Total | % |
 |---|---|---|---:|---:|---:|
-| 6.1 | Interfaz | Menús, sistema, combate, fusión, tiendas, guardado, StreetPass y tutoriales | 688 | 707 | 97,3 % |
+| 6.1 | Interfaz | Menús, sistema, combate, fusión, tiendas, guardado, StreetPass y tutoriales | 690 | 690 | 100,0 % |
 | 6.2 | Tablas | Nombres de objetos, demonios, misiones y lugares, y textos cortos de menús (.tbb) | 0 | 6.757 | 0,0 % |
 | 6.3 | Datos | Descripciones de objetos y habilidades, perfiles de demonios y base de datos de cazadores | 0 | 3.001 | 0,0 % |
 | 6.4 | Historia | Eventos, combates de la historia, mapas y tu cuarto | 15 | 2.773 | 0,5 % |
@@ -17,13 +17,13 @@ La traducción es la fase 6 del [plan](../PLAN.md) y se hace por secciones, en e
 | 6.6 | Negociaciones | Conversaciones con demonios, por personalidad | 0 | 11.518 | 0,0 % |
 | 6.7 | Demonios en combate | Frases de demonios y compañeros en combate y en StreetPass | 0 | 4.380 | 0,0 % |
 | 6.8 | Contenido descargable | Misiones descargables | 0 | 542 | 0,0 % |
-| | **Total** | | **705** | **31.256** | **2,3 %** |
+| | **Total** | | **707** | **31.239** | **2,3 %** |
 <!-- /progress -->
 
 - **Se cuentan textos**, no palabras: un mensaje puede ser un «Sí» o una escena entera, y un texto de tabla suele ser un nombre. Muchos se repiten (de los 24.182 mensajes, 11.490 son distintos; de los 6.757 textos de tablas, 3.306), y una línea repetida se traduce una sola vez.
 - **Tablas:** solo cuentan los textos en inglés que ve el jugador. Quedan fuera los nombres internos (4.266: archivos, etiquetas) y 4.587 textos en japonés: marcadores de los desarrolladores («予備枠», «未使用») y la versión japonesa de descripciones que en inglés están en los mensajes.
-- **Japonés:** quedan 2844 mensajes en japonés, unos 2000 en *Demonios en combate*. Se cuentan igual hasta saber si el juego los muestra.
-- **Fuera de la cuenta:** los 7 mensajes de prueba de los desarrolladores (`test/`).
+- **Japonés:** quedan 2825 mensajes en japonés, unos 2000 en *Demonios en combate*. Se cuentan igual hasta saber si el juego los muestra (TECH T-6). De la Interfaz se tradujeron 2 por si acaso.
+- **Fuera de la cuenta:** los 7 mensajes de prueba de los desarrolladores (`test/`) y 17 de relleno o prueba en japonés de la Interfaz («ダミー» y el silabario; `EXCLUDED_KEYS` en tools/progress.py).
 
 ## Formato
 

@@ -31,5 +31,5 @@ Lo que el juego necesita para que el texto no se rompa. Cada regla tiene un núm
 
 ## Qué se traduce
 
-- **T-6** El japonés que quedó en los archivos no se traduce hasta saber si el juego lo muestra. Los lotes lo saltan solos. [PLAN]
+- **T-6** El japonés que quedó en los archivos no se traduce hasta saber si el juego lo muestra. Los lotes lo saltan solos. Cuando el usuario decide traducir una línea en japonés, se prepara con `batch.py prepare --japanese`; el relleno y las pruebas («ダミー», el silabario) quedan fuera de la cuenta (`EXCLUDED_KEYS` en tools/progress.py). [PLAN, DECISIONS 2026-11-08]
 - **T-8** Toda línea del lote se traduce completa: ninguna queda vacía, igual al inglés ni con frases en inglés mezcladas. (`vacia`, `sin_traducir`, `ingles_mezclado`)
