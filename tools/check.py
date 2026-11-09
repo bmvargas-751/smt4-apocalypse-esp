@@ -23,7 +23,7 @@ import tbb  # noqa: E402
 
 EN_WORDS = re.compile(r"\b(the|you|and|what|this|that|is|are|was|don't|I'm|it's|with|for|have|just|gonna)\b", re.I)
 SENTENCE = re.compile(r"[a-záéíóúñ']{3,} [a-záéíóúñ']{3,}")
-SPACING = re.compile(r"  |\s+[,.;:!?](?!\.)|\.\.\.\.")
+SPACING = re.compile(r"  |\s+[,.;:!?](?![.\d])|\.\.\.\.")
 VOSOTROS = re.compile(
     r"\b(?:vosotr[oa]s|vuestr[oa]s?|os)\b"
     r"|\b(?!samuráis\b)\w+(?:áis|éis)\b"
@@ -38,7 +38,7 @@ REGIONAL = re.compile(
     r"gafas|bañador\w*|nevera\w*|fard(?:ar|ando|ado|aba\w*|ó|a|as|an|e|es|en)|moter[oa]s?|tragaperras|aparc\w+|jerséis|jersey|"
     r"auriculares|setas?|coches?|cubos? de basura|marcapáginas|ambientador\w*|megafonía)\b", re.I)
 LATAM = re.compile(
-    r"¿ya\?|\b(fome|lata|plata|tomar desayuno|chido|bac[aá]n|boludo|wey|pana|harto|(?-i:po)|cachai|recién|qué onda|nomás)\b",
+    r"¿ya\?|\b(fome|qué lata|plata|tomar desayuno|chido|bac[aá]n|boludo|wey|pana|harto|(?-i:po)|cachai|recién|qué onda|nomás)\b",
     re.I)
 Y_E = re.compile(r"(?<![\w])[yY] (?=[hH]?[iíIÍ](?![aeouáéóú]))")
 O_U = re.compile(r"(?<![\w])[oO] (?=[hH]?[oóOÓ])")
