@@ -1054,10 +1054,604 @@
 {"key": "item/ItemHelpMess.mbm#1202", "es": "Consola de videojuegos que no es portátil.{F801}Envidias el tiempo libre de las generaciones pasadas.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1203", "es": "Balón para jugar fútbol.{F801}También has visto a gente usar una cabeza de demonio.{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1204", "es": "Requiere montaje. Si tan solo hubiera tiempo para armarlo...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1205", "es": "Aparato para ver videos de DVD.{F801}Antes se consideraba de alta resolución...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1206", "es": "Aparato para reproducir discos de alta definición.{F801}Tantas siglas parecen confusas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1207", "es": "Aparato para reproducir y grabar programas y películas.{F801}¿De verdad hacía falta grabarlos?{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1208", "es": "Software de videojuegos.{F801}Envidias el tiempo libre de las generaciones pasadas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1209", "es": "Instrumento que se toca punteando las cuerdas.{F801}El papá de Asahi practicaba con uno en secreto.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1210", "es": "Reloj pequeño que se lleva en el brazo.{F801}Todo cazador tiene al menos uno.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1211", "es": "Instrumento de viento que se toca soplando.{F801}Manabu solía tocar uno de estos.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1212", "es": "Disco con música grabada.{F801}Nunca lo escuches más fuerte que los gritos de afuera.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1213", "es": "Disco con video grabado.{F801}Contiene imágenes del mundo como era antes.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1214", "es": "Herramienta para inmovilizar las extremidades de una persona.{F801}Una vez te metiste en problemas por atar a Asahi.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1215", "es": "Bolsa para llevar cosas. Con un objeto pesado dentro, se convierte en un arma.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1216", "es": "Disco con un video subido de tono.{F801}Hay cosas que nunca cambian...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1217", "es": "Disco con un hermoso video en alta definición.{F801}Se puede aprender mucho del pasado.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1218", "es": "Disco con un video subido de tono.{F801}¡La calidad de la imagen es impresionante!{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1219", "es": "Hojas de tabaco picadas y enrolladas en papel.{F801}Malo para la salud y sin beneficios reales.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1220", "es": "Traje ajustado que cubre el cuerpo.{F801}También cubre la cara y dificulta la respiración.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1221", "es": "No estás muy seguro de que te guste esto.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1222", "es": "Reproductor de música personal. Si suena muy fuerte, puede alertar a los demonios.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1223", "es": "Máquina que proyecta videos en una pared.{F801}Una vez viste una película y fue muy conmovedora.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1224", "es": "Teléfono más grande.{F801}Tiene las mismas funciones, así que parece innecesario...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1225", "es": "Aparato para ver videos.{F801}De uno de estos salió arrastrándose el fantasma de una mujer.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1251", "es": "Bebida amarga para despertarse.{F801}Muy útil en una larga vigilancia.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1252", "es": "Bebida dulce de varios sabores.{F801}El azúcar da sed, así que bebe con responsabilidad.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1253", "es": "Sopa preparada en una lata sellada.{F801}Se prepara fácil, así que es cómoda en combate.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1254", "es": "Una forma eficiente de obtener varios nutrientes.{F801}¿Pero es más nutritivo que la carne de demonio?{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1255", "es": "Bebida en un envase delgado y resistente.{F801}Después, la botella sirve de cantimplora.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1256", "es": "Uno de los cinco condimentos básicos de Japón.{F801}Muy valioso en el Tokio posapocalíptico.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1257", "es": "Uno de los cinco condimentos básicos de Japón.{F801}Antes era una especia; ahora es un acompañamiento.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1258", "es": "Uno de los cinco condimentos básicos de Japón.{F801}Sirve para ablandar la dura carne de demonio.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1259", "es": "Uno de los cinco condimentos básicos de Japón.{F801}Una vez Asahi lo confundió con sal...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1260", "es": "Uno de los cinco condimentos básicos de Japón.{F801}Se usa al cocinar, en funerales y más.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1261", "es": "Comida práctica y segura de comer.{F801}Ideal para quienes pasan tiempo al aire libre.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1262", "es": "Comida práctica y segura de comer.{F801}Las dietas fueron populares, pero ahora es solo un lujo.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1263", "es": "Comida práctica y segura de comer.{F801}Una vez tuviste que comer una fría...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1264", "es": "Comida práctica y segura de comer.{F801}Se conserva bien, pero no hace falta en una misión.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1265", "es": "Bebida alcohólica.{F801}Antes, la gente la tomaba después del trabajo.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1266", "es": "Bebida alcohólica.{F801}Definitivamente no es para menores.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1267", "es": "Bebida alcohólica.{F801}Una cucharada en los fideos instantáneos les quita la grasa.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1268", "es": "Bebida alcohólica.{F801}Dicen que combina muy bien con umeboshi.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1269", "es": "Bebida alcohólica.{F801}La favorita del papá de Asahi.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1270", "es": "Bebida alcohólica.{F801}Te obligaban a tomarla cuando estabas enfermo.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1271", "es": "Comida práctica y segura de comer.{F801}Todos los días son una emergencia, ¡así que a comer!{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1272", "es": "Comida práctica y segura de comer.{F801}Las verduras son un lujo poco común.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1273", "es": "Comida práctica y segura de comer.{F801}Suele servirse en celebraciones, como un cumpleaños.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1274", "es": "Comida práctica y segura de comer.{F801}Antes se pescaba en el océano...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1275", "es": "Comida práctica y segura de comer.{F801}Comparada con esta, la carne de demonio parece de mala calidad.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1301", "es": "Escritorio sencillo, sin adornos.{F801}¿Para qué tipo de trabajo lo usaría la gente?{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1302", "es": "Escritorio diseñado para sostener una computadora.{F801}Pero sin duda también sirve para otros objetos.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1303", "es": "Escritorio de madera.{F801}Envidias una época en la que la gente solo estudiaba.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1304", "es": "Silla sencilla de madera.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1306", "es": "Estantes para guardar la vajilla.{F801}Hoy en día guardan armas y municiones.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1307", "es": "Estantes para libros y otros objetos.{F801}Antes la gente usaba papel para guardar datos.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1308", "es": "Cojín suave.{F801}Probablemente no sirva para causar daño...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1311", "es": "Esterilla para extender en el suelo.{F801}Quizá te haga volar... o quizá no...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1312", "es": "Tela para dividir una parte de una habitación.{F801}En Tokio no hace falta bloquear la luz.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1313", "es": "Cojín suave para apoyar la cabeza al dormir.{F801}Una vez Asahi y tú pelearon con estas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1316", "es": "Mueble para guardar ropa.{F801}También es un escondite perfectamente aceptable.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1317", "es": "Mueble para comer o trabajar.{F801}También funciona como barricada.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1321", "es": "Mueble de estilo occidental para dormir.{F801}También se pueden esconder cosas debajo.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1322", "es": "Banco acolchado con respaldo y una manta.{F801}A veces es una forma lujosa de descansar un poco.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1351", "es": "Caja para guardar maquillaje.{F801}En un apuro, también sirve para guardar municiones...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1352", "es": "Asahi dijo que son accesorios para el cabello.{F801}A veces se ata el pelo con uno.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1353", "es": "Se aplica directamente en la cara.{F801}Asahi no lo usa mucho.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1354", "es": "Asahi dijo que es para los labios.{F801}Las mujeres son muy exigentes con estas cosas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1355", "es": "Maquillaje que se aplica alrededor de los ojos.{F801}Verlo aplicar te da impresión.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1356", "es": "Maquillaje que se aplica en las uñas.{F801}También puede servir como pegamento.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1357", "es": "Maquillaje que se aplica en los párpados.{F801}Las mujeres son muy exigentes con estas cosas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1358", "es": "Papel desechable para humectar el rostro.{F801}La compañera de cuarto de Asahi las usa.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1359", "es": "Maquillaje para las cejas. Una vez lo usaste para dibujar en la cara de Asahi mientras dormía y te metiste en problemas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1360", "es": "Maquillaje que se aplica en la cara.{F801}Asahi dice que evita la piel seca.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1361", "es": "Producto que aumenta la cantidad de pestañas.{F801}Lo usan quienes tienen pocas pestañas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1362", "es": "Maquillaje que se aplica en los labios.{F801}Parece que debería dejarlos pegajosos...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1363", "es": "Maquillaje que se aplica en las mejillas.{F801}Alguien debería enseñarle a Asahi a usarlo.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1364", "es": "Maquillaje para dar grosor a las pestañas.{F801}El aplicador parece una oruga.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1365", "es": "Herramienta para rizar las pestañas.{F801}Has oído que primero hay que calentarla.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1366", "es": "Supuestamente sirve para peinarse.{F801}¡Pero también puede servir como lanzallamas!{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1367", "es": "Maquillaje que se aplica en los labios.{F801}Un hombre del subsuelo también lo usa...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1368", "es": "Producto para lavarse el cabello.{F801}El agua sola no es tan eficaz.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1369", "es": "Producto para lavarse el cuerpo.{F801}No hace falta para el uso diario.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1370", "es": "Producto para lavarse el cabello.{F801}¡Asahi usa mucho de este!{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1371", "es": "Producto para evitar que el sudor huela mal.{F801}Al rociarlo se siente fresco.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1372", "es": "Producto que se pega en las uñas.{F801}Curiosamente, no aumenta el ataque...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1373", "es": "Producto que disfrutan usar las mujeres.{F801}Cuidado de no atraer a un enemigo...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1374", "es": "Cabello falso para ponerse en la cabeza.{F801}Son geniales para ir disfrazado.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1375", "es": "Espejo pequeño y portátil.{F801}Sirve para ver lo que hay al doblar una esquina.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1401", "es": "Cubierto para pinchar la comida.{F801}Se parece a ciertas lanzas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1402", "es": "Toalla pequeña para limpiar la suciedad.{F801}También se usa en primeros auxilios.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1403", "es": "Utensilio de escritura para dejar marcas.{F801}Los cuadernos de Asahi están llenos de marcador.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1404", "es": "Papel encuadernado para tomar notas.{F801}Los teléfonos también pueden hacer esto.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1405", "es": "Puede ser útil en el espionaje...{F801}Solo apóyalo en la oreja y en una pared o puerta.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1406", "es": "Utensilio de cocina para cortar.{F801}También es un arma, pero deja mucho que desear.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1407", "es": "Excelente para servir comida.{F801}Podría usarse como escudo... o quizá no.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1408", "es": "Se usa para cocinar.{F801}O quizá se pueda usar como casco.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1409", "es": "Recipiente para hervir líquidos.{F801}Ideal para las comidas instantáneas, claro.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1410", "es": "Grande y esponjosa, una necesidad básica.{F801}¡Mójala, congélala y podrá hacer daño!{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1411", "es": "Tabla de madera con ruedas.{F801}Puede servir de distracción bastante ruidosa.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1412", "es": "Estera de goma para el suelo.{F801}...¿Qué es el yoga, de todos modos?{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1413", "es": "Sirve para remendar tela y coser botones.{F801}En una emergencia, también puede coser heridas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1414", "es": "Sirve para observar el cielo.{F801}Aunque no hay mucho que ver allá arriba.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1415", "es": "Sirve para limpiarse los dientes.{F801}Tu boca te lo agradecerá después.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1416", "es": "Tiene un cepillo motorizado para limpiar los dientes.{F801}En el pasado les encantaban los aparatos eléctricos.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1417", "es": "Vehículo que se movía con fuerza humana.{F801}Hoy se usa sobre todo bajo tierra, donde es más seguro.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1418", "es": "Parrilla para asar comida.{F801}¡Enciende el fuego y asa un poco de carne de demonio!{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1419", "es": "Líquido para lavar la ropa.{F801}Asahi suele encargarse de la colada.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1420", "es": "Máquina para coser tela más rápido.{F801}Eso sí, no sirve para coser heridas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1421", "es": "Bicicleta motorizada.{F801}Qué desperdicio de electricidad.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1422", "es": "Dispositivo que almacena y libera energía eléctrica.{F801}Es imposible vivir bajo tierra sin estas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1423", "es": "Da luz en lugares oscuros.{F801}Has visto a un demonio con una...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1424", "es": "Sirve para calentar y cocinar.{F801}Invaluable cuando sales en una misión.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1451", "es": "Madera carbonizada para encender fuego.{F801}También sirve como desodorante.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1452", "es": "Bambú carbonizado para encender fuego.{F801}Nikkari dijo que se pone en el agua potable.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1453", "es": "Da una sensación fresca y refrescante.{F801}Huele a pasta de dientes.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1454", "es": "Suave y refrescante.{F801}Aplicarlo en una herida ayuda a que sane más rápido.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1455", "es": "Tiene un aroma muy particular que divide opiniones.{F801}Sirve para manejar superficies resbaladizas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1456", "es": "Recipiente con hierbas secas.{F801}Algunas personas las huelen para concentrarse.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1457", "es": "Bloque sólido de aserrín.{F801}Úsalo para enviar señales de humo.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1458", "es": "Libera un humo fragante al encenderse.{F801}Se usa como ofrenda a los muertos.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1459", "es": "Recipiente que contiene una espiral antimosquitos.{F801}Muchos en Japón tienen la forma de un Katakirauwa.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1460", "es": "Vela que emite una fragancia al encenderse.{F801}Cuanto más huele, peor te sientes...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1461", "es": "Produce una fragancia suave y floral.{F801}Antes la gente se esforzaba mucho por relajarse.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1462", "es": "Produce un aroma bastante fuerte.{F801}Es venenoso, ¡así que no te lo comas!{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1463", "es": "Bloque de incienso en polvo.{F801}Solo hay que calentarlo... No lo prendas con fuego.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1464", "es": "Aceite fragante extraído de una planta.{F801}Excelente para masajes y otros usos.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1465", "es": "Viene de un árbol de olor único.{F801}Pero para ti solo parece madera seca.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1466", "es": "Una bolsa llena de incienso. No se te ocurre mucho más uso que jugar con ella como con una pelota de trapo.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1467", "es": "Recipiente lleno de fragancias secas.{F801}Una mezcla notable de aromas y de aspecto...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1468", "es": "Libera un aroma al calentarse.{F801}No se puede usar solo.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1469", "es": "Tiene un aroma dulce y refrescante.{F801}No es un simple trozo de madera.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1470", "es": "Incensario colgado de cadenas de metal.{F801}Sin duda parece extravagante...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1472", "es": "Secreciones de cierta especie de gato.{F801}Parece caro, pero su olor es desagradable.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1473", "es": "Secreciones de la zona anal de un castor. Sí, así es...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1474", "es": "Secreciones de cierta especie de ciervo.{F801}Es tan potente que provoca tos.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1475", "es": "Proviene de los intestinos de una ballena.{F801}Es un desecho, pero muy valorado.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1501", "es": "Moneda de hace mucho tiempo. Es de aluminio y su peso indica su valor.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1502", "es": "Moneda de hace mucho tiempo.{F801}Algunos cazadores las usan para la radiestesia.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1503", "es": "Moneda de hace mucho tiempo.{F801}Lánzala para que un enemigo se sobresalte... por un segundo.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1504", "es": "Moneda de hace mucho tiempo.{F801}Tiene grabadas unas hermosas flores de cerezo.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1505", "es": "Moneda de hace mucho tiempo.{F801}Mucho más ornamentada que los macca.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1506", "es": "Billete de hace mucho tiempo.{F801}Muestra a un hombre con bigote y cabello abundante.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1507", "es": "Billete de hace mucho tiempo.{F801}Muestra una puerta que ya no existe.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1508", "es": "Billete de hace mucho tiempo.{F801}Muestra a una mujer de rostro cansado y triste.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1509", "es": "Billete de hace mucho tiempo.{F801}Muestra a un hombre de mediana edad en kimono.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1510", "es": "Tarjeta con un montón de números.{F801}La gente confiaba más en estas que en los macca.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1511", "es": "Anuncia películas de hace mucho tiempo.{F801}¿Por qué no distribuirlos de forma digital?{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1512", "es": "Permite la entrada a algún tipo de evento.{F801}Fuera lo que fuera, el evento terminó hace mucho.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1513", "es": "Papelito con palabras y números.{F801}Los valores no están en macca.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1514", "es": "Papel con un nombre y un vocabulario florido.{F801}Hoy no tiene ninguna autoridad.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1515", "es": "Calendario con fechas de hace 25 años.{F801}Los lugares que aparecen ya no existen.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1516", "es": "Formulario para compartir responsabilidades legalmente.{F801}Aunque hoy sería difícil encontrar a un codeudor.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1517", "es": "Papel con los nombres de un montón de personas.{F801}Supones que la mayoría probablemente está muerta.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1518", "es": "Escrito pomposo.{F801}Sin tribunales, estas órdenes no significan nada.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1519", "es": "Tarjeta con una foto y datos personales.{F801}A los demonios les encanta atacar a quienes conducen autos.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1521", "es": "El nombre de una persona y unas palabras peligrosas.{F801}¿Para qué pedir permiso para capturar a un malo?{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1522", "es": "Con una inscripción muy digna.{F801}Hoy nadie honraría su significado.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1523", "es": "Marco lleno de premios y medallas.{F801}Quien lo recibió hace tiempo debió de sentirse orgulloso.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1524", "es": "Servía para señalar que alguien era un héroe.{F801}Si aún existieran, Flynn debería recibir una.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1551", "es": "Mide la presión arterial.{F801}¿118 sobre 59? ¡Se ve bien!{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1552", "es": "Mide la temperatura corporal.{F801}¿35.3 Celsius? Un poco baja.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1553", "es": "Tela para envolver heridas.{F801}Normalmente no quieres verla.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1554", "es": "Producto para dar primeros auxilios.{F801}Asahi suele llevar algunos consigo.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1555", "es": "Se coloca en el pecho para oír los latidos.{F801}Hace mucho, Asahi y tú jugaban con uno.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1556", "es": "Sostiene el cuerpo para ayudar a caminar.{F801}Tuviste uno una vez, cuando te rompiste el pie.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1557", "es": "Ayuda a moverse a quienes tienen mal las piernas.{F801}Algunas tienen motores eléctricos.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1558", "es": "Sirve para extraer sangre o inyectar medicinas.{F801}Puede usarse para administrar analgésicos.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1559", "es": "Sirve para estabilizar una parte lesionada del cuerpo.{F801}Aumenta la defensa, pero reduce la agilidad...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1560", "es": "Pastillas para reponer nutrientes.{F801}La gente del pasado obtenía muchos nutrientes así.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1561", "es": "Pastillas para reponer nutrientes.{F801}¿Qué pasará si tomas una?{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1562", "es": "Pastillas para reponer nutrientes.{F801}Asahi dijo que quitan el acné.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1563", "es": "Medicina para el dolor y la fiebre.{F801}Te ayudó mucho en tus primeros años.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1564", "es": "Un anestésico... ¿Pero cómo se usa?{F801}No parece eficaz contra los demonios.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1565", "es": "Fármaco que evita el sueño.{F801}¿Hace falta tomarlo como medicina?{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1566", "es": "Estimula una parte concreta de la anatomía.{F801}Por ahora no le encuentras uso...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1567", "es": "Medicina de hierbas para aliviar el dolor de garganta.{F801}Antes creías que se escribía “regalís”.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1568", "es": "Medicina de hierbas para tratar la fiebre.{F801}El papá de Asahi te obligó a tomarla una vez.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1569", "es": "Medicina que acelera el metabolismo.{F801}¡Tómala antes de entrenar para quemar grasa!{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1570", "es": "Fármaco que dificulta la coagulación de la sangre.{F801}¿Quién querría eso...?{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1571", "es": "Analgésico.{F801}Asahi lleva algunos por si hay emergencias.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1572", "es": "Analgésico.{F801}Has oído que es bastante eficaz.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1573", "es": "Analgésico.{F801}Has oído que es sumamente eficaz.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1574", "es": "Fármaco que previene las infecciones.{F801}Esencial para mantenerse sano en el campo de batalla.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1575", "es": "Planta que supuestamente mantiene la buena salud.{F801}La forma de la raíz te recuerda a una Mandrágora.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1601", "es": "Prenda elástica que se usa en los pies.{F801}Se desgastan, así que ten siempre muchas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1602", "es": "Prenda que los hombres se envuelven en el cuello.{F801}No es tu estilo, pero sirve de torniquete.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1603", "es": "Ropa interior que se pega al cuerpo.{F801}¡Invaluable en días fríos! Parecida a las medias...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1604", "es": "Ropa interior que se pega al cuerpo.{F801}¡Invaluable en días fríos! Parecida a las mallas...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1605", "es": "Calzado con una transpirabilidad suprema.{F801}Pero su poca durabilidad lo hace inadecuado para el combate.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1606", "es": "Zapatos para hacer ejercicio.{F801}Cómodos y fáciles para moverse.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1607", "es": "Excelente para conservar el calor del cuerpo.{F801}Débil contra ataques de Agi, así que hay que tener cuidado.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1608", "es": "Lo usan normalmente las mujeres.{F801}Asahi tiene muchos de estos.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1609", "es": "Prenda superior sin mangas.{F801}Hay versiones formales y antibalas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1610", "es": "Prenda interior para la parte superior del cuerpo.{F801}Nunca se tienen demasiadas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1611", "es": "Calzado alto, normalmente de cuero.{F801}Te gustan por lo resistentes que son.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1612", "es": "Ropa interior femenina.{F801}Parece que Asahi tiene unas cuantas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1613", "es": "Las usan las mujeres.{F801}...¡Y también algunos hombres!{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1614", "es": "Prenda de abrigo con capucha.{F801}Al parecer, antes se usaba como moda.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1615", "es": "Abrigo largo.{F801}Invaluable para mantenerse abrigado.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1616", "es": "Ropa hecha para meterse en el agua.{F801}Pocas veces tienes ocasión de usarla.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1617", "es": "Pantalones resistentes. Hace mucho, la gente les hacía agujeros a propósito.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1618", "es": "Atuendo tradicional desde el antiguo Japón.{F801}Hoy en día casi no se usa.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1619", "es": "Zapatos con tacón elevado que usan sobre todo las mujeres.{F801}Incómodos cuando te persiguen los demonios.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1620", "es": "Al parecer, las mujeres los usaban con vestidos.{F801}¿Quizá tengan algún propósito médico?{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1621", "es": "Atuendo que usaban las mujeres en algunos cafés de Tokio.{F801}Te preguntas quién “hizo” este atuendo...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1622", "es": "Prenda de abrigo de cuero.{F801}¡Alta resistencia al frío y una defensa decente!{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1623", "es": "Un traje elegante.{F801}Pero ahora no tiene sentido usarlo.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1624", "es": "Zapatos de cuero elegantes.{F801}Pero ahora no tiene sentido usarlos.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1625", "es": "Un vestido elegante. Quizá deberías haberlo guardado para un regalo...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1627", "es": "Mineral con brillo de vidrio.{F801}Sinceramente, parece una roca común.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1632", "es": "Mineral negro como la brea.{F801}Es translúcido si se pone a contraluz.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1637", "es": "Al parecer es un meteorito. ¿Será distinto de una roca caída del Techo...?{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1638", "es": "Parece que este mineral gris está en todas partes.{F801}¿Qué lo diferencia de otras rocas?{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1642", "es": "Mineral con propiedades parecidas al hierro.{F801}Pule un corte transversal para ver líneas finas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1643", "es": "Mineral con propiedades parecidas al hierro.{F801}Pule un corte transversal para ver un patrón delicado.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1644", "es": "Mineral con propiedades parecidas al hierro.{F801}Pule un corte transversal para ver líneas muy finas.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1647", "es": "Mineral compuesto de metal y roca.{F801}Una mezcla de varios materiales.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1648", "es": "Mineral compuesto de metal y roca.{F801}Bastante hermoso...{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1649", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1650", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1651", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1652", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1653", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1654", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1655", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1656", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1657", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1658", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1659", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1660", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1661", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1662", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1663", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1664", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1665", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1666", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1667", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1668", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1669", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1670", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1671", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1672", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1673", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1674", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1675", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1676", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1677", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1678", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1679", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1680", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1681", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1682", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1683", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1684", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1685", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1686", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1687", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1688", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1689", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1690", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1691", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1692", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1693", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1694", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1695", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1696", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1697", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1698", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1699", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1700", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1701", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1702", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1703", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1704", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1705", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1706", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1707", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1708", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1709", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1710", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1711", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1712", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1713", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1714", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1715", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1716", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1717", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1718", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1719", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1720", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1721", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1722", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1723", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1724", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1725", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1726", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1727", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1728", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1729", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1730", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1731", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1732", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1733", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1734", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1735", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1736", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1737", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1738", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1739", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1740", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1741", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1742", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1743", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1744", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1745", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1746", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1747", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1748", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1749", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1750", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1751", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1752", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1753", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1754", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1755", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1756", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1757", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1758", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1759", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1760", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1761", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1762", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1763", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1764", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1765", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1766", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1767", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1768", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1769", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1770", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1771", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1772", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1773", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1774", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1775", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1776", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1777", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1778", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1779", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1780", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1781", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1782", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1783", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1784", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1785", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1786", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1787", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1788", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1789", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1790", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1791", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1792", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1793", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1794", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1795", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1796", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1797", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1798", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1799", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1800", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1801", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1802", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1803", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1804", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1805", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1806", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1807", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1808", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1809", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1810", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1811", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1812", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1813", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1814", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1815", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1816", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1817", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1818", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1819", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1820", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1821", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1822", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1823", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1824", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1825", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1826", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1827", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1828", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1829", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1830", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1831", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1832", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1833", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1834", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1835", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1836", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1837", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1838", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1839", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1840", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1841", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1842", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1843", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1844", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1845", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1846", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1847", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1848", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1849", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1850", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1851", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1852", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1853", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1854", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1855", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1856", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1857", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1858", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1859", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1860", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1861", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1862", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1863", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1864", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1865", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1866", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1867", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1868", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1869", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1870", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1871", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1872", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1873", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1874", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1875", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1876", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1877", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1878", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1879", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1880", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1881", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1882", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1883", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1884", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1885", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1886", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1887", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1888", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1889", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1890", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1891", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1892", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1893", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1894", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1895", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1896", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1897", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1898", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1899", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1900", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1901", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1902", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1903", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1904", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1905", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1906", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1907", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1908", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1909", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1910", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1911", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1912", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1913", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1914", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1915", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1916", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1917", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1918", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1919", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1920", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1921", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1922", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1923", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1924", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1925", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1926", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1927", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1928", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1929", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1930", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1931", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1932", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1933", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1934", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1935", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1936", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1937", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1938", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1939", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1940", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1941", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1942", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1943", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1944", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1945", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1946", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1947", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1948", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1949", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1950", "es": "Reliquia para vender{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1951", "es": "Cuerda misteriosa que permite escapar del dominio de un demonio al cortarla.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1952", "es": "Aumenta Fu en 1.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1953", "es": "Aumenta Ma en 1.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1954", "es": "Aumenta De en 1.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1955", "es": "Aumenta Ag en 1.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1956", "es": "Aumenta Su en 1.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1957", "es": "Aumenta los PS máximos.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1958", "es": "Aumenta los PM máximos.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1959", "es": "Ataque débil de tipo fuego.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1960", "es": "Ataque débil de tipo hielo.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1961", "es": "Ataque débil de tipo electricidad.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1962", "es": "Ataque débil de tipo choque.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1963", "es": "Ataque débil de tipo luz.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1964", "es": "Ataque intenso de tipo luz.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1965", "es": "Ataque débil de tipo oscuridad.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1966", "es": "Ataque intenso de tipo oscuridad.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1967", "es": "Agua misteriosa que atrae a los demonios.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1968", "es": "Paquete especial que mejora una espada.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1969", "es": "Paquete especial que mejora un arma de fuego.{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1970", "es": "Paquete especial que mejora una pieza de armadura.{F801}Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1971", "es": "Restaura una cantidad media y fija de PS.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1972", "es": "Restaura una gran cantidad fija de PS.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1973", "es": "Otorga 5 puntos de app.{F801}PA actuales: {F87D}{0000}. Tras usarlo: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1974", "es": "Piedra que despierta un poder oculto.{F801}Nota: usos ilimitados. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1975", "es": "Sube en 1 la afinidad positiva de un demonio con el tipo físico.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1976", "es": "Sube en 1 la afinidad positiva de un demonio con el tipo disparo.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1977", "es": "Sube en 1 la afinidad positiva de un demonio con el tipo fuego.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1978", "es": "Sube en 1 la afinidad positiva de un demonio con el tipo hielo.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1979", "es": "Sube en 1 la afinidad positiva de un demonio con el tipo electricidad.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1980", "es": "Sube en 1 la afinidad positiva de un demonio con el tipo choque.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1981", "es": "Sube en 1 la afinidad positiva de un demonio con el tipo luz.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1982", "es": "Sube en 1 la afinidad positiva de un demonio con el tipo oscuridad.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1983", "es": "Sube en 1 la afinidad positiva de un demonio con el tipo todopoderoso.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1984", "es": "Sube en 1 la afinidad positiva de un demonio con el tipo curativo.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1985", "es": "Sube en 1 la afinidad positiva de un demonio con el tipo apoyo.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1986", "es": "Sube en 1 la afinidad positiva de un demonio con el tipo estado alterado.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1987", "es": "Invoca gratis a un demonio del Compendio.{F801}Objetivo: ninguno. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1988", "es": "Gema muy preciosa que simboliza la eternidad.{F801}Objetivo: ninguno. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1989", "es": "Gema muy preciosa que simboliza la verdad.{F801}Objetivo: ninguno. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1990", "es": "Gema muy preciosa que simboliza la felicidad.{F801}Objetivo: ninguno. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1991", "es": "Cura por completo a todos los aliados.{F801}Objetivo: Todos los aliados. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1992", "es": "Al ser derrotado, los aliados reviven + 8 iconos de acción.{F801}Objetivo: Todos los aliados. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1993", "es": "Da 1 icono de acción hasta el final del combate.{F801}Objetivo: Todos los aliados. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1994", "es": "Restaura una pequeña cantidad de PS. Precio de venta alto.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1995", "es": "Cura Pánico. Precio de venta alto.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#1996", "es": "Restaura una pequeña cantidad de PM. Precio de venta alto.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
 {"key": "item/ItemHelpMess.mbm#1997", "es": "Otorga EXP suficiente para subir de nivel.{F801}Objetivo: {F87D}{0000}. Límite: {F87D}{0100}{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2013", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2014", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2015", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2016", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2017", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2018", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2019", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2020", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2021", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2022", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2023", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2024", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2025", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2026", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2027", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2028", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2029", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2030", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2031", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2032", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2033", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2034", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2035", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2036", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2037", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2038", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2039", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2040", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2041", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2042", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2043", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2044", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2045", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2046", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2047", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2048", "es": "Contrato{F801}{FFFF}"}
+{"key": "item/ItemHelpMess.mbm#2049", "es": "Contrato{F801}{FFFF}"}
