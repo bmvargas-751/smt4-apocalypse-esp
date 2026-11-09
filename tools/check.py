@@ -12,6 +12,7 @@ import argparse
 import json
 import re
 import sys
+import unicodedata
 from collections import Counter
 from pathlib import Path
 
@@ -37,7 +38,7 @@ REGIONAL = re.compile(
     r"gafas|bañador\w*|nevera\w*|fard(?:ar|ando|ado|aba\w*|ó|a|as|an|e|es|en)|moter[oa]s?|tragaperras|aparc\w+|jerséis|jersey|"
     r"auriculares|setas?|coches?|cubos? de basura|marcapáginas|ambientador\w*|megafonía)\b", re.I)
 LATAM = re.compile(
-    r"¿ya\?|\b(fome|lata|plata|tomar desayuno|chido|bac[aá]n|boludo|wey|pana|harto|po|cachai|recién|qué onda|nomás)\b",
+    r"¿ya\?|\b(fome|lata|plata|tomar desayuno|chido|bac[aá]n|boludo|wey|pana|harto|(?-i:po)|cachai|recién|qué onda|nomás)\b",
     re.I)
 Y_E = re.compile(r"(?<![\w])[yY] (?=[hH]?[iíIÍ](?![aeouáéóú]))")
 O_U = re.compile(r"(?<![\w])[oO] (?=[hH]?[oóOÓ])")
@@ -60,13 +61,18 @@ def term_rx(t_es):
     acepta «físicas» y «registrar» acepta «registro».
     """
     parts = []
-    for w in re.split(r"\s+", t_es.strip()):
+    for w in re.split(r"\s+", plain(t_es.strip())):
         if len(w) > 4 and w.isalpha():
             stem = re.sub(r"(?:es|os|as|ar|er|ir|[aeos])$", "", w)
             parts.append(re.escape(stem) + r"\w*")
         else:
             parts.append(re.escape(w))
     return re.compile(r"(?<!\w)" + r"\s+".join(parts) + r"(?!\w)", re.I)
+
+
+def plain(s):
+    """Sin tildes, para comparar «Magia» con «mágico»."""
+    return unicodedata.normalize("NFD", s).encode("ascii", "ignore").decode()
 
 
 def check(key, es):
@@ -147,7 +153,7 @@ def check(key, es):
     if ls > le * 1.6 + 20:
         warn("largo", "E-3", f"{ls} caracteres; el inglés tiene {le}")
     for t_en, t_es in corpus.glossary():
-        if re.search(rf"(?<![A-Za-z]){re.escape(t_en)}(?![A-Za-z])", ven) and not term_rx(t_es).search(ves):
+        if re.search(rf"(?<![A-Za-z]){re.escape(t_en)}(?![A-Za-z])", ven) and not term_rx(t_es).search(plain(ves)):
             warn("glosario", "G-3", f"{t_en} → {t_es}")
     return out
 

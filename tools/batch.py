@@ -3,6 +3,7 @@
 
     python3 tools/batch.py prepare (--section NOMBRE | --prefix RUTA) [--size N] [--name NOMBRE]
     python3 tools/batch.py save NOMBRE [ARCHIVO.jsonl]
+    python3 tools/batch.py fill --section NOMBRE [--dry-run]
 
 prepare  elige las siguientes N líneas sin traducir (en el orden del juego) y
          escribe build/work/batches/NOMBRE/batch.json. Cada línea trae el
@@ -13,6 +14,10 @@ prepare  elige las siguientes N líneas sin traducir (en el orden del juego) y
 save     guarda en translation/ lo que escribió el traductor
          (build/work/batches/NOMBRE/translation.jsonl, {key, es}) y lo copia a
          las líneas idénticas que todavía no tienen traducción.
+fill     completa, sin agentes, los textos de tabla que son exactamente un
+         término del glosario (G-1, G-3), si caben en sus bytes (T-4) y en el ancho de su
+         columna (T-3). Lo que
+         no cabe queda para los lotes.
 """
 import argparse
 import datetime
@@ -23,6 +28,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import corpus  # noqa: E402
+import tbb  # noqa: E402
 from progress import EXCLUDED_KEYS, SECTIONS, section_of  # noqa: E402
 
 WORK = corpus.REPO / "build" / "work" / "batches"
@@ -132,6 +138,42 @@ def save(name, path=None):
     print(f"Guardadas {len(changes) - copies} líneas y {copies} copias idénticas en translation/")
 
 
+def fill(section, dry_run=False):
+    eng = corpus.english()
+    done = corpus.translations()
+    terms = {}
+    for en, es in corpus.glossary():
+        terms.setdefault(en, es)
+    changes, too_long = {}, []
+    meter = corpus.meter()
+    for k, v in eng.items():
+        if k in done or k in EXCLUDED_KEYS or corpus.kind_of(k) != "tbb":
+            continue
+        if section_of(corpus.rel_of(k)) != section:
+            continue
+        en = v["en"].strip()
+        if en not in terms:
+            continue
+        es = terms[en]
+        if en[:1].isupper():
+            es = es[:1].upper() + es[1:]  # una etiqueta empieza con mayúscula, como el inglés
+        if len(tbb.encode(es)) > v["max"]:
+            too_long.append((k, en, es, f"{len(tbb.encode(es))} bytes, máximo {v['max']}"))
+            continue
+        _, tb, _, col = re.match(r"(.*)#(\d+)\.(\d+)\.(\d+)$", k).groups()
+        cw = corpus.column_width(corpus.rel_of(k), int(tb), int(col))
+        if meter.width(es) > cw:  # T-3: más ancho que el inglés más largo de su columna
+            too_long.append((k, en, es, f"{meter.width(es)} px, el inglés llega a {cw}"))
+            continue
+        changes[k] = es
+    if changes and not dry_run:
+        corpus.save(changes)
+    print(f"{len(changes)} textos completados con el glosario{' (prueba, sin guardar)' if dry_run else ''}; "
+          f"{len(too_long)} no caben (quedan para los lotes)")
+    for k, en, es, why in too_long:
+        print(f"  {k}: {en} → {es} ({why})")
+
+
 def main():
     a = argparse.ArgumentParser()
     sub = a.add_subparsers(dest="cmd", required=True)
@@ -141,6 +183,9 @@ def main():
     p.add_argument("--size", type=int, default=250)
     p.add_argument("--name")
     p.add_argument("--japanese", action="store_true", help="incluir las líneas con japonés (se saltan por defecto)")
+    f = sub.add_parser("fill")
+    f.add_argument("--section", required=True, choices=[s[1] for s in SECTIONS])
+    f.add_argument("--dry-run", action="store_true")
     s = sub.add_parser("save")
     s.add_argument("name")
     s.add_argument("path", nargs="?")
@@ -149,6 +194,8 @@ def main():
         if not (args.section or args.prefix):
             sys.exit("Indica --section o --prefix")
         prepare(args.section, args.prefix, args.size, args.name, args.japanese)
+    elif args.cmd == "fill":
+        fill(args.section, args.dry_run)
     else:
         save(args.name, args.path)
 
