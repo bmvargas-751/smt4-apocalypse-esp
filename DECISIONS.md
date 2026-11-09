@@ -30,3 +30,4 @@ Las decisiones del usuario, con fecha. Una regla nueva de [STYLE.md](STYLE.md), 
 - **2026-11-08** *performance* → «capacidades». *Search/Special/End* → «Buscar/Especial/Terminar», provisionales.
 - **2026-11-08** Interfaz: se traducen por si acaso las 2 líneas en japonés con sentido (Burroughs y el aviso de terminal); las 17 de relleno o prueba («ダミー», el silabario) quedan fuera de la cuenta.
 - **2026-11-08** Glosario de Tablas aprobado: 41 filas oficiales, 13 términos y los patrones del terminólogo ([GLOSSARY.md](GLOSSARY.md#tablas)). Raza + nombre siempre (T-1). *Sky Terminal* → «Terminal de Sky Tower». Quedan en PENDING: Luxurors/Casualries, *Jack Union*, el prefijo *A.*, las categorías de misión y *Bartender*.
+- **2026-11-09** Tablas: «Matadioses» en battle/NKMSortIndex.tbb (1 px sobre la columna) y «Asoc. Cazadores» en la lista de misiones (event/quest/QuestData.tbb) se dejan así; se comprueba en el juego si dan problemas.

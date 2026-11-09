@@ -90,5 +90,3 @@ Títulos de misiones (event/quest/SubQuestData.tbb y QuestData.tbb, columna 8, m
 
 ### Lote tablas-006 (2026-11-09)
 
-- [ ] `battle/NKMSortIndex.tbb#0.63.0` (reviewer, sin regla): «Matadioses» → «ninguno: dejar «Matadioses» (decidido en el glosario, G-2) hasta que el usuario resuelva el choque con T-3». Mide 75 px y la columna llega a 74 (T-3 'ancho'), pero el término está decidido en el glosario y cabe de sobra en bytes (10/15); es un choque entre reglas, no un error de traducción.
-- [ ] `event/quest/QuestData.tbb#0.0.64` (traductor, T-3): *Hunter Association* → «Asoc. Cazadores» (111 de 126 px). «Asociación de Cazadores» (168 px) y «Asoc. de Cazadores» (132 px) no caben en la columna; el aviso G-3 del validador queda. Alternativa: «Cazadores» (70 px), que pierde «asociación».
