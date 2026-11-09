@@ -690,21 +690,228 @@
 {"key": "item/ItemTable.tbb#4.122.0", "es": "Fruta enlatada"}
 {"key": "item/ItemTable.tbb#4.123.0", "es": "Pescado enlatado"}
 {"key": "item/ItemTable.tbb#4.124.0", "es": "Carne enlatada"}
+{"key": "item/ItemTable.tbb#4.150.0", "es": "Mesa de trabajo"}
+{"key": "item/ItemTable.tbb#4.151.0", "es": "Mesa de PC"}
+{"key": "item/ItemTable.tbb#4.152.0", "es": "Mesa de estudio"}
+{"key": "item/ItemTable.tbb#4.153.0", "es": "Silla"}
 {"key": "item/ItemTable.tbb#4.154.0", "es": "0"}
+{"key": "item/ItemTable.tbb#4.155.0", "es": "Estante"}
+{"key": "item/ItemTable.tbb#4.156.0", "es": "Gabinete"}
+{"key": "item/ItemTable.tbb#4.157.0", "es": "Cojín"}
 {"key": "item/ItemTable.tbb#4.158.0", "es": "0"}
 {"key": "item/ItemTable.tbb#4.159.0", "es": "0"}
+{"key": "item/ItemTable.tbb#4.160.0", "es": "Alfombra"}
+{"key": "item/ItemTable.tbb#4.161.0", "es": "Cortina"}
+{"key": "item/ItemTable.tbb#4.162.0", "es": "Almohada"}
 {"key": "item/ItemTable.tbb#4.163.0", "es": "0"}
 {"key": "item/ItemTable.tbb#4.164.0", "es": "0"}
+{"key": "item/ItemTable.tbb#4.165.0", "es": "Clóset"}
+{"key": "item/ItemTable.tbb#4.166.0", "es": "Mesa"}
 {"key": "item/ItemTable.tbb#4.167.0", "es": "0"}
 {"key": "item/ItemTable.tbb#4.168.0", "es": "0"}
 {"key": "item/ItemTable.tbb#4.169.0", "es": "0"}
+{"key": "item/ItemTable.tbb#4.170.0", "es": "Cama"}
+{"key": "item/ItemTable.tbb#4.171.0", "es": "Sofá"}
+{"key": "item/ItemTable.tbb#4.200.0", "es": "Caja de maquillaje"}
+{"key": "item/ItemTable.tbb#4.201.0", "es": "Coletero de tela"}
+{"key": "item/ItemTable.tbb#4.202.0", "es": "Base de maquillaje"}
+{"key": "item/ItemTable.tbb#4.203.0", "es": "Perfilador labial"}
+{"key": "item/ItemTable.tbb#4.204.0", "es": "Delineador de ojos"}
+{"key": "item/ItemTable.tbb#4.205.0", "es": "Esmalte de uñas"}
+{"key": "item/ItemTable.tbb#4.206.0", "es": "Sombra de ojos"}
+{"key": "item/ItemTable.tbb#4.207.0", "es": "Mascarilla facial"}
+{"key": "item/ItemTable.tbb#4.208.0", "es": "Lápiz de cejas"}
+{"key": "item/ItemTable.tbb#4.209.0", "es": "Loción de belleza"}
+{"key": "item/ItemTable.tbb#4.210.0", "es": "Pestañas"}
+{"key": "item/ItemTable.tbb#4.211.0", "es": "Brillo labial"}
+{"key": "item/ItemTable.tbb#4.212.0", "es": "Rubor"}
+{"key": "item/ItemTable.tbb#4.213.0", "es": "Rímel"}
+{"key": "item/ItemTable.tbb#4.214.0", "es": "Rizapestañas"}
+{"key": "item/ItemTable.tbb#4.215.0", "es": "Laca capilar"}
+{"key": "item/ItemTable.tbb#4.216.0", "es": "Lápiz labial"}
+{"key": "item/ItemTable.tbb#4.217.0", "es": "Champú"}
+{"key": "item/ItemTable.tbb#4.218.0", "es": "Jabón corporal"}
+{"key": "item/ItemTable.tbb#4.219.0", "es": "Acondicionador"}
+{"key": "item/ItemTable.tbb#4.220.0", "es": "Desodorante"}
+{"key": "item/ItemTable.tbb#4.221.0", "es": "Uñas postizas"}
+{"key": "item/ItemTable.tbb#4.222.0", "es": "Perfume elegante"}
+{"key": "item/ItemTable.tbb#4.223.0", "es": "Peluca"}
+{"key": "item/ItemTable.tbb#4.224.0", "es": "Espejo de bolsillo"}
+{"key": "item/ItemTable.tbb#4.250.0", "es": "Tenedor"}
+{"key": "item/ItemTable.tbb#4.251.0", "es": "Toalla"}
+{"key": "item/ItemTable.tbb#4.252.0", "es": "Marcador"}
+{"key": "item/ItemTable.tbb#4.253.0", "es": "Cuaderno"}
+{"key": "item/ItemTable.tbb#4.254.0", "es": "Taza"}
+{"key": "item/ItemTable.tbb#4.255.0", "es": "Cuchillo nuevo"}
+{"key": "item/ItemTable.tbb#4.256.0", "es": "Plato nuevo"}
+{"key": "item/ItemTable.tbb#4.257.0", "es": "Olla nueva"}
+{"key": "item/ItemTable.tbb#4.258.0", "es": "Tetera nueva"}
+{"key": "item/ItemTable.tbb#4.259.0", "es": "Toalla de baño"}
+{"key": "item/ItemTable.tbb#4.260.0", "es": "Patineta"}
+{"key": "item/ItemTable.tbb#4.261.0", "es": "Tapete de yoga"}
+{"key": "item/ItemTable.tbb#4.262.0", "es": "Kit de costura"}
+{"key": "item/ItemTable.tbb#4.263.0", "es": "Telescopio"}
+{"key": "item/ItemTable.tbb#4.264.0", "es": "Pasta de dientes"}
+{"key": "item/ItemTable.tbb#4.265.0", "es": "Cepillo de dientes"}
+{"key": "item/ItemTable.tbb#4.266.0", "es": "Bicicleta"}
+{"key": "item/ItemTable.tbb#4.267.0", "es": "Parrilla"}
+{"key": "item/ItemTable.tbb#4.268.0", "es": "Detergente"}
+{"key": "item/ItemTable.tbb#4.269.0", "es": "Máquina de coser"}
+{"key": "item/ItemTable.tbb#4.270.0", "es": "Ciclomotor"}
+{"key": "item/ItemTable.tbb#4.271.0", "es": "Batería"}
+{"key": "item/ItemTable.tbb#4.272.0", "es": "Farol"}
+{"key": "item/ItemTable.tbb#4.273.0", "es": "Briqueta"}
+{"key": "item/ItemTable.tbb#4.300.0", "es": "Carbón blanco"}
+{"key": "item/ItemTable.tbb#4.301.0", "es": "Carbón de bambú"}
+{"key": "item/ItemTable.tbb#4.302.0", "es": "Menta"}
+{"key": "item/ItemTable.tbb#4.303.0", "es": "Artemisa"}
+{"key": "item/ItemTable.tbb#4.304.0", "es": "Resina de pino"}
+{"key": "item/ItemTable.tbb#4.305.0", "es": "Hierbas secas"}
+{"key": "item/ItemTable.tbb#4.306.0", "es": "Madera para humo"}
+{"key": "item/ItemTable.tbb#4.307.0", "es": "Incienso"}
+{"key": "item/ItemTable.tbb#4.308.0", "es": "Espiral repelente"}
+{"key": "item/ItemTable.tbb#4.309.0", "es": "Vela aromática"}
+{"key": "item/ItemTable.tbb#4.310.0", "es": "Lavanda"}
+{"key": "item/ItemTable.tbb#4.311.0", "es": "Narciso"}
+{"key": "item/ItemTable.tbb#4.312.0", "es": "Bola de incienso"}
+{"key": "item/ItemTable.tbb#4.313.0", "es": "Aceite esencial"}
+{"key": "item/ItemTable.tbb#4.314.0", "es": "Madera de agar"}
+{"key": "item/ItemTable.tbb#4.315.0", "es": "Sachet"}
+{"key": "item/ItemTable.tbb#4.316.0", "es": "Popurrí"}
+{"key": "item/ItemTable.tbb#4.317.0", "es": "Difusor de aroma"}
+{"key": "item/ItemTable.tbb#4.318.0", "es": "Sándalo"}
+{"key": "item/ItemTable.tbb#4.319.0", "es": "Incensario"}
+{"key": "item/ItemTable.tbb#4.321.0", "es": "Almizcle de civeta"}
+{"key": "item/ItemTable.tbb#4.322.0", "es": "Castóreo"}
+{"key": "item/ItemTable.tbb#4.323.0", "es": "Almizcle de ciervo"}
+{"key": "item/ItemTable.tbb#4.324.0", "es": "Ámbar gris"}
+{"key": "item/ItemTable.tbb#4.350.0", "es": "Moneda de 1 yen"}
+{"key": "item/ItemTable.tbb#4.351.0", "es": "Moneda 5 yen"}
+{"key": "item/ItemTable.tbb#4.352.0", "es": "Moneda 10 yen"}
+{"key": "item/ItemTable.tbb#4.353.0", "es": "Moneda 100 yen"}
+{"key": "item/ItemTable.tbb#4.354.0", "es": "Moneda 500 yen"}
+{"key": "item/ItemTable.tbb#4.355.0", "es": "Billete 1000 yen"}
+{"key": "item/ItemTable.tbb#4.356.0", "es": "Billete 2000 yen"}
+{"key": "item/ItemTable.tbb#4.357.0", "es": "Billete 5000 yen"}
+{"key": "item/ItemTable.tbb#4.358.0", "es": "Billete 10000 yen"}
+{"key": "item/ItemTable.tbb#4.359.0", "es": "Tarjeta de crédito"}
+{"key": "item/ItemTable.tbb#4.360.0", "es": "Folleto de película"}
+{"key": "item/ItemTable.tbb#4.361.0", "es": "Entrada"}
+{"key": "item/ItemTable.tbb#4.362.0", "es": "Factura"}
+{"key": "item/ItemTable.tbb#4.363.0", "es": "Orden de registro"}
+{"key": "item/ItemTable.tbb#4.364.0", "es": "Calendario"}
+{"key": "item/ItemTable.tbb#4.365.0", "es": "Garantía solidaria"}
+{"key": "item/ItemTable.tbb#4.366.0", "es": "Lista de invitados"}
+{"key": "item/ItemTable.tbb#4.367.0", "es": "Acusación formal"}
+{"key": "item/ItemTable.tbb#4.368.0", "es": "Licencia"}
 {"key": "item/ItemTable.tbb#4.369.0", "es": "0"}
+{"key": "item/ItemTable.tbb#4.370.0", "es": "Orden de arresto"}
+{"key": "item/ItemTable.tbb#4.371.0", "es": "Sello imperial"}
+{"key": "item/ItemTable.tbb#4.372.0", "es": "Comisión policial"}
+{"key": "item/ItemTable.tbb#4.373.0", "es": "Honor nacional"}
+{"key": "item/ItemTable.tbb#4.400.0", "es": "Manómetro"}
+{"key": "item/ItemTable.tbb#4.401.0", "es": "Termómetro"}
+{"key": "item/ItemTable.tbb#4.402.0", "es": "Venda"}
+{"key": "item/ItemTable.tbb#4.403.0", "es": "Venda pequeña"}
+{"key": "item/ItemTable.tbb#4.404.0", "es": "Estetoscopio"}
+{"key": "item/ItemTable.tbb#4.405.0", "es": "Muleta"}
+{"key": "item/ItemTable.tbb#4.406.0", "es": "Silla de ruedas"}
+{"key": "item/ItemTable.tbb#4.407.0", "es": "Jeringa"}
+{"key": "item/ItemTable.tbb#4.408.0", "es": "Yeso"}
+{"key": "item/ItemTable.tbb#4.409.0", "es": "Suplemento"}
+{"key": "item/ItemTable.tbb#4.410.0", "es": "Vitamina A"}
+{"key": "item/ItemTable.tbb#4.411.0", "es": "Vitamina C"}
+{"key": "item/ItemTable.tbb#4.412.0", "es": "Ibuprofeno"}
+{"key": "item/ItemTable.tbb#4.413.0", "es": "Cloroformo"}
+{"key": "item/ItemTable.tbb#4.414.0", "es": "Cafeína"}
+{"key": "item/ItemTable.tbb#4.415.0", "es": "Sildenafilo"}
+{"key": "item/ItemTable.tbb#4.416.0", "es": "Raíz de regaliz"}
+{"key": "item/ItemTable.tbb#4.417.0", "es": "Raíz de kudzu"}
+{"key": "item/ItemTable.tbb#4.418.0", "es": "Taurina"}
+{"key": "item/ItemTable.tbb#4.419.0", "es": "Aspirina"}
+{"key": "item/ItemTable.tbb#4.420.0", "es": "Morfina"}
+{"key": "item/ItemTable.tbb#4.421.0", "es": "Fentanilo"}
+{"key": "item/ItemTable.tbb#4.422.0", "es": "Oxicodona"}
+{"key": "item/ItemTable.tbb#4.423.0", "es": "Penicilina"}
+{"key": "item/ItemTable.tbb#4.424.0", "es": "Ginseng"}
+{"key": "item/ItemTable.tbb#4.450.0", "es": "Calcetines"}
+{"key": "item/ItemTable.tbb#4.451.0", "es": "Corbata"}
+{"key": "item/ItemTable.tbb#4.452.0", "es": "Mallas"}
+{"key": "item/ItemTable.tbb#4.453.0", "es": "Medias"}
+{"key": "item/ItemTable.tbb#4.454.0", "es": "Sandalia"}
+{"key": "item/ItemTable.tbb#4.455.0", "es": "Tenis"}
+{"key": "item/ItemTable.tbb#4.456.0", "es": "Suéter"}
+{"key": "item/ItemTable.tbb#4.457.0", "es": "Falda"}
+{"key": "item/ItemTable.tbb#4.458.0", "es": "Chaleco"}
+{"key": "item/ItemTable.tbb#4.459.0", "es": "Camiseta"}
+{"key": "item/ItemTable.tbb#4.460.0", "es": "Botas"}
+{"key": "item/ItemTable.tbb#4.461.0", "es": "Camisola"}
+{"key": "item/ItemTable.tbb#4.462.0", "es": "Ropa interior"}
+{"key": "item/ItemTable.tbb#4.463.0", "es": "Parka"}
+{"key": "item/ItemTable.tbb#4.464.0", "es": "Abrigo largo"}
+{"key": "item/ItemTable.tbb#4.465.0", "es": "Traje de baño"}
+{"key": "item/ItemTable.tbb#4.466.0", "es": "Jeans"}
+{"key": "item/ItemTable.tbb#4.467.0", "es": "Kimono"}
+{"key": "item/ItemTable.tbb#4.468.0", "es": "Tacones"}
+{"key": "item/ItemTable.tbb#4.469.0", "es": "Corsé"}
+{"key": "item/ItemTable.tbb#4.470.0", "es": "Traje de sirvienta"}
+{"key": "item/ItemTable.tbb#4.471.0", "es": "Chaqueta de cuero"}
+{"key": "item/ItemTable.tbb#4.472.0", "es": "Traje elegante"}
+{"key": "item/ItemTable.tbb#4.473.0", "es": "Zapatos elegantes"}
+{"key": "item/ItemTable.tbb#4.474.0", "es": "Vestido elegante"}
+{"key": "item/ItemTable.tbb#4.476.0", "es": "Piroxeno"}
+{"key": "item/ItemTable.tbb#4.481.0", "es": "Tectita"}
+{"key": "item/ItemTable.tbb#4.486.0", "es": "Acondrita"}
+{"key": "item/ItemTable.tbb#4.487.0", "es": "Condrita"}
+{"key": "item/ItemTable.tbb#4.491.0", "es": "Octaedrita"}
+{"key": "item/ItemTable.tbb#4.492.0", "es": "Hexaedrita"}
+{"key": "item/ItemTable.tbb#4.493.0", "es": "Ataxita"}
+{"key": "item/ItemTable.tbb#4.496.0", "es": "Mesosiderita"}
+{"key": "item/ItemTable.tbb#4.497.0", "es": "Palasita"}
+{"key": "item/ItemTable.tbb#4.508.0", "es": "VHS"}
+{"key": "item/ItemTable.tbb#6.0.0", "es": "Cuerda de límites"}
+{"key": "item/ItemTable.tbb#6.1.0", "es": "Incienso de Fu (pequeño)"}
+{"key": "item/ItemTable.tbb#6.2.0", "es": "Incienso de Ma (pequeño)"}
+{"key": "item/ItemTable.tbb#6.3.0", "es": "Incienso de De (pequeño)"}
+{"key": "item/ItemTable.tbb#6.4.0", "es": "Incienso de Ag (pequeño)"}
+{"key": "item/ItemTable.tbb#6.5.0", "es": "Incienso de Su (pequeño)"}
+{"key": "item/ItemTable.tbb#6.6.0", "es": "Incienso de PS"}
+{"key": "item/ItemTable.tbb#6.7.0", "es": "Incienso de PM"}
+{"key": "item/ItemTable.tbb#6.8.0", "es": "Piedra Agi"}
+{"key": "item/ItemTable.tbb#6.9.0", "es": "Piedra Bufu"}
+{"key": "item/ItemTable.tbb#6.10.0", "es": "Piedra Zio"}
+{"key": "item/ItemTable.tbb#6.11.0", "es": "Piedra Zan"}
+{"key": "item/ItemTable.tbb#6.12.0", "es": "Piedra Hama"}
+{"key": "item/ItemTable.tbb#6.13.0", "es": "Piedra Hamaon"}
+{"key": "item/ItemTable.tbb#6.14.0", "es": "Piedra Mudo"}
+{"key": "item/ItemTable.tbb#6.15.0", "es": "Piedra Mudoon"}
+{"key": "item/ItemTable.tbb#6.16.0", "es": "Agua seductora"}
+{"key": "item/ItemTable.tbb#6.17.0", "es": "Kit de mejora de espada"}
+{"key": "item/ItemTable.tbb#6.18.0", "es": "Kit de mejora de arma"}
+{"key": "item/ItemTable.tbb#6.19.0", "es": "Kit de mejora de armadura"}
 {"key": "item/ItemTable.tbb#6.20.0", "es": "Bezoar de buey"}
+{"key": "item/ItemTable.tbb#6.21.0", "es": "Bebida energética"}
+{"key": "item/ItemTable.tbb#6.22.0", "es": "Tarjeta de 5 puntos"}
+{"key": "item/ItemTable.tbb#6.23.0", "es": "Piedra del destino"}
+{"key": "item/ItemTable.tbb#6.24.0", "es": "Táctica: físico"}
+{"key": "item/ItemTable.tbb#6.25.0", "es": "Táctica: disparo"}
+{"key": "item/ItemTable.tbb#6.26.0", "es": "Táctica: fuego"}
+{"key": "item/ItemTable.tbb#6.27.0", "es": "Táctica: hielo"}
+{"key": "item/ItemTable.tbb#6.28.0", "es": "Táctica: electricidad"}
+{"key": "item/ItemTable.tbb#6.29.0", "es": "Táctica: choque"}
+{"key": "item/ItemTable.tbb#6.30.0", "es": "Táctica: luz"}
+{"key": "item/ItemTable.tbb#6.31.0", "es": "Táctica: oscuridad"}
+{"key": "item/ItemTable.tbb#6.32.0", "es": "Táctica: todopoderoso"}
+{"key": "item/ItemTable.tbb#6.33.0", "es": "Táctica: curativo"}
+{"key": "item/ItemTable.tbb#6.34.0", "es": "Táctica: apoyo"}
+{"key": "item/ItemTable.tbb#6.35.0", "es": "Táctica: estado alterado"}
 {"key": "item/ItemTable.tbb#6.36.0", "es": "Vale del compendio"}
 {"key": "item/ItemTable.tbb#6.37.0", "es": "Diamante"}
 {"key": "item/ItemTable.tbb#6.38.0", "es": "Granate"}
 {"key": "item/ItemTable.tbb#6.39.0", "es": "Esmeralda"}
+{"key": "item/ItemTable.tbb#6.40.0", "es": "Gema de curación total"}
 {"key": "item/ItemTable.tbb#6.41.0", "es": "Reliquia de resurrección"}
+{"key": "item/ItemTable.tbb#6.42.0", "es": "Reloj de arena"}
 {"key": "item/ItemTable.tbb#6.43.0", "es": "???"}
 {"key": "item/ItemTable.tbb#6.44.0", "es": "???"}
 {"key": "item/ItemTable.tbb#6.45.0", "es": "???"}

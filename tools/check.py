@@ -65,6 +65,8 @@ def term_rx(t_es):
         if len(w) > 4 and w.isalpha():
             stem = re.sub(r"(?:es|os|as|ar|er|ir|[aeos])$", "", w)
             parts.append(re.escape(stem) + r"\w*")
+        elif w.isalpha() and len(w) > 2:
+            parts.append(re.escape(w) + r"(?:s|es)?")  # plural de palabras cortas: Hada, Hadas
         else:
             parts.append(re.escape(w))
     return re.compile(r"(?<!\w)" + r"\s+".join(parts) + r"(?!\w)", re.I)
