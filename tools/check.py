@@ -32,7 +32,7 @@ VOSOTROS = re.compile(
     r"|\b(?:estad|venid|mirad|esperad|escuchad|dejad|tened|haced|decid|poned|salid|seguid|volved|traed|sacad|id a)\b",
     re.I)
 REGIONAL = re.compile(
-    r"\b(vale|tío|tía|venga|guay|mola\w*|coger|cog[ií]\w*|ordenador|móvil|pasta|majo|maja|gilipollas|joder|"
+    r"\b(vale(?! del compendio)|tío|tía|venga|guay|mola\w*|coger|cog[ií]\w*|ordenador|móvil|pasta|majo|maja|gilipollas|joder|"
     r"hostia\w*|pillar|pill[eé]\w*|flipa\w*|chaval\w*|enfad\w+|puls(?:a|as|ar|ando|ado|aste|e|en|ó)|vídeos?|ratón|bombona|"
     r"gafas|bañador\w*|nevera\w*|fard(?:ar|ando|ado|aba\w*|ó|a|as|an|e|es|en)|moter[oa]s?|tragaperras|aparc\w+|jerséis|jersey|"
     r"auriculares|setas?|coches?|cubos? de basura|marcapáginas|ambientador\w*|megafonía)\b", re.I)
@@ -98,7 +98,8 @@ def check(key, es):
         wrapped = layout.wrap(es, m, width)
         if max(layout.page_lines(wrapped)) > rows:
             warn("caja", "T-3", f"{max(layout.page_lines(wrapped))} renglones en una página (máximo {rows})")
-        too_wide = [w for w in re.split(r"[ \n]", layout.TOKEN.sub("", es)) if m.width(w) > width]
+        lines = es.replace(layout.BR, " ").replace("{F802}", " ")  # un salto separa palabras
+        too_wide = [w for w in re.split(r"[ \n]", layout.TOKEN.sub("", lines)) if m.width(w) > width]
         if too_wide:
             warn("caja", "T-3", f"palabra más ancha que la caja: {too_wide[0]}")
     else:
@@ -122,11 +123,12 @@ def check(key, es):
         warn("caracteres", "T-5", "la fuente no tiene: " + " ".join(missing))
 
     if not re.match(r"[\s.…—]*[a-záéíóúñ]", ves.strip()):
-        if ves.count("?") > ves.count("¿"):
+        # «?» suelto, tras «x» o tras coma es un valor desconocido («elemento ? x?, ?»), no una pregunta
+        if len(re.findall(r"(?<![\sx,(/])\?", " " + ves)) > ves.count("¿"):
             warn("falta_apertura", "E-52", "falta ¿")
         if ves.count("!") > ves.count("¡"):
             warn("falta_apertura", "E-52", "falta ¡")
-    if SPACING.search(layout.TOKEN.sub("", es)) and not SPACING.search(layout.TOKEN.sub("", en)):
+    if SPACING.search(layout.TOKEN.sub("X", es)) and not SPACING.search(layout.TOKEN.sub("X", en)):  # un código ocupa su lugar
         warn("espacios", "E-54", "espacios o puntos de más")
     if PERCENT.search(ves):
         warn("porcentaje", "E-57", "porcentaje con espacio")

@@ -114,7 +114,8 @@ def save(name, path=None):
         if en.endswith("{FFFF}") and not d["es"].endswith("{FFFF}"):
             sys.exit(f"{path}:{n}: el texto debe terminar en {{FFFF}}, como el inglés")
         changes[d["key"]] = d["es"]
-    # memoria de traducción: las líneas idénticas sin traducir reciben la misma traducción
+    # memoria de traducción: las líneas idénticas sin traducir reciben la misma traducción,
+    # y las que eran copia de la versión anterior de la línea se actualizan con ella
     eng = corpus.english()
     done = corpus.translations()
     by_en = {}
@@ -123,7 +124,8 @@ def save(name, path=None):
     copies = 0
     for k, es in list(changes.items()):
         for other in by_en[(corpus.kind_of(k), eng[k]["en"])]:
-            if other != k and other not in done and other not in changes:
+            stale = k in done and done.get(other) == done[k]
+            if other != k and other not in changes and (other not in done or stale):
                 changes[other] = es
                 copies += 1
     corpus.save(changes)

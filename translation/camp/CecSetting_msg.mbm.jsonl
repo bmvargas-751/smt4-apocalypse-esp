@@ -4,7 +4,7 @@
 {"key": "camp/CecSetting_msg.mbm#3", "es": "〉 La {F804}{0500}función StreetPass{F804}{0000} de este juego no se puede usar porque StreetPass está restringido en el Control parental.{F801}{FFFF}"}
 {"key": "camp/CecSetting_msg.mbm#4", "es": "〉 Prueba de comunicación de StreetPass.{F801}¿Qué harás?{F801}{FFFF}"}
 {"key": "camp/CecSetting_msg.mbm#8", "es": "〉 StreetPass de este juego se activó en esta consola Nintendo 3DS.{F801}{FFFF}"}
-{"key": "camp/CecSetting_msg.mbm#10", "es": "〉 Ocurrió un error inesperado. Intenta activar StreetPass otra vez.{F801}{FFFF}"}
+{"key": "camp/CecSetting_msg.mbm#10", "es": "〉 Ocurrió un error inesperado. Por favor, intenta activar StreetPass otra vez.{F801}{FFFF}"}
 {"key": "camp/CecSetting_msg.mbm#11", "es": "〉 StreetPass de este juego ya está activado.{F801}{FFFF}"}
 {"key": "camp/CecSetting_msg.mbm#12", "es": "〉 Crea una tarjeta para enviarla a otros usuarios por StreetPass.{F801}{FFFF}"}
 {"key": "camp/CecSetting_msg.mbm#13", "es": "〉 StreetPass de este juego no está activado.{F801}{FFFF}"}

@@ -18,7 +18,7 @@
 {"key": "battle/Common/common.mbm#17", "es": "¡{F873}{0600} obtiene más turnos en su desesperación!{F801}{F802}{FFFF}"}
 {"key": "battle/Common/common.mbm#18", "es": "¡{F873}{0600} mejora su precisión/evasión!{F801}{F802}{FFFF}"}
 {"key": "battle/Common/common.mbm#19", "es": "¡{F873}{0600} enfermó y tiene el cuerpo rígido!{F801}{F802}{FFFF}"}
-{"key": "battle/Common/common.mbm#20", "es": "¡{F873}{0600} se envenenó!{F801}{F802}{FFFF}"}
+{"key": "battle/Common/common.mbm#20", "es": "¡Envenenaron a {F873}{0600}!{F801}{F802}{FFFF}"}
 {"key": "battle/Common/common.mbm#21", "es": "El resto del grupo se esfuerza al máximo...{F801}{F802}{FFFF}"}
 {"key": "battle/Common/common.mbm#22", "es": "¡{F873}{0600} salió volando!{F801}{F802}{FFFF}"}
 {"key": "battle/Common/common.mbm#23", "es": "¡El demonio salió volando!{F801}{F802}{FFFF}"}

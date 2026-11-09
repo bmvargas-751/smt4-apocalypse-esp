@@ -26,3 +26,4 @@ Las decisiones del usuario, con fecha. Una regla nueva de [STYLE.md](STYLE.md), 
 - **2026-11-08** Los 28 candidatos con otro sentido que no salen en la Interfaz (y la raza *Divine*) se deciden al llegar a su sección ([PENDING.md](PENDING.md#términos)). *Nebiros* lleva el nombre de SMT V, *Naberius* (G-1).
 - **2026-11-08** El revisor y el editor no ejecutan `tools/review.py` ni editan `translation/`: lo hace el orquestador (en dos lotes lo hicieron por su cuenta).
 - **2026-11-08** *2nd Brane* → «Brana 2» (la fuente no tiene «ª»). Los términos de sistema van en minúscula a media frase (E-59). Al jugador se le da la bienvenida con «Bienvenido» (es masculino según las fichas). «Ofertas», no «rebajas».
+- **2026-11-08** Recomendaciones del piloto aprobadas: «¡Envenenaron a X!» (E-42) y «Por favor» en los avisos que lo traen en inglés. *Macca* sigue como en la tabla.
