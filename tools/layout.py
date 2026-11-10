@@ -22,6 +22,8 @@ from letters import SPANISH  # noqa: E402
 
 TOKEN = re.compile(r"(\{[0-9A-F]{4}\})")
 SPEAKER = re.compile(r"\{F812\}.*?\{0000\}")    # nombre de quien habla: va en su etiqueta, no en la caja
+# {F87A} lleva un parámetro (el retrato); si es un carácter imprimible, la exportación lo muestra como letra.
+PORTRAIT = re.compile(r"\{F87A\}(?:\{[0-9A-F]{4}\}|.)")
 BR, PAGE, END = "{F801}", "{F802}", "{FFFF}"
 SENTENCE_END = tuple(".!?:”’)…")
 MEASURE_FONT = "font/TsukuMin_14_14.bcfnt"      # la misma fuente para medir el inglés y el español
@@ -51,11 +53,11 @@ class Meter:
 
     def width(self, line):
         """Ancho en píxeles de un renglón (los códigos y el nombre de quien habla no ocupan lugar)."""
-        return sum(self.char(c) or 0 for c in TOKEN.sub("", SPEAKER.sub("", line)))
+        return sum(self.char(c) or 0 for c in TOKEN.sub("", SPEAKER.sub("", PORTRAIT.sub("", line))))
 
     def missing(self, text):
         """Caracteres que la fuente no tiene."""
-        return sorted({c for c in TOKEN.sub("", text) if c != "\n" and self.char(c) is None})
+        return sorted({c for c in TOKEN.sub("", PORTRAIT.sub("", text)) if c != "\n" and self.char(c) is None})
 
 
 def lines_of(msg):
