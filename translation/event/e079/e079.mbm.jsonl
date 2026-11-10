@@ -1,1 +1,6 @@
+{"key": "event/e079/e079.mbm#0", "es": "〉 Al fondo de la sala hay una vasija negra con la parte superior abierta. Un demonio hace guardia frente a ella.{F801}{FFFF}"}
+{"key": "event/e079/e079.mbm#1", "es": "{F812}Bishamonten{0000}{F87A}{75FE}{F81B}{4530}{3739}{3030}{3100}{0000}{0000}Soy Bishamonten, el Vengativo.{F801}{F802}{F81B}{4530}{3739}{3030}{3200}{0000}{0000}Esta vasija extrae la esencia de la Ira.{F801}{F802}{F81B}{4530}{3739}{3030}{3300}{0000}{0000}¿Han venido a apaciguarla?{F801}{FFFF}"}
 {"key": "event/e079/e079.mbm#2", "es": "Sí{F801}No{F801}{FFFF}"}
+{"key": "event/e079/e079.mbm#3", "es": "{F812}Bishamonten{0000}{F87A}{75FE}{F81B}{4530}{3739}{3030}{3400}{0000}{0000}¡No lo permitiré!{F801}{F802}{F81B}{4530}{3739}{3030}{3500}{0000}{0000}¡Prepárense, perros sedientos de sangre!{F801}{FFFF}"}
+{"key": "event/e079/e079.mbm#4", "es": "{F812}Bishamonten{0000}{F87A}{75FE}{F81B}{4530}{3739}{3030}{3600}{0000}{0000}Entonces abandonen este lugar.{F801}{FFFF}"}
+{"key": "event/e079/e079.mbm#5", "es": "〉 Haces caso a las palabras de Bishamonten y te marchas.{F801}{FFFF}"}

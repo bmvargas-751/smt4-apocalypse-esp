@@ -1,1 +1,6 @@
+{"key": "event/e077/e077.mbm#0", "es": "〉 Al fondo de la sala hay una vasija roja con la parte superior abierta. Un demonio hace guardia frente a ella.{F801}{FFFF}"}
+{"key": "event/e077/e077.mbm#1", "es": "{F812}Zouchouten{0000}{F87A}{71FE}{F81B}{4530}{3737}{3030}{3100}{0000}{0000}Soy Zouchouten, el Deseado.{F801}{F802}{F81B}{4530}{3737}{3030}{3200}{0000}{0000}Esta vasija extrae la esencia de la Lujuria.{F801}{F802}{F81B}{4530}{3737}{3030}{3300}{0000}{0000}¿Han venido a satisfacer sus pasiones?{F801}{FFFF}"}
 {"key": "event/e077/e077.mbm#2", "es": "Sí{F801}No{F801}{FFFF}"}
+{"key": "event/e077/e077.mbm#3", "es": "{F812}Zouchouten{0000}{F87A}{71FE}{F81B}{4530}{3737}{3030}{3400}{0000}{0000}Ya veo... pero me temo que eso no está permitido.{F801}{F802}{F81B}{4530}{3737}{3030}{3500}{0000}{0000}Prepárense para pagar el precio del éxtasis.{F801}{FFFF}"}
+{"key": "event/e077/e077.mbm#4", "es": "{F812}Zouchouten{0000}{F87A}{71FE}{F81B}{4530}{3737}{3030}{3600}{0000}{0000}Entonces abandonen este lugar.{F801}{FFFF}"}
+{"key": "event/e077/e077.mbm#5", "es": "〉 Haces caso a las palabras de Zouchouten y te marchas.{F801}{FFFF}"}

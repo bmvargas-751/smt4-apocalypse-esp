@@ -1,3 +1,7 @@
 {"key": "event/e076/e076.mbm#0", "es": "{F812}Nozomi{0000}{F87A}{B000}{F81B}{4530}{3734}{3030}{3100}{0000}{0000}Está despejado. ¿Todo listo, Toki?{F801}{FFFF}"}
 {"key": "event/e076/e076.mbm#1", "es": "{F812}Toki{0000}{F87A}{B300}{F81B}{4530}{3736}{3030}{3400}{0000}{0000}Me encargo.{F801}{FFFF}"}
 {"key": "event/e076/e076.mbm#2", "es": "〉 Toki camina hacia la vasija blanca al fondo de la sala.{F801}{FFFF}"}
+{"key": "event/e076/e076.mbm#3", "es": "{F812}Toki{0000}{F87A}{B300}{F81B}{4530}{3736}{3030}{3500}{0000}{0000}Ngh...{F801}{FFFF}"}
+{"key": "event/e076/e076.mbm#4", "es": "〉 Toki está infectada de un hambre insaciable.{F801}{FFFF}"}
+{"key": "event/e076/e076.mbm#5", "es": "{F812}Toki{0000}{F87A}{B300}{F81B}{4530}{3736}{3030}{3600}{0000}{0000}Ugh... Mi estómago... ¡Me quema...!{F801}¡Me muero de hambre! ¡Quiero comida, ahora!{F801}{F802}{F81B}{4530}{3736}{3030}{3700}{0000}{0000}Por favor... ¡Dame algo dulce!{F801}...¡No! No voy a ceder a esto...{F801}{FFFF}"}
+{"key": "event/e076/e076.mbm#10", "es": "〉 Sales del templo. {F801}{F802}〉 Toki se acerca por detrás, sujetándose el estómago.{F801}{FFFF}"}
