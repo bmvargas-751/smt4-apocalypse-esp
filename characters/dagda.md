@@ -1,0 +1,21 @@
+# Dagda
+
+- **Género:** masculino. El juego lo marca con pronombres: *Dagda waves his hand... He shakes his head* (addon/testdata/content24/evt/e220.mbm#20), *He's haunting Nanashi* (event/e052/e052.mbm#12), y otros lo llaman *Lord Dagda*.
+- **Trato:** propuesta, pendiente de aprobación (E-30): **tú** con todos.
+  - Con el jugador: le habla de arriba abajo, con órdenes y regaños (*Quit spacing out, kid*, *Hurry up and end this, kid*).
+  - Con los enemigos (Hugo) y con los otros dioses (Krishna, Odin): seco y despectivo (*Quiet.*, *Are you seriously trying the sales pitch on me?*).
+  - Con Danu, su madre, a quien llama *Mother* con ironía (event/e065/e065.mbm#58): también tú.
+- **Registro:** casual, moderno y cínico. Frases cortas, muchas contracciones, coloquialismos (*Hate to break it to you*, *Wake up and smell the chaos*, *something strange's going down*, *bark up Lucifer's tree*, *play it cool*). Desprecio frecuente (*Pathetic.*, *What a joke.*, *It's sickening.*). En los discursos sobre los humanos se vuelve más elaborado, pero sin perder el tono seco.
+  - De época (E-31, pendiente): no habla a la antigua. Solo hay algún giro algo formal suelto: *I have no use for those who flee truth. Let this place be your grave.* (event/e009/e009.mbm#3, #13), *I would have you die quickly* (battle/event/BtlEvent044/BtlEvent044.mbm#7), *We've better things to do* (event/e647/e647.mbm#13).
+- **Muletillas y tics:**
+  - *kid* para dirigirse al jugador, casi en cada línea (*Ready, kid?*, *Let's go, kid.*). Conviene una forma fija.
+  - *my Godslayer* / *my own personal Godslayer* / *MY puppet*, cuando le recuerda quién manda (event/e009/e009.mbm#10, event/e035/e035.mbm#25).
+  - *Hmph* / *Heh* al empezar.
+  - Fórmula de los combates de entrenamiento: *Ready, kid? Here's the goal.* (battle/event/Systematic_001-004, #0); conviene traducirla siempre igual.
+  - Mayúsculas de énfasis: *MY puppet*, *NO ONE* (event/e063/e063.mbm#18).
+- **Groserías:** moderadas y pocas. *kick their asses* (addon/testdata/content24/evt/btl/BtlEvent651.mbm#2), *morons* (event/e056/e056.mbm#36), *idiot* (event/e647/e647.mbm#13). Insultos de desprecio sin grosería: *Pathetic*, *What a joke*.
+- **Ejemplos:** event/e009/e009.mbm#4 (presentación), battle/event/BtlEvent610/BtlEvent610.mbm#2 (regaño corto), event/e065/e065.mbm#58 (con Danu).
+- **Notas:**
+  - battle/event/Systematic_004/Systematic_004.mbm#2 lleva la etiqueta de Dagda, pero habla con los juegos de *hee-ho* de Demonee-ho (*too hee-asy*, *modif-hee-cations*): parece una línea de Demonee-ho mal etiquetada. Se señala, no se decide aquí (E-4).
+  - La etiqueta de addon/testdata/content24/evt/e220.mbm#23 dice *Dadga's voice* (errata del inglés).
+- **Fuente:** todas sus líneas con etiqueta (60): event/e009 (#4-13), e032#14, e035#9, #25, #28, e037#13, e039#15, e043#8, e044#27, e052 (#8, #10, #23, #24, #26, #36), e056#36, e063 (#11, #13, #16, #18, #37, #39), e065 (#55, #58, #60), e096#49, e500#4, e647 (#13, #20, #21), e648 (#12, #18); battle/event BtlEvent003#0, 010#110, 044#7, 047#105, 049#0, 610#2, Systematic_001-004; addon/testdata/content24 (BtlEvent650-652, e220, e221). Además, las líneas sin nombre que son suyas por el contexto: event/e009/e009.mbm#0, #2, #3 (*Voice*; #3 es idéntica a #13) y addon/testdata/content24/evt/e220.mbm#23 (*Dadga's voice*).

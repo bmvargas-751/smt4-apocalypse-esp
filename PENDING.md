@@ -6,7 +6,6 @@ Formato: `- [ ] \`clave\` (rol, motivo): «fragmento» → «propuesta». Por qu
 
 ## Decisiones generales
 
-- [ ] **Registro de época** (STYLE E-31): dioses y demonios que hablan a la antigua. En THL quedó «de época, sin *vosotros*». ¿Se mantiene? Se decide al llegar a la Historia (DECISIONS 2026-11-08).
 - [ ] **«¡Demonios!» y «¡Diablos!»**: en este juego se vuelven ambiguas. ¿Se evitan? (PLAN, notas de IVA)
 - [ ] **El texto original del encargo de 11 secciones**: los roles parten del resumen fiel de THL ([TEAM.md](TEAM.md#el-encargo)) hasta que aparezca.
 
@@ -14,7 +13,6 @@ Formato: `- [ ] \`clave\` (rol, motivo): «fragmento» → «propuesta». Por qu
 
 Candidatos de SMT V que en IVA tienen otro sentido (G-2). No salen en la Interfaz: se deciden al llegar a su sección (DECISIONS 2026-11-08).
 
-- [ ] `Man` (terminólogo, otro sentido): «Huh? You don’t have it? Man, this sucks.» (battle/talk/TalkToneBoss51.mbm#60; 41 veces) → no se fija como término. En SMT V es una etiqueta de quien habla (*Hombre*); en IVA casi siempre es la interjección (*vaya*, *qué mala suerte*, según el tono) o parte de otra etiqueta (*Man’s voice*).
 - [ ] `Teacher` (terminólogo, otro sentido): «Teacher...? You’re alright, you know?» (battle/talk/TalkToneBoy.mbm#313) → no se fija: *profesor* o *maestro* según la línea. En SMT V es una etiqueta de quien habla.
 - [ ] `Concentrate` (terminólogo, otro sentido): «Concentrate your fire!» (battle/PartnerAttack.mbm#90) → no se fija; es el verbo común. En SMT V es una habilidad.
 - [ ] `Confusion` (terminólogo, otro sentido): «Confusion and uncertainty is written across your friends’ faces.» (event/e063/e063.mbm#23) → no se fija; es la palabra común. En SMT V es un estado alterado que IVA no tiene (IVA usa *Panic*).
@@ -22,6 +20,16 @@ Candidatos de SMT V que en IVA tienen otro sentido (G-2). No salen en la Interfa
 ### Datos (2026-11-09)
 
 - [ ] `item/ItemTable.tbb#1.57.0` (orquestador, ancho T-3): *Expanse Meat* → «Carne de la Inmensidad», como lo decidido (*Expanse* → «Inmensidad»), no cabe en su columna: 157 px, y el inglés más ancho llega a 112 (*Gold Death Mask*). Queda «Carne del Cielo» (103 px) hasta decidir. Opciones: a) «Carne de la Inmensidad» y verlo en el juego; b) dejar «Carne del Cielo»; c) otro nombre corto.
+
+### Historia (2026-11-09)
+
+- [ ] **Género de Burroughs** (perfilador): el inglés no lo marca; su japonés usa terminaciones de habla femenina (わ, かしら). Mientras, sin marcar género (DECISIONS 2026-11-09).
+- [ ] **Concordancia de Tamagami’s remnants** (perfilador): el narrador y otros lo tratan en masculino, pero en la misma escena habla como *Haughty woman's voice* y *Woman called “Noa”*. Ninguna línea suya obliga a elegir por ahora.
+- [ ] **Género de Merkabah** (perfilador): masculino solo por el título *Lord Merkabah*; ningún pronombre. Se confirma si una línea lo exige.
+- [ ] `battle/event/Systematic_004/Systematic_004.mbm#2` (perfilador): lleva la etiqueta de Dagda pero tiene los *hee-ho* de Demonee-ho. Parece mal etiquetada; se traduce como la dice el texto.
+- [ ] `BtlEvent075#6`, `BtlEvent298#6` (perfilador): la etiqueta japonesa de Lucifer con registro casual (オレ, お前). Al traducir, mirar quién habla en la escena.
+- [ ] `Attack` del tutorial (terminólogo): «Choose ”Attack” from the list of commands.» (BtlEvent001#4, BtlEventSub150#4) → «Atacar». Si el menú de combate es una textura y queda en inglés, el tutorial tiene que citar «Attack». Se ve en el juego.
+- [ ] **Professor/Dr. Matsuda** (perfilador, §6): Asahi le dice *Professor Matsuda* (e049#4) y los demás *Dr. Matsuda*. Se traduce como dice cada línea.
 
 ## De los lotes
 
