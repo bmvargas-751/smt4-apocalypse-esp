@@ -1,4 +1,4 @@
-# Restos de Tamagami (Tamagami’s remnants)
+# Remanente de Tamagami (Tamagami’s remnants)
 
 - **Género:** masculino según el juego, con una advertencia. El narrador: *The person calling himself Tamagami looks up to the sky* (event/e645/e645.mbm#38); Hiroshi: *He's nuts! He seriously believes this!* (e645#42). Pero en la misma escena se presenta con las etiquetas *Haughty woman's voice* (e645#24) y *Woman called "Noa"* (e645#26), y la que habla dice *I am the remnants of Tamagami* (e645#26); el narrador, al terminar la escena, habla de *the woman* (e645#44). **Pendiente**: el usuario decide la concordancia de las líneas en que se refiere a sí mismo y de esas dos etiquetas (E-40). En las líneas leídas no hay adjetivos ni participios sobre sí mismo que obliguen a elegir.
 - **Trato (propuesta, falta la aprobación del usuario; E-30):**
