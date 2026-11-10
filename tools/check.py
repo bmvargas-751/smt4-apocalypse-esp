@@ -33,7 +33,7 @@ VOSOTROS = re.compile(
     r"|\b(?:estad|venid|mirad|esperad|escuchad|dejad|tened|haced|decid|poned|salid|seguid|volved|traed|sacad|id a)\b",
     re.I)
 REGIONAL = re.compile(
-    r"\b((?<!te )(?<!le )(?<!me )(?<!les )(?<!nos )(?<!un )vale(?! del compendio)|tío|tía|venga|guay|mola\w*|coger|cog[ií]\w*|ordenador|móvil|pasta(?! de dientes| dental)|majo|maja|gilipollas|joder|"
+    r"\b((?<!te )(?<!le )(?<!me )(?<!les )(?<!nos )(?<!un )vale(?! del compendio| la pena)|tío|tía|venga|guay|mola\w*|coger|cog[ií]\w*|ordenador|móvil|pasta(?! de dientes| dental)|majo|maja|gilipollas|joder|"
     r"hostia\w*|pillar|pill[eé]\w*|flipa\w*|chaval\w*|enfad\w+|puls(?:a|as|ar|ando|ado|aste|e|en|ó)|vídeos?|ratón|bombona|"
     r"gafas|bañador\w*|nevera\w*|fard(?:ar|ando|ado|aba\w*|ó|a|as|an|e|es|en)|moter[oa]s?|tragaperras|aparc\w+|jerséis|jersey|"
     r"auriculares|setas?|coches?|cubos? de basura|marcapáginas|ambientador\w*|megafonía)\b", re.I)
