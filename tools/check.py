@@ -27,13 +27,13 @@ SPACING = re.compile(r"  |\s+[,.;:!?](?![.\d])|\.\.\.\.")
 VOSOTROS = re.compile(
     r"\b(?:vosotr[oa]s|vuestr[oa]s?|os)\b"
     r"|\b(?!samuráis\b)\w+(?:áis|éis)\b"
-    r"|\b(?!(?:\w*(?:dad|tad)|pared|red|sed|usted|merced|césped|huésped|Madrid|David|Brigid|lid|vid|ardid|adalid)\b)"
+    r"|\b(?!(?:\w*(?:dad|tad)|pared|red|sed|usted|merced|césped|huésped|Madrid|David|Brigid|lid|vid|ardid|adalid|Sinbad|Sylpheed)\b)"
     r"\w{2,}(?:ad|ed|id)(?:me|nos|lo|la|los|las|le|les)?(?=\s*[!.,?…]|\s*$)"
     r"|\b(?!caos\b)\w{3,}aos\b|\bidos\b"
     r"|\b(?:estad|venid|mirad|esperad|escuchad|dejad|tened|haced|decid|poned|salid|seguid|volved|traed|sacad|id a)\b",
     re.I)
 REGIONAL = re.compile(
-    r"\b(vale(?! del compendio)|tío|tía|venga|guay|mola\w*|coger|cog[ií]\w*|ordenador|móvil|pasta(?! de dientes| dental)|majo|maja|gilipollas|joder|"
+    r"\b((?<!te )(?<!le )(?<!me )(?<!les )(?<!nos )(?<!un )vale(?! del compendio| la pena)|tío|tía|venga|guay|mola\w*|coger|cog[ií]\w*|ordenador|móvil|pasta(?! de dientes| dental)|majo|maja|gilipollas|joder|"
     r"hostia\w*|pillar|pill[eé]\w*|flipa\w*|chaval\w*|enfad\w+|puls(?:a|as|ar|ando|ado|aste|e|en|ó)|vídeos?|ratón|bombona|"
     r"gafas|bañador\w*|nevera\w*|fard(?:ar|ando|ado|aba\w*|ó|a|as|an|e|es|en)|moter[oa]s?|tragaperras|aparc\w+|jerséis|jersey|"
     r"auriculares|setas?|coches?|cubos? de basura|marcapáginas|ambientador\w*|megafonía)\b", re.I)

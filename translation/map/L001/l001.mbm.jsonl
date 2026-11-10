@@ -1,4 +1,38 @@
 {"key": "map/L001/l001.mbm#0", "es": "Sí{F801}No{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#1", "es": "〉 Hay un ferri...{F801}{F802}〉 ¿Ir a la región de Ueno?{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#2", "es": "〉 Hay un ferri...{F801}{F802}〉 ¿Ir a la región de Chiyoda?{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#3", "es": "〉 La antigua línea de metro se ha convertido en un pasaje subterráneo...{F801}{F802}〉 ¿Ir a la región de Ikebukuro?{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#4", "es": "〉 La antigua línea de metro se ha convertido en un pasaje subterráneo...{F801}{F802}〉 ¿Ir a la región de Shinjuku?{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#5", "es": "〉 La antigua línea de metro se ha convertido en un pasaje subterráneo...{F801}{F802}〉 ¿Ir a la región de Roppongi?{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#6", "es": "〉 La antigua línea de metro se ha convertido en un pasaje subterráneo...{F801}{F802}〉 ¿Ir a la región costera?{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#7", "es": "〉 La antigua línea de metro se ha convertido en un pasaje subterráneo...{F801}{F802}〉 ¿Ir a la región de Joto?{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#8", "es": "〉 Hay un ferri...{F801}{F802}〉 ¿Ir a la región de Johoku?{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#9", "es": "〉 ¿Ir a la región del Rompeolas central?{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#10", "es": "〉 El Chal de Torifune resplandece...{F801}{F802}〉 Parece que se puede ascender desde aquí.{F801}{F802}〉 ¿Usar el hechizo Ameno Torifune?{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#11", "es": "〉 ¿Entrar a la torre?{F801}{FFFF}"}
 {"key": "map/L001/l001.mbm#12", "es": "Sí{F801}No{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#13", "es": "Entrar a la torre{F801}Ver el exterior de la torre{F801}No hacer nada{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#14", "es": "〉 Hay demonios en espera...{F801}{F802}〉 ¿Ir a la región de Ueno?{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#15", "es": "〉 ¿Pasar por el túnel e ir a la región de Ichigaya?{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#16", "es": "〉 ¿Pasar por el túnel e ir a la región de Shibuya?{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#17", "es": "TEMPORAL{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#18", "es": "〉 ¿Entrar al edificio Hills?{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#21", "es": "〉 Hay un pasaje subterráneo que continúa bajo el mar...{F801}{F802}〉 Según el Cartógrafo, más adelante está el Muelle de Ooi...{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#22", "es": "〉 Hay un pasaje subterráneo que continúa bajo el mar...{F801}{F802}〉 Según el Cartógrafo, más adelante está Daiba...{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#23", "es": "Tomar el pasaje subterráneo{F801}Irse{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#24", "es": "〉 Según el Cartógrafo, más adelante está la región de Chiyoda...{F801}{F802}〉 ¿Ir a la región de Chiyoda?{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#25", "es": "Ir{F801}No ir{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#26", "es": "〉 Según el Cartógrafo, más adelante está la región de Joto...{F801}{F802}〉 ¿Ir a la región de Joto?{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#27", "es": "Ir{F801}No ir{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#28", "es": "〉 Según el Cartógrafo, más adelante está la región de Ueno...{F801}{F802}〉 ¿Ir a la región de Ueno?{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#29", "es": "Ir{F801}No ir{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#30", "es": "〉 Según el Cartógrafo, más adelante está la región de Joto...{F801}{F802}〉 ¿Ir a la región de Joto?{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#31", "es": "Ir{F801}No ir{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#32", "es": "〉 El ascensor de la entrada del refugio de Toyosu tiene un candado.{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#33", "es": "〉 Desbloqueado.{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#41", "es": "〉 Hay un pasaje subterráneo que continúa bajo el mar...{F801}{F802}〉 Según el Cartógrafo, más adelante está la región de Joto...{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#42", "es": "〉 Hay un pasaje subterráneo que continúa bajo el mar...{F801}{F802}〉 Según el Cartógrafo, más adelante está la región de Daiba...{F801}{FFFF}"}
 {"key": "map/L001/l001.mbm#46", "es": "〉 Hay un ascensor aquí.{F801}¿A qué piso irás?{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#47", "es": "S1{F801}Cancelar{F801}{FFFF}"}
+{"key": "map/L001/l001.mbm#51", "es": "Detecto un demonio poderoso más adelante.{F801}¿Quieres continuar?{F801}{FFFF}"}
 {"key": "map/L001/l001.mbm#52", "es": "Sí{F801}No{F801}{FFFF}"}

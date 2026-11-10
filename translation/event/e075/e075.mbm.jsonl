@@ -1,1 +1,6 @@
+{"key": "event/e075/e075.mbm#0", "es": "〉 Al fondo de la sala hay una vasija blanca con la parte superior abierta. Un demonio hace guardia frente a ella.{F801}{FFFF}"}
+{"key": "event/e075/e075.mbm#1", "es": "{F812}Koumokuten{0000}{F87A}{72FE}{F81B}{4530}{3735}{3030}{3100}{0000}{0000}Soy Koumokuten, el Devorador.{F801}{F802}{F81B}{4530}{3735}{3030}{3200}{0000}{0000}Esta vasija extrae la esencia de la Gula.{F801}{F802}{F81B}{4530}{3735}{3030}{3300}{0000}{0000}¿Han venido a saciar su sed?{F801}{FFFF}"}
 {"key": "event/e075/e075.mbm#2", "es": "Sí{F801}No{F801}{FFFF}"}
+{"key": "event/e075/e075.mbm#3", "es": "{F812}Koumokuten{0000}{F87A}{72FE}{F81B}{4530}{3735}{3030}{3400}{0000}{0000}Entonces serán mi banquete.{F801}{F802}{F81B}{4530}{3735}{3030}{3500}{0000}{0000}Vengan a mí, necios insaciables.{F801}{FFFF}"}
+{"key": "event/e075/e075.mbm#4", "es": "{F812}Koumokuten{0000}{F87A}{72FE}{F81B}{4530}{3735}{3030}{3600}{0000}{0000}Entonces abandonen este lugar.{F801}{FFFF}"}
+{"key": "event/e075/e075.mbm#5", "es": "〉 Haces caso a las palabras de Koumokuten y te marchas.{F801}{FFFF}"}

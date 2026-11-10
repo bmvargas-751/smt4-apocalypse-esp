@@ -1,0 +1,10 @@
+{"key": "event/e502/e502.mbm#0", "es": "{F812}Voz masculina{0000}{F81B}{4930}{3336}{3030}{3200}{0000}{0000}Oigan, ustedes dos.{F801}{FFFF}"}
+{"key": "event/e502/e502.mbm#1", "es": "〉 Al voltear, encuentras a un cazador frente a ti.{F801}{FFFF}"}
+{"key": "event/e502/e502.mbm#2", "es": "{F812}Cazador serio{0000}{F81B}{4930}{3336}{3030}{3600}{0000}{0000}Vuelvan al pueblo. Los niños no deberían estar aquí afuera.{F801}{FFFF}"}
+{"key": "event/e502/e502.mbm#3", "es": "〉 Decides volver.{F801}{FFFF}"}
+{"key": "event/e502/e502.mbm#4", "es": "{F812}Asahi{0000}{F87A}{AE00}{F81B}{4930}{3032}{3035}{3961}{0000}{0000}Oye, Nanashi. Espera.{F801}{FFFF}"}
+{"key": "event/e502/e502.mbm#5", "es": "〉 Te detienes y te vuelves hacia Asahi. {F801}{FFFF}"}
+{"key": "event/e502/e502.mbm#6", "es": "{F812}Asahi{0000}{F81B}{4930}{3032}{3035}{3861}{0000}{0000}Tenemos que hablar con Nikkari. Volvamos a la Asociación de Cazadores.{F801}{FFFF}"}
+{"key": "event/e502/e502.mbm#10", "es": "〉 La puerta no se abre. Está cerrada con llave.{F801}{FFFF}"}
+{"key": "event/e502/e502.mbm#20", "es": "〉 Ahora que tienes tu registro de cazador, puedes usar Terminales.{F801}{F802}〉 Por ahora, solo tienes registrada la Terminal de Kinshicho.{F801}{F802}〉 No puedes usar otras Terminales hasta que las registres en persona.{F801}{FFFF}"}
+{"key": "event/e502/e502.mbm#30", "es": "{F812}Cazador ocupado{0000}{F81B}{4930}{3237}{3030}{3100}{0000}{0000}La Asociación está cerrada por limpieza.{F801}Regresen más tarde.{F801}{FFFF}"}

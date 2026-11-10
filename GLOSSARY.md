@@ -609,7 +609,7 @@ Propuestas del terminólogo aprobadas por el usuario. Los bytes son los de T-4 c
 - **Divisiones de los Cazadores** (event/HunterDataBase/HunterDataTable.tbb, columna 54, max 33): *Hunters Management* → «Administración de Cazadores» (28); *Hunters Safety Division* → «División de Seguridad» (22; con «de Cazadores» da 35, **no cabe**); *Hunters Restoral Division* → «División de Rescate» (20); *Hunter Association Intelligence* → «Inteligencia de Cazadores» (25). Los cargos *Nikkari, Hunter* → «Nikkari, cazador»; *John, Engineer* → «John, ingeniero»; *Jiro, Theologian* → «Jiro, teólogo».
 - `Samurai` (terminólogo, propio de IVA; 255 veces) → «samurái», plural «samuráis» (RAE), en minúscula a media frase. *Samurai* es invariable en género (*el/la samurái*); el adjetivo concuerda con cada personaje (E-40).
 - `Ashura-kai` (terminólogo, propio de IVA; 190 veces) → «Ashura-kai» (*el Ashura-kai*). *Ashura-kai man/woman* → «Hombre/Mujer del Ashura-kai»; *Ashura-kai member* → «Miembro del Ashura-kai»; *Ashura-kai Authorized Shop* → «Tienda oficial del Ashura-kai» (29/31); *Former Ashura-kai Shop* → «Antigua tienda del Ashura-kai».
-- `Ring of Gaea` (terminólogo, propio de IVA; 183 veces) → «Anillo de Gea». SMT V escribe *Gea* (*Gaea Rage* ⇒ *Ira de Gea*, ya en la tabla). *Ring of Gaea member* (npc_room/NpcRoomTable.tbb#1.731.38) → «Miembro del Anillo de Gea»; *Gaea Man/Woman* → «Hombre/Mujer de Gea»; *Male/Female Gaean* (#1.805.38) y *Gaeans* → «Seguidor/Seguidora de Gea», «Seguidores de Gea». Alternativa para *Gaean*: «gaeano», que no existe en español.
+- `Ring of Gaea` (terminólogo, propio de IVA; 183 veces) → «Anillo de Gea». SMT V escribe *Gea* (*Gaea Rage* ⇒ *Ira de Gea*, ya en la tabla). *Ring of Gaea member* (npc_room/NpcRoomTable.tbb#1.731.38) → «Miembro de Gea» (cambiado el 2026-11-10, ver Secundarias); *Gaea Man/Woman* → «Hombre/Mujer de Gea»; *Male/Female Gaean* (#1.805.38) y *Gaeans* → «Seguidor/Seguidora de Gea», «Seguidores de Gea». Alternativa para *Gaean*: «gaeano», que no existe en español.
 - **Facciones y grupos** (event/HunterDataBase/HunterDataTable.tbb, max 37): *Unclean Ones* → «los Impuros»; *Crusaders* → «los Cruzados»; *Angels of Death* → «Ángeles de la Muerte»; *National Defense Divinities* → «Divinidades de Defensa Nacional» (31); *JSDF* → «Fuerzas de Autodefensa» (22), alt. dejar la sigla; *Lucifer's Minions* → «Esbirros de Lucifer»; *Demonstrators* → «Manifestantes»; *Maruo Faction* → «Facción de Maruo».
 - **Personajes de IVA** (battle/NKMSortIndex.tbb, event/NpcData.tbb, event/HunterDataBase/HunterDataTable.tbb): nombres propios que se dejan igual: Flynn, Walter, Jonathan, Isabeau, Timothy, Nozomi, Asahi, Gaston, Toki, Hallelujah, Maruo, Tamagami, Fujiwara, Skins, Nikkari, Manabu, Hiroshi, Akira, Ken, Abe, Hugo, Betty, Yuriko, Tayama, Mii, Kei, Tenkai, Michizane, Yamato Takeru, Tokisada, Aramisaki, Lanling Wang, Shesha, Krishna, Vishnu-Flynn, Fusou Fujio, Hiro Jingu, G.H. Hills, K. Con cambio: *Demonic Hugo* → «Hugo demoníaco»; *Dr. Matsuda* → «Dr. Matsuda» (a media frase, *el doctor Matsuda*); *Prisoner Yokota* → «Prisionero Yokota»; *Asahi's dad* → «Papá de Asahi»; *Akira's sister* → «Hermana de Akira»; *Hunter Man/Woman* → «Cazador», «Cazadora»; *Mephistopheles* (event/NpcData.tbb#0.341.0) → «Mefistófeles» (SMT V: *Mephisto* ⇒ *Mefisto*); *En ｎo Ozuno* (#0.339.0, con una *ｎ* de ancho completo) → «En no Ozuno».
 - `Liberator`, `Leader`, `Master` (terminólogo, formas de llamar al jugador): *Liberator* (5 veces) → «Libertador»; *Leader* (13) → «Líder»; *Master* (cuando un acompañante le habla al jugador, map/all/PartnerInfoTable.tbb#1.404.36) → «amo». Se confirma con las Negociaciones, que es donde más salen.
@@ -816,3 +816,268 @@ Lo fijo de item/ItemHelpMess.mbm y battle/SkillHelpMess.mbm. SMT V no tiene esta
 - **lore** (terminólogo, patrón): «A sun goddess of Japanese lore» (145 textos con *lore*; 10 con *myth*, 12 con *folklore*, 7 con *legend*) → «de la mitología japonesa», «según la tradición hindú», «del folclore celta». No se fija: SMT V, en sus perfiles, traduce *lore* por *mitología* (14 de 26 veces), *tradición* (3), *folclore* (3) y *cultura* (3), y *myth*, *mythology* por *mitología*. La etiqueta *Lore* ⇒ *Historia* de SMT V es otra cosa (la pestaña del perfil).
 - **Nombres de la mitología** (terminólogo, propio de IVA): *Marduk* (status/profile.mbm#502, #504; 4 veces) → «Marduk»; *Sakra* (#395-399; 4) → «Sakra»; *Mt. Meru* (4) → «monte Meru» (*Mt.* → «monte», tabla); *Hunahpu*, *Xbalanque*, *Xibalba* (#145, #312) → «Hunahpú», «Ixbalanqué», «Xibalbá», las formas del *Popol Vuh* en español; *Arthur* (#236, #286) → «Arturo» (*el rey Arturo*); *Excalibur* → «Excalibur»; *Round Table* (#236) → «la Mesa Redonda»; *Beowulf* → «Beowulf»; *World Tree* (#51, #60) → «el Árbol del Mundo»; *Takaamagahara* (#180, #181; 3) → «Takaamagahara», como lo escribe IVA; *Frigg*, *Hod*, *Hermod*, *Thokk* → se dejan; *Athena* (#341, #359; 3) → «Atenea», como *Pallas Athena* → «Palas Atenea» (decidido); *Book of Revelations*, *Revelations* (#100, #486; 3) → «el libro del Apocalipsis», «el Apocalipsis»; *Kappa* (#262, #438) → «kappa», en minúscula, porque es un tipo de yokai; *Four Holy Beasts* (#49) → «las Cuatro Bestias Sagradas» (SMT V llama a ese grupo *Ssu-Ling*, y IVA también en #205); *Imperial Court* (#639; 3) → «la corte imperial» (SMT V la escribe con minúscula y con mayúscula); *Shogunate* (#631, #639) → «el shogunato».
 - `Gaea` (terminólogo, inconsistencia del inglés, §6): «born from the Greek goddess Gaea with no father» (status/profile.mbm#512) → «Gaia». Es la misma diosa que *Gaia* en #273 y #326 (fila oficial «Gaia»). *Gaea* → «Gea» va solo con *Ring of Gaea* (decidido). Decidido: «Gaia».
+
+### Historia
+
+Filas *oficial* (G-1) de la sección Historia (event/e…, battle/event/, battle/gameover/, map/, mikado/, ones_room/). Salen de `system-terms-historia.tsv`, de `glossary-candidates.tsv` y de términos y etiquetas de quien habla que la sección repite. No repiten las filas que GLOSSARY.md ya tiene. Las cifras son textos de la sección en inglés (2415; las 355 líneas en japonés no se cuentan, T-6). Los ejemplos de SMT V salen de sus perfiles, menús y escenas.
+
+#### Términos (oficiales)
+
+| Inglés | Español | Fuente | Nota |
+|---|---|---|---|
+| Creator | Creador | SMT V (ejemplos: *was sealed in Shakan by the Creator* ⇒ *fue sellada en Shakan por el Creador*; *If the Creator's dead* ⇒ *Si el Creador ha muerto*) | Título de YHVH (9 textos: *the Creator, YHVH*, *the Creator’s universe*, battle/event/BtlEvent035/BtlEvent035.mbm#0, event/e062/e062.mbm#19). Con artículo y mayúscula: *el Creador*. *Creator God* está en pending.md. |
+| Amatsu-kami | Amatsukami | SMT V (ejemplo: *She fell in love with Ninigi of the Amatsukami* ⇒ *Está enamorada de Ninigi de los Amatsukami*) | Los dioses celestiales japoneses (event/e628/e628.mbm#4, #10, #43, #49, #51, #62). SMT V lo escribe en una palabra; IVA, con guion y sin él. *Amatsu* sola es la raza (ya en la tabla). |
+| Amatsu-Kami | Amatsukami | SMT V (como *Amatsu-kami*) | Variante del inglés con *K* mayúscula (event/e628/e628.mbm#46). |
+| Kunitsu-kami | Kunitsukami | SMT V (ejemplo: *One of the Kunitsukami in Japanese mythology* ⇒ *Uno de los Kunitsukami de la mitología japonesa*) | Los dioses de la tierra japoneses (event/e628/e628.mbm#43). *Kunitsu* sola es la raza (ya en la tabla). |
+| kunitsukami | Kunitsukami | SMT V (como *Kunitsu-kami*) | Variante del inglés en minúscula (event/e031/e031.mbm#3, #12). SMT V lo escribe con mayúscula. |
+| fairy queen | reina de las hadas | SMT V (ejemplo: *before I knew it, I was made fairy queen* ⇒ *antes de saberlo, me nombraron reina de las hadas*) | Título de un personaje (event/e020/e020.mbm#57, event/e043/e043.mbm#11, event/e072/e072.mbm#19). En minúscula, como SMT V. |
+| Fairy Queen | reina de las hadas | SMT V (como *fairy queen*) | Vocativo con mayúscula (event/e628/e628.mbm#45). |
+| turn icons | iconos de acción | SMT V (*Press Turn Icons* ⇒ *iconos de acción*; ejemplo: *Adds 2 Press Turn Icons to user's next turn* ⇒ *Añade 2 iconos de acción al siguiente turno del usuario*) | El tutorial de combate (battle/event/BtlEvent001/BtlEvent001.mbm#4: *blue turn icons*). Es el mismo sistema que *Press Turn Icons*, ya en la tabla. |
+| English | inglés | SMT V (etiqueta *English* ⇒ *Inglés*; ejemplo: *English Voices* ⇒ *Voces en inglés*) | El idioma: *...So the sign reads, in English.* (19 textos: map/m010/m010.mbm, event/e512/e512.mbm). En minúscula a media frase. |
+| Japan | Japón | SMT V (ejemplo: *In Japan, she was worshipped by warriors* ⇒ *En Japón era venerada por los guerreros*) | El país (event/e645/e645.mbm#33, #39, #41; event/e650/e650.mbm#6, #22, #35). |
+
+#### Nombres de quien habla (oficiales)
+
+Etiquetas de SMT V (*CharacterName*) con el mismo sentido. G-3: la etiqueta tiene que ser idéntica en todas sus líneas.
+
+| Inglés | Español | Fuente | Nota |
+|---|---|---|---|
+| Man’s voice | Voz masculina | SMT V (personaje: *Man's Voice* ⇒ *Voz masculina*) | Etiqueta de quien habla (event/e050/e050.mbm#12, event/e502/e502.mbm#0, event/e621/e621.mbm#1). |
+| Familiar voice | Voz familiar | SMT V (personaje: *Familiar Voice* ⇒ *Voz familiar*) | Etiqueta de quien habla (event/e096/e096.mbm#6). |
+| Demon’s voice | Voz de demonio | SMT V (personaje: *Demon's Voice* ⇒ *Voz de demonio*) | Etiqueta de quien habla (event/e031/e031.mbm#1). |
+| Young man | Joven | SMT V (personaje: *Young Man* ⇒ *Joven*) | Etiqueta de quien habla (event/e056/e056.mbm#1, #6). |
+| Danu’s voice | Voz de Danu | SMT V (patrón: *Zeus's Voice* ⇒ *Voz de Zeus*, *Isis's Voice* ⇒ *Voz de Isis*) | Etiqueta de quien habla (event/e065/e065.mbm#56, #59). |
+| Asahi’s voice | Voz de Asahi | SMT V (patrón, como *Danu’s voice*) | Etiqueta de quien habla (event/e041/e041.mbm#0, event/e055/e055.mbm#0). |
+| Nozomi’s voice | Voz de Nozomi | SMT V (patrón, como *Danu’s voice*) | Etiqueta de quien habla (1 línea). |
+| Hiroshi’s voice | Voz de Hiroshi | SMT V (patrón, como *Danu’s voice*) | Etiqueta de quien habla (1 línea). |
+| Maitreya’s voice | Voz de Maitreya | SMT V (patrón, como *Danu’s voice*) | Etiqueta de quien habla (1 línea). |
+
+#### Decididos por el usuario: Historia
+
+Aprobados en bloque el 2026-11-09 (las propuestas del terminólogo). *Lord X* → «el señor X» (vocativo «señor X») y *Lady X* → «la señora X» no van en la tabla porque *Lord* y *Lady* también forman otros términos (*Demon Lord*, la raza *Lady* → «Dama»).
+
+| Inglés | Español | Fuente | Nota |
+|---|---|---|---|
+| My Lord | mi Señor | Decidido 2026-11-09 (G-2) | Cuando un ángel habla de su dios; *the Lord* → «el Señor». |
+| His Lordship | Su Señoría | Decidido 2026-11-09 (G-2) | Tratamiento de noble, con la afectación del inglés. |
+| Miss Isabeau | señorita Isabeau | Decidido 2026-11-09 (G-2) | «la señorita Isabeau». |
+| Sir Gaston | sir Gaston | Decidido 2026-11-09 (G-2) | *SIR Gaston* → «SIR Gaston». |
+| SIR Gaston | SIR Gaston | Decidido 2026-11-09 (G-2) | El tic de la ficha de Gaston. |
+| Captain Gaston | capitán Gaston | Decidido 2026-11-09 (G-2) |  |
+| Grand Member | Gran Miembro | Decidido 2026-11-09 (G-2) | Conserva el doble sentido del inglés. |
+| Hunter Boy | Chico Cazador | Decidido 2026-11-09 (G-2) | Apodo, con mayúsculas. |
+| Boss | jefe | Decidido 2026-11-09 (G-2) | Trato. |
+| Bro | Hermano | Decidido 2026-11-09 (G-2) | Apelativo fijo, con mayúscula. |
+| Creator God | Dios Creador | Decidido 2026-11-09 (G-2) | *el Dios Creador*. |
+| the Powers | los Poderes | Decidido 2026-11-09 (G-2) | Por *Divine Powers* → «Poderes Divinos». |
+| Patriots | Patriotas | Decidido 2026-11-09 (G-2) | *the Patriots* → «los Patriotas»; etiqueta *The Patriots* → «Los Patriotas». |
+| Maruology | Maruología | Decidido 2026-11-09 (G-2) |  |
+| Male Maruo follower | Seguidor de Maruo | Decidido 2026-11-09 (G-2) | Etiqueta. |
+| Female Maruo follower | Seguidora de Maruo | Decidido 2026-11-09 (G-2) | Etiqueta. |
+| Aether | éter | Decidido 2026-11-09 (G-2) | En minúscula, como *magnetita*. |
+| Axiom | Axioma | Decidido 2026-11-09 (G-2) | *el Axioma*. |
+| Salvation | salvación | Decidido 2026-11-09 (G-2) | En minúscula (E-59). |
+| Filth | Inmundicia | Decidido 2026-11-09 (G-2) | Con mayúscula, como el inglés; *Unclean Ones* → «los Impuros». |
+| Demon Lord | Rey Demonio | Decidido 2026-11-09 (G-2) | *the Demon Lord Lucifer* → «el Rey Demonio Lucifer». |
+| Allfather | Padre de Todos | Decidido 2026-11-09 (G-2) | *el Padre de Todos*. |
+| Plain of High Heaven | Alta Llanura del Cielo | Decidido 2026-11-09 (G-2) |  |
+| Tuatha De | Tuatha Dé | Decidido 2026-11-09 (G-2) |  |
+| the Apathetic | el Apático | Decidido 2026-11-09 (G-2) | Epíteto de una vasija (*Sloth* → «la Pereza»). |
+| the Devourer | el Devorador | Decidido 2026-11-09 (G-2) | (*Gluttony* → «la Gula»). |
+| the Desired | el Deseado | Decidido 2026-11-09 (G-2) | (*Lust* → «la Lujuria»). |
+| the Vengeful | el Vengativo | Decidido 2026-11-09 (G-2) | (*Wrath* → «la Ira»). |
+| the Superior | el Altivo | Decidido 2026-11-09 (G-2) | (*Pride* → «la Soberbia»). |
+| Gauntlet Rite | Rito del Guantelete | Decidido 2026-11-09 (G-2) |  |
+| VR simulation | simulación de realidad virtual | Decidido 2026-11-09 (G-2) | *V-hee-R* va a delicadas. |
+| Assist Gauge | indicador de apoyo | Decidido 2026-11-09 (G-2) |  |
+| Play Coins | Monedas de juego | Decidido 2026-11-09 (G-2) | Provisional: se comprueba en el juego. |
+| Styx | Estigia | Decidido 2026-11-09 (G-2) | *el río Estigia*; *ferryman* → «barquero». |
+| portal cube | cubo portal | Decidido 2026-11-09 (G-2) |  |
+| Node | Nodo | Decidido 2026-11-09 (G-2) | *Node 1-4* → «Nodo 1-4». |
+| Adramalech | Adramelec | Decidido 2026-11-09 (G-2) | Error del inglés (§6). |
+| Yamato no Orochi | Yamata-no-Orochi | Decidido 2026-11-09 (G-2) | Error del inglés (§6). |
+| National Defense Deities | Divinidades de Defensa Nacional | Decidido 2026-11-09 (G-2) | Inconsistencia del inglés (§6). |
+| Myoko’s Disk | Disco de Myoko | Decidido 2026-11-09 (G-2) | Inconsistencia del inglés (§6). |
+| Yamato Reactor | Reactor Yamato | Decidido 2026-11-09 (G-2) | Forma corta de *Yamato Perpetual Reactor*. |
+| Surrounding Hunters | Cazadores presentes | Decidido 2026-11-09 (G-2) | Etiqueta. |
+| Gathered people | Gente reunida | Decidido 2026-11-09 (G-2) | Etiqueta. |
+| Hunter on mission | Cazador en misión | Decidido 2026-11-09 (G-2) | Etiqueta. |
+| Divine Powers demon | Demonio de los Poderes Divinos | Decidido 2026-11-09 (G-2) | Etiqueta. |
+| Tamagami’s remnants | Remanente de Tamagami | Decidido 2026-11-09 (G-2) | Etiqueta; un solo hablante. |
+| Street vendor | Vendedor ambulante | Decidido 2026-11-09 (G-2) | Etiqueta. |
+| Woman called ”Noa” | Mujer llamada “Noa” | Decidido 2026-11-09 (G-2) | Etiqueta. |
+
+#### Propuestas aprobadas de Historia (detalle)
+
+El detalle del terminólogo, aprobado en bloque. Lo que tiene fila arriba manda; el resto (etiquetas de quien habla, patrones) se aplica igual.
+
+Términos *por decidir* (G-2) de la sección Historia: event/e…, battle/event/, battle/gameover/, map/, mikado/, ones_room/. Las cifras son textos de la sección en inglés (2415); las 355 líneas en japonés se tratan aparte (T-6, al final). Lo que ya está traducido en otras secciones se cita para que coincida.
+
+##### Pendientes anteriores que aparecen en Historia
+
+- `Man` (terminólogo, otro sentido; ya en PENDING): en Historia es la interjección en 7 textos («Man, I would have gotten completely lost by myself.», event/e044/e044.mbm#25; también event/e621/e621.mbm#3, #26, #27, event/e634/e634.mbm#1, map/m037/m037.mbm#9) y la etiqueta de quien habla en 4 líneas (event/e619/e619.mbm#2, #4, #6). Propuesta sin cambio: no se fija; la etiqueta va «Hombre», como SMT V (*Man* ⇒ *Hombre*), y la interjección según el tono.
+- `Lady`, `Lord` (GLOSSARY, Tablas: «se deciden juntos como tratamientos»): Historia es donde salen. Propuesta en «Tratamientos», abajo.
+- `Bartender` (terminólogo, quien habla; ya en PENDING): 6 líneas en Historia (event/e999/e999.mbm#10-15). Las Tablas ya lo tradujeron «Cantinero» (quest_center/common/NpcHaichiTable.tbb), y PENDING propone «Tabernero». La etiqueta tiene que ser la misma en las tablas y en los mensajes (G-3): lo que se decida vale para las dos. **Decidido 2026-11-10: «Bartender»** (ver Secundarias).
+- `Attack` (terminólogo, otro sentido): «Choose ”Attack” from the list of commands.» (battle/event/BtlEvent001/BtlEvent001.mbm#4) y las órdenes «Attack Heal Support Wait» (battle/event/BtlEventSub150/BtlEventSub150.mbm#4) → «Atacar», «Curar», «Apoyo», «Esperar». *Atacar* es la habilidad de SMT V (*Attack* ⇒ *Atacar*) y *Support* ⇒ *Apoyo* ya está en la tabla. Duda: el menú de comandos de combate no está en las tablas (debe ser una textura, PLAN, fase 1); si queda en inglés, el tutorial tendría que citar «Attack» tal cual. Se comprueba en el juego. *Attack* no se fija: como estadística es «Ataque» (GLOSSARY).
+- `Power` (terminólogo, quien habla): la etiqueta *Power* (event/e039/e039.mbm#7) es el demonio → «Potestad», como dice GLOSSARY. Solo se confirma.
+
+##### Tratamientos
+
+SMT V no los traduce de una sola forma: *Lord Shiva* ⇒ *el Gran Shiva*, *Lord Lucifer* ⇒ *lord Lucifer* y *el gran Lucifer*, *Lord Okuninushi* ⇒ *el señor Okuninushi*, *Lady Ishtar* ⇒ *la Gran Ishtar*, y a veces lo quita (*Lady Idun* ⇒ *Idún*, *Lord Odin* ⇒ *Odín*). Por eso no hay término oficial (G-2). E-59: en minúscula a media frase.
+
+- `Lord` (terminólogo, tratamiento): *Lord Merkabah* (10 textos), *Lord Dagda* (7), *Lord Lucifer* (6), *Lord Maitreya* (4), *Lord Tenkai* (2), *Lord Shax* (1) → «el señor X»; en vocativo, «señor X» («We need to ask you something, Lord Tenkai.» → «Tenemos que pedirle algo, señor Tenkai.», event/e072/e072.mbm#5). *LORD Dagda?* (event/e032/e032.mbm#5) → «¿SEÑOR Dagda?». Sirve para dioses, ángeles, demonios y humanos, y también en vocativo. Alternativa: «el gran X», la forma más frecuente de SMT V, pero no sirve en vocativo («gran Tenkai»). Las fichas ya lo usan para el trato (merkabah.md, gaston.md, odin.md, nozomi.md, demonee-ho.md).
+- `My Lord`, `the Lord` (terminólogo, tratamiento): «My Lord shall construct as many of me as necessary.» (battle/event/BtlEvent061/BtlEvent061.mbm#0), *the Lord’s*, *our Lord’s* → «mi Señor», «el Señor», con mayúscula, como SMT V cuando un ángel habla de su dios (*My Lord does not wish for that to happen* ⇒ *Mi Señor no desea que ocurra tal cosa*).
+- `His Lordship` (terminólogo, tratamiento): «His Lordship would like our messiah, Flynn, to stand with us now.» (event/e096/e096.mbm#7) → «Su Señoría», tratamiento de noble, con la afectación del inglés (ficha de Adramelech). Alternativa: «Su Majestad».
+- `Lady` (terminólogo, tratamiento): *Lady Yuriko* (2 textos), *Lady Noa* (battle/event/BtlEventSub127/BtlEventSub127.mbm#0), *Lady Amaterasu* (1), *Ladies Mii and Kei* (map/m005/m005.mbm#3) → «la señora X», «las señoras Mii y Kei», como *Lord* → «señor». Alternativa: dejar «lady Yuriko». Como raza, *Lady* sigue siendo «Dama» (Tablas).
+- `Miss Isabeau` (terminólogo, tratamiento; 7 textos) → «la señorita Isabeau», como propone la ficha de Asahi.
+- `Sir Gaston`, `SIR Gaston` (terminólogo, tratamiento; 5 textos: event/e056/e056.mbm#22, event/e087/e087.mbm#19…) → «sir Gaston», «SIR Gaston». *Sir* es el título de caballero y en español se entiende; con *SIR* en mayúsculas se mantiene el tic que pide la ficha de Gaston. Alternativa: «don Gaston», que pierde lo caballeresco. *Captain Gaston* (event/e056/e056.mbm#10) → «el capitán Gaston».
+- `Mr.` (terminólogo, tratamiento): «I’m sorry, Mr. Hunter.» (event/e634/e634.mbm#53; 4 textos) → «señor cazador»; «You worried, Mr. New Boss?» (event/e634/e634.mbm#60) → «señor nuevo jefe». *Mister* a secas, de un niño (event/e634/e634.mbm#6, #10) → «señor».
+- `Grand Member` (terminólogo, título; 6 textos): «Yes! Grand Member! That’s Grand Member Maruo!» (event/e621/e621.mbm#1) → «Gran Miembro». El inglés juega con *member* (miembro de un grupo y, en la misma escena, *as precious as the family jewels*, el chiste anatómico); «miembro» tiene en español los mismos dos sentidos, así que el juego se conserva. Si se quiere revisar, va a delicadas (E-23).
+- `Hunter Boy` (terminólogo, apodo; 5 textos): «Let me teach you a lesson, Hunter Boy!» (battle/event/BtlEventSub131/BtlEventSub131.mbm#1) → «Chico Cazador», con mayúsculas como apodo. Alternativa: «Cazadorcito», más burlón.
+- `Boss` (terminólogo, trato; 5 textos: event/e035/e035.mbm#14, event/e634/e634.mbm#20) → «jefe».
+- `Bro` (terminólogo, trato; 6 textos): «Sure thing, Bro!» (event/e051/e051.mbm#16) → «Hermano», con mayúscula como si fuera un nombre, como dice la ficha de Hallelujah («fijo en todo el juego»). *Hermano* como apelativo se usa en toda América. *Jefe* no sirve: el inglés los distingue (*He's not my boss, he's my bro*, event/e096/e096.mbm#10).
+
+##### Títulos, grupos y nombres propios de IVA
+
+- `Creator God` (terminólogo, propio de IVA): «I cannot permit allegiance with the Creator God over the Divine Powers.» (battle/event/BtlEvent008/BtlEvent008.mbm#0; también BtlEvent021#0, event/e063/e063.mbm#16) → «el Dios Creador», título de YHVH, con *Creator* → «Creador» (rows.md). SMT V solo lo tiene en minúscula y para otro dios (*The creator god Brahma* ⇒ *El dios creador Brahma*).
+- `the Powers` (terminólogo, abreviatura): «The Powers must be after the sword.» (event/e043/e043.mbm#9; también event/e622/e622.mbm#8) → «los Poderes», por *Divine Powers* → «Poderes Divinos» (decidido).
+- `Patriots` (terminólogo, quien habla y grupo): la etiqueta *The Patriots* (42 líneas, event/e645/e645.mbm) y «Just call us the Patriots» (#8) → «Los Patriotas», «los Patriotas», como ya está traducido *The Patriots* en event/quest/SubQuestData.tbb#0.43.64. El demonio *Patriot* ya es «Patriota» (Tablas), así que las dos formas coinciden.
+- `Stephen`, `Noa`, `Burroughs` (terminólogo, nombres propios): «My name is Stephen.» (event/e037/e037.mbm#6; 7 textos y 8 líneas con su etiqueta), «Noa...» (event/e645/e645.mbm#25; 11 textos), la etiqueta *Burroughs* (map/m008/m008.mbm#1; 4 en Historia, 44 en IVA) → se dejan igual, como los demás nombres de IVA (Tablas). *Woman called ”Noa”* (event/e645/e645.mbm#26) → «Mujer llamada “Noa”».
+- `Maruology`, `Maruo follower` (terminólogo, propio de IVA): «That’s what Maruology is all about!» (event/e621/e621.mbm#9; también map/m014/m014.mbm#2) → «Maruología». Etiquetas *Male Maruo follower* (12 líneas), *Female Maruo follower* (6), *Maruo follower* (1) → «Seguidor de Maruo», «Seguidora de Maruo», «Seguidor de Maruo», como *Male/Female Gaean* → «Seguidor/Seguidora de Gea» (Tablas).
+- `Aether` (terminólogo, propio de IVA): «You might be more familiar with Aether by its other name, Magnetite.» (event/e072/e072.mbm#12; 6 textos) → «éter», en minúscula como *magnetite* → «magnetita» (decidido en Datos; E-59). Alternativa: «Éter», con mayúscula como el inglés.
+- `Axiom` (terminólogo, propio de IVA): «It is about the mission that the Axiom has given you humans» (event/e901/e901.mbm#8, #9) → «el Axioma».
+- `Salvation` (terminólogo, propio de IVA): «I know that it is difficult for you to accept my Salvation...» (battle/event/BtlEvent023/BtlEvent023.mbm#0; unos 15 textos, 3 con mayúscula) → «salvación», en minúscula en todos (E-59). Alternativa: «Salvación» donde el inglés la escribe con mayúscula (BtlEvent023#0, event/e067/e067.mbm#2, event/e901/e901.mbm#4).
+- `Filth` (terminólogo, propio de IVA): «You are Filth beyond even that of the Unclean Ones.» (battle/event/BtlEvent033/BtlEvent033.mbm#0; también BtlEvent060#0, BtlEvent061#0, event/e015/e015.mbm#10: *Unclean Filth*) → «Inmundicia», con mayúscula como el inglés, junto a *Unclean Ones* → «los Impuros» (decidido). Alternativa: «Escoria».
+- `Demon Lord` (terminólogo, título): «sworn knight of the Demon Lord Lucifer» (event/e096/e096.mbm#7) → «el Rey Demonio Lucifer». SMT V lo dice así en una línea genérica (*the Demon Lord you seek to defeat* ⇒ *ese Rey Demonio al que quieres derrotar*). La etiqueta japonesa *悪魔王ルシファー* (abajo) dice lo mismo. Alternativa: «el Señor de los Demonios».
+- `Allfather` (terminólogo, epíteto): «Others among the kunitsukami may lap up the Allfather’s lies» (event/e031/e031.mbm#12) → «el Padre de Todos», el epíteto de Odín.
+- `Plain of High Heaven` (terminólogo, lugar mitológico): «Means he’s a deity from the Plain of High Heaven.» (event/e628/e628.mbm#62) → «la Alta Llanura del Cielo». La frase explica *Amatsu-kami*, así que se traduce; en Datos el nombre japonés quedó «Takaamagahara».
+- `Tuatha De` (terminólogo, otro sentido): «I am Danu, mother of the Tuatha De» (event/e020/e020.mbm#57) → «los Tuatha Dé». SMT V los nombra completos (*the Tuatha Dé Danann* ⇒ *los Tuatha Dé Danann*), con tilde en *Dé*. Alternativa: «los Tuatha Dé Danann», como SMT V, aunque agrega una palabra que el inglés no dice.
+- **Epítetos y pecados de las vasijas** (terminólogo, títulos): «I am Jikokuten, the Apathetic. This jar draws the essence of Sloth.» (event/e073/e073.mbm#1), y lo mismo en event/e075#1, e077#1, e079#1, e081#1 → *the Apathetic* «el Apático» (Sloth «la Pereza»), *the Devourer* «el Devorador» (Gluttony «la Gula»), *the Desired* «el Deseado» (Lust «la Lujuria»), *the Vengeful* «el Vengativo» (Wrath «la Ira»), *the Superior* «el Altivo» (Pride «la Soberbia»). Los pecados, con su nombre en español y con mayúscula como el inglés. *el Altivo* en vez de *el Superior* para que el epíteto se lea con la soberbia, como los otros cuatro con su pecado; alternativa: «el Superior».
+- `Gauntlet Rite` (terminólogo, propio de IVA): «Go to Aquila Statue Plaza to participate in the Gauntlet Rite?» (mikado/m000/m000.mbm#1) → «el Rito del Guantelete», por *Gauntlet* → «Guantelete» (decidido).
+
+##### Sistema y mapas
+
+- `VR` (terminólogo, propio de IVA): «You log out of the VR simulation.» (battle/event/Systematic_001-004, 7 textos) → «Sales de la simulación de realidad virtual.» La sigla en español es *RV*, poco reconocible, y *VR* en inglés no es neutra; la forma completa cabe en la caja. *V-hee-R* (Systematic_004#1, #3), el juego de Demonee-ho con la sigla, va a delicadas (E-23).
+- `Assist Gauge` (terminólogo, propio de IVA): «The Assist Gauge increases.» (battle/event/BtlEvent022/BtlEvent022.mbm#110; también BtlEvent016#4, BtlEventSub131#4, #14) → «indicador de apoyo», como SMT V (*Magatsuhi Gauge* ⇒ *indicador de magatsuhi*) y como ya está traducido *Assist Attacks* → «Ataques de apoyo» (event/HowTo/HowToTable.tbb#0.17.4).
+- `Play Coins` (terminólogo, marca): «You can pay me in Play Coins, if you’d like.» (battle/gameover/gameover.mbm#10; también #11, #16-18) → «Monedas de juego», el nombre de Nintendo en la consola en español. Provisional, como los menús de la consola: se comprueba en el juego.
+- `Styx` (terminólogo, lugar mitológico): «welcome to the river Styx» (battle/gameover/gameover.mbm#1, #2, #5) → «el río Estigia». *ferryman* → «barquero», por *Charon* → «Caronte» (decidido).
+- `region` (terminólogo, patrón de mapa): «Go to the Ueno region?» (map/L001/l001.mbm#1; 20 textos en map/L001/l001.mbm y map/m037/m037.mbm, con Ueno, Chiyoda, Ikebukuro, Shinjuku, Roppongi, Joto, Johoku, Daiba y *coastal region*) → «¿Ir a la región de Ueno?», «la región costera». SMT V usa *región* igual (*the Shinano region* ⇒ *la región de Shinano*). Los nombres japoneses se dejan igual (patrón de Tablas). *According to Mapper, up ahead is…* → «Según el Cartógrafo, más adelante está…», por la app *Mapper* → «Cartógrafo» (decidido).
+- `portal cube`, `Node` (terminólogo, propio de IVA): «It seems no other portal cubes are activated...» (map/m028/m028.mbm#5; 8 textos en map/m028-m031) → «cubo portal»; las opciones *Node 1-4* (16 textos) → «Nodo 1-4». Alternativa: «cubo de transporte», por *the transportation cannot occur* de la misma línea.
+- `request` (terminólogo, propio de IVA): «Must’ve intercepted the Hunter request.» (event/e043/e043.mbm#8; también event/e634/e634.mbm#44, event/e645/e645.mbm#8; en event/e049/e049.mbm#8 es el verbo) → «encargo», «el encargo para los cazadores». Es el pedido que alguien deja en la Asociación; *quest* → «misión» ya está en la tabla, y *quest notes* (event/e049/e049.mbm#0) → «las notas de la misión». Alternativa: «solicitud». Se confirma en Secundarias, donde más sale.
+
+##### Errores e inconsistencias del inglés (§6: se señalan, no se corrigen)
+
+- `Adramalech` (terminólogo, error del inglés): «Adramalech looks down at the broken sword» (battle/event/BtlEvent002/BtlEvent002.mbm#9; 3 textos) → «Adramelec», el nombre oficial (*Adramelech* ⇒ *Adramelec*, ya en la tabla).
+- `Yamato no Orochi` (terminólogo, error del inglés): «I see you have Yamato no Orochi» (event/e628/e628.mbm#64) → «Yamata-no-Orochi», como en la tabla.
+- `Burrough` (terminólogo, error del inglés): la etiqueta de quien habla de map/m007/m007.mbm#0 → «Burroughs».
+- `National Defense Deities` (terminólogo, inconsistencia): «I am Tenkai, one of the National Defense Deities.» (event/e072/e072.mbm#4); en los demás textos y en las Tablas es *National Defense Divinities* → «Divinidades de Defensa Nacional» (decidido) en los dos.
+- `Myoko’s Disk` (terminólogo, inconsistencia): «Myoko’s Disk shines in your hand.» (event/e072/e072.mbm#1); la tabla de objetos dice *Myoko's Disc* → «Disco de Myoko» (item/ItemTable.tbb#0.11.0, ya traducido) en los dos.
+- `Yamato Reactor` (terminólogo, forma corta): «the Yamato Reactor in Ichigaya» (event/e049/e049.mbm#11) → «el Reactor Yamato», forma corta de *Yamato Perpetual Reactor* → «Reactor Perpetuo Yamato» (decidido).
+
+##### Nombres de quien habla
+
+Etiquetas `{F812}` de Historia que no están en el glosario ni en SMT V. Siguen el patrón de Tablas (*[Adjetivo] man/woman/Hunter* → «[Sustantivo] [adjetivo]») y tienen que coincidir en todas sus líneas (G-3). Las que el inglés no marca en género quedan con la decisión de conjunto pendiente (PENDING, lote tablas-005, E-40): aquí van en masculino solo como propuesta.
+
+- **Grupos** (terminólogo, quien habla): *Surrounding Hunters* (16 líneas, event/e065/e065.mbm) → «Cazadores presentes»; *Gathered people* (7, event/e124/e124.mbm) → «Gente reunida»; *Hunter reinforcement* (5, event/e014-e016) → «Cazador de refuerzo»; *Hunter reinforcements* (1) → «Cazadores de refuerzo»; *Hunters* (ya en la tabla) → «Cazadores»; *Ashura-kai members* (2) → «Miembros del Ashura-kai»; *Gaeans* (2) → «Seguidores de Gea»; *Obsessed horde* (1) → «Horda obsesionada» (patrón de hordas, Tablas).
+- **Cazadores** (terminólogo, quien habla y género E-40): *Hunter on mission* (7, event/e014/e014.mbm) → «Cazador en misión»; *Large Hunter*, *Small Hunter* (5 y 4, event/e049/e049.mbm) → «Cazador grandote», «Cazador bajito»; *Friendly Hunter* (3) → «Cazador amistoso»; *Expressionless*, *Flustered*, *Thick-jawed*, *Lazy-ish*, *Middle-aged Hunter* (2 cada una) → «Cazador inexpresivo», «nervioso», «de mandíbula ancha», «algo flojo», «de mediana edad»; *Male Hunter* (2) → «Cazador»; *Serious*, *Busy*, *Gentle-looking Hunter*, *Hunter guard* (1) → «Cazador serio», «ocupado», «de aspecto amable», «Guardia cazador». *Kinshicho Hunter* (1) → «Cazador de Kinshicho».
+- **Ángeles, demonios y facciones** (terminólogo, quien habla): *Divine Powers demon* (7) → «Demonio de los Poderes Divinos»; *Sky Tower guard angel* (4) → «Ángel guardián de Sky Tower», por *Guard angel* → «Ángel guardián» (Tablas); *Overbearing angel* → «Ángel prepotente»; *Newcomer angel* → «Ángel novato»; *Cute demon*, *Sexy demon* (2 cada una, event/e050/e050.mbm) → «Demonio lindo», «Demonio sexy» (*demon* → «demonio» aunque sea mujer, decidido en Datos); *Lucifer’s minion* (2) → «Esbirro de Lucifer», por *Lucifer's Minions* → «Esbirros de Lucifer» (Tablas); *Merkabah’s subordinate* → «Subordinado de Merkabah»; *Eastern Crusader* → «Cruzado oriental», por *Crusaders* → «los Cruzados» y *Eastern Kingdom of Mikado* → «Reino Oriental de Mikado»; *Yuriko-faction Gaean* (4, map/m005/m005.mbm) → «Seguidor de Gea (Yuriko)», por *Male Gaean* → «Seguidor de Gea»; alternativa, si cabe: «Seguidor de Gea de Yuriko»; *Gaea man* (3) → «Hombre de Gea» (Tablas); *Ring of Gaea guard* → «Guardia del Anillo de Gea»; *Samurai guard* → «Guardia samurái»; *Maitreya cultist* (3) → «Devoto de Maitreya»; *Believer* (3) → «Creyente»; *Demonoid woman* → «Mujer demonoide».
+- **Restos** (terminólogo, quien habla): *Tamagami’s remnants* (10, event/e645/e645.mbm, battle/event/BtlEventSub145) → «Remanente de Tamagami»; *Inanna’s remnants* (2) → «Remanente de Inanna», como *Inanna Remnant* → «Remanente de Inanna» (Tablas). El inglés va en plural, pero cada etiqueta es un solo hablante.
+- **Personas** (terminólogo, quien habla y género E-40): *Child* (12, event/e634/e634.mbm) → «Niño» (E-40: el inglés no lo marca); *Girl* (4, event/e001/e001.mbm#101-112) → «Chica»; *Boy* (1) → «Chico»; *Street vendor* (4 en Historia, 8 en IVA, event/e999/e999.mbm) → «Vendedor ambulante» (E-40); *TV* (5, event/e001/e001.mbm#110-118) → «TV»; *Old man* → «Anciano»; *Old woman on the left/right* → «Anciana de la izquierda/derecha»; *Thin man*, *Thin woman* (3 cada una) → «Hombre delgado», «Mujer delgada»; *Toned woman* (3) → «Mujer atlética»; *Teary-eyed man* (2) → «Hombre lloroso»; *Grim-faced man* (2) → «Hombre sombrío», como ya está en las tablas; *Grim-faced guard*, *Gentle-looking guard* → «Guardia sombrío», «Guardia de aspecto amable»; *Mysterious man* (2, battle/gameover/gameover.mbm#0, #1) → «Hombre misterioso»; *Hunter-idolizing boy* (3) → «Niño fan de los cazadores»; *Hunter-aspiring sister* (2) → «Hermana aspirante a cazadora»; *Disinterested brother* → «Hermano indiferente»; *Helmeted girl* (2) → «Chica con casco»; *Man in a wheelchair* → «Hombre en silla de ruedas»; *Man who was crying* → «Hombre que lloraba»; *Irritated young man* → «Joven irritado», por *Young man* → «Joven» (rows.md); *Ill-natured man* → «Hombre malintencionado»; *Piercing gaze man* → «Hombre de mirada penetrante»; *Scrap-collecting man* → «Chatarrero».
+- **Voces** (terminólogo, quien habla): *Boy’s voice*, *Girl’s voice* (4 cada una, event/e001/e001.mbm) → «Voz de chico», «Voz de chica»; *Old man’s voice* (2) → «Voz de anciano»; *Haughty woman’s voice* → «Voz de mujer altiva»; *Bewitching voice* (2) → «Voz seductora»; *Majestic*, *Upbeat*, *Pompous*, *Fierce*, *Arrogant voice* → «Voz majestuosa», «alegre», «pomposa», «feroz», «arrogante». Siguen *Man’s voice* → «Voz masculina» y *Familiar voice* → «Voz familiar» (SMT V, rows.md).
+- **Con signo de pregunta** (terminólogo, E-52): *Nozomi?* (event/e020/e020.mbm#2, #5) → «¿Nozomi?», como ya está en las tablas; *Maruo?* (event/e644/e644.mbm#8) → «¿Maruo?».
+
+##### Etiquetas en japonés (T-6)
+
+Las 355 líneas en japonés de Historia no se traducen hasta saber si el juego las muestra (T-6), salvo las dos escenas que el PLAN manda traducir desde el japonés. Si se traducen, sus etiquetas (`{F812}`) tienen que coincidir con las del inglés (G-3). Propuesta:
+
+- (terminólogo, quien habla): *バロウズ* (22) → «Burroughs»; *メルカバー* (21) → «Merkabah»; *悪魔王ルシファー* (20) → «Rey Demonio Lucifer» (ver *Demon Lord*, arriba); *イザボー* (11) → «Isabeau»; *悪魔化したサムライ* (8) → «Samurái demonizado»; *露天商* (6) → «Vendedor ambulante», como *Street vendor*; *店主* (6) → «Dependiente», como *Shopkeeper* (decidido); *デモニホ* (5) → «Demonee-ho»; *ルキフグス* (4) → «Lucifuge»; *ベリアル* (4) → «Belial»; *ラファエル*, *ミカエル*, *ガブリエル*, *ウリエル* (2 cada una) → «Rafael», «Miguel», «Gabriel», «Uriel»; *マザーハーロット* (2) → «Ramera babilónica»; *アドラメレク* (2) → «Adramelec»; *サナト* (2) → «Sanat»; *エンシェントデイ* (2) → «Anciano de Días»; *ピアレイ* (1) → «Peallaidh»; *イサカル* (1) → «Issachar»; *威厳に満ちた声* (1) → «Voz majestuosa», como *Majestic voice*. Habitantes (4 cada una): *顔が濃いギャル* → «Chica de rasgos marcados»; *警備員風の男* → «Hombre con pinta de guardia»; *江戸っ子風の男* → «Hombre con aire de Edo» (el *edokko*, el nacido en Tokio de toda la vida); *小汚い男* → «Hombre desaliñado»; *場違いな男* → «Hombre fuera de lugar»; *勘が鋭い男* → «Hombre perspicaz»; *ホスト風の男* → «Hombre con pinta de anfitrión de club»; *エリート風の男* → «Hombre con aire de élite»; *血気盛んな獄卒*, *礼儀正しい獄卒* (3 cada una) → «Carcelero impetuoso», «Carcelero educado». *テスト* (1) es una prueba: no se traduce.
+
+### Secundarias
+
+Filas de la sección Secundarias (event/quest/, quest_center/, npc_room/, event/PartnerTopic/; 1578 mensajes en en.jsonl, 1575 en la cuenta). Salen de `system-terms-secundarias.tsv` (202 términos), de `glossary-candidates.tsv` y de los términos y etiquetas de quien habla que la sección repite. No repiten las filas que GLOSSARY.md ya tiene. Las cifras son líneas de la sección en inglés. Los ejemplos de SMT V salen de sus tablas de texto (menús, misiones, escenas), emparejadas inglés-español.
+
+#### Términos de sistema (oficiales)
+
+| Inglés | Español | Fuente | Nota |
+|---|---|---|---|
+| Heal | Curar | SMT V (ejemplo: *Heal all* ⇒ *Curar todos*, la opción que cura al grupo) | Opción del menú de la taberna, *Heal / Talk / Deliver* (quest_center/center/center*.mbm#0 y center14_a/b.mbm#1, quest_center/common/qc_common.mbm; 15 líneas). Mismo sentido: curar al grupo. Va con *Talk* → «Hablar» (ya en la tabla) y *Talk to Boss* → «Hablar con el jefe» (*Boss* → «jefe», decidido). El tutorial de Historia ya lo pone igual (*Attack Heal Support Wait*). *Heal up!* (3 textos de otra sección) es el verbo común. |
+
+Oficiales de SMT V que no van en la tabla, porque en IVA también son palabras comunes de otras frases y el validador avisaría de más (como *Search*, *Special* y *End* en la Interfaz):
+
+- *Never mind*, opción de menú (quest_center/center/center14_a.mbm, center14_b.mbm: *Deliver / Never mind*, 2 líneas) → «Mejor no». SMT V la traduce así como opción (*Never mind* ⇒ *Mejor no*, 3 de 4 veces). En los diálogos (12 veces en IVA) es la frase común.
+- *accept* una misión → «aceptar» (SMT V: *Accept the quest "  "?* ⇒ *¿Aceptar la misión "  "?*; *Accepted quest "  "* ⇒ *Misión aceptada: "  "*). event/quest/QuestSys.mbm, 16 líneas; event/quest/QuestUITable.tbb ya lo dice así.
+- *abandon* una misión → «abandonar» (SMT V: *: Abandoned.* ⇒ *: abandonada.*). event/quest/QuestSys.mbm#2, #36. *give up* (#35, #60) está en pending.md.
+- *guest*, el personaje que se une al grupo → «personaje invitado» (SMT V: *Guest Characters* ⇒ *Personajes invitados*). «A guest has joined the party.» (event/quest/QuestSys.mbm#4) → «Un personaje invitado se unió al grupo», que además no marca género (DECISIONS 2026-11-09). En *u have a guest!!!* (SubQuestData) es «visita», ya traducido.
+
+#### Aplicación de lo decidido
+
+Términos de la sección que salen directamente de una decisión del glosario (fila, patrón o tabla ya traducida). No hay elección nueva; van para que el traductor y el validador los tengan a mano (G-3).
+
+| Inglés | Español | Fuente | Nota |
+|---|---|---|---|
+| Earthy man | Hombre rústico | Patrón de etiquetas (Tablas) y npc_room/NpcRoomTable.tbb#1.923.38 | Etiqueta de quien habla (24 líneas, npc_room/n075/n075.mbm). Es el que cuida la granja: «rústico» le va. G-3: igual que la tabla. |
+| Chubby man | Hombre regordete | Patrón de etiquetas y NpcRoomTable.tbb#1.296.38 | Etiqueta (7 líneas, npc_room/n028/n028.mbm). |
+| Anxious man | Hombre ansioso | Patrón de etiquetas y NpcRoomTable.tbb#1.917.38 | Etiqueta (7 líneas, npc_room/n063/n063.mbm). |
+| Grumpy man | Hombre gruñón | Patrón de etiquetas y NpcRoomTable.tbb#1.1037.38 | Etiqueta (1 línea). |
+| Starving man | Hombre hambriento | Patrón de etiquetas y NpcRoomTable.tbb#1.344.38 | Etiqueta (2 líneas). |
+| Hunter man | Cazador | NpcRoomTable.tbb#1.108.38 y *Male Hunter* → «Cazador» (Historia) | Etiqueta (npc_room/n044/n044.mbm#0). |
+| Vanguard leader | Líder de la vanguardia | Patrón de etiquetas y NpcRoomTable.tbb#1.1419.38 | Etiqueta (npc_room/n114/n114.mbm#0). |
+| Sleepy fairy | Hada somnolienta | Patrón de etiquetas (Tablas; es el ejemplo del patrón) | Etiqueta (7 líneas). |
+| Mischievous fairy | Hada traviesa | Patrón de etiquetas y NpcRoomTable.tbb | Etiqueta (6 líneas). |
+| High-strung fairy | Hada nerviosa | Patrón de etiquetas y NpcRoomTable.tbb | Etiqueta (6 líneas). |
+| Happy fairy | Hada feliz | Patrón de etiquetas y NpcRoomTable.tbb | Etiqueta (5 líneas). |
+| Amiable fairy | Hada amable | Patrón de etiquetas y NpcRoomTable.tbb | Etiqueta (4 líneas). |
+| Bitter fairy | Hada amargada | Patrón de etiquetas y NpcRoomTable.tbb | Etiqueta (3 líneas). |
+| Ring of Gaea member | Miembro de Gea | Decidido por el usuario (2026-11-10), como la tabla ya traducida | Etiqueta (33 líneas). Antes «Miembro del Anillo de Gea» (Tablas); queda la forma corta de npc_room/NpcRoomTable.tbb (101 entradas). |
+| Ashura-kai member | Miembro del Ashura-kai | Decidido en Tablas | Etiqueta (3 líneas); la tabla ya lo dice así. |
+| Maitreya cultist | Devoto de Maitreya | Decidido en Historia | Etiqueta (3 líneas). |
+| Commander | comandante | event/PartnerTopic/PartnerTopicTable.tbb (*I am indebted to the Commander* → «Estoy en deuda con el comandante») | event/PartnerTopic/PartnerTopic.mbm, 2 textos. En minúscula (E-59). |
+| Commander Hope | comandante Hope | *Commander* → «comandante» y *Hope* como nombre propio (PENDING, lote historia-010) | event/PartnerTopic/PartnerTopic.mbm, 2 textos. |
+| Hunter HQ | sede de los Cazadores | *Hunter Association HQ* → «Sede de la Asociación de Cazadores» (Tablas) | Forma corta (event/quest, 2 textos: *the new Hunter HQ in Kasumigaseki*, *return to the Hunter HQ*). |
+| HQ | sede | Como *Hunter HQ* | «a package for you, from HQ» (quest_center, 2 líneas) → «de la sede». |
+| Association | Asociación | *Hunter Association* → «Asociación de Cazadores» (decidido); PartnerTopicTable.tbb ya dice «Informé a la Asociación...» | Forma corta (16 textos: *The Association will pay extra*, *an Association record*). |
+| Liberator | Libertador | Decidido en Tablas («se confirma con las Negociaciones») | 3 textos aquí (event/PartnerTopic/PartnerTopic.mbm, npc_room). PartnerTopicTable.tbb ya dice «¡Ese es nuestro Libertador!». Se confirma. |
+| Master | amo | Decidido en Tablas (cuando un acompañante le habla al jugador) | 3 textos aquí, de un acompañante al jugador (event/quest/quest022.mbm#5, event/PartnerTopic/PartnerTopic.mbm). PartnerTopicTable.tbb ya dice «Trabajemos juntos, amo». Se confirma. *Master Bracelet* es el objeto (Tablas). |
+| request | encargo | Decidido en Historia («se confirma en Secundarias») | Aquí es sustantivo una sola vez: «Kind of a luxurious request in these lean times» (event/quest/quest117.mbm#0). En las otras 3 es el verbo (*I humbly request that you...*). Se confirma. |
+| Aoyama Cemetary | Cementerio de Aoyama | Lugares (Tablas) y map/all/MapYukaTable.tbb#2.123.0 | Error del inglés (§6: se señala, no se corrige): *Cemetary* por *Cemetery* (event/quest, 1 texto). |
+| Ogunohara Park | Parque Ogunohara | Patrón *Park* → «Parque X» y MapYukaTable.tbb#2.126.0 («Ruinas del Parque Ogunohara») | «the ruins of Ogunohara Park» → «las ruinas del Parque Ogunohara» (event/quest, 1 texto). |
+| Sakurada Way | calle Sakurada | Patrón *Ameyoko Way* → «Calle Ameyoko» | «the elevator on Sakurada Way» (event/quest/quest013.mbm#2). En minúscula a media frase (E-59). |
+| Kenji | Kenji | Patrón: los nombres propios de IVA se dejan igual | 16 textos. |
+| Nicho | Nicho | Patrón: los nombres japoneses de lugares se dejan igual | 2 textos. |
+| Club Milton | Club Milton | Patrón: nombres propios de locales | 1 texto (con *Dogenzaka* → «Dogenzaka»). |
+
+#### Revisados sin fila
+
+De los 202 términos de `system-terms-secundarias.tsv`: 48 ya tienen fila en GLOSSARY.md (Hunter, Ring of Gaea, Macca, Champion, Terminal...). De los 154 restantes:
+
+- **106** ya están cubiertos por una decisión del glosario: nombres propios que se dejan igual (Flynn, Nozomi, Toki, Gaston, Krishna, Shesha...), distritos y lugares con su patrón (Kinshicho, Tsukiji Konganji, *Tokyo Station* → «Estación de Tokio», *Fairy Forest*, *Eastern Kingdom of Mikado*, *Tokugawa Mandala*...), objetos de Tablas (*Red Earring*, *Sage Bracelet*, *Steel Bazooka*, *Panic Rounds*, *Shesha Radar*...), tratamientos (*Lord X*, *Lady X*, *Ladies Mii*, *Mr.*, *Dr.*) y los que van arriba en «Aplicación de lo decidido». *Expanse Meat* sigue en PENDING (Datos).
+- **30** son palabras comunes que el script trajo como etiquetas de SMT V y que en esta sección no son términos: *new, place, hard, other, end, pass, special, off, dummy, always, next, return, start, 1st, 2nd, old, set, sound, fast, open, normal, remove, registered, none, original, guard, move, close, safety, all*.
+- **13** son gritos, tartamudeos o fragmentos: *I-I*, *It’s Betty*, *CAN*, *NOT*, *IS*, *MIA*, *Th-The* + cinco objetos ya decididos, *P-Panic Rounds* y *Delivery Quest Description Second Time* (relleno, ver pending.md).
+- **5** van a pending.md: *Log* (como *quest log*), *Champion Tournament*, *Number One*, *Bay Area*, *Wailing Gate*.
+
+Etiquetas de quien habla en inglés (27 distintas): 9 ya decididas (Hunter, Burroughs, Angel, Demon, Asahi, Fujiwara, Ashura-kai member, Maitreya cultist, Ring of Gaea member), 13 por el patrón de Tablas y la tabla traducida (arriba), 3 ya en PENDING (*Bartender*, *New bartender* y *Bartender* con espacio) y 2 nuevas (*Neurisher*, *Medic*). Las etiquetas en japonés no se tratan (T-6).
+
+#### Decididos por el usuario: Secundarias
+
+Aprobados en bloque el 2026-11-10 (propuestas del terminólogo), sin artículo: la frase lo pone según el contexto.
+
+| Inglés | Español | Fuente | Nota |
+|---|---|---|---|
+| Bartender | Bartender | Decidido por el usuario (2026-11-10): se deja en inglés, se entiende bien | Etiqueta (274 líneas de quest_center, 6 de Historia), también en NpcHaichiTable.tbb y a media frase en minúscula («el bartender»). La etiqueta con espacio final (`{F812}Bartender {0000}`, center14_b.mbm#105-107) va igual, sin el espacio. |
+| New bartender | Nuevo bartender | Decidido por el usuario (2026-11-10) | Etiqueta (44 líneas). |
+| quest log | lista de misiones | Decidido por el usuario (2026-11-10) | quest_center/center/*.mbm#9 (13 tabernas). |
+| delivery quest | misión de entrega | Decidido por el usuario (2026-11-10) | quest_center, event/quest/QuestSys.mbm#39. |
+| give up | abandonar | Decidido por el usuario (2026-11-10) | Como *abandon* (event/quest/QuestSys.mbm#35, #60). |
+| Champion Tournament | Torneo de Campeones | Decidido por el usuario (2026-11-10) | 52 líneas de la taberna. |
+| ranking | clasificación | Decidido por el usuario (2026-11-10) | 102 líneas (*the ranking column* → «la columna de la clasificación»). |
+| Number One | Número Uno | Decidido por el usuario (2026-11-10) | Con mayúsculas, como el grafiti del inglés. |
+| bulletin board | tablero de anuncios | Decidido por el usuario (2026-11-10) | 78 líneas (E-10, E-12). |
+| Armageddon | Armagedón | Decidido por el usuario (2026-11-10): excepción a G-1 | SMT V dice «apocalipsis», que chocaría con el subtítulo y la dificultad «Apocalipsis». |
+| Bay Area | región costera | Decidido por el usuario (2026-11-10) | Como la *coastal region* del mapa (Historia). |
+| Wailing Gate | Puerta de los Lamentos | Decidido por el usuario (2026-11-10) | event/quest/quest022.mbm#2 y contenido descargable (content24/evt/e220). |
+| King of Tokyo | Rey de Tokio | Decidido por el usuario (2026-11-10) | Título, con mayúscula. |
+| Hunter Notes | Notas del Cazador | Decidido por el usuario (2026-11-10), provisional | Si es un menú del juego, va su nombre; se ve en el juego. |
+| Neurisher | Neurodonante | Decidido por el usuario (2026-11-10), provisional | Palabra inventada: pasa por delicadas (npc_room/n074/n074.mbm). |
+| Medic | Personal médico | Decidido por el usuario (2026-11-10) | No marca género (npc_room/n114/n114.mbm#1). |
+
+Condiciones de las misiones (event/quest/QuestSys.mbm), en infinitivo como los objetivos de QuestData: *Deliver* → «Entregar», *Slay* → «Eliminar», *Show* → «Mostrar», *Collect* → «Reunir», *Bring a demon that has...* → «Traer un demonio que tenga...», *Accomplish* → «Lograr». No van en la tabla: son verbos comunes.

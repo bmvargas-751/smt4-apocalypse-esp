@@ -1,0 +1,62 @@
+{"key": "event/e065/e065.mbm#0", "es": "〉 Un cazador te bloquea el paso.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#1", "es": "{F812}Cazador inexpresivo{0000}{F87A}{4500}{F81B}{4530}{3635}{3030}{3100}{0000}{0000}¿Prueba de membresía?{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#2", "es": "{F812}Navarre{0000}{F87A}{AF00}{F81B}{4530}{3635}{3030}{3200}{0000}{0000}¿Membresía? ¡¿No sabes quién soy?!{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#3", "es": "{F812}Nozomi{0000}{F87A}{B000}{F81B}{4530}{3635}{3030}{3300}{0000}{0000}Yo me encargo.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#4", "es": "〉 Nozomi le muestra una caja de cerillos al cazador.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#5", "es": "{F812}Cazador inexpresivo{0000}{F87A}{4500}{F81B}{4530}{3635}{3030}{3400}{0000}{0000}Por favor, pasen.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#6", "es": "{F812}Hallelujah{0000}{F87A}{B200}{F81B}{4530}{3635}{3030}{3500}{0000}{0000}Nos llamaron. ¿Por qué tenemos que ser miembros?{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#7", "es": "{F812}Nozomi{0000}{F87A}{B000}{F81B}{4530}{3635}{3030}{3600}{0000}{0000}No te preocupes por eso. Solo entremos.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#20", "es": "〉 Dentro esperan varios cazadores, entre ellos Fujiwara y Skins.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#21", "es": "{F812}Fujiwara{0000}{F87A}{1200}{F81B}{4530}{3635}{3030}{3700}{0000}{0000}¿Es él?{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#22", "es": "〉 Nozomi asiente y te empuja hacia adelante.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#23", "es": "{F812}Asahi{0000}{F87A}{AE00}{F81B}{4530}{3635}{3030}{3800}{0000}{0000}Nanashi...{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#24", "es": "{F812}Nozomi{0000}{F87A}{B000}{F81B}{4530}{3635}{3030}{3900}{0000}{0000}Va a estar bien. Tú quédate atrás.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#25", "es": "〉 Asahi se muerde el labio, preocupada.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#26", "es": "{F812}Fujiwara{0000}{F87A}{1200}{F81B}{4530}{3635}{3031}{3000}{0000}{0000}Como cazadores, probablemente saben quién soy, pero intentaré ser formal.{F801}{F802}{F81B}{4530}{3635}{3031}{3100}{0000}{0000}Soy Fujiwara, el fundador de la Asociación de Cazadores. Él es Skins.{F801}{F802}{F81B}{4530}{3635}{3031}{3200}{0000}{0000}Quisiera presentarlo mejor, pero lo llaman Skins desde hace más tiempo del que puedo recordar...{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#27", "es": "{F812}Skins{0000}{F87A}{9500}{F81B}{4530}{3635}{3031}{3300}{0000}{0000}Vamos de una vez a lo que hizo el chico.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#28", "es": "{F812}Cazadores presentes{0000}{F87A}{8A01}{F81B}{4530}{3635}{3031}{3400}{0000}{0000}¡Esto es una pérdida de tiempo! ¡Tiene que pagar por lo que hizo! ¡Vamos!{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#29", "es": "〉 Los cazadores dejan clara su furia.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#30", "es": "{F812}Fujiwara{0000}{F87A}{1200}{F81B}{4530}{3635}{3031}{3500}{0000}{0000}Te desempeñaste admirablemente contra Shesha.{F801}Es una lástima que las cosas hayan terminado así.{F801}{F802}{F81B}{4530}{3635}{3031}{3600}{0000}{0000}Quiero repasar lo que ha pasado para que tengas la oportunidad de explicarte.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#31", "es": "〉 Los cazadores se calman.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#32", "es": "{F812}Fujiwara{0000}{F87A}{1200}{F81B}{4530}{3635}{3031}{3700}{0000}{0000}Eras aprendiz de cazador con Nikkari.{F801}{F802}{F81B}{4530}{3635}{3031}{3800}{0000}{0000}Unos demonios te atacaron y, durante el ataque, formaste un contrato con el demonio Dagda.{F801}{F802}{F81B}{4530}{3635}{3031}{3900}{0000}{0000}Y luego, por orden de Dagda, rompiste el sello para liberar a Krishna.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#33", "es": "{F812}Cazadores presentes{0000}{F87A}{8A01}{F81B}{4530}{3635}{3032}{3000}{0000}{0000}¡¿Rompió el sello?!{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#34", "es": "{F812}Cazadores presentes{0000}{F87A}{8A01}{F81B}{4530}{3635}{3032}{3100}{0000}{0000}¡Todo es culpa tuya!{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#35", "es": "{F812}Cazadores presentes{0000}{F87A}{8A01}{F81B}{4530}{3635}{3032}{3200}{0000}{0000}¡Mátenlos!{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#36", "es": "〉 Los cazadores te miran con ojos asesinos.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#37", "es": "{F812}Nozomi{0000}{F87A}{B000}{F87B}{B000}{0200}{0100}{0100}{F81B}{4530}{3635}{3032}{3300}{0000}{0000}Se sienten muy rudos, ¿eh? Un montón de adultos atacando en grupo a un par de chicos.{F801}{F802}{F81B}{4530}{3635}{3032}{3400}{0000}{0000}Los demonios los manipularon.{F801}{F802}{F87B}{B000}{0E00}{0100}{0100}{F81B}{4530}{3635}{3032}{3500}{0000}{0000}Deberían dirigir toda su ira contra los Poderes Divinos y Dagda.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#38", "es": "{F812}Cazadores presentes{0000}{F87A}{8A01}{F81B}{4530}{3635}{3032}{3600}{0000}{0000}¡Solo les estás buscando excusas!{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#39", "es": "{F812}Cazadores presentes{0000}{F87A}{8A01}{F81B}{4530}{3635}{3032}{3700}{0000}{0000}¡Los Poderes Divinos quieren matarnos a todos y este tipo está metido en esto!{F801}{F802}{F81B}{4530}{3635}{3032}{3800}{0000}{0000}¡Nos pusieron a todos en peligro!{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#40", "es": "〉 La multitud se enfurece aún más, a pesar de las palabras de Nozomi.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#41", "es": "{F812}Asahi{0000}{F87A}{AE00}{F81B}{4530}{3635}{3032}{3900}{0000}{0000}¡Lo siento! Lo siento...{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#42", "es": "〉 Los cazadores increpan a Asahi.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#43", "es": "{F812}Cazadores presentes{0000}{F87A}{8A01}{F81B}{4530}{3635}{3033}{3000}{0000}{0000}Oigan, ¿no es la hija del que está a cargo de Kinshicho? ¡¿Él también está metido en esto?!{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#44", "es": "{F812}Asahi{0000}{F87A}{AE00}{F81B}{4530}{3635}{3033}{3100}{0000}{0000}¡Oigan! ¡No metan a mi papá en esto!{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#45", "es": "{F812}Cazadores presentes{0000}{F87A}{8A01}{F81B}{4530}{3635}{3033}{3200}{0000}{0000}¿Esperas que confiemos en alguien que anda con el lacayo de un demonio?{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#46", "es": "{F812}Asahi{0000}{F87A}{AE00}{F81B}{4530}{3635}{3033}{3300}{0000}{0000}¡No es así!{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#47", "es": "{F812}Skins{0000}{F87A}{9500}{F81B}{4530}{3635}{3033}{3400}{0000}{0000}Cállense. Todos. Ya tomamos una decisión.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#48", "es": "〉 Skins logra callar a los cazadores.{F801}{F802}〉 Cuando la sala queda en silencio, Fujiwara habla.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#50", "es": "{F812}Cazadores presentes{0000}{F87A}{8A01}{F81B}{4530}{3635}{3034}{3800}{0000}{0000}¿Les vas a dar otra oportunidad?{F801}¡Te has ablandado, Fujiwara!{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#51", "es": "{F812}Cazadores presentes{0000}{F87A}{8A01}{F81B}{4530}{3635}{3034}{3900}{0000}{0000}¡No podemos permitir esto!{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#52", "es": "{F812}Cazadores presentes{0000}{F87A}{8A01}{F81B}{4530}{3635}{3035}{3000}{0000}{0000}¡Te has aliado con los demonios!{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#53", "es": "{F812}Cazadores presentes{0000}{F87A}{8A01}{F81B}{4530}{3635}{3035}{3100}{0000}{0000}¿De verdad hemos llegado a esto?{F801}{F802}{F81B}{4530}{3635}{3035}{3200}{0000}{0000}¿De verdad nos está traicionando Fujiwara?{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#54", "es": "〉 Los cazadores se vuelven contra Fujiwara.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#55", "es": "{F812}Dagda{0000}{F81B}{4530}{3635}{3035}{3300}{0000}{0000}¿Qué opinas ahora de los queridos humanos de Danu, chico?{F801}{F802}{F81B}{4530}{3635}{3035}{3400}{0000}{0000}La empatía entre los humanos es la razón por la que la malicia y la animosidad se propagan como una enfermedad.{F801}{F802}{F81B}{4530}{3635}{3035}{3500}{0000}{0000}Su verdadera naturaleza es un contagio. A estas alturas, ya están demasiado perdidos para razonar con ellos... ¿No crees?{F801}{F802}{F81B}{4530}{3635}{3035}{3600}{0000}{0000}Si estás de acuerdo, rompe con ellos. No dejes que nadie te detenga. Arréglatelas por ti mismo.{F801}{F802}{F81B}{4530}{3635}{3035}{3700}{0000}{0000}Esta es la promesa de mi nuevo universo.{F801}Seguir tu propio camino, libre de los demás.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#56", "es": "{F812}Voz de Danu{0000}{F81B}{4530}{3635}{3035}{3862}{0000}{0000}Basta, Dagda.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#57", "es": "〉 La voz de Danu resuena en tu cabeza.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#58", "es": "{F812}Dagda{0000}{F81B}{4530}{3635}{3035}{3900}{0000}{0000}Ah, y ahora llegó Madre.{F801}{F802}{F81B}{4530}{3635}{3036}{3000}{0000}{0000}Temía que te rebajaras tanto como para eludir tu responsabilidad, igual que estos humanos.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#59", "es": "{F812}Voz de Danu{0000}{F81B}{4530}{3635}{3036}{3162}{0000}{0000}Este lío es tuyo, Dagda. ¿No crees que ya ha durado demasiado?{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#60", "es": "{F812}Dagda{0000}{F81B}{4530}{3635}{3036}{3200}{0000}{0000}No importa.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#61", "es": "{F812}Cazadores presentes{0000}{F87A}{8A01}{F81B}{4530}{3635}{3036}{3300}{0000}{0000}¿Sintieron eso...?{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#62", "es": "〉 De pronto todo se sacude con violencia y el suelo empieza a temblar.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#63", "es": "{F812}Cazadores presentes{0000}{F87A}{8A01}{F81B}{4530}{3635}{3036}{3400}{0000}{0000}¡Un terremoto!{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#64", "es": "{F812}Cazadores presentes{0000}{F87A}{8A01}{F81B}{4530}{3635}{3036}{3500}{0000}{0000}¡¿Q-Qué?! ¿Por qué ahora?{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#65", "es": "〉 El temblor se detiene poco a poco. La cafetería parece casi intacta.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#66", "es": "{F812}Cazador nervioso{0000}{F87A}{4400}{F81B}{4530}{3635}{3036}{3600}{0000}{0000}¡E-Esto está mal!{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#67", "es": "{F812}Skins{0000}{F87A}{9500}{F81B}{4530}{3635}{3036}{3700}{0000}{0000}¿Qué demonios está pasando aquí?{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#68", "es": "{F812}Cazador nervioso{0000}{F87A}{4400}{F81B}{4530}{3635}{3036}{3800}{0000}{0000}¡Son demonios! ¡Los demonios atacaron Shinjuku!{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#69", "es": "{F812}Skins{0000}{F87A}{9500}{F81B}{4530}{3635}{3036}{3900}{0000}{0000}¡¿Qué?!{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#70", "es": "{F812}Fujiwara{0000}{F87A}{1200}{F81B}{4530}{3635}{3037}{3000}{0000}{0000}Esta es tu oportunidad: te enviamos a Shinjuku.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#71", "es": "{F812}Cazadores presentes{0000}{F87A}{8A01}{F81B}{4530}{3635}{3037}{3100}{0000}{0000}¡No puedes confiar en esta gente, Fujiwara!{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#72", "es": "{F812}Gaston{0000}{F87A}{B100}{F81B}{4530}{3635}{3037}{3200}{0000}{0000}La gente de Tokio es demasiado indulgente.{F801}{F802}{F81B}{4530}{3635}{3037}{3300}{0000}{0000}En Mikado, ya los habrían ejecutado.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#73", "es": "{F812}Fujiwara{0000}{F87A}{1200}{F81B}{4530}{3635}{3037}{3400}{0000}{0000}Debes de haber perdido a muchos buenos hombres en Mikado.{F801}{FFFF}"}
+{"key": "event/e065/e065.mbm#74", "es": "{F812}Gaston{0000}{F87A}{B100}{F81B}{4530}{3635}{3037}{3500}{0000}{0000}Hmph... Prefiero arriesgarme a eso que recibir una puñalada por la espalda.{F801}{FFFF}"}

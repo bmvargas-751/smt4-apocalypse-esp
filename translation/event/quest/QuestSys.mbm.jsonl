@@ -1,1 +1,71 @@
+{"key": "event/quest/QuestSys.mbm#0", "es": "〉 Misión aceptada: “{F811}{2800}”.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#1", "es": "〉 Misión completada: “{F811}{2800}”.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#2", "es": "〉 Misión abandonada: “{F811}{2800}”.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#3", "es": "〉 Quedan: {F878}{0100}{F801}{F873}{0100}.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#4", "es": "〉 Un personaje invitado se unió al grupo.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#5", "es": "〉 Un acompañante se fue...{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#6", "es": "〉 Un acompañante salió del grupo temporalmente...{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#7", "es": "〉 El acompañante volvió a unirse al grupo...{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#8", "es": "〉 ¿Entregar {F872}{0100}?{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#9", "es": "〉 ¿Entregar {F872}{0100} x{F878}{0100}?{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#10", "es": "〉 ¿Entregar a {F873}{0100}?{F801}{FFFF}"}
 {"key": "event/quest/QuestSys.mbm#11", "es": "Sí{F801}No{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#12", "es": "〉 Se canceló la entrega.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#13", "es": "〉 Misión actualizada: “{F811}{2800}”.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#14", "es": "〉 {F843}{0000} se recuperó.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#15", "es": "〉 {F843}{0000} y los demás se recuperaron.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#16", "es": "〉 Misión descartada: “{F811}{2800}”.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#17", "es": "???{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#18", "es": "Entregar {F872}{0100} x{F878}{0100}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#19", "es": "Entregar {F872}{0100} x{F878}{0100}{F801}y {F872}{0200} x{F878}{0200}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#20", "es": "Entregar {F872}{0100} x{F878}{0100}, {F872}{0200} x{F878}{0200}, {F801}y {F872}{0300} x{F878}{0300}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#21", "es": "Entregar {F872}{0100} x{F878}{0100}, {F872}{0200} x{F878}{0200},{F801}{F872}{0300} x{F878}{0300} y {F872}{0400} x{F878}{0400}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#22", "es": "Eliminar {F873}{0100} x{F878}{0100}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#23", "es": "Eliminar {F873}{0100} x{F878}{0100}{F801}y {F873}{0200} x{F878}{0200}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#24", "es": "Eliminar {F873}{0100} x{F878}{0100},{F801}{F873}{0200} x{F878}{0200} y {F873}{0300} x{F878}{0300}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#25", "es": "Eliminar {F873}{0100} x{F878}{0100}, {F873}{0200} x{F878}{0200},{F801}{F873}{0300} x{F878}{0300} y {F873}{0400} x{F878}{0400}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#26", "es": "Mostrar {F872}{0100} x{F878}{0100}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#27", "es": "Mostrar {F872}{0100} x{F878}{0100}{F801}y {F872}{0200} x{F878}{0200}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#28", "es": "Mostrar {F872}{0100} x{F878}{0100},{F801}{F872}{0200} x{F878}{0200} y {F872}{0300} x{F878}{0300}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#29", "es": "Mostrar {F872}{0100} x{F878}{0100}, {F872}{0200} x{F878}{0200},{F801}{F872}{0300} x{F878}{0300} y {F872}{0400} x{F878}{0400}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#30", "es": "Mostrar {F873}{0100} x{F878}{0100}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#31", "es": "Mostrar {F873}{0100} x{F878}{0100}{F801}y {F873}{0200} x{F878}{0200}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#32", "es": "Mostrar {F873}{0100} x{F878}{0100},{F801}{F873}{0200} x{F878}{0200} y {F873}{0300} x{F878}{0300}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#33", "es": "Mostrar {F873}{0100} x{F878}{0100}, {F873}{0200} x{F878}{0200},{F801}{F873}{0300} x{F878}{0300} y {F873}{0400} x{F878}{0400}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#34", "es": "〉 ¿Aceptas{F801}“{F811}{2800}”?{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#35", "es": "〉 ¿Abandonas{F801}“{F811}{2800}”?{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#36", "es": "〉 ¿Abandonas tu misión actual para aceptar esta?{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#37", "es": "〉 Misión aceptada: “{F811}{2800}”.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#38", "es": "〉 No puedes aceptar esta misión por ahora.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#39", "es": "〉 No es necesario aceptar misiones de entrega.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#40", "es": "{F812}Burroughs{0000}{F87A}{0100}{F813}{0100}{0000}{851A}{0600}Esta misión podría ser algo peligrosa para tu nivel actual. ¿Aún quieres intentarla?{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#41", "es": "Traer un demonio que tenga {F878}{0100}{F801}o más secuencias de ADN de demonio{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#42", "es": "Traer un demonio que tenga ADN de{F801}{F811}{2900}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#43", "es": "Traer un demonio que tenga ADN de{F801}{F811}{2900} y {F811}{2A00}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#44", "es": "Traer un demonio que tenga ADN de {F811}{2900},{F801}{F811}{2A00} y {F811}{2B00}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#45", "es": "Traer un demonio que tenga ADN de {F811}{2900},{F801}{F811}{2A00}, {F811}{2B00} y {F811}{2C00}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#46", "es": "Entregar {F873}{0100}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#47", "es": "Entregar {F873}{0100}{F801}y {F873}{0200}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#48", "es": "Entregar {F873}{0100},{F801}{F873}{0200} y {F873}{0300}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#49", "es": "Entregar {F873}{0100}, {F873}{0200},{F801}{F873}{0300} y {F873}{0400}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#50", "es": "Aceptar esta misión iniciará un combate de inmediato. ¿Quieres hacerlo?{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#51", "es": "Ya completaste esta misión.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#52", "es": "Reunir {F872}{0100} x{F878}{0100}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#53", "es": "Reunir {F872}{0100} x{F878}{0100}{F801}y {F872}{0200} x{F878}{0200}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#54", "es": "Reunir {F872}{0100} x{F878}{0100},{F801}{F872}{0200} x{F878}{0200},{F801}y {F872}{0300} x{F878}{0300}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#55", "es": "Reunir {F872}{0100} x{F878}{0100},{F801}{F872}{0200} x{F878}{0200}, {F872}{0300} x{F878}{0300},{F801}y {F872}{0400} x{F878}{0400}{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#56", "es": "〉 {F873}{0100} {F873}{0200} se unió al grupo.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#57", "es": "〉 Aceptar esta misión te transportará de inmediato a otro lugar.{F801}¿Quieres hacerlo?{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#58", "es": "〉 {F843}{0000} entrega el objeto requerido.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#59", "es": "〉 {F843}{0000} entrega todos los objetos requeridos.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#60", "es": "Si abandonas, te llevarán al lugar donde aceptaste la misión en un principio. ¿Está bien?{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#61", "es": "〉 No hay información sobre la misión aceptada. Se cancelará la misión.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#62", "es": "〉 No se pudo leer la misión aceptada. Se cancelará la misión.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#63", "es": "〉 Volverás al lugar donde aceptaste la misión.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#64", "es": "Aceptar esta misión te transportará de inmediato a otro lugar.{F801}¿Quieres hacerlo?{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#65", "es": "〉 Volviste a tu ubicación original. Se canceló la misión.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#66", "es": "Lograr {F811}{2900} más de {F801}{F811}{2A00}{F811}{2B00}.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#67", "es": "No es necesario aceptar misiones por objetivos.{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#68", "es": "〉 Si aceptas esta misión, entrarás en combate. ¿Aceptas {F811}{2800}?{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#69", "es": "〉 ¿Aceptas los objetos?{F801}{FFFF}"}
+{"key": "event/quest/QuestSys.mbm#70", "es": "〉 Obtienes: {F872}{0100} x{F878}{0100}.{F801}{FFFF}"}

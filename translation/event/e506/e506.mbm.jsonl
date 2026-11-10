@@ -1,0 +1,8 @@
+{"key": "event/e506/e506.mbm#0", "es": "{F812}Hombre de Gea{0000}{F81B}{4930}{3234}{3031}{3000}{0000}{0000}Espera.{F801}{FFFF}"}
+{"key": "event/e506/e506.mbm#1", "es": "〉 Un seguidor de Gea te bloquea el paso.{F801}{FFFF}"}
+{"key": "event/e506/e506.mbm#2", "es": "{F812}Hombre de Gea{0000}No puedes pasar por aquí.{F801}{F802}La puerta está atascada. Pasará un tiempo antes de que la arreglen.{F801}{F802}Busca otra ruta.{F801}{FFFF}"}
+{"key": "event/e506/e506.mbm#3", "es": "〉 Decides irte.{F801}{FFFF}"}
+{"key": "event/e506/e506.mbm#10", "es": "{F812}Hombre de Gea{0000}{F81B}{4930}{3234}{3031}{3000}{0000}{0000}Espera.{F801}{F802}No puedes pasar por aquí.{F801}Vete de inmediato.{F801}{FFFF}"}
+{"key": "event/e506/e506.mbm#11", "es": "〉 Te mandan de regreso.{F801}{FFFF}"}
+{"key": "event/e506/e506.mbm#20", "es": "{F812}Flynn{0000}{F81B}{4531}{3433}{3030}{3500}{0000}{0000}Deberíamos irnos.{F801}{FFFF}"}
+{"key": "event/e506/e506.mbm#21", "es": "〉 Flynn se une al grupo.{F801}{FFFF}"}

@@ -35,6 +35,8 @@ from progress import EXCLUDED_KEYS, SECTIONS, excluded, section_of  # noqa: E402
 
 WORK = corpus.REPO / "build" / "work" / "batches"
 JAPANESE = re.compile("[぀-ヿ一-鿿]")
+# {F87A} lleva un parámetro (el retrato) que la exportación muestra como un carácter; no es japonés.
+PORTRAIT = re.compile(r"\{F87A\}.")
 CONTEXT = 3
 
 
@@ -69,7 +71,7 @@ def prepare(section=None, prefix=None, size=250, name=None, japanese=False, repe
         if prefix and not rel.startswith(prefix):
             continue
         en = eng[k]["en"]
-        if k in done or (en in done_en and not repeats) or en in seen or excluded(k, en) or (JAPANESE.search(en) and not japanese):
+        if k in done or (en in done_en and not repeats) or en in seen or excluded(k, en) or (JAPANESE.search(PORTRAIT.sub("", en)) and not japanese):
             continue
         seen.add(en)
         chosen.append(k)

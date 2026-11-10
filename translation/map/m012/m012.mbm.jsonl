@@ -1,1 +1,6 @@
+{"key": "map/m012/m012.mbm#1", "es": "{F812}Burroughs{0000}{F87A}{0200}{F813}{0000}{0000}{D9AC}{0700}Detecto un demonio muy peligroso cerca.{F801}Considera irte de aquí.{F801}{FFFF}"}
+{"key": "map/m012/m012.mbm#2", "es": "〉 ¿Te quedarás aquí?{F801}{FFFF}"}
+{"key": "map/m012/m012.mbm#3", "es": "〉 ¿De verdad te quedarás aquí?{F801}{FFFF}"}
 {"key": "map/m012/m012.mbm#4", "es": "Sí{F801}No{F801}{FFFF}"}
+{"key": "map/m012/m012.mbm#10", "es": "{F812}Cazador amistoso{0000}{F87A}{1D00}{F813}{0100}{0000}{3A26}{0600}Hola. Eres cazador, ¿verdad?{F801}{F802}Me alegra verte por aquí, porque ando buscando comida.{F801}{F802}A ver... ¿Tienes algo de{F801}{F804}{0500}{F872}{0100}?{F804}{0000}{F801}{F802}Ahora mismo pagaría el triple del precio de mercado por {F804}{0500}{F872}{0100}{F804}{0000}.{F801}{FFFF}"}
+{"key": "map/m012/m012.mbm#11", "es": "〉 ¿Entregar tu {F804}{0500}{F872}{0100}?{F804}{0000}{F801}{FFFF}"}

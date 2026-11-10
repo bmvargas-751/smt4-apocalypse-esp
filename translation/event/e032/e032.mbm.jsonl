@@ -1,1 +1,20 @@
+{"key": "event/e032/e032.mbm#0", "es": "〉 Te acercas a una enorme esfera de piedra.{F801}{FFFF}"}
+{"key": "event/e032/e032.mbm#1", "es": "{F812}Asahi{0000}{F87A}{AE00}{F81B}{4530}{3332}{3030}{3300}{0000}{0000}Esta debe ser el Arca, ¿verdad?{F801}{FFFF}"}
+{"key": "event/e032/e032.mbm#2", "es": "{F812}Odín{0000}{F87A}蕘{F81B}{4530}{3332}{3030}{3500}{0000}{0000}Lo has hecho bien al llegar hasta aquí y derrotar al guardián del Arca, humano.{F801}{FFFF}"}
+{"key": "event/e032/e032.mbm#3", "es": "〉 Odín aparece de pronto frente a ti.{F801}{F802}〉 Odín aplaude tus esfuerzos.{F801}{FFFF}"}
+{"key": "event/e032/e032.mbm#4", "es": "{F812}Odín{0000}{F87A}蕘{F81B}{4530}{3332}{3030}{3600}{0000}{0000}Bien hecho, vástago del señor Dagda. Ahora, rompe el sello.{F801}{FFFF}"}
+{"key": "event/e032/e032.mbm#5", "es": "{F812}Asahi{0000}{F87A}{AE00}{F81B}{4530}{3332}{3030}{3700}{0000}{0000}¿SEÑOR Dagda?{F801}{FFFF}"}
+{"key": "event/e032/e032.mbm#6", "es": "{F812}Odín{0000}{F87A}蕘{F81B}{4530}{3332}{3030}{3400}{0000}{0000}Para romper el sello, solo debes tocar la piedra.{F801}{F802}{F81B}{4530}{3332}{3030}{3800}{0000}{0000}Es decir, si de verdad piensas salvar Tokio.{F801}{F802}{F81B}{4530}{3332}{3030}{3900}{0000}{0000}Solo un humano puede romper el sello. Ahora... cumple tu misión.{F801}{FFFF}"}
+{"key": "event/e032/e032.mbm#7", "es": "{F812}Asahi{0000}{F87A}{AE00}{F81B}{4530}{3332}{3031}{3000}{0000}{0000}Empiezo a pensar que esto es mala idea, Nanashi...{F801}{FFFF}"}
+{"key": "event/e032/e032.mbm#8", "es": "{F812}Odín{0000}{F87A}蕘{F81B}{4530}{3332}{3031}{3100}{0000}{0000}Rápido. ¡Rompe el sello!{F801}{FFFF}"}
+{"key": "event/e032/e032.mbm#9", "es": "{F812}Asahi{0000}{F87A}{AE00}{F81B}{4530}{3332}{3031}{3200}{0000}{0000}¡Espera! ¡Pensemos bien esto!{F801}{FFFF}"}
+{"key": "event/e032/e032.mbm#10", "es": "{F812}Odín{0000}{F87A}蕘{F81B}{4530}{3332}{3031}{3300}{0000}{0000}¿Permitirás que todos tus esfuerzos sean en vano? ¡Destruye el sello!{F801}{FFFF}"}
+{"key": "event/e032/e032.mbm#11", "es": "〉 ¿Romperás el sello del Arca?{F801}{FFFF}"}
 {"key": "event/e032/e032.mbm#12", "es": "Sí{F801}No{F801}{FFFF}"}
+{"key": "event/e032/e032.mbm#13", "es": "〉 Posas la mano sobre la esfera.{F801}{FFFF}"}
+{"key": "event/e032/e032.mbm#14", "es": "{F812}Dagda{0000}{F87A}{AD00}{F81B}{4530}{3332}{3031}{3400}{0000}{0000}Vas a romper ese sello, de una forma o de otra. Aunque tenga que obligarte...{F801}{FFFF}"}
+{"key": "event/e032/e032.mbm#15", "es": "〉 Dagda toma el control de tu cuerpo y te obliga a extender la mano hacia la esfera.{F801}{FFFF}"}
+{"key": "event/e032/e032.mbm#16", "es": "〉 Una luz brillante, azul blanquecina, brota de la esfera y se extiende por el suelo.{F801}{F802}〉 El manto de luz se curva con voluntad propia y forma patrones entrecruzados.{F801}{FFFF}"}
+{"key": "event/e032/e032.mbm#17", "es": "{F812}Asahi{0000}{F87A}{AE00}{F81B}{4530}{3332}{3031}{3500}{0000}{0000}¿Qué...? ¿El Arca... es el suelo?{F801}{FFFF}"}
+{"key": "event/e032/e032.mbm#18", "es": "{F812}Odín{0000}{F87A}{B500}{F81B}{4530}{3332}{3031}{3600}{0000}{0000}Sí. Todo esto es parte del Arca.{F801}{FFFF}"}
+{"key": "event/e032/e032.mbm#19", "es": "〉 Sientes una presencia imponente que se agita bajo ti y reacciona a la luz.{F801}{F802}〉 La presencia se condensa dentro de la esfera.{F801}{FFFF}"}

@@ -87,7 +87,7 @@ Aquí no se agrega ninguna regla sin fuente.
 ## Trato
 
 - **E-30** *Tú* por defecto; *usted* solo si la ficha del personaje lo dice. El trato depende de con quién habla, y se mantiene igual entre dos personajes durante todo el juego. [THL]
-- **E-31** Registro de época (dioses y demonios que hablan a la antigua): pendiente de decidir ([PENDING.md](PENDING.md)). Mientras tanto, nunca *vosotros* (E-11). [PLAN]
+- **E-31** Registro de época (dioses y demonios que hablan a la antigua, *ye*, *shall*, *I know not*): solemne pero moderno. Vocabulario elevado y sintaxis cuidada («Nada sé de lo que dices», «Desconozco…»), siempre con tú/usted/ustedes: nunca *vos* ni *vosotros* (E-11), ni «os», «vuestro», «habéis». Cuánto se marca depende de la ficha de cada personaje. [DECISIONS 2026-11-09]
 
 ## Género
 

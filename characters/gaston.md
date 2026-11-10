@@ -1,0 +1,21 @@
+# Gaston
+
+- **Género:** masculino. *Yea, he's definitely Navarre's brother.* (Hallelujah, event/e056/e056.mbm#30); Navarre lo llama *my dear little brother* (e056#3); el narrador, *Gaston holds up the Spear of Michael and shows it off* y *The man gusts an exaggerated sigh* (e056#2, #28).
+- **Trato (propuesta, falta la aprobación del usuario; E-30):**
+  - **Tú** con todos, desde arriba: se cree superior a los de Tokio y les habla con desprecio (*To whom do you think you're speaking, child?*, e056#20; *You, puny Hunter.*, e056#37). Su inglés es formal, pero es la formalidad del que da órdenes, no cortesía: no pide usted ni lo da.
+  - Exige que lo llamen *Sir Gaston* y lo repite, con *SIR* en mayúsculas (e056#20; event/e084/e084.mbm#8; event/e087/e087.mbm#19; event/e096/e096.mbm#46). Cómo se traduce *Sir* (o si se deja) lo decide el glosario; el tic tiene que mantenerse.
+  - A sus superiores los nombra con *Lord* (*Lord Merkabah*, e056#10, #12, #27). Si alguna línea suya se dirige a ellos, el trato queda pendiente.
+  - Los demás le hablan de **tú** (Asahi le dice *Sir Gaston* con sorna, e056#22; Hallelujah, *Shut up, Gaston.*, e087#18).
+  - Nanashi (masculino según el juego): no le dice el nombre; lo trata de *puny Hunter* (e056#37) o le da órdenes directas (*Rouse yourself, already.*, ones_room/onesRoom.mbm#13).
+  - Antes de presentarse aparece con la etiqueta *Young man* (event/e056/e056.mbm#1, #6).
+- **Registro:** formal, altivo y teatral, de caballero que se admira a sí mismo. Pocas contracciones en los momentos solemnes, vocabulario elevado y algo anticuado (*shall*, *It matters not*, *need do*, *Nary a chance!*, *Confound it!*, *Rouse yourself*, *in the meanwhile*, *unseemly*, *slipshod*). Discursos con frases de proclama (*The time for action has come!*, e056#12). Cuando lo provocan, insulta con groserías.
+- **Muletillas y tics:**
+  - *Hmph* para empezar o cerrar (TalkSystem#20; onesRoom#12; e087#29; muchas en battle/PartnerAttack.mbm).
+  - Se presenta y se nombra con su epíteto: *Gaston the Magnificent* (e056#16); *my magnificence* (e056#29; battle/event/BtlEvent010/BtlEvent010.mbm#105). *Magnificent* es su palabra: tiene que repetirse igual cada vez.
+  - Superlativos en cadena: *the most elite of the elite of the elite!* (e056#18).
+  - Risas y gritos de combate: *Hah!*, *Hahaha!*, *Hiyah!* (e084#4), *Toh!* (PartnerAttack#183), *Nrgh!*.
+  - *Indeed.* (e056#10), *Absolutely.*, *Without a doubt.*
+  - *You would do well to...* / *You'd do well not to...* (e096#44; BtlEvent041#105).
+- **Groserías:** moderadas, en su registro de soberbia: *You've made a damned fool of me!* (event/e057/e057.mbm#4), *You're a pimple on his ass* (e057#8), *Damn it!* (event/e063/e063.mbm#4). Insultos de superioridad: *child*, *puny Hunter*, *parasite* (e057#10), *Pathetic* (event/e066/e066.mbm#7), *Simply hideous* (event/e060/e060.mbm#4). *Confound it!* (e066#9) es un juramento anticuado y suave. Igualar la intensidad (E-22).
+- **Ejemplos:** event/e056/e056.mbm#16-20 (presentación y *Sir*), event/e057/e057.mbm#8-10 (insultos), event/e096/e096.mbm#46 (vuelve a exigir *SIR*), ones_room/onesRoom.mbm#12-13 (vocabulario anticuado).
+- **Fuente:** todas sus líneas con etiqueta `Gaston` (76): addon/testdata/content23/evt/e241.mbm#103-148; battle/event/BtlEvent010, 022, 041, 044, 061; battle/talk/TalkSystem.mbm#20; event/e056-e096, e648; ones_room/onesRoom.mbm#12-13. Contexto leído completo: event/e056, e059, e060 (#0-49), e072 (#0-14). Sin etiqueta, por el contenido: event/PartnerTopic/PartnerTopic.mbm#46, 54, 59, 70 y battle/PartnerAttack.mbm#176-215 (*Hmph... You soiled my spear.*). Atribución por contenido; PartnerAttack#159-175 no se usó porque no queda claro de quién es.
