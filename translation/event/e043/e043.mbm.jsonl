@@ -1,1 +1,14 @@
+{"key": "event/e043/e043.mbm#0", "es": "〉 El Bosque de las Hadas parece haber sido atacado.{F801}{F802}〉 El brillo del bosque se ha ido, reemplazado por los restos calcinados de la devastación.{F801}{FFFF}"}
+{"key": "event/e043/e043.mbm#1", "es": "{F812}Asahi{0000}{F87A}{AE00}{F87B}{AE00}{0A00}{0100}{0100}{F81B}{4530}{3433}{3030}{3100}{0000}{0000}Esto no puede estar pasando...{F801}¿Por qué alguien haría algo así?{F801}{F802}{F87B}{AE00}{0700}{0100}{0100}{F81B}{4530}{3433}{3030}{3200}{0000}{0000}¡Mira, ahí está Nozomi!{F801}{FFFF}"}
+{"key": "event/e043/e043.mbm#2", "es": "〉 Asahi corre hacia Nozomi.{F801}{FFFF}"}
+{"key": "event/e043/e043.mbm#3", "es": "{F812}Asahi{0000}{F87A}{AE00}{F81B}{4530}{3433}{3030}{3300}{0000}{0000}¡Nozomi! ¿Estás bien?{F801}{FFFF}"}
+{"key": "event/e043/e043.mbm#4", "es": "{F812}Nozomi{0000}{F87A}{6101}{F81B}{4530}{3433}{3030}{3400}{0000}{0000}Estoy bi... No estoy herida.{F801}{FFFF}"}
+{"key": "event/e043/e043.mbm#5", "es": "〉 Nozomi está pálida por la impresión, aturdida.{F801}{FFFF}"}
+{"key": "event/e043/e043.mbm#6", "es": "{F812}Asahi{0000}{F87A}{AE00}{F81B}{4530}{3433}{3030}{3500}{0000}{0000}¿Qué pasó aquí?{F801}{FFFF}"}
+{"key": "event/e043/e043.mbm#7", "es": "{F812}Nozomi{0000}{F87A}{6101}{F81B}{4530}{3433}{3030}{3600}{0000}{0000}Ni idea. Salí a sacar unas fotos. Cuando volví, me encontré con esto...{F801}{F802}{F81B}{4530}{3433}{3030}{3700}{0000}{0000}¿Les... fallé a las hadas?{F801}{FFFF}"}
+{"key": "event/e043/e043.mbm#8", "es": "{F812}Dagda{0000}{F87A}{AD00}{F81B}{4530}{3433}{3030}{3800}{0000}{0000}Esto huele a obra de los Poderes Divinos. Seguro interceptaron el encargo para los cazadores.{F801}{F802}{F81B}{4530}{3433}{3030}{3900}{0000}{0000}Sin duda querían evitar que manos humanas se hicieran con Ame-no-habakiri.{F801}{FFFF}"}
+{"key": "event/e043/e043.mbm#9", "es": "{F812}Nozomi{0000}{F87A}{6101}{F87B}{B000}{0300}{0100}{0100}{F81B}{4530}{3433}{3031}{3000}{0000}{0000}¿Ame-no-habakiri? Aquí le dicen Excalibur. Los Poderes deben de andar tras la espada.{F801}{FFFF}"}
+{"key": "event/e043/e043.mbm#10", "es": "〉 Nozomi respira hondo para calmarse.{F801}{FFFF}"}
+{"key": "event/e043/e043.mbm#11", "es": "{F812}Nozomi{0000}{F87A}{6101}{F87B}{B000}{1000}{0100}{0100}{F81B}{4530}{3433}{3031}{3100}{0000}{0000}No hay tiempo para descansar, Nozomi. Eres la reina de las hadas.{F801}{FFFF}"}
+{"key": "event/e043/e043.mbm#12", "es": "{F812}Nozomi{0000}{F87A}{B000}{F81B}{4530}{3433}{3031}{3200}{0000}{0000}Voy con ustedes.{F801}{FFFF}"}
 {"key": "event/e043/e043.mbm#13", "es": "〉 Nozomi se une a tu grupo.{F801}{FFFF}"}
