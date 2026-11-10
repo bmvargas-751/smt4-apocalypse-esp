@@ -1,0 +1,19 @@
+{"key": "event/e068/e068.mbm#0", "es": "{F812}Asahi{0000}{F87A}{AE00}{F81B}{4530}{3638}{3030}{3100}{0000}{0000}Okey, no poder invocar demonios es un fastidio.{F801}{FFFF}"}
+{"key": "event/e068/e068.mbm#1", "es": "{F812}Hombre que lloraba{0000}{F87A}{4F00}{F81B}{4530}{3638}{3030}{3200}{0000}{0000}Gracias. Por salvarme.{F801}{F802}{F81B}{4530}{3638}{3030}{3300}{0000}{0000}Pero hay muchos más abajo, en el distrito subterráneo.{F801}{FFFF}"}
+{"key": "event/e068/e068.mbm#2", "es": "{F812}Hallelujah{0000}{F87A}{B200}{F81B}{4530}{3638}{3030}{3400}{0000}{0000}Oigan, ¿cuál es el plan? No podemos con esto sin nuestros demonios.{F801}{FFFF}"}
+{"key": "event/e068/e068.mbm#3", "es": "{F812}Voz de chica{0000}{F81B}{4530}{3638}{3030}{3562}{0000}{0000}¿Están bien?{F801}{FFFF}"}
+{"key": "event/e068/e068.mbm#4", "es": "〉 Isabeau llega con un grupo de cazadores.{F801}{FFFF}"}
+{"key": "event/e068/e068.mbm#5", "es": "{F812}Asahi{0000}{F87A}{AE00}{F81B}{4530}{3638}{3030}{3600}{0000}{0000}¡Señorita Isabeau! ¿Viene a ayudar?{F801}{FFFF}"}
+{"key": "event/e068/e068.mbm#6", "es": "{F812}Isabeau{0000}{F87A}{0500}{F87B}{0500}{0E00}{0100}{0100}{F81B}{4530}{3638}{3030}{3700}{0000}{0000}Por supuesto. Jamás podría quedarme de brazos cruzados mientras atacan a inocentes ante mis propios ojos.{F801}{F802}{F87B}{0500}{1000}{0100}{0100}{F81B}{4530}{3638}{3030}{3800}{0000}{0000}Sin embargo, hay algo que deben saber.{F801}{FFFF}"}
+{"key": "event/e068/e068.mbm#7", "es": "{F812}Nozomi{0000}{F87A}{B000}{F81B}{4530}{3638}{3030}{3900}{0000}{0000}¿Qué cosa?{F801}{FFFF}"}
+{"key": "event/e068/e068.mbm#8", "es": "{F812}Isabeau{0000}{F87A}{0500}{F81B}{4530}{3638}{3031}{3000}{0000}{0000}Los demonios se han infiltrado en el distrito subterráneo de Kinshicho.{F801}{FFFF}"}
+{"key": "event/e068/e068.mbm#9", "es": "{F812}Hallelujah{0000}{F87A}{B200}{F81B}{4530}{3638}{3031}{3100}{0000}{0000}¿Kinshicho? Espera, ¿no es de donde eres?{F801}{FFFF}"}
+{"key": "event/e068/e068.mbm#10", "es": "{F812}Isabeau{0000}{F87A}{0500}{F81B}{4530}{3638}{3031}{3200}{0000}{0000}Tu padre está en Kinshicho, ¿verdad?{F801}Deberías ir cuanto antes.{F801}{FFFF}"}
+{"key": "event/e068/e068.mbm#11", "es": "{F812}Asahi{0000}{F87A}{AE00}{F81B}{4530}{3638}{3031}{3300}{0000}{0000}Pero... ¿Y Shinjuku?{F801}{FFFF}"}
+{"key": "event/e068/e068.mbm#12", "es": "{F812}Isabeau{0000}{F87A}{0500}{F81B}{4530}{3638}{3031}{3400}{0000}{0000}Sigo siendo samurái. Me las arreglaré... incluso sin mis demonios.{F801}{FFFF}"}
+{"key": "event/e068/e068.mbm#13", "es": "{F812}Nozomi{0000}{F87A}{B000}{F81B}{4530}{3638}{3031}{3500}{0000}{0000}Seguro que Isabeau puede con esto.{F801}Tenemos que llegar a Kinshicho.{F801}{FFFF}"}
+{"key": "event/e068/e068.mbm#14", "es": "{F812}Hallelujah{0000}{F87A}{B200}{F81B}{4530}{3638}{3031}{3600}{0000}{0000}Sí, seguro que te preocupa tu familia.{F801}{FFFF}"}
+{"key": "event/e068/e068.mbm#15", "es": "{F812}Asahi{0000}{F87A}{AE00}{F81B}{4530}{3638}{3031}{3700}{0000}{0000}Ay, papá va a estar bien. Ni la muerte podría matarlo.{F801}{FFFF}"}
+{"key": "event/e068/e068.mbm#16", "es": "{F812}Isabeau{0000}{F87A}{0500}{F87B}{0500}{0100}{0100}{0100}{F81B}{4530}{3638}{3031}{3800}{0000}{0000}¡Déjennos Shinjuku a nosotros!{F801}{F802}{F87B}{0500}{0D00}{0100}{0100}{F81B}{4530}{3638}{3031}{3900}{0000}{0000}¡Ahora, apresúrense!{F801}{FFFF}"}
+{"key": "event/e068/e068.mbm#17", "es": "〉 Isabeau lleva a los cazadores a Shinjuku.{F801}{FFFF}"}
+{"key": "event/e068/e068.mbm#18", "es": "{F812}Asahi{0000}{F87A}{AE00}{F81B}{4530}{3638}{3032}{3000}{0000}{0000}Isabeau es lo más genial... Tiene razón.{F801}Tenemos que proteger Kinshicho.{F801}{F802}{F81B}{4530}{3638}{3032}{3100}{0000}{0000}Mejor nos vamos.{F801}{FFFF}"}
