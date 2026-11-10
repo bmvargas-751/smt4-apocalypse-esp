@@ -747,6 +747,8 @@ SMT V los nombra en sus perfiles con el mismo sentido (la misma figura, lugar, g
 | Sneak Attack | Ataque sigiloso | Decidido 2026-11-09 (G-2) | Como el título *Sneak Attacker* → «Atacante sigiloso». |
 | Hunter Database | Base de datos de cazadores | Decidido 2026-11-09 (G-2) | |
 | Shogunate | shogunato | Decidido 2026-11-09 (G-2) | *el shogunato*. |
+| female demon | demonio femenino | Decidido 2026-11-09 (G-2) | Solo cuando el inglés lo especifica. *demon* a secas es «el demonio» aunque sea mujer (*A demon… She…* → «Un demonio…»). Nunca «demonia» ni «la demonio». |
+| demoness | (según la línea) | Decidido 2026-11-09 (G-2) | No es solo *female demon*: pasa por delicadas en cada caso. Nunca «demonia» ni «la demonio». Ejemplos: las Shikome → «mujeres demonio» (#454); *the demoness Lilith* → «Lilit, el demonio femenino que…» (#471). |
 
 *Lost* → «Perdido» y *Brand* → «Marca» (provisional) también están decididos, pero no van en la tabla: con mayúscula, *Lost* también abre frases (*Lost {cantidad} Macca.*, battle/ResultMsg.mbm#16) y *Brand* se comprueba en el juego.
 

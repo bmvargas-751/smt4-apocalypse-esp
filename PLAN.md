@@ -74,7 +74,7 @@ Datos e interfaz primero; después la historia en orden, las secundarias y las n
 
 - [x] 6.1 Interfaz (2026-11-08)
 - [x] 6.2 Tablas (2026-11-09)
-- [ ] 6.3 Datos
+- [x] 6.3 Datos
 - [ ] 6.4 Historia
 - [ ] 6.5 Secundarias
 - [ ] 6.6 Negociaciones
