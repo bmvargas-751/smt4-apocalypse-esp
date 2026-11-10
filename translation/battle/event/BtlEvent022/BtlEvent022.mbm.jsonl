@@ -1,0 +1,24 @@
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#0", "es": "{F812}Navarre{0000}{F87A}{AF00}{F81B}{4232}{3430}{3030}{3100}{0000}{0000}¡¿Ese es Shesha?! ¡Se ve completamente distinto!{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#1", "es": "{F812}Shesha{0000}{F87A}{C5FC}{F81B}{4232}{3430}{3030}{3200}{0000}{0000}Ggh... Los recuerdo... ¡Ustedes... son los que... me mataron!{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#2", "es": "{F812}Hallelujah{0000}{F87A}{B200}{F81B}{4232}{3430}{3030}{3300}{0000}{0000}¡Habló! ¿Ha estado... aprendiendo?{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#3", "es": "{F812}Gaston{0000}{F87A}{B100}{F81B}{4232}{3430}{3030}{3400}{0000}{0000}No importa. Debemos derrotarlo.{F801}¡No tropezaré por segunda vez!{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#100", "es": "〉 Shesha cruza los brazos sobre el pecho para tratar de recuperarse...{F801}¿Qué harás?{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#101", "es": "Pedir apoyo a tu acompañante{F801}Dejar que tu acompañante se encargue{F801}Defender y ver qué pasa{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#102", "es": "〉 Pides el apoyo de tu acompañante mientras atacas.{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#103", "es": "〉 {F87E} te ayuda durante el ataque.{F801}{F802}〉 Tu poder de ataque aumenta.{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#104", "es": "〉 Atacas a Shesha con tu arma equipada.{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#105", "es": "{F812}Shesha{0000}{F87A}{C5FC}{F81B}{4232}{3430}{3030}{3700}{0000}{0000}Ggh... Es inútil. Me curaré... tantas veces como sea necesario...{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#106", "es": "〉 El ataque no hace nada.{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#107", "es": "〉 Atacas a Shesha con {F872}{0100}.{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#108", "es": "{F812}Shesha{0000}{F87A}{C5FC}{F81B}{4232}{3430}{3031}{3000}{0000}{0000}Ggh... ¡Cómo te atreves... a interrumpir mi recuperación!{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#109", "es": "〉 El golpe impide que Shesha ataque.{F801}{F802}〉 Tu buen criterio profundiza la confianza de {F87E} y los demás en ti.{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#110", "es": "〉 El indicador de apoyo aumenta.{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#111", "es": "〉 Le pides a tu acompañante que ataque a Shesha.{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#112", "es": "{F812}Shesha{0000}{F87A}{C5FC}{F81B}{4232}{3430}{3031}{3100}{0000}{0000}Ggh... Es inútil. Me curaré... tantas veces como sea necesario...{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#113", "es": "〉 El ataque de tu acompañante no hace nada.{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#114", "es": "〉 Le dices a tu acompañante que se defienda y espere a ver qué pasa.{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#115", "es": "{F812}Shesha{0000}{F87A}{C5FC}{F81B}{4232}{3430}{3031}{3200}{0000}{0000}Ggh... ¿Qué haces? Me curaré ahora...{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#116", "es": "〉 Shesha cruza los brazos sobre el pecho y recupera salud.{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#117", "es": "〉 Gaston ataca a Shesha con la Lanza de Miguel.{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#118", "es": "〉 Las armas normales no parecen ser efectivas.{F801}{FFFF}"}
+{"key": "battle/event/BtlEvent022/BtlEvent022.mbm#119", "es": "〉 El golpe de la lanza de Gaston impide que Shesha ataque.{F801}{F802}〉 Tu buen criterio profundiza la confianza de {F87E} y los demás en ti.{F801}{FFFF}"}
