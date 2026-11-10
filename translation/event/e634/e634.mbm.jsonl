@@ -1,1 +1,62 @@
 {"key": "event/e634/e634.mbm#0", "es": "〉 No hay nadie aquí.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#1", "es": "{F812}Hombre del Ashura-kai{0000}{F87A}{2F00}{F81B}{4536}{3334}{3030}{3100}{0000}{0000}Oye, entréganoslo. No queremos buscar pelea.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#2", "es": "{F812}Hombre del Ashura-kai{0000}{F87A}{8A00}{F81B}{4536}{3334}{3030}{3200}{0000}{0000}Sí, somos los buenos. ¿No crees que lo mejor es dárnoslo?{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#3", "es": "〉 El Ashura-kai está intimidando a un hombre y a un niño.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#4", "es": "{F812}Hombre delgado{0000}{F87A}{3C00}{F81B}{4536}{3334}{3030}{3300}{0000}{0000}¿De verdad me dejarás en paz después de esto?{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#5", "es": "{F812}Hombre del Ashura-kai{0000}{F87A}{8A00}{F81B}{4536}{3334}{3030}{3400}{0000}{0000}Oh, por supuesto.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#6", "es": "{F812}Niño{0000}{F87A}{3700}{F81B}{4536}{3334}{3030}{3500}{0000}{0000}¡Mentirosos! ¡Dijeron eso la última vez y se llevaron nuestra comida!{F801}{F802}{F81B}{4536}{3334}{3030}{3600}{0000}{0000}¡No se lo dé, señor!{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#7", "es": "{F812}Hombre del Ashura-kai{0000}{F87A}{2F00}{F81B}{4536}{3334}{3030}{3700}{0000}{0000}¡Cállate, niño!{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#8", "es": "〉 Parece que el niño podría estar en problemas. ¿Qué harás?{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#9", "es": "〉 Te interpones entre el niño y el Ashura-kai.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#10", "es": "{F812}Niño{0000}{F87A}{3700}{F81B}{4536}{3334}{3030}{3800}{0000}{0000}¡Oh...! Gracias, señor.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#11", "es": "{F812}Hombre del Ashura-kai{0000}{F87A}{2F00}{F81B}{4536}{3334}{3030}{3900}{0000}{0000}¿Quién demonios te crees que eres?{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#12", "es": "{F812}Hallelujah{0000}{F87A}{B200}{F81B}{4536}{3334}{3031}{3000}{0000}{0000}¿Qué demonios está haciendo Abe?{F801}Dejando sueltos a estos lunáticos.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#13", "es": "{F812}Hallelujah{0000}{F87A}{B200}{F81B}{4536}{3334}{3031}{3100}{0000}{0000}Abe normalmente no dejaría pasar esto...{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#14", "es": "〉 Entra un hombre de mirada penetrante.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#15", "es": "{F812}Hombre de mirada penetrante{0000}{F87A}{4D01}{F81B}{4536}{3334}{3031}{3200}{0000}{0000}...{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#16", "es": "{F812}Niño{0000}{F87A}{3700}{F81B}{4536}{3334}{3031}{3300}{0000}{0000}¡Oh! ¡Ken!{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#17", "es": "{F812}Ken{0000}{F87A}{4D01}{F81B}{4536}{3334}{3031}{3400}{0000}{0000}Retrocedan, cazadores. Este es un problema del Ashura-kai.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#18", "es": "{F812}Ken{0000}{F87A}{4D01}{F81B}{4536}{3334}{3031}{3500}{0000}{0000}Tú también, Hallelujah. Esta zona es problema mío.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#19", "es": "{F812}Hallelujah{0000}{F87A}{B200}{F81B}{4536}{3334}{3031}{3600}{0000}{0000}Sí... Lo sé.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#20", "es": "{F812}Ken{0000}{F87A}{4D01}{F81B}{4536}{3334}{3031}{3700}{0000}{0000}Perdón, jefe. ¿Podrías dejármelo a mí?{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#21", "es": "{F812}Hallelujah{0000}{F87A}{B200}{F81B}{4536}{3334}{3031}{3800}{0000}{0000}Sí. Cuento contigo.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#22", "es": "〉 Ken interviene para proteger al hombre y al niño.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#23", "es": "{F812}Ken{0000}{F87A}{4D01}{F81B}{4536}{3334}{3031}{3900}{0000}{0000}...{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#24", "es": "{F812}Hombre del Ashura-kai{0000}{F87A}{2F00}{F81B}{4536}{3334}{3032}{3000}{0000}{0000}No nos mires así, Ken.{F801}Estábamos, eh...{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#25", "es": "{F812}Hombre del Ashura-kai{0000}{F87A}{8A00}{F81B}{4536}{3334}{3032}{3100}{0000}{0000}No está de más engordar un poco la cartera, ¿no?{F801}{F802}{F81B}{4536}{3334}{3032}{3200}{0000}{0000}La gente ya está juntando montones de suministros.{F801}{F802}{F81B}{4536}{3334}{3032}{3300}{0000}{0000}No es para tanto quedarse con una parte, ¿o sí?{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#26", "es": "{F812}Ken{0000}{F87A}{4D01}{F81B}{4536}{3334}{3032}{3400}{0000}{0000}¿Cuántas veces tengo que decirles que dejen fuera de esto a la gente honrada?{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#27", "es": "{F812}Hombre del Ashura-kai{0000}{F87A}{8A00}{F81B}{4536}{3334}{3032}{3500}{0000}{0000}Pero mira cuánto tienen...{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#28", "es": "{F812}Ken{0000}{F87A}{4D01}{F81B}{4536}{3334}{3032}{3600}{0000}{0000}El trato es que nos ocupamos de Ikebukuro.{F801}{F802}{F81B}{4536}{3334}{3032}{3700}{0000}{0000}Si arruinan el trato, me dejan mal.{F801}{F802}{F81B}{4536}{3334}{3032}{3800}{0000}{0000}Usen la cabeza por una vez.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#29", "es": "{F812}Hombre del Ashura-kai{0000}{F87A}{2F00}{F81B}{4536}{3334}{3032}{3900}{0000}{0000}¡Deja de lloriquear de una vez!{F801}{F802}{F81B}{4536}{3334}{3033}{3000}{0000}{0000}¿Qué tiene de malo llevarse unas cuantas cosas? ¿Eh? ¡Nada!{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#30", "es": "{F812}Ken{0000}{F87A}{4D01}{F81B}{4536}{3334}{3033}{3100}{0000}{0000}¿Con quién demonios crees que estás hablando?{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#31", "es": "〉 Ken golpea a los hombres a puño limpio.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#32", "es": "{F812}Hombre del Ashura-kai{0000}{F87A}{8A00}{F81B}{4536}{3334}{3033}{3200}{0000}{0000}¡Maldición!{F801}{F802}{F81B}{4536}{3334}{3033}{3300}{0000}{0000}¡Quítate de nuestro camino, niño!{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#33", "es": "〉 Los hombres se lanzan hacia ti, buscando una forma de escapar.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#34", "es": "{F812}Hombre del Ashura-kai{0000}{F87A}{8A00}{F81B}{4536}{3334}{3033}{3400}{0000}{0000}¡Maldición! ¡Maldición, maldición, maldición!{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#35", "es": "{F812}Ken{0000}{F87A}{4D01}{F81B}{4536}{3334}{3033}{3500}{0000}{0000}Patéticos. Y todavía se hacen llamar Ashura-kai.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#36", "es": "{F812}Hombre del Ashura-kai{0000}{F87A}{8A00}{F81B}{4536}{3334}{3033}{3600}{0000}{0000}Guh... Grrgh...{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#37", "es": "{F812}Ken{0000}{F87A}{4D01}{F81B}{4536}{3334}{3033}{3700}{0000}{0000}¿Tienes algo que decirme?{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#38", "es": "{F812}Hombre del Ashura-kai{0000}{F87A}{8A00}{F81B}{4536}{3334}{3033}{3800}{0000}{0000}¡Cállate! ¡Solo cállate!{F801}{F802}{F81B}{4536}{3334}{3033}{3900}{0000}{0000}¡Solo tomamos lo que pudimos!{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#39", "es": "{F812}Ken{0000}{F87A}{4D01}{F81B}{4536}{3334}{3034}{3000}{0000}{0000}...{F801}{F802}{F81B}{4536}{3334}{3034}{3100}{0000}{0000}Cállate.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#40", "es": "〉 Ken sujeta a los hombres que lloriquean y los silencia.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#41", "es": "{F812}Ken{0000}{F87A}{4D01}{F81B}{4536}{3334}{3034}{3200}{0000}{0000}Ellos se apuntaron a este trabajo.{F801}¿Por qué creyeron que podían salirse con la suya con la extorsión?{F801}{F802}{F81B}{4536}{3334}{3034}{3300}{0000}{0000}...{F801}{F802}{F81B}{4536}{3334}{3034}{3400}{0000}{0000}Me disculpo por mis hombres.{F801}{F802}{F81B}{4536}{3334}{3034}{3500}{0000}{0000}¿Y qué hacen ustedes aquí, cazadores, de todos modos?{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#42", "es": "{F812}Niño{0000}{F87A}{3700}{F81B}{4536}{3334}{3034}{3600}{0000}{0000}Yo les pedí que vinieran.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#43", "es": "{F812}Ken{0000}{F87A}{4D01}{F81B}{4536}{3334}{3034}{3700}{0000}{0000}¿Qué?{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#44", "es": "{F812}Niño{0000}{F87A}{3700}{F81B}{4536}{3334}{3034}{3800}{0000}{0000}Hice un encargo para ocuparse de esos tipos del Ashura-kai.{F801}{F802}{F81B}{4536}{3334}{3034}{3900}{0000}{0000}Si tipos así simplemente desaparecieran, tu trabajo sería más fácil, ¿no?{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#45", "es": "{F812}Ken{0000}{F87A}{4D01}{F81B}{4536}{3334}{3035}{3000}{0000}{0000}¡No necesito ayuda!{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#46", "es": "{F812}Niño{0000}{F87A}{3700}{F81B}{4536}{3334}{3035}{3100}{0000}{0000}¡¿?!{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#47", "es": "{F812}Ken{0000}{F87A}{4D01}{F81B}{4536}{3334}{3035}{3200}{0000}{0000}Sé que no son buenos.{F801}{F802}{F81B}{4536}{3334}{3035}{3300}{0000}{0000}Pero ahora yo no soy distinto...{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#48", "es": "{F812}Niño{0000}{F87A}{3700}{F81B}{4536}{3334}{3035}{3400}{0000}{0000}...{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#49", "es": "{F812}Ken{0000}{F87A}{4D01}{F81B}{4536}{3334}{3035}{3500}{0000}{0000}Si das por perdido a alguien así, nunca le das la oportunidad de demostrar lo contrario.{F801}{F802}{F81B}{4536}{3334}{3035}{3600}{0000}{0000}Yo me encargaré. Es mi trabajo.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#50", "es": "{F812}Niño{0000}{F87A}{3700}{F81B}{4536}{3334}{3035}{3700}{0000}{0000}Ken...{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#51", "es": "{F812}Ken{0000}{F87A}{4D01}{F81B}{4536}{3334}{3035}{3800}{0000}{0000}Así son las cosas.{F801}{F802}{F81B}{4536}{3334}{3035}{3900}{0000}{0000}Manténganse fuera de Ikebukuro.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#52", "es": "〉 Ken carga a los hombres del Ashura-kai sobre los hombros y se aleja.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#53", "es": "{F812}Niño{0000}{F87A}{3700}{F81B}{4536}{3334}{3036}{3000}{0000}{0000}Ken siempre parece estar muy ocupado.{F801}Pensé que podría necesitar ayuda.{F801}{F802}{F81B}{4536}{3334}{3036}{3100}{0000}{0000}Lo siento, señor cazador.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#55", "es": "{F812}Niño{0000}{F87A}{3700}{F81B}{4536}{3334}{3036}{3200}{0000}{0000}Sé que si trabajara con usted, las cosas serían más fáciles...{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#56", "es": "{F812}Niño{0000}{F87A}{3700}{F81B}{4536}{3334}{3036}{3300}{0000}{0000}Eso espero. ¡Gracias, señor cazador!{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#57", "es": "{F812}Niño{0000}{F87A}{3700}{F81B}{4536}{3334}{3036}{3400}{0000}{0000}Usted es igual que Ken.{F801}{F802}{F81B}{4536}{3334}{3036}{3500}{0000}{0000}Quizás algún día se lleven bien, ya que son tan parecidos.{F801}{F802}{F81B}{4536}{3334}{3036}{3600}{0000}{0000}De verdad lo espero.{F801}¡Gracias, señor cazador!{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#58", "es": "{F812}Hallelujah{0000}{F87A}{B200}{F81B}{4536}{3334}{3036}{3700}{0000}{0000}...{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#59", "es": "{F812}Hallelujah{0000}{F87A}{B200}{F81B}{4536}{3334}{3036}{3800}{0000}{0000}...{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#60", "es": "{F812}Nozomi{0000}{F87A}{B000}{F81B}{4536}{3334}{3036}{3900}{0000}{0000}¿Preocupado, señor nuevo jefe?{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#61", "es": "{F812}Hallelujah{0000}{F87A}{B200}{F81B}{4536}{3334}{3037}{3000}{0000}{0000}No. Se lo dejo a Ken.{F801}Se las arreglará de alguna forma.{F801}{FFFF}"}
+{"key": "event/e634/e634.mbm#62", "es": "〉 El niño ríe y se aleja.{F801}{FFFF}"}
