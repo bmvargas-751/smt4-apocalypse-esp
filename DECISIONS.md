@@ -42,3 +42,5 @@ Las decisiones del usuario, con fecha. Una regla nueva de [STYLE.md](STYLE.md), 
 - **2026-11-09** Género que el inglés no marca (personajes y etiquetas genéricas): el traductor redacta sin marcarlo cuando se puede; si la línea lo exige, va a delicadas y a PENDING.
 - **2026-11-09** Fuera de la cuenta: los scripts de prueba de los desarrolladores en map/m024 y map/m044-m047 (#0-6, en japonés, «評価ROM») y el «TEST» de map/m009#0.
 - **2026-11-09** Las 355 líneas en japonés de la Historia siguen T-6; las dos escenas que el PLAN manda traducir desde el japonés van en el último lote de la Historia.
+- **2026-11-10** Glosario de Secundarias aprobado en bloque (GLOSSARY «### Secundarias»). Los términos del glosario van sin artículo («región costera», «lista de misiones»). *Bartender* se deja en inglés («Bartender», «Nuevo bartender»; «el bartender» a media frase). *Ring of Gaea member* → «Miembro de Gea» (como la tabla ya traducida). *Armageddon* → «Armagedón» (excepción a G-1). *Bay Area* → «región costera».
+- **2026-11-10** Fuera de la cuenta: 70 plantillas y rellenos de Secundarias (event/quest/quest101-157 #1, quest351-356 #0-1, SubQuestGuest#0, qc_talkMaster#0).

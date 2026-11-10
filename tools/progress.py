@@ -47,6 +47,11 @@ EXCLUDED_KEYS |= {"battle/SkillHelpMess.mbm#207", "battle/SkillHelpMess.mbm#251"
 EXCLUDED_KEYS |= {f"status/profile.mbm#{n}" for n in (6, 44, 445, 497, 642, 661, 663)}
 # Historia (DECISIONS 2026-11-09): scripts de prueba de los desarrolladores y «TEST».
 EXCLUDED_KEYS |= {f"map/{m}/{m}.mbm#{n}" for m in ("m024", "m044", "m045", "m046", "m047") for n in range(7)} | {"map/m009/m009.mbm#0"}
+# Secundarias (DECISIONS 2026-11-10): plantillas y relleno de los desarrolladores («Delivery quest description
+# template...», «Download quest 1st 2nd time», «dummy information text», «Dummy», «Asahi's dad dialogue sample»).
+EXCLUDED_KEYS |= {f"event/quest/quest{n}.mbm#1" for n in (101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 351, 352, 353, 354, 355, 356)}
+EXCLUDED_KEYS |= {f"event/quest/quest{n}.mbm#0" for n in (351, 352, 353, 354, 355, 356)}
+EXCLUDED_KEYS |= {"event/quest/SubQuestGuest.mbm#0", "quest_center/talkMaster/qc_talkMaster.mbm#0"}
 CODE = re.compile(r"\{[0-9A-F]{4}\}")
 
 
