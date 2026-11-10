@@ -12,12 +12,12 @@ La traducción es la fase 6 del [plan](../PLAN.md) y se hace por secciones, en e
 | 6.1 | Interfaz | Menús, sistema, combate, fusión, tiendas, guardado, StreetPass y tutoriales | 690 | 690 | 100,0 % |
 | 6.2 | Tablas | Nombres de objetos, demonios, misiones y lugares, y textos cortos de menús (.tbb) | 6.757 | 6.757 | 100,0 % |
 | 6.3 | Datos | Descripciones de objetos y habilidades, perfiles de demonios y base de datos de cazadores | 2.599 | 2.599 | 100,0 % |
-| 6.4 | Historia | Eventos, combates de la historia, mapas y tu cuarto | 524 | 2.734 | 19,2 % |
+| 6.4 | Historia | Eventos, combates de la historia, mapas y tu cuarto | 781 | 2.734 | 28,6 % |
 | 6.5 | Secundarias | Misiones, centro de misiones, personajes de la ciudad y charlas con el compañero | 5 | 1.575 | 0,3 % |
 | 6.6 | Negociaciones | Conversaciones con demonios, por personalidad | 0 | 11.516 | 0,0 % |
 | 6.7 | Demonios en combate | Frases de demonios y compañeros en combate y en StreetPass | 0 | 4.365 | 0,0 % |
 | 6.8 | Contenido descargable | Misiones descargables | 59 | 542 | 10,9 % |
-| | **Total** | | **10.634** | **30.778** | **34,6 %** |
+| | **Total** | | **10.891** | **30.778** | **35,4 %** |
 <!-- /progress -->
 
 - **Se cuentan textos**, no palabras: un mensaje puede ser un «Sí» o una escena entera, y un texto de tabla suele ser un nombre. Muchos se repiten (de los 24.182 mensajes, 11.490 son distintos; de los 6.757 textos de tablas, 3.306), y una línea repetida se traduce una sola vez.
