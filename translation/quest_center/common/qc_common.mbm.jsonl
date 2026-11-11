@@ -3,6 +3,7 @@
 {"key": "quest_center/common/qc_common.mbm#3", "es": "{F812}Burroughs{0000}{F87A}{0200}Encontré algunas misiones nuevas. Voy a registrarlas en la lista.{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#4", "es": "〉 Se agregaron misiones al Guantelete.{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#5", "es": "{F812}Burroughs{0000}{F87A}{0200}Lo revisé, pero... parece que no hay misiones nuevas.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#6", "es": "{F812}Bartender{0000}{F87A}{0200}¿Cansado, eh? Entonces esto te dará un buen empujón.{F801}{F802}{F81B}{4630}{3031}{3031}{3000}{0000}{0000}Es nuestra bebida especial y original...{F801}Serán {F878}{0100} Macca. ¿Qué te parece?{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#7", "es": "Aceptar con entusiasmo{F801}Declinar con cortesía{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#8", "es": "{F812}Bartender{0000}{F87A}{0200}¿Qué pasa? ¿Trajiste algo?{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#9", "es": "{F812}Burroughs{0000}{F87A}{0200}Tienes algunas cosas listas para entregar, ¿sabes? Te mostraré la lista de misiones para que elijas cuál terminar.{F801}{FFFF}"}
@@ -11,11 +12,16 @@
 {"key": "quest_center/common/qc_common.mbm#12", "es": "{F812}Bartender{0000}{F87A}{0200}{F81B}{4630}{3031}{3030}{3400}{0000}{0000}Ojalá volvamos a vernos con vida los dos.{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#14", "es": "{F812}Bartender{0000}{F87A}{0200}{F81B}{4630}{3031}{3030}{3500}{0000}{0000}Tú déjame el resto a mí.{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#15", "es": "〉 ¿Con quién hablarás?{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#17", "es": "〉 {F843}{0000} alza la vista hacia el tablero de anuncios.{F801}{F802}〉 En el tablero de anuncios figura la clasificación actual del {F804}{0500}Torneo de Campeones{F804}{0000}...{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#18", "es": "〉 {F843}{0000} alza la vista hacia el tablero de anuncios.{F801}{F802}〉 Parece mostrar los resultados finales del {F804}{0500}Torneo de Campeones{F804}{0000}.{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#19", "es": "〉 Parece que {F843}{0000} aún no tiene el rango suficiente para figurar.{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#20", "es": "〉 Parece que {F843}{0000} no entró en la clasificación esta vez.{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#21", "es": "〉 Es la clasificación de los cazadores.{F801}Naturalmente, el nombre de {F843}{0000} no aparece.{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#22", "es": "〉 Parece que {F843}{0000} no entró en la clasificación esta vez.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#23", "es": "〉 {F843}{0000} alza la vista hacia el tablero de anuncios.{F801}{F802}〉 A lo largo de la columna de la clasificación hay algo escrito en letras enormes: “¡Kenji es Número Uno!”{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#24", "es": "〉 {F843}{0000} alza la vista hacia el tablero de anuncios.{F801}{F802}〉 Alguien tachó con pintura el marcador de la clasificación.{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#25", "es": "〉 {F843}{0000} alza la vista hacia el tablero de anuncios.{F801}{F802}〉 El marcador de la clasificación está en blanco...{F801}Parece que nadie lleva el registro.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#26", "es": "{F812}Bartender{0000}{F87A}{0200}Vamos a mostrar los resultados del{F801}Torneo de Campeones por un tiempo.{F801}{F802}¡Ve y presume si quieres! Debes de estar muy orgulloso.{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#27", "es": "{F812}Bartender{0000}{F87A}{0200}Solo uno más. Un cazador más que superar y lo tienes. Ahora sí se está poniendo interesante...{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#28", "es": "{F812}Bartender{0000}{F87A}{0200}¿Tercer lugar, eh...? Bueno, si llegaste tan lejos, bien puedes apuntar al primer puesto.{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#29", "es": "{F812}Bartender{0000}{F87A}{0200}¿Llegaste a los cinco primeros, eh?{F801}Seguro que puedes hacerlo aún mejor.{F801}{FFFF}"}
@@ -24,7 +30,28 @@
 {"key": "quest_center/common/qc_common.mbm#32", "es": "{F812}Bartender{0000}{F87A}{0200}Hoy la frescura deja que desear... Tendré que pedirte que vuelvas otro día por eso.{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#33", "es": "〉 Parece que ya se decidió que{F801}{F843}{0000} ocupa el primer lugar en el Torneo de Campeones.{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#34", "es": "{F812}Bartender{0000}{F87A}{0200}Mantente alerta o acabarás muerto.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#39", "es": "{F812}Bartender{0000}{F87A}{0200}{F81B}{4630}{3031}{3030}{3700}{0000}{0000}Mm... Por cierto, hay un paquete para ti de la Asociación de Cazadores.{F801}{F802}Es una recompensa por tu arduo trabajo en las misiones. Elige el que quieras.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#40", "es": "Balas de pánico{F801}Arete rojo{F801}Pedir una descripción de cada uno{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#44", "es": "Cazacabezas{F801}Revólver pesado .50{F801}Pedir una descripción de cada uno{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#45", "es": "Pulsera del sabio{F801}Pulsera del maestro{F801}Pedir una descripción de cada uno{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#46", "es": "Lanza mágica del vigor{F801}Bazuca de acero{F801}Pedir una descripción de cada uno{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#47", "es": "Pulsera del rey sabio{F801}Pulsera del caudillo{F801}Pedir una descripción de cada uno{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#48", "es": "〉 Obtienes {F804}{0500}{F872}{0100}{F804}{0000}.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#49", "es": "〉 Obtienes {F804}{0500}{F872}{0200}{F804}{0000}.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#50", "es": "{F813}{0000}{0000}{702E}{0600}〉 Obtienes {F878}{0100} Macca.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#51", "es": "{F813}{0000}{0000}{702E}{0600}{F812}Bartender{0000}{F87A}{0200}Y bien, ¿qué necesitas?{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#52", "es": "{F812}Bartender{0000}{F87A}{0200}Ojalá esto sea un buen cambio de ritmo.{F801}Sigue con el buen trabajo.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#53", "es": "{F812}Bartender{0000}{F87A}{0200}Mucha gente codicia eso, ¿sabes?{F801}Ojalá te compense.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#54", "es": "{F812}Bartender{0000}{F87A}{0200}Normalmente nos encargamos de esto aquí, en la{F801}Asociación, pero...{F801}{F802}La verdad es que tenemos más paquetes de los que podemos manejar y nadie que los entregue.{F801}{F802}Si te sobra algo de tiempo, ¿por qué no vas en persona? Quizá encuentres algo útil.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#55", "es": "{F812}Bartender{0000}{F87A}{0200}No lo gastes todo de una vez, ¿de acuerdo?{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#56", "es": "{F812}Bartender{0000}{F87A}{0200}Parece que hay algún problema.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#57", "es": "{F812}Bartender{0000}{F87A}{0200}{F81B}{4630}{3031}{3030}{3700}{0000}{0000}Ah, oye--¿te llegó un mensaje de la sede de Kinshicho?{F801}{F802}Parece que tienen algo para ti.{F801}No dejes de pasar.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#90", "es": "{F812}Bartender{0000}{F87A}{0200}Bien, ¿cuál quieres?{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#91", "es": "{F812}Bartender{0000}{F87A}{0200}Las Balas de pánico son un tipo especial de munición que puede {F804}{0500}confundir a los enemigos{F804}{0000}...{F801}O eso dice.{F801}{F802}El Arete rojo {F804}{0500}aumenta tu salud{F804}{0000} mientras lo llevas puesto...{F801}O eso dice.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#92", "es": "{F812}Bartender{0000}{F87A}{0200}El Cazacabezas es una espada capaz de {F804}{0500}cortar varias veces de un tajo{F804}{0000}...{F801}O eso dice.{F801}{F802}El Revólver pesado .50 es una pistola de un tiro que {F804}{0500}asesta golpes críticos con más frecuencia{F804}{0000}...{F801}O eso dice.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#93", "es": "{F812}Bartender{0000}{F87A}{0200}Dice que ambos accesorios mejoran tus estadísticas.{F801}{F802}La Pulsera del sabio mejora la {F804}{0500}magia y la agilidad{F804}{0000}. La Pulsera del maestro mejora la {F804}{0500}fuerza y la destreza{F804}{0000}.{F801}{F802}Revisa tus estadísticas antes de decidir.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#94", "es": "{F812}Bartender{0000}{F87A}{0200}La Lanza mágica del vigor puede {F804}{0500}atacar a todos los enemigos a la vez{F804}{0000} y además {F804}{0500}aumenta tus PM{F804}{0000}.{F801}{F802}Parece que la Bazuca de acero hace lo mismo, pero {F804}{0500}sube tus PS en su lugar{F804}{0000}.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#95", "es": "{F812}Bartender{0000}{F87A}{0200}Dice que ambos accesorios mejoran tus estadísticas.{F801}{F802}La Pulsera del rey sabio sube la {F804}{0500}magia y la agilidad{F804}{0000}, y la Pulsera del caudillo, la {F804}{0500}fuerza y la destreza{F804}{0000}.{F801}{F802}Considerando lo fuerte que te has vuelto, deberías elegir la que se adapte a tu estilo de combate.{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#100", "es": "Entregar{F801}Cancelar{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#101", "es": "{F812}Bartender{0000}{F87A}{0200}Ah, esa misión. Era para, a ver...{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#102", "es": "{F812}Bartender{0000}{F87A}{0200}{F81B}{4630}{3031}{3031}{3100}{0000}{0000}{F872}{0100} x{F878}{0100}.{F801}Así es.{F801}{FFFF}"}
@@ -34,3 +61,5 @@
 {"key": "quest_center/common/qc_common.mbm#106", "es": "{F812}Bartender{0000}{F87A}{0200}Está bien, puedes dejar {F873}{0100} conmigo.{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#107", "es": "{F812}Bartender{0000}{F87A}{0200}Está bien, puedes dejar {F872}{0100} conmigo.{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#108", "es": "〉 Por ahora no hay misiones de entrega que puedas cumplir.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#109", "es": "{F812}Bartender{0000}{F87A}{0200}{F81B}{4630}{3031}{3030}{3700}{0000}{0000}{F873}{0100} está en el registro del DDS ahora mismo.{F801}{F802}Tienes que cancelar su registro y volver después.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#110", "es": "{F812}Bartender{0000}{F87A}{0200}{F81B}{4630}{3031}{3030}{3700}{0000}{0000}Parece que {F873}{0100} se perdió por ahora.{F801}{F802}Vuelve cuando vuelva a estar bajo tu protección.{F801}{FFFF}"}
