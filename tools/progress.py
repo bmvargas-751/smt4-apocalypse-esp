@@ -56,6 +56,8 @@ CODE = re.compile(r"\{[0-9A-F]{4}\}")
 
 
 # Negociaciones (DECISIONS 2026-11-10): relleno de los tonos de battle/talk/.
+JAPANESE = re.compile("[぀-ヿ一-鿿]")
+PORTRAIT = re.compile(r"\{F87A\}(?:\{[0-9A-F]{4}\}|.)")
 TALK_FILLER = re.compile(r"(?:Not Used|Dummy Message|Blank Line|Reserved|Font Test|ダミーメッセージ|リザーブ)\W*$")
 
 
@@ -63,6 +65,8 @@ def excluded(key, en):
     """Fuera de la cuenta: relleno y mensajes sin texto, solo códigos (DECISIONS 2026-11-09)."""
     text = CODE.sub("", en).strip()
     if key.startswith("battle/talk/") and TALK_FILLER.match(text):
+        return True
+    if JAPANESE.search(PORTRAIT.sub("", en)):  # restos sin localizar (T-6, DECISIONS 2026-11-10)
         return True
     return key in EXCLUDED_KEYS or (".mbm#" in key and not text)
 UNASSIGNED = "Sin asignar"

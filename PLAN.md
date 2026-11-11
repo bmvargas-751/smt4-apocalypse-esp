@@ -75,8 +75,8 @@ Datos e interfaz primero; después la historia en orden, las secundarias y las n
 - [x] 6.1 Interfaz (2026-11-08)
 - [x] 6.2 Tablas (2026-11-09)
 - [x] 6.3 Datos
-- [ ] 6.4 Historia
-- [ ] 6.5 Secundarias
+- [x] 6.4 Historia
+- [x] 6.5 Secundarias
 - [ ] 6.6 Negociaciones
 - [ ] 6.7 Demonios en combate
 - [ ] 6.8 Contenido descargable
@@ -91,7 +91,7 @@ Datos e interfaz primero; después la historia en orden, las secundarias y las n
 - **Negociaciones:** si una misma línea la dicen demonios de distinto género, no puede marcar el género del que habla («¡Qué cansancio!», no «Estoy cansado»). Verificar al extraer.
 - **Nombres insertados** (demonio, objeto, cantidad): sin artículo ni participios con género; fórmulas como «Obtienes: X».
 - **«¡Demonios!» y «¡Diablos!»** se vuelven ambiguas en este juego: decidir si se evitan.
-- **Japonés en la versión inglesa:** dos escenas cerca del final quedaron sin traducir. Atlus prometió un parche, pero no hay confirmación de que haya salido. Se traducen desde el japonés.
+- **Japonés en la versión inglesa:** se ignora (T-6, DECISIONS 2026-11-10). Lo que quedó en japonés son restos que el juego no muestra; si al jugar aparece alguna línea en japonés, se traduce esa.
 - **Límites:** con fuente proporcional se mide en píxeles; en los campos fijos, en bytes. En los mensajes cada carácter ocupa 2 bytes, también la «á».
 - **Tablas (`.tbb`):** guardan nombres y textos cortos en ASCII de un byte, en campos de largo fijo (objetos, demonios, razas, misiones, lugares, descripciones de menús). Las letras españolas usan los mismos códigos de dos bytes que los mensajes, porque son Shift-JIS válido, como el japonés que también traen las tablas; cuestan un byte más cada una. Falta comprobarlo en el juego. Si en el juego no se ven, la alternativa es un código de un byte (el katakana de un byte, que la fuente trae).
 - **Nombres de demonios:** están en `battle/NKMSortIndex.tbb`, con marcadores internos («Reserved», «Dummy», «(Giant)») que no se muestran.
