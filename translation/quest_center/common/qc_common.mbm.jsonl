@@ -1,1 +1,36 @@
+{"key": "quest_center/common/qc_common.mbm#0", "es": "Curar{F801}Hablar{F801}Entregar{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#2", "es": "〉 {F843}{0000} mira el tablero de anuncios. Muestra la clasificación actual...{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#3", "es": "{F812}Burroughs{0000}{F87A}{0200}Encontré algunas misiones nuevas. Voy a registrarlas en la lista.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#4", "es": "〉 Se agregaron misiones al Guantelete.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#5", "es": "{F812}Burroughs{0000}{F87A}{0200}Lo revisé, pero... parece que no hay misiones nuevas.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#7", "es": "Aceptar con entusiasmo{F801}Declinar con cortesía{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#8", "es": "{F812}Bartender{0000}{F87A}{0200}¿Qué pasa? ¿Trajiste algo?{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#9", "es": "{F812}Burroughs{0000}{F87A}{0200}Tienes algunas cosas listas para entregar, ¿sabes? Te mostraré la lista de misiones para que elijas cuál terminar.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#10", "es": "{F812}Bartender{0000}{F87A}{0200}{F81B}{4630}{3031}{3030}{3100}{0000}{0000}¿Qué se te ofrece?{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#11", "es": "{F812}Bartender{0000}{F87A}{0200}Si tienes algo que tratar, entonces apúrate y suéltalo.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#12", "es": "{F812}Bartender{0000}{F87A}{0200}{F81B}{4630}{3031}{3030}{3400}{0000}{0000}Ojalá volvamos a vernos con vida los dos.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#14", "es": "{F812}Bartender{0000}{F87A}{0200}{F81B}{4630}{3031}{3030}{3500}{0000}{0000}Tú déjame el resto a mí.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#15", "es": "〉 ¿Con quién hablarás?{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#19", "es": "〉 Parece que {F843}{0000} aún no tiene el rango suficiente para figurar.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#20", "es": "〉 Parece que {F843}{0000} no entró en la clasificación esta vez.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#21", "es": "〉 Es la clasificación de los cazadores.{F801}Naturalmente, el nombre de {F843}{0000} no aparece.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#22", "es": "〉 Parece que {F843}{0000} no entró en la clasificación esta vez.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#25", "es": "〉 {F843}{0000} alza la vista hacia el tablero de anuncios.{F801}{F802}〉 El marcador de la clasificación está en blanco...{F801}Parece que nadie lleva el registro.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#27", "es": "{F812}Bartender{0000}{F87A}{0200}Solo uno más. Un cazador más que superar y lo tienes. Ahora sí se está poniendo interesante...{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#28", "es": "{F812}Bartender{0000}{F87A}{0200}¿Tercer lugar, eh...? Bueno, si llegaste tan lejos, bien puedes apuntar al primer puesto.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#29", "es": "{F812}Bartender{0000}{F87A}{0200}¿Llegaste a los cinco primeros, eh?{F801}Seguro que puedes hacerlo aún mejor.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#30", "es": "{F812}Bartender{0000}{F87A}{0200}Llegaste a los diez primeros, ¿eh?{F801}Apuesto a que podrías llegar aún más alto si te lo propusieras.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#31", "es": "{F812}Bartender{0000}{F87A}{0200}Es ridículo que un hombre con tu habilidad todavía no esté entre los diez primeros.{F801}{F802}Termina más misiones y demuestra tu fuerza. Así nadie podrá negar que eres un contendiente.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#32", "es": "{F812}Bartender{0000}{F87A}{0200}Hoy la frescura deja que desear... Tendré que pedirte que vuelvas otro día por eso.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#33", "es": "〉 Parece que ya se decidió que{F801}{F843}{0000} ocupa el primer lugar en el Torneo de Campeones.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#34", "es": "{F812}Bartender{0000}{F87A}{0200}Mantente alerta o acabarás muerto.{F801}{FFFF}"}
 {"key": "quest_center/common/qc_common.mbm#48", "es": "〉 Obtienes {F804}{0500}{F872}{0100}{F804}{0000}.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#100", "es": "Entregar{F801}Cancelar{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#101", "es": "{F812}Bartender{0000}{F87A}{0200}Ah, esa misión. Era para, a ver...{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#102", "es": "{F812}Bartender{0000}{F87A}{0200}{F81B}{4630}{3031}{3031}{3100}{0000}{0000}{F872}{0100} x{F878}{0100}.{F801}Así es.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#103", "es": "{F812}Bartender{0000}{F87A}{0200}{F873}{0100}.{F801}Así es.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#104", "es": "{F812}Bartender{0000}{F87A}{0200}{F872}{0100}.{F801}Así es.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#105", "es": "{F812}Bartender{0000}{F87A}{0200}Puedes dejar {F872}{0100} x{F878}{0100} conmigo.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#106", "es": "{F812}Bartender{0000}{F87A}{0200}Está bien, puedes dejar {F873}{0100} conmigo.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#107", "es": "{F812}Bartender{0000}{F87A}{0200}Está bien, puedes dejar {F872}{0100} conmigo.{F801}{FFFF}"}
+{"key": "quest_center/common/qc_common.mbm#108", "es": "〉 Por ahora no hay misiones de entrega que puedas cumplir.{F801}{FFFF}"}
