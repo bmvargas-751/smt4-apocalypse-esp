@@ -55,9 +55,16 @@ EXCLUDED_KEYS |= {"event/quest/SubQuestGuest.mbm#0", "quest_center/talkMaster/qc
 CODE = re.compile(r"\{[0-9A-F]{4}\}")
 
 
+# Negociaciones (DECISIONS 2026-11-10): relleno de los tonos de battle/talk/.
+TALK_FILLER = re.compile(r"(?:Not Used|Dummy Message|Blank Line|Reserved|Font Test|ダミーメッセージ|リザーブ)\W*$")
+
+
 def excluded(key, en):
     """Fuera de la cuenta: relleno y mensajes sin texto, solo códigos (DECISIONS 2026-11-09)."""
-    return key in EXCLUDED_KEYS or (".mbm#" in key and not CODE.sub("", en).strip())
+    text = CODE.sub("", en).strip()
+    if key.startswith("battle/talk/") and TALK_FILLER.match(text):
+        return True
+    return key in EXCLUDED_KEYS or (".mbm#" in key and not text)
 UNASSIGNED = "Sin asignar"
 
 

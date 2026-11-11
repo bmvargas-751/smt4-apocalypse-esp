@@ -1,0 +1,25 @@
+# Personalidad: Gal (TalkToneGal)
+
+- **Género:** no se marca (E-41). La voz se llama *Gal*, pero la línea tiene que poder decirla un demonio de cualquier género. Las líneas del demonio no marcan a quien habla; lo marcan las opciones y la narración: *Stop her*, *Say something to her* (battle/talk/TalkToneGal.mbm#132, #141), *Talk to her again*, *Laugh with her*, *Scold her* (#214), *She's too busy communicating with the Expanse...* (#213), *as if she was looking at scum...* (#285). Conviene redactarlas sin pronombre de género (E-41, DECISIONS 2026-11-09); pendiente para el usuario. *Say ”hi” to her* (#9) habla del otro demonio de la misma especie (E-42).
+- **Trato:** propuesta, pendiente de aprobación (E-30): **tú** con el jugador, con desgano y confianza. No usa títulos; lo llama **human** (*Showing your true colors, huh human...*, #178), *You creep!* (#21), *jerk* (#107).
+- **Registro:** de chica fiestera y desganada: aburrida, sarcástica y coqueta, con la jerga de moda (*Totally not in the mood to talk.*, #1; *BFF*, #9; *buzzkills*, #13; *Bo-ring...*, #176, #236, #281). Frases cortas, desdén (*Hmm.../Well, good for you.*, #252) y amenazas dichas sin alterarse (*...Then why don't you just die?*, #57, #59; *Do you wanna die?*, #20). A veces dulce y desconcertada (*But that may be the first time I've been scolded...*, #221).
+  - De época (E-31): no.
+- **Muletillas y tics:**
+  - *Liiiiike...* (#3), *like* de relleno (*You're like, a good human.*, #177), *totally* (#1, #22), *y'know* (#142, #229), *kinda* (*I kinda like that.*, #62, #117, #171), *right?* al final de cada pedido (#30-42), *huh?* (#160), *Hellooo?* (#163), *Hmmmm...* (#19, #169), *Bo-ring* / *bo-ring* separado con guion (#63, #176, #236, #281).
+  - Despedida fija: *I'm going home, then.* (#6, #8, #9) e *I'm going home now.* (#65).
+  - Risas: *\*giggle\** (#12), *Hehe...* (#17, #153, #165, #235, #286), *Hehehe...* (#127, #248), *Hahahahaha...!* (#212), *Ha... Hahaha...* (#217).
+  - Exclamaciones: *Wooooo!* (#48), *Wooooooo!* (#51), *Wha...!?* (#21), *Ugh* (#27, #59), *Eek!* (#116, #148), *Ohhh...* (#9), *Awwww* (#258), *N-No!* (#24), *W-Wait!* (#280) (E-55).
+- **Groserías:** leves: *pissed* (*I'm startin' to get pissed.*, #22; *I'm really pissed, y'know?*, #142), *creep* (#21), *jerk* (#107), *What the heck* (#45, #221), *dumb* (#2), *stupid* (#105, #115, #138, #167), *sucker* (#103), *lecherous* (#6, #11). Igualar la intensidad (E-22).
+- **Fórmulas comunes:** mismo índice que en [personalidad-boy.md](personalidad-boy.md). En esta voz:
+  - Aceptar unirse: *I'm good now. I'll become your ally, then.* (#4); *Alright, lets go!* (#14); súplica *Eek! Don't kill me... / If you give something to me, I'll become your ally!* (#116, #129, #137, #147; idéntica, se traduce igual, E-60).
+  - Presentación: *I'm <raza> <nombre>. Nice to meet you!* (#7).
+  - Pedir: siempre como pregunta de confirmación, *You'll give me ..., right?*: *You'll give me {objeto} x{cantidad}, right?* (#30), *You'll give me {cantidad} Macca, right?* (#31), *You'll give me {demonio}'s life, right?* (#40), *Give me that, okay?* (#41). Cerrar con macca: *I really need Macca right now. / Wanna just end this with {cantidad} Macca?* (#29).
+  - PS y PM en cuatro grados: *You'll give me a little / some / a bunch / a serious amount of your HP, right?* (#32-35; MP, #36-39).
+  - Hueste llena: *...Talk about over-registering your stock. You the lecherous type?* (#6, #11); *stock* → «hueste» (GLOSSARY).
+- **Trampas de género (E-41):** *I'll become your ally* (#4, #116): con verbo («me uno a ti»). *I'm going home* (fijo, neutro), *I'm tired of talking* (#70), *I'm jealous* (#203), *I was worried* (#66), *I was interested in you, too...* (#128), *I'm really pissed* (#142), *I'm sorry... I've been summoned* (#134, *summoned* → participio con género), *I'm the type that likes to serve!* (#280, «soy de las/los que...»), *Are you looking down on us demons?* (#200, #274): se redactan con verbo o exclamación, sin adjetivos ni participios con género para quien habla. *You just want me for my body, huh?* y *Are you saying that you're not interested in my body?* (#283, #289) no marcan género en inglés y no deberían marcarlo en español.
+- **Ejemplos:** battle/talk/TalkToneGal.mbm#1 (desgano), #6 (hueste llena y burla), #35 (pedido con *right?*).
+- **Notas:**
+  - #213 menciona a la *Expanse* → «Inmensidad» (GLOSSARY): el demonio está «comunicándose» con ella, como si mirara el teléfono.
+  - Erratas del inglés: *lets go* (#14), *You seems interesting* (#113).
+  - La acción propia de esta voz (#46-53) es besar o abofetear al jugador: la narración (*The demon kisses {nombre}!*, *The demon slaps {nombre}!*) no marca género.
+- **Fuente:** el archivo completo, battle/talk/TalkToneGal.mbm#1-290 (239 textos; sin *Blank Line*, *Not Used* ni *Dummy Message*), con las opciones del jugador y la narración como contexto.

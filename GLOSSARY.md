@@ -1082,3 +1082,103 @@ Aprobados en bloque el 2026-11-10 (propuestas del terminólogo), sin artículo: 
 | Medic | Personal médico | Decidido por el usuario (2026-11-10) | No marca género (npc_room/n114/n114.mbm#1). |
 
 Condiciones de las misiones (event/quest/QuestSys.mbm), en infinitivo como los objetivos de QuestData: *Deliver* → «Entregar», *Slay* → «Eliminar», *Show* → «Mostrar», *Collect* → «Reunir», *Bring a demon that has...* → «Traer un demonio que tenga...», *Accomplish* → «Lograr». No van en la tabla: son verbos comunes.
+
+### Negociaciones
+
+Filas de la sección Negociaciones (battle/talk/: TalkSystem.mbm y los 104 TalkTone*.mbm). En en.jsonl son 11 518 mensajes: 5436 son relleno (*Not Used*, *Dummy Message*, *Blank Line*, *Font Test*) y 6082 son texto, 4498 distintos (los tonos repiten muchas líneas entre archivos). Salen de `system-terms-negociaciones.tsv` (269 términos), de `glossary-candidates.tsv` y de los términos que la sección repite en minúscula. No repiten las filas que GLOSSARY.md ya tiene. Las cifras son líneas de la sección, contando las repetidas entre tonos. Los ejemplos de SMT V salen de sus tablas de texto (menús, negociación, perfiles), emparejadas inglés-español.
+
+`tools/check.py` busca el término inglés con las mayúsculas exactas y la palabra entera: *Stock* no cubre *stock*, ni *Life Stone* cubre *Life Stones*. Por eso van aquí algunas formas de filas que ya existen.
+
+#### Términos de sistema (oficiales)
+
+| Inglés | Español | Fuente | Nota |
+|---|---|---|---|
+| negotiation | negociación | SMT V (ejemplo: *Demons above the Nahobino's level can be recruited through negotiation.* ⇒ *Se pueden reclutar demonios con más nivel que el Nahobino mediante negociación.*) | Lo que el jugador hace con el comando Hablar (16 líneas; *negotiations*, 4): *X tries to start a negotiation...* (TalkSystem.mbm#4-16). Ya traducido así: *So much for negotiation.* → «Se acabó la negociación.» (event/e021/e021.mbm#16). |
+| negotiate | negociar | SMT V (ejemplo: *Negotiating with me is going to cost you, however.* ⇒ *Pero negociar conmigo te va a salir caro.*) | 34 líneas (*negotiating*, 15). Ya traducido así: *Exam (Norm): Negotiate* → «Examen normal: Negociar» (event/quest/SubQuestData.tbb#0.28.8). |
+| ally | aliado | SMT V (ejemplos: *Revive one ally with half HP.* ⇒ *Reanima a un aliado y restaura la mitad de sus PS.*; *Current allied demons* ⇒ *Tus demonios aliados*) | El demonio que se une al grupo. Es el término más repetido de la sección (163 líneas): *X became an ally!* (TalkSystem.mbm#34), *Ya want me to become your ally?* (#1 de cada tono). Concuerda con el demonio que habla (*aliado*, *aliada*), según su ficha; si no se sabe, se redacta sin marcar el género (E-40, E-42). El tono Beast lo escribe *ALLY* (22 líneas), que esta fila no cubre. Ya avisará en 3 líneas traducidas con otra forma: battle/Common/common.mbm#44 («alguien de su bando») y map/all/PartnerInfoTable.tbb#1.458.36, #1.657.36 («un apoyo confiable»). El menú *Become my ally.* está en pending.md. |
+| allies | aliados | SMT V (ejemplo: *Allies of the Jirae race can now use...* ⇒ *Los aliados de la raza Jirae pueden usar...*) | 11 líneas. |
+| level | nivel | SMT V (ejemplos: *Lv* ⇒ *Nv.*; *Demons above the Nahobino's level...* ⇒ *...con más nivel que el Nahobino...*) | El nivel del jugador o del demonio (13 líneas): *But your level is too low...* (TalkSystem.mbm#24) y la línea #8 de cada tono. Ya traducido así en las demás secciones (*Level* → «Nivel», unite/SearchTable.tbb#0.6.8). En *a whole different level* (TalkToneYoung.mbm#8) y *level of patriotism* (TalkToneShiki06.mbm#8) el inglés juega con el mismo término, y «nivel» sirve igual. |
+| item | objeto | SMT V (ejemplo: *Item Icons:* ⇒ *Iconos de objeto:*; ya en la tabla: *Use an item.* ⇒ *Usa un objeto.*) | 24 líneas: *Give me an item.* (TalkSystem.mbm#76), *didn't have the requested item!* (#72). El tono Beast lo escribe *ITEM* (2 líneas). Avisará en 9 descripciones ya traducidas de item/ItemHelpMess.mbm (#971-975 *Leisure item* → «Artículo de ocio»; #991-994 *food item* → «Alimento»). |
+| items | objetos | SMT V (como *item*) | 6 líneas. |
+| Item | Objeto | SMT V (como *item*) | Opción del menú *Item / Macca / HP / MP* (TalkSystem.mbm#63). |
+| Life Stones | Piedras vitales | SMT V (objeto *Life Stone* ⇒ *Piedra vital*) | Plural del objeto (12 líneas): *What would you achieve without any Life Stones...?* (TalkToneBoss07.mbm#61). |
+| summoner | invocador | SMT V (ejemplo: *That includes my summoners!* ⇒ *Eso incluye a mis invocadores.*) | Quien invoca demonios; aquí, el jugador (3 líneas: TalkToneBoy.mbm#73, TalkToneInfo.mbm#10, TalkToneLady.mbm#22), en masculino como lo marca el juego (fichas). Avisará en 2 perfiles ya traducidos con otra forma (status/profile.mbm#430, #495: «quien lo invoca»). |
+| Death | Muerte | SMT V (ejemplo: *It is truly Death itself* ⇒ *En realidad es la Muerte*) | La muerte personificada, con mayúscula: *Do you believe that you can wrest money from a Fiend? From Death?* (TalkToneMajinBlack.mbm#24). 110 líneas, en los tonos Majin* y Shiki10. Cuando abre la oración y es la palabra común (*Death is fitting...*, TalkToneMajinBlack.mbm#57), va «La muerte», y el validador no avisa. Ya traducido así: *Angels of Death* → «Ángeles de la Muerte»; *He is Death incarnate* → «Es la Muerte encarnada» (status/profile.mbm#580). Avisará en 3 textos ya traducidos: item/ItemTable.tbb#1.56.0 (*Gold Death Mask* → «Máscara de oro», acortado por el ancho) y la etiqueta *Death* → «Fallecimiento» de event/HunterDataBase/HunterDataBase.mbm#40, #50. |
+
+#### Formas en minúscula de filas oficiales
+
+| Inglés | Español | Fuente | Nota |
+|---|---|---|---|
+| stock | hueste | SMT V (como *Stock*: *returning to the stock* ⇒ *regresar a tu hueste*) | 13 líneas: *But your stock is full...* (TalkSystem.mbm#23) y las líneas #6 y #11 de cada tono. Avisará en 2 textos con otro sentido, inventario (map/m037/m037.mbm#13 *our stock*; event/e999/e999.mbm#9), y en 2 que pusieron «reserva» (ver pending.md). |
+| fusion | fusión | SMT V (como *Fusion*) | 8 líneas (*Use you for fusion.*, TalkToneGal.mbm#199). Las otras secciones ya lo dicen así (62 textos). |
+| fuse | fusionar | SMT V (como *Fuse*) | 2 líneas (*I wanna fuse!*, TalkToneGirl.mbm#227). |
+| Demon fusion | Fusión de demonios | SMT V (como *Demon Fusion*) | 3 líneas (TalkToneIjin.mbm#326, #329, #330). |
+
+#### Aplicación de lo decidido
+
+Términos de la sección que salen directamente de una decisión del glosario (fila, patrón o tabla ya traducida). No hay elección nueva. Van para que el traductor y el validador los tengan a mano (G-3).
+
+| Inglés | Español | Fuente | Nota |
+|---|---|---|---|
+| Mister | señor | Decidido en Historia (*Mister* a secas, de un niño → «señor») | 50 líneas: coletilla de los tonos Boy, Girl, Nakigoe y Unknown (fichas). En minúscula a media frase (E-59). *Mr. Human-guy* (TalkToneInfo.mbm#16) va con *Mr.* → «señor». |
+| trade | trueque | Decidido en Tablas (*Trade* → «Trueque», battle/UI/BattleComTable.tbb#2.2.1) | La respuesta al comando Trueque, la línea #25 de cada tono (26 líneas: *A trade?*, *You want to trade items?*). Ya traducido así: *Items offered in trade* → «Objetos ofrecidos en trueques» (camp/PlayLogTable.tbb#0.14.2). |
+| Scout | Reclutar | Decidido en Tablas (comando de conversación, battle/UI/BattleComTable.tbb#2.0.1) | *It appears Scout won't work on this demon...* (TalkSystem.mbm#2). Avisará en event/quest/quest002.mbm#0 (*Scout Tokyo* → «Exploren Tokio», otro sentido). En minúscula es otra cosa (*A scout!?*, TalkToneHeehaw.mbm#141, juego de palabras de la ficha). |
+| Fairy Napaea | Hada Napaea | Patrón raza + nombre (decidido 2026-11-08) | TalkSystem.mbm#90, en femenino (*on her journey*). |
+| Night Mokoi | Nocturno Mokoi | Patrón raza + nombre; *Night* → «Nocturno», la raza (SMT V) | TalkSystem.mbm#91. |
+| zombie | zombi | Tablas (*Zombie* → «Zombi») | TalkSystem.mbm#8, TalkToneShiki04.mbm#70, TalkToneShiki05.mbm#19. En minúscula (E-59). |
+| Prometheus | Prometeo | Tablas (nombres con forma española) | TalkToneBoss48.mbm#59. Hay una etiqueta ya traducida que no coincide: ver pending.md. |
+| Cosmic Egg | Huevo Cósmico | Tablas (map/all/MapNextPointTable.tbb#0.93.8) | TalkToneBoss34.mbm#18. |
+| Creator god | Dios Creador | Decidido en Historia (*Creator God*) | TalkToneBoss06.mbm#19. El inglés escribe *god* en minúscula, y la fila *Creator God* no lo cubre. |
+| Reds | Reds | Decidido en Datos (nombre propio de una sustancia) | TalkToneBoss47.mbm#1 (2 líneas). |
+
+Decisiones que se aplican sin fila nueva:
+
+- *Fiend* (70 líneas) es la raza → «Oscuro»: *a Fiend* → «un Oscuro» (tonos Majin* y Shiki10).
+- *Hunter* (45 líneas) → «cazador», en minúscula a media frase; *Hunter Boy* (17, TalkToneBoss49.mbm) → «Chico Cazador»; *Hunters* → «cazadores».
+- *Master* (22 líneas de TalkToneBoss44.mbm, un demonio que llama así al jugador) → «amo», como la fila. *Master* + nombre está en pending.md.
+- *Lord Lucifer* (3), *Lord Maitreya* (2) → «el señor Lucifer», «el señor Maitreya»; *the Lord* (TalkToneBoss17.mbm#23, TalkToneBoss19.mbm#19-28, un ángel) → «el Señor».
+- *partner* → «acompañante»: *his former partner* (TalkSystem.mbm#3, #5), *the HP of your partner* (TalkToneLady.mbm#42, TalkToneOldwoman.mbm#42), TalkToneShiki03.mbm#40.
+- *returns from being lost* (TalkSystem.mbm#74) es el estado *Lost* → «Perdido» (Datos), sin participio con género para el nombre insertado (E-42).
+- *smartphone* (9 líneas) → «teléfono»; *apps* (TalkSystem.mbm#1) → «apps»; *Demon Summoning Program* (TalkToneOldman.mbm#246) → «Programa de invocación de demonios».
+- *Expanse* (5 líneas, también *the Expanse hotline*) → «Inmensidad»; *Divine Powers* → «Poderes Divinos»; *Cathedral of Shadows* → «Catedral de las Sombras»; *Filth* (9) → «Inmundicia»; *Samurai* (14, TalkToneShiki02.mbm) → «samurái»; *Ame-no-habakiri* (TalkToneBoss06.mbm#18) se deja, como el arma.
+- El *hee-ho* de los Frost (tono Heehaw, TalkToneBoss03.mbm, TalkToneBoss46.mbm, TalkSystem.mbm#92) sigue la forma de PENDING (lote historia-001) y la ficha characters/personalidad-heehaw.md.
+
+#### Revisados sin fila
+
+De los 269 términos de `system-terms-negociaciones.tsv`:
+
+- **43** ya tienen fila en GLOSSARY.md (Macca, HP, MP, Yes, Hunter, Master, Hunter Boy, Samurai, Stock, Filth, Expanse, YHVH, Divine Powers, Cathedral of Shadows, Demon Summoning Program, Bible, Venus...). Cuatro de ellos solo con otras mayúsculas: *MACCA*, *TALK*, *LIGHT*, *LUCK*, del tono Beast.
+- **17** ya están cubiertos por una decisión sin fila: nombres propios que se dejan (Flynn, Toki, Nozomi, Gaston, Isabeau, Hallelujah, Kei, Yuriko, Maruo, Shesha, Tayama), *Lord*, *Lord Lucifer*, *Lord Maitreya*, *Mr*, *Hunters*, *Ame-no-habakiri*.
+- **8** dan fila aquí: *Life Stones*, *ALLY* e *ITEM* (por *ally* e *item*), *From Death* (por *Death*), *Mister*, *Scout*, *Cosmic Egg*, *Reds*.
+- **6** van a pending.md: *Master Maruo*, *Master Mii*, *Lusty Boy*, *Dadga*, *Mother of All*, *End* (*End talks*, el menú).
+- **195** se descartan:
+  - **126** son el habla en mayúsculas de los tonos Beast y Unarigoe y de algunos jefes (*ME*, *YOU*, *ME EAT YOU WHOLE*, *YOUR SMARTPHONE FULL*, *A SERIOUS ERROR HAS OCCURRED*...).
+  - **38** son palabras comunes que el script trajo como etiquetas de SMT V o como mayúscula (*move*, *guard*, *life force*, *off*, *always*, *other*, *start*, *place*, *self*, *new*, *next*, *open*, *return*, *hard*, *normal*, *pass*, *sound*, *close*, *special*, *none*, *display*, *law*, *wide*, *Exactly*, *Nope*, *Yep*, *Mama*, *Dignity*, *’Tis*, *Heaven*, *Jupiter*, *Greek* en *That’s Greek to me*...).
+  - **8** son relleno (*Not Used*, *Dummy Message*, *Blank Line*, *Font Test*...).
+  - **23** son fragmentos: los textos revueltos de TalkToneUnknown.mbm y TalkToneUnarigoe.mbm (*EComE*, *UmAn*, *WanT To*...), gritos y tartamudeos (*AWOOOOOOOOO*, *GRRRRR*, *I-I*) y la sigla *BS*.
+
+De los candidatos de `glossary-candidates.tsv`, 19 salen en la sección con su mayúscula: 13 ya tienen fila (Demon, Demons, Dagda, Fiend, Lucifer, Human, Arahabaki, Inanna, Fairy, Life Stone, Jack Frost, Mokoi, Divine en *Divine Powers*); *Night* va en *Night Mokoi* (arriba); *Teacher* ya está en PENDING (ver pending.md); y *Power*, *Man*, *Attack* y *Counter* son palabras comunes aquí (pending.md). Otros 22 salen solo en minúscula como palabras comunes (*an angel*, *a lady*, *in chaos*, *you brute*, *foul mood*...).
+
+Frases que los perfiladores ya marcaron como delicadas y que no son términos (E-23): *Tokyo Doom* (TalkToneHeehaw.mbm#141), *Halloween party* (#10), *Punchy puuuuunch!* (tono Info), *Macca Macca MacArthur!* (TalkToneInfo.mbm#229), *That’s Greek to me* (#64), *No way, Jose* (TalkToneBoss13.mbm#1), *Demon-hunting-hunting* (TalkToneBoy.mbm#361) y los nombres de otros juegos de la saga en TalkToneOldman.mbm#267 (*Kuzunoha*, *Hijiri*), que se dejan igual. *Your Majesty* (TalkToneBoss62.mbm) y *my Queen* (TalkToneLady.mbm#315) son tratamientos comunes: «Su Majestad», «mi reina».
+
+#### Decididos por el usuario: Negociaciones
+
+Aprobados en bloque el 2026-11-10, con las propuestas del terminólogo (detalle en DECISIONS).
+
+| Inglés | Español | Fuente | Nota |
+|---|---|---|---|
+| contract | pacto | Decidido por el usuario (2026-11-10) | El trato por el que un demonio se une (9 líneas). *Blood contract* → «pacto de sangre». |
+| fusion material | material de fusión | Decidido por el usuario (2026-11-10) | 2 líneas. |
+| devilishness | diablura | Decidido por el usuario (2026-11-10) | La gracia del tono Heehaw (9 líneas); delicada (E-23). |
+| Dadga | Dagda | Decidido por el usuario (2026-11-10) | Errata del inglés (9 líneas, *DADGA* en Beast). |
+| Red Frost | Frost rojo | Decidido por el usuario (2026-11-10) | Por *Black Frost* → «Frost oscuro». |
+| Forest Boss | Jefe del Bosque | Decidido por el usuario (2026-11-10) | Título, con mayúsculas. |
+| Mother of All | Madre de Todos | Decidido por el usuario (2026-11-10) | Por *Allfather* → «Padre de Todos». |
+| Lusty Boy | Chico Lujurioso | Decidido por el usuario (2026-11-10) | Apodo, como *Hunter Boy* → «Chico Cazador». |
+| Teacher | profe | Decidido por el usuario (2026-11-10) | El maestro de escuela de TalkToneBoy (#311-315); no marca género. *Sensei* (Heehaw#192) → «maestro». |
+
+- **Menú de la negociación** (TalkSystem.mbm), en infinitivo: «Acceder / Rechazar / Engañar / Terminar la charla» (#55-61); «“No lo tengo.”»; «Pedir más / Dejar de hablar»; «Aceptar / Negociar como siempre»; «Entregar “eso” / No entregar nada»; «Objeto / Macca / PS / PM».
+- **Lo que el jugador pide** (#76, #77): «“Únete a mí.” “Dame un objeto.” “Dame dinero.” “Muere.”» y «“Haz un pacto conmigo.”». «Únete a mí» no marca el género del demonio; el aviso de *ally* en #76 es esperado.
+- ***Master* + nombre:** «amo» con hombres («el amo X») y «señora» con mujeres («la señora X», «las señoras X e Y»), como *Lady X*. El aviso de *Master* → «amo» en las líneas de las señoras es esperado.
+- ***Power*, *Man*, *Attack*, *Counter*:** palabras comunes en esta sección; no se fijan (*Counter it* → «contraatacar»).
+- ***Liberator*, *Leader*:** no salen en Negociaciones; se confirman con battle/PartnerAttack.mbm y PartnerTopic.
