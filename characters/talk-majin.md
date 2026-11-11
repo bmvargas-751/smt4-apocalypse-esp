@@ -1,0 +1,34 @@
+# Fiends (TalkToneMajin)
+
+- **Archivos:** battle/talk/TalkToneMajinBlack.mbm, TalkToneMajinDavid, TalkToneMajinMat, TalkToneMajinMother, TalkToneMajinPale, TalkToneMajinRed, TalkToneMajinShadow, TalkToneMajinTrum y TalkToneMajinWhite. Comparten plantilla: 44 o 45 de sus 48-49 textos son iguales en los nueve. Cambian solo #1 (rechazo), #71 (reencuentro), #54 en algunos y #25 en dos (ver abajo).
+- **Quién habla:** según battle/NKMBaseTable.tbb (campo de tono): Trumpeter (tono 30, IDs 579, 982), Pale Rider (31; 580, 983), Black Rider (32; 581, 984), Red Rider (33; 582, 985), White Rider (34; 583, 986), Matador (35; 585, 988), David (36; 586, 989) y Mother Harlot (37; 578, 981). El contenido de #1 y #71 coincide con cada nombre. *MajinShadow* (tono 38) no está asignado a ningún demonio: sin identificar.
+- **Voz:** son los Fiends de la Historia (battle/event/BtlEvent102-109 los nombran), sin ficha propia en characters/.
+- **Género:** cada archivo es de un solo hablante, así que su texto propio puede marcarlo.
+  - **Masculino:** Black Rider, Pale Rider, Red Rider y White Rider (*One of the four horsemen of the Apocalypse, he rides...*, status/profile.mbm#581, #580, #582, #583); Matador (*in exchange for his own life*, #585); David (*He travels around Europe...*, #586).
+  - **Femenino:** Mother Harlot (*She rides a beast with seven heads...*, status/profile.mbm#578).
+  - **Pendiente:** Trumpeter (el compendio habla de *Angels* en plural, #579) y MajinShadow (sin identificar).
+  - Las líneas comunes conviene traducirlas igual en los nueve archivos, así que no deben marcar el género de quien habla (E-41): *Your offering pleases me. I consider myself satisfied now...* (#55), sin «satisfecho/a».
+- **Trato:** propuesta, pendiente de aprobación (E-30): **tú** con el jugador, en todos. Lo llaman *Hunter* (#54 en Mat, Trum, White, David, Mother; #1 de Red; #71 de Mat y White), *mortal* (#27, #62), *Human* (#20), *warrior* (#1 y #54 de Pale; #1 de Mat) y por su nombre en #71. Mother Harlot dice *my {nombre}* (#71). Solemnes pero modernos (E-31): nunca *vos* ni *vosotros*.
+- **Registro común:** solemne, sombrío y teatral: la Muerte como personaje (*Death takes another step towards you...*, #56; *this treasure that was wrested from Death*, #26; *the core of the abyss of Death*, #23). Frases completas, sin contracciones, con imágenes de sed y de vida (*This thirst that cannot be expressed in words... What can quench it?*, #43; *That brilliant life... Allow me to touch it briefly.*, #46). Se llaman a sí mismos *a Fiend* (#24, #57, #59, #62, #63; según el glosario).
+  - De época (E-31): sí, moderado: *I ask for*, *I request*, *lo and behold* (#71 de Black), *Receive this treasure* (#26). Solemne pero moderno.
+- **Voces propias (#1, #25, #54, #71):**
+  - **Black Rider:** la balanza: *My scale is swaying... Could it be that you are the cause?* (#1), *I followed the guidance of the scales, and lo and behold...* (#71). *Your fate is truly a checkered one...* (#71).
+  - **David:** la música y la danza: *the melody of these strings* (#1), *Dance the dance of death to my tune until your life ebbs away...* (#1), *...It seems you were drawn to my tune.* (#71).
+  - **Matador:** la arena: *Take your blade in hand! Let us cross swords! Let your blood be spilled in this hellish colosseum!* (#1); exclamativo. *Isn't that so, {nombre}, Hunter? You are drenched in spattered blood!* (#71).
+  - **Mother Harlot:** el banquete y la diversión cruel: *This place is now a banquet of death, and you are the offering.* (#1), *entertain me... This will be an entertainment of spilled blood, torn flesh, and glorious death!* (#1); risa *Hohoho...* (#71).
+  - **Pale Rider:** *the pallid knight* (#1), *Now let Death be your attendant once more.* (#71).
+  - **Red Rider:** la sangre y la guerra: *the red knight stained with blood* (#1), *I followed the track and the spoor of blood.* (#71). No tiene #54.
+  - **MajinShadow:** el aire envenenado: *The sky and atmosphere are scored with death. Even to breathe the air suffuses one with death.* (#1), *breathe in this death-choked air once more...* (#71).
+  - **Trumpeter:** el sonido del fin: *The sound of the end of days has already echoed.* (#1), *the mystic threnody* (#1), *The music of my trumpet that sounds the end of days...* (#71).
+  - **White Rider:** la victoria: *I am the white knight! I am victory incarnate!* (#1), *We shall walk the path of righteous conquest as white knight and Hunter!* (#71). El más exclamativo.
+  - #25 (trueque): *Only one thing interests me in trade... / Souls.* en siete; *Do treasures slumber in the depths of the abyss, or beyond it...?* en David y Mother Harlot.
+  - #54 (el jugador se echa atrás): *Did you get cold feet, Hunter?* (Mat, Trum, White), *Did you get cold feet?* (Black), *...Have you grown afraid, Hunter?* (David, Mother), *...Have you lost your nerve, warrior?* (Pale), *No longer so certain, are you?* (Shadow).
+- **Muletillas y tics:** risa *Kakakakakaka...!* (#21, #27), igual en todos; *Very well, very well!* (#27); *Ahhh... How exquisite... What a rare life force...* (#48, #51); fórmula de pedir *Your stamina... I request a little of it.* (#32).
+- **Groserías:** ninguna.
+- **Fórmulas comunes:** *Your stamina... I request a little of it. / some of it. / a lot of it. / enough to bring you to death's door.* (#32-35; *Your spirit...*, #36-39). *{objeto} x{cantidad} is my price.* (#30), *{cantidad} Macca is my price.* (#31). *Death... Your demon there...! I ask for the life of {demonio}.* (#40). Acción propia (#46-53): pide tocar la vida del jugador (opciones *”Very well.” ”I think not.”*, #47) y la narración cuenta el efecto (*〉 The Fiend gently touched {nombre}...*, #49, #52; *〉 {nombre} felt his stamina ebb...*, #50; *〉 {nombre} lost his life...*, #53).
+- **Ejemplos:** battle/talk/TalkToneMajinBlack.mbm#43, #56, #63; los #1 de cada archivo.
+- **Notas:**
+  - La narración #50 y #53 dice *his* del nombre insertado (E-42): conviene redactarla sin pronombre con género.
+  - Diferencias menores entre archivos que conviene unificar en español: *How dreadful is man's attachment to gold...* (#19) cierra con *!* en Black y con *...* en el resto; *abyss of Death* / *abyss of death* (#23); *What a pitiful life.* / *...* (#60); *Your stamina I request a lot of it.* (#34 de David, sin los puntos suspensivos).
+  - battle/talk/TalkToneShiki10.mbm repite esta misma plantilla con otra traducción inglesa ([talk-shiki10.md](talk-shiki10.md)).
+- **Fuente:** los nueve archivos completos (49 textos en ocho, 48 en MajinRed: #1, #18-41, #43-64, #70, #71), comparados línea por línea.

@@ -1,0 +1,27 @@
+# Personalidad: Girl (TalkToneGirl)
+
+- **Género:** no se marca (E-41). Ojo: aunque la voz se llama *Girl*, nada asegura que solo la usen demonios femeninos, y la línea tiene que poder decirla un demonio de cualquier género. Aquí, a diferencia de Boy, el inglés sí marca a quien habla en varias líneas:
+  - *I'm a big girl, so I'll put that aside!* (battle/talk/TalkToneGirl.mbm#64); *You need to be nicer to girls, you know?* (#136); *Your work involves talking to girls?* (#267); *Why don't you become my only big brother?* (#218) y *You'd do anything for your little sister, right?* (#358).
+  - En las opciones y la narración: *Stop her*, *Say something to her* (#132, #141), *Propose to her*, *Bow to her* (#293); *Because you're a girl.* (#354, opción del jugador, con la respuesta *That's sexist, Mister.*, #355); *That makes you the little sister.* (#219).
+  - Según DECISIONS 2026-11-09, se redacta sin marcar el género cuando se puede y, si la línea lo exige (#218-219, #354-355, la pareja *big brother / little sister*), va a delicadas y a PENDING. Queda pendiente para el usuario.
+- **Trato:** propuesta, pendiente de aprobación (E-30): **tú** con el jugador. Lo llama **Mister** casi siempre (*Mister, you're handsome!*, #17; *Your HP, Mister...*, #32-39; *Thank you, Mister!*, #152; *Um, old Mister?*, #251), con mimo y burla a la vez; el *Mister* no pide *usted* (igual que en Boy). También **human** (#16) y, al enojarse, *scumbag* (#22), *loser* (#168), *jerk* (#351).
+- **Registro:** infantil, coqueto y cruel. Habla dulce y cambia de golpe a la amenaza sin subir el tono: *Hehehe... Let's have a massacre together, okay?* (#67); *Fine, then--I'll kill you.* (#57, #59, #155, #195); *Your life!* (#318). Juega a las mascotas y los esclavos (*Then I'll go get the collar and leash!*, #323; *You're my slave from now on!*, #328). Pide con *I want* (*Ummm... I want that.*, #41) más que con órdenes. Contracciones de niña: *gimme* (#5), *wanna* (#18, #116), *gonna* (#263).
+  - De época (E-31): no.
+- **Muletillas y tics:**
+  - *Hey, hey--* para insistir (*Hey, hey--give me something.*, #43; #17); *huh?* al final (*That makes us friends, huh?*, #66); *Okay?* al final (#115, #129, #135); *Mister* como coletilla (*Can I bite you, Mister?*, #46).
+  - Risas: *Hehehe...* (#1, #67, #68, #69, #114, #284), *Hehe!* (#73), *Hahaha!* (#154, #234), *Haha!* (#305), *Hehehe. You'd do anything...* (#358).
+  - Exclamaciones: *Whee!* (#27), *Yay!* (#55, #313, #323, #328), *Ohhh!* (#9, #105, #112, #326), *Ahh!* (#17), *Eek!* (#142, #183), *Ewww, gross...* (#125), *Hmph!* (#56, #301), *Huuuh!?* (#298), *Aww* (#54, #197), *\*sniff\* \*sniff\** (#19). La *o* alargada de *a looot* (#35, #39) y *Pleeease?* (#321) se conservan.
+  - Tartamudeo cuando tiene miedo: *M-Mister?* (#243), *I... I'm scared...* (#243), *I... I'm sorry!* (#270) (E-55).
+- **Groserías:** pocas y leves: *scumbag* (#22), *loser* (#168), *jerk* (#351), *pain in the butt* (#197, #329), *You pervert!* (#228), *cheap-o* (#56), *scared-y cat* (#54), *stupid* (*Humans really are stupid, huh?*, #138, #148). Igualar la intensidad (E-22).
+- **Fórmulas comunes:** mismo índice que en [personalidad-boy.md](personalidad-boy.md). En esta voz:
+  - Aceptar unirse: *Okay, I'll become your ally!* (#4); *I'll become an ally, too!* (#14); súplica *Please, save me! I'll become your ally! Okay?* (#115, #129, #137, #147, #156; idéntica, se traduce igual, E-60).
+  - Presentación: *I'm <raza> <nombre>. Nice to meet you.* (#7).
+  - Pedir objeto o macca: *I really want {objeto} x{cantidad}.* (#30), *I want {cantidad} Macca.* (#31), *Ummm... I want that.* (#41). Cerrar con macca: *I want to settle this with Macca... / {cantidad} Macca! That's good, right?* (#29).
+  - PS y PM en cuatro grados, con el nombre del recurso delante: *Your HP, Mister... I want a little / some / a lot / a looot of it...* (#32-35; MP, #36-39).
+  - Vida de un demonio aliado: *Give me {demonio}'s life.* (#40).
+- **Trampas de género (E-41):** además de las líneas marcadas arriba: *your ally* (#4, #14, #115) y *your friend* (#67) («aliado/aliada», «amigo/amiga»): con verbo («me uno a ti») o con el plural con el jugador («seamos amigos»). *I'm so happy* (#44), *I'm bored* (#63), *I was lonely* (#71), *I'm scared* (#243), *I'm jealous* (#269), *I'm so embarrassed* (#256), *I'm sad* (#329), *I'm so lonely* (#347), *Are they shy?* (#13), *I've actually lived a long time* (#256): sin adjetivos con género para quien habla («¡Qué miedo!», «¡Qué vergüenza!»). En #9 *Take care of her!* el pronombre marca el género del otro demonio (E-42).
+- **Ejemplos:** battle/talk/TalkToneGirl.mbm#32 (pide PS con *Mister*), #67 (dulzura y masacre), #321-328 (la mascota con collar).
+- **Notas:**
+  - Delicadas (E-23): la pareja *big brother / little sister* (#218-219, #358) y *Because you're a girl.* (#354-355) dependen del género; *old Mister* / *granny* (#251-256) juegan con la edad de los dos.
+  - Línea #61 (*You don't have a Life Stone...?*): *Life Stone* → «Piedra vital» (GLOSSARY).
+- **Fuente:** el archivo completo, battle/talk/TalkToneGirl.mbm#1-359 (294 textos; sin *Blank Line*, *Not Used* ni *Dummy Message*), con las opciones del jugador y la narración como contexto.

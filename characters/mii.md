@@ -7,7 +7,7 @@ Habla siempre junto a Kei, en líneas alternadas, y a veces repite o completa lo
   - **Ustedes** con el grupo de Nanashi (*Either you take Toki or you take responsibility...*, e060#31) (E-11); **tú** si se dirige a uno (*I wonder just how far you'd go to get that information...*, e060#10).
   - **Tú** con Toki, de jefa a subordinada, con cariño falso (*Toki. Be a dear.*, e060#13; *Toki, now's the time for you to do your thing. Don't mess it up.*, e060#46).
   - **Tú** con Kei (Kei le dice *do you Mii?*, e060#5).
-  - Cómo traducir *Lady/Ladies* y *Master* (Toki dice *Master Mii and Kei*, battle/talk/TalkToneBoss65.mbm#1) lo decide el glosario.
+  - Cómo traducir *Lady/Ladies* y *Master* (un Gaea Man dice *Master Mii and Kei*, battle/talk/TalkToneBoss65.mbm#1, según battle/NKMBaseTable.tbb; ver talk-boss65.md) lo decide el glosario.
 - **Registro:** casual, de anciana socarrona y amenazante. Sugiere más de lo que dice, con frases que quedan colgando (*I wonder just how far you'd go...*, e060#10) y amabilidad venenosa. Coquetea con descaro con los jóvenes (*Good timing, I've been looking for a nice young hunk of man.*, e060#1; *I was so eager to stroke his little chin*, e060#6).
 - **Muletillas y tics:**
   - Risa propia, alargada: *Eehehehe...* (e060#1, #16), *Eeheehee...* (e060#35). La de Kei se parece; conviene que cada una conserve la suya.

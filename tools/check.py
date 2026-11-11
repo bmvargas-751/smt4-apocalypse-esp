@@ -10,6 +10,7 @@ códigos, saltos, caja, bytes y caracteres son de IVA.
 """
 import argparse
 import json
+import functools
 import re
 import sys
 import unicodedata
@@ -70,6 +71,13 @@ def term_rx(t_es):
         else:
             parts.append(re.escape(w))
     return re.compile(r"(?<!\w)" + r"\s+".join(parts) + r"(?!\w)", re.I)
+
+
+@functools.cache
+def glossary_rx():
+    """Los términos del glosario, del más largo al más corto, con sus dos expresiones."""
+    return [(t_en, t_es, re.compile(rf"(?<![A-Za-z]){re.escape(t_en)}(?![A-Za-z])"), term_rx(t_es))
+            for t_en, t_es in sorted(corpus.glossary(), key=lambda t: -len(t[0]))]
 
 
 def plain(s):
@@ -154,8 +162,15 @@ def check(key, es):
     le, ls = len(ven), len(ves)
     if ls > le * 1.6 + 20:
         warn("largo", "E-3", f"{ls} caracteres; el inglés tiene {le}")
-    for t_en, t_es in corpus.glossary():
-        if re.search(rf"(?<![A-Za-z]){re.escape(t_en)}(?![A-Za-z])", ven) and not term_rx(t_es).search(plain(ves)):
+    # del término más largo al más corto: si «Ring of Gaea member» → «Miembro de Gea» está,
+    # su texto inglés ya no cuenta para «Ring of Gaea» → «Anillo de Gea»
+    rest = ven
+    for t_en, t_es, rx_en, rx_es in glossary_rx():
+        if not rx_en.search(rest):
+            continue
+        if rx_es.search(plain(ves)):
+            rest = rx_en.sub(" ", rest)
+        else:
             warn("glosario", "G-3", f"{t_en} → {t_es}")
     return out
 
