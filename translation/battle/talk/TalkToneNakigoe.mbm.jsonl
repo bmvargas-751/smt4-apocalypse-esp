@@ -1,35 +1,199 @@
+{"key": "battle/talk/TalkToneNakigoe.mbm#1", "es": "{F871}{0100}¡Grrrrrrr! ¡Hrr!{F801}¡Hssssssssss!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#7", "es": "{F871}{0100}¡{F804}{0500}{F875}{0100} {F873}{0100}{F804}{0000}!{F801}¡Hisssssssss!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#9", "es": "{F871}{0100}¡Hssssssssssss!{F801}¡Rah! ¡Hrrrrrrrrrrrrrrrrah!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#12", "es": "{F871}{0100}¡Grrrrrrrr! ¡Hrrr!{F801}¡Hissssssssssss!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#16", "es": "{F871}{0100}¡Hsssssssss!{F801}¡{F873}{0200}! ¡Hiss! ¡Hiss!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#47", "es": "Reservado{F801}Reservado{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#66", "es": "{F871}{0100}¡Hssssssss! ¡Hssssss!{F801}¡Hraaaaah!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#71", "es": "{F871}{0100}¡Hssssssssss! ¡{F843}{0000}!{F801}¡Hrrrrrr hrraaaaah!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#72", "es": "{F871}{0100}¡Hss... Hss hssss...!{F801}¡Hraaaaaaah!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#101", "es": "〉 El demonio está en guardia...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#102", "es": "Bajar el arma{F801}Ponerse en guardia{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#103", "es": "{F871}{0100}Necio...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#104", "es": "{F871}{0100}Eres valiente. Eso me gusta. Te escucharé.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#105", "es": "{F871}{0100}Tsk... No hay ningún hueco.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#106", "es": "{F871}{0100}Espera, tengo ganas de pelear.{F801}{F802}Perdóname por esto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#107", "es": "{F871}{0100}Los humanos dan miedo...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#109", "es": "〉 El demonio se te acerca...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#110", "es": "Hacerse a un lado{F801}Levantar el arma{F801}No moverse{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#111", "es": "〉 ¡{F843}{0000} esquiva al demonio!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#112", "es": "{F871}{0100}No tenías que evitarme. Déjame escucharte.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#113", "es": "〉 El demonio te alcanza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#114", "es": "{F871}{0100}¡Por favor, perdóname! ¡Negociemos!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#115", "es": "{F871}{0100}Tsk, lo notaste...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#116", "es": "{F871}{0100}Eres valiente...{F801}{F802}Te escucharé.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#117", "es": "{F871}{0100}Eres valiente...{F801}{F802}...¡¿Eso esperabas que te dijera?!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#119", "es": "〉 El demonio te hace señas...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#120", "es": "Acercarse{F801}Responder con señas{F801}Levantar el arma{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#121", "es": "{F871}{0100}¡Caíste!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#122", "es": "{F871}{0100}Quería darte esto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#123", "es": "{F871}{0100}Adiós.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#124", "es": "{F871}{0100}Quería prestarle mi poder a un humano.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#125", "es": "{F871}{0100}Qué ser tan siniestro...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#126", "es": "{F871}{0100}Nos llevamos bien. Te escucharé.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#127", "es": "{F871}{0100}¡Necio!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#128", "es": "{F871}{0100}¡Por favor, perdóname la vida! ¡Negociaré contigo!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#130", "es": "〉 El demonio intenta irse...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#131", "es": "Detener al demonio{F801}Ignorar al demonio{F801}Levantar el arma{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#132", "es": "{F871}{0100}Muy bien, ¡negociemos!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#133", "es": "{F871}{0100}Tengo prisa, con permiso.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#134", "es": "{F871}{0100}No tienes que ser tan frío.{F801}Hablemos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#135", "es": "{F871}{0100}No tienes que ser tan frío.{F801}Deberías ser más amable con los demonios.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#136", "es": "{F871}{0100}¡Por favor, perdóname la vida! ¡Negociaré contigo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#137", "es": "{F871}{0100}Los humanos sí que son necios.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#139", "es": "〉 El demonio te ignora...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#140", "es": "Decirle algo{F801}Llamar su atención{F801}Amenazar al demonio{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#141", "es": "{F871}{0100}¡Déjame en paz!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#142", "es": "{F871}{0100}Muy bien. Escucharé lo que tengas que decir.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#143", "es": "〉 {F843}{0000} baila una danza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#144", "es": "{F871}{0100}Qué estupidez...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#145", "es": "〉 {F843}{0000} baila una danza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#146", "es": "{F871}{0100}Qué humano tan divertido. Aceptaré negociar.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#147", "es": "{F871}{0100}¡Por favor, perdóname la vida! Escucharé lo que tengas que decir.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#148", "es": "{F871}{0100}Los humanos sí que son necios.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#150", "es": "{F871}{0100}¡Por favor, déjame ir!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#151", "es": "Perdonar{F801}No perdonar{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#152", "es": "{F871}{0100}Gracias.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#153", "es": "{F871}{0100}Aquí tienes un regalo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#154", "es": "{F871}{0100}¡Caíste!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#155", "es": "{F871}{0100}Entonces no me queda otra...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#156", "es": "{F871}{0100}Te escucharé, así que déjame vivir.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#158", "es": "{F871}{0100}Eres {F843}{0000}.{F801}He oído hablar de ti.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#159", "es": "{F871}{0100}¡Ser malvado! ¡Te destruiré!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#160", "es": "{F871}{0100}¿Por qué no me dejas aliarme contigo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#161", "es": "{F871}{0100}No quiero tener nada que ver contigo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#163", "es": "{F871}{0100}¡No puedo confiar en los humanos!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#164", "es": "“Exacto.”{F801}“Eso no es cierto.”{F801}“Soy un humano de confianza.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#165", "es": "{F871}{0100}Y tú eres igual.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#166", "es": "{F871}{0100}Eres una persona razonable.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#167", "es": "{F871}{0100}¡Eres un necio sin remedio!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#168", "es": "{F871}{0100}Entonces haz que confíe en ti.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#169", "es": "{F871}{0100}¡No puedo confiar en quienes dicen eso!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#170", "es": "{F871}{0100}Entonces haz que confíe en ti.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#172", "es": "{F871}{0100}Me interesan los humanos.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#173", "es": "Amistosamente{F801}Con prepotencia{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#174", "es": "{F871}{0100}Eres espeluznante...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#175", "es": "{F871}{0100}Eres justo como pensé.{F801}Negociemos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#176", "es": "{F871}{0100}Ya se me quitaron las ganas.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#177", "es": "{F871}{0100}Estás lleno de dignidad, tal como imaginé... Empecemos a negociar.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#179", "es": "{F871}{0100}Buaaaaah...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#180", "es": "〉 El demonio está llorando.{F801}¿Qué harás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#181", "es": "Mostrar preocupación{F801}Ignorar al demonio{F801}Darle una palmada en el hombro{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#182", "es": "{F871}{0100}¡No estoy llorando!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#183", "es": "{F871}{0100}¡No me ignores!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#184", "es": "{F871}{0100}¿Qué quieres?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#186", "es": "{F871}{0100}A veces bostezas así, ¿eh?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#187", "es": "“Nop.”{F801}“Sí.”{F801}“Yo duermo cuando tengo sueño.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#188", "es": "{F871}{0100}Ficticio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#189", "es": "{F871}{0100}Ficticio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#190", "es": "{F871}{0100}Ficticio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#192", "es": "{F871}{0100}Preocúpate un poco por mí.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#193", "es": "“¿Qué te pasa, criatura?”{F801}“Ya no estás llorando.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#194", "es": "{F871}{0100}¡No me trates como a una criatura!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#197", "es": "{F871}{0100}¿Qué piensas hacer conmigo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#198", "es": "“Matarte.”{F801}“¿Te unirás a mí?”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#202", "es": "{F871}{0100}¡Ya sé que los humanos son estúpidos!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#203", "es": "Ignorar al demonio{F801}Negar con la cabeza{F801}Asentir en silencio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#208", "es": "{F871}{0100}No has dicho nada.{F801}¿Eres un muñeco?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#209", "es": "“Soy un muñeco.”{F801}“Soy un humano.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#213", "es": "{F871}{0100}¿Quieres hacer un acertijo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#214", "es": "“Claro.”{F801}“No tengo tiempo para eso.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#218", "es": "{F871}{0100}“¿Qué tiene un pobre que un rico necesita?” ¡Respóndeme eso!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#219", "es": "“Nada.”{F801}“Dignidad.”{F801}“Al diablo con eso.”{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#224", "es": "{F871}{0100}¡Guajajajajajaja! ¡Jajajajaja!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#225", "es": "〉 El demonio se retuerce de risa.{F801}¿Qué harás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#226", "es": "Reír con el demonio{F801}Taparse los oídos{F801}Ponerse en guardia{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#227", "es": "{F871}{0100}¿De qué te ríes?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#228", "es": "{F871}{0100}Escucha lo que estoy diciendo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#231", "es": "{F871}{0100}Eres un niño.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#232", "es": "“El niño ERES TÚ.”{F801}“Perdón, profe.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#236", "es": "{F871}{0100}Qué persona tan grosera, no me escuchas.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#237", "es": "“¿Qué debería hacer?”{F801}“Te daré dulces.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#241", "es": "{F871}{0100}¿Qué tal estuvo mi canción?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#242", "es": "“¿Eso era una canción?”{F801}“Me conmovió.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#243", "es": "{F871}{0100}¡¿Qué?!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#246", "es": "{F871}{0100}¿Te estás divirtiendo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#247", "es": "“Sí.”{F801}“Quizá si te unes a mí.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#248", "es": "{F871}{0100}¡Entonces haz que me divierta!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#251", "es": "{F871}{0100}¡Tú! ¡Inclínate!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#252", "es": "〉 El demonio te mira fijamente.{F801}¿Qué harás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#253", "es": "Agachar la cabeza{F801}Ponerse de rodillas{F801}Ignorar al demonio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#254", "es": "{F871}{0100}¿Se te cayó algo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#255", "es": "{F871}{0100}¿Por qué estás triste?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#258", "es": "{F871}{0100}Recoge esa cosa.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#259", "es": "“Recógelo tú.”{F801}“No hay nada ahí.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#263", "es": "{F871}{0100}¿Por qué estás tan sombrío?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#264", "es": "“Te conocí.”{F801}“Escucha mis problemas.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#268", "es": "{F871}{0100}¡Hmph! ¡No escucharé a los humanos!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#269", "es": "“Por favor...”{F801}“Entonces olvídalo.”{F801}“Entonces di algo.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#270", "es": "{F871}{0100}Si me das algo, hablaré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#271", "es": "{F871}{0100}Oh, no digas eso. Te escucharé.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#272", "es": "{F871}{0100}¡Juguemos a perseguirnos!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#274", "es": "{F871}{0100}¿Qué me vas a dar?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#275", "es": "Darle dulces{F801}Darle agua{F801}Darle licor{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#276", "es": "{F871}{0100}¡No me trates como a una criatura!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#277", "es": "{F871}{0100}¡Justo me dio sed!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#278", "es": "{F871}{0100}¡Me emborraché!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#280", "es": "{F871}{0100}Entonces, ¿qué quieres escuchar de mí?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#281", "es": "“Únete a mí.”{F801}“Olvídalo.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#285", "es": "{F871}{0100}¿T-Tú no me vas a matar así de repente, verdad?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#286", "es": "“Te mataré.”{F801}“No te mataré.”{F801}“¿Qué debería hacer?”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#287", "es": "{F871}{0100}¡Nooooo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#288", "es": "{F871}{0100}*uf* Gracias.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#291", "es": "{F871}{0100}¿De verdad me vas a matar?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#292", "es": "“Es mentira.”{F801}“Es la verdad.”{F801}“Es mentira de verdad.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#297", "es": "{F871}{0100}Matar está de moda ahora, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#298", "es": "“Es popular.”{F801}“No no.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#302", "es": "{F871}{0100}Entonces, ¿de verdad me vas a matar?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#303", "es": "“Así es.”{F801}“La verdad no.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#307", "es": "{F871}{0100}Ejejeje... Qué coincidencia encontrarnos aquí.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#308", "es": "“Sí, ¿eh?”{F801}“La verdad no.”{F801}“Entonces únete a mí.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#309", "es": "{F871}{0100}¡Lo sabía!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#310", "es": "{F871}{0100}¿No es una coincidencia...?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#311", "es": "{F871}{0100}¿Qué debería hacer...?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#313", "es": "{F871}{0100}¿Hay una razón por la que nos encontramos aquí?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#314", "es": "“No hay razón.”{F801}“Un capricho del destino.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#318", "es": "{F871}{0100}¿No existe algo como el destino?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#319", "es": "“Así que te diste cuenta.”{F801}“Nadie sabe la respuesta.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#323", "es": "{F871}{0100}¿Qué quieres de mí si nos aliamos?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#324", "es": "“Tu habilidad.”{F801}“Tu cuerpo.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#328", "es": "{F871}{0100}Estoy en un verdadero aprieto... ¿Me darías eso?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#329", "es": "“Claro.”{F801}“Ni hablar.”{F801}“No gratis.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#330", "es": "{F871}{0100}¡Yupi!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#331", "es": "{F871}{0100}¡¿Qué?!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#332", "es": "{F871}{0100}Awwww...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#334", "es": "{F871}{0100}Entonces, ¿peleamos por eso?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#335", "es": "“No pienso hacerlo.”{F801}“Eso no me conviene.”{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#339", "es": "{F871}{0100}Entonces, ¿qué deseas?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#340", "es": "“Un amigo.”{F801}“Un sueño.”{F801}“Amor.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#345", "es": "{F871}{0100}¡Oye, humano! ¡Hazle lugar a un demonio!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#346", "es": "“¿Y eso qué?”{F801}“Deja de fingir que eres duro.”{F801}“Y el gran humano también.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#347", "es": "{F871}{0100}¡No tiene miedo...!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#348", "es": "{F871}{0100}Tienes razón.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#349", "es": "{F871}{0100}¡¿Qué?!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#351", "es": "{F871}{0100}¡¿Quién eres?!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#352", "es": "“Yo.”{F801}“No lo sé.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#356", "es": "{F871}{0100}¡¿Estás diciendo que eres mejor que yo?!{F801}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#357", "es": "“Así es.”{F801}“Fui demasiado duro.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#358", "es": "{F871}{0100}¡Soy mejor que tú!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#359", "es": "{F871}{0100}Yo también exageré. Lo siento.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#361", "es": "{F871}{0100}Oye, me está dando hambre...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#362", "es": "“¿Y?”{F801}“¿Quieres comer algo?”{F801}“Yo también tengo hambre.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#363", "es": "{F871}{0100}No seas tan frío. ¡Déjame comerte un poco, señor!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#364", "es": "{F871}{0100}¿Me darás algo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#365", "es": "{F871}{0100}Todos tienen hambre, ¿eh...?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#367", "es": "{F871}{0100}Puedo comerme tu brazo izquierdo, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#368", "es": "“Solo un poquito.”{F801}“No vuelve a crecer, así que no.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#369", "es": "{F871}{0100}¡Yupi! ¡Gracias por la comida!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#371", "es": "{F871}{0100}¡Tacaño!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#373", "es": "{F871}{0100}Oh, esa comida no me gusta.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#374", "es": "“Entonces no te la daré.”{F801}“Entonces muérete de hambre.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#378", "es": "{F871}{0100}Señor, ¿cuánto tiempo puedes sobrevivir sin comer?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#379", "es": "“Tres días es el límite.”{F801}“Un año sin problemas.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#380", "es": "{F871}{0100}Eres malísimo, señor. No quiero aliarme con alguien tan débil.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#381", "es": "{F871}{0100}¡Guau!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#383", "es": "{F871}{0100}¡Quiero tener un amigo humano! Ahora, ¡démonos la mano para mostrar nuestra amistad!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#384", "es": "Darle la mano{F801}Dejar la mano en el aire{F801}Ponerse una tachuela en la mano{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneNakigoe.mbm#385", "es": "{F871}{0100}Guau, qué agarre...{F801}No quiero pelear con ese sujeto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#386", "es": "{F871}{0100}¡Guau! Oye, ¡¿me estás mostrando tu mano hábil...?!{F801}{F802}¡Debes confiar mucho en mí!{F801}¡Déjame unirme a ti!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneNakigoe.mbm#387", "es": "〉 ¡Pero el demonio tenía la mano llena de tachuelas!{F801}{F802}{FFFF}"}

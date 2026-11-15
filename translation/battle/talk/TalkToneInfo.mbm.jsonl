@@ -210,3 +210,53 @@
 {"key": "battle/talk/TalkToneInfo.mbm#301", "es": "{F871}{0100}Mi sueño de un capullo en lo alto del cielo negro...{F801}{F802}Quiero ir allí algún día. {F801}¿Me llevarás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneInfo.mbm#302", "es": "{F871}{0100}Por tu culpa olvidé en qué pensaba. Meh, lo pensaré de nuevo.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneInfo.mbm#304", "es": "{F871}{0100}¿Qué miras, humano?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#305", "es": "“Intentaba no molestarte.”{F801}“Esperaba a que lo notaras.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#306", "es": "{F871}{0100}Entonces me gustaría que te fueras. {F801}Eres bastante desconsiderado.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#307", "es": "{F871}{0100}Pues di algo, bobo. {F801}Te vas a convertir en un topo a rayas.{F801}{F802}Si quieres ser mi amigo, es fácil.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#309", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}Oh, humano. Solo estaba pensando.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#310", "es": "“¿En qué?”{F801}“¿En cómo matar humanos?”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#311", "es": "{F871}{0100}En un pájaro que cría un huevo en un árbol enorme... ¡Oh, eso es un secreto!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#312", "es": "{F871}{0100}Exacto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#314", "es": "{F871}{0100}Seguro que hay muchas cosas, pero quizá somos iguales. ¿Cómo me ves?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#315", "es": "“Una criatura aterradora.”{F801}“Una criatura gentil.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#316", "es": "{F871}{0100}Los demonios se asustan cuando los humanos se asustan. {F801}Eres un bobo aburrido.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#319", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}Jeje... ¿Me ves así? {F801}¿Crees que a los demonios les gustan los humanos?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#320", "es": "“Odian a los humanos.”{F801}“Les gustan los humanos.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#321", "es": "{F871}{0100}Hmmm, en realidad no los odio. {F801}Los humanos y los demonios son iguales, después de todo.{F801}{F802}*risita*{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#322", "es": "{F871}{0100}Los humanos y los demonios son como... jugar a perseguirse sobre una pelota.{F801}{F802}Si te atrapan, es el adiós del hola.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#324", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}¿Recuerdas el hola del adiós sobre una pelota?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#325", "es": "{F871}{0100}Puñito, y ya somos aliados.{F801}¡Puñito, puñito, pum!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#327", "es": "{F871}{0100}{F813}{0A00}{0000}{0A00}{0000}¿Género y edad? ¿Qué es eso? {F801}Los humanos son graciosos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#328", "es": "“Es lo normal.”{F801}“Tu cara es graciosa.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#329", "es": "{F871}{0100}{F813}{0A00}{0000}{0A00}{0000}Hmm, lo normal de los humanos es gracioso. {F801}Lo normal de los demonios no tiene nada de eso.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#330", "es": "{F871}{0100}{F813}{0A00}{0000}{0A00}{0000}A los humanos les gusta decidir las cosas por los demás.{F801}¿Yo? Solo me gustan las cosas divertidas.{F801}{F802}¿Qué tal si juegas conmigo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#332", "es": "{F871}{0100}{F813}{0A00}{0000}{0A00}{0000}Hmm, espeluznante, ¿eh? ¿Qué es igual y qué es diferente?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#333", "es": "“Tú y yo somos iguales.”{F801}“Tú y tus amigos son diferentes.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#334", "es": "{F871}{0100}Oooh, eres listo. El mundo es tan grande, y yo tengo un grano de arena.{F801}{F802}Pareces divertido, así que iré contigo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#335", "es": "{F871}{0100}Hmmm. Lo sé, pero no lo sé. {F801}Entonces, todo es lo mismo.{F801}{F802}¡Muy bien, iré a preguntarle a alguien!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#337", "es": "{F871}{0100}¿Sabes lo que yo no sé?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#338", "es": "“Realmente no hay razón.”{F801}“El cielo simplemente es negro.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#339", "es": "{F871}{0100}Apuesto a que eres un idiota, ¿eh?{F801}Todo tiene una razón.{F801}{F802}¿Todos los humanos son idiotas?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#340", "es": "{F871}{0100}Los humanos solo tienen dos ojos, así que no pueden verlo todo, ¿eh?{F801}{F802}¡Deciden las cosas de una forma y se quedan atascados ahí!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#342", "es": "{F871}{0100}Una isla negra gigante se tragó el cielo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#343", "es": "“Deja de mentir.”{F801}“¿Dónde está esa isla?”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#344", "es": "{F871}{0100}Hmmm, entonces sí eres algo listo. {F801}Pero tampoco es mentira.{F801}{F802}La gente solo ve lo que quiere. {F801}Nadie sabe la verdad.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#345", "es": "{F871}{0100}¡Claro que eso no existe! {F801}Es lo que soñé anoche.{F801}{F802}Pero es verdad que el mundo de los sueños te muestra un poquito de la verdad.{F801}{F802}¿Quieres buscarlo juntos?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#347", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}Una rana negra gigante debe de estar inflando la panza muuuuy arriba.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#348", "es": "“¿En serio?”{F801}“No exageres.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#349", "es": "{F871}{0100}{F813}{0A00}{0000}{0A00}{0000}¡Yo qué voy a saber! Pero podría ser verdad.{F801}{F802}Si quieres saber más secretos del mundo, dame algo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#350", "es": "{F871}{0100}Qué humano tan grosero. Entonces no te diré nada.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#352", "es": "{F871}{0100}O quizá sea un fantasma. SÍ habla...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#353", "es": "Explicar que eres humano{F801}Burlarse del error del demonio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#354", "es": "{F871}{0100}Oh, ¿eres humano? Eres el primero que veo.{F801}{F802}¿Puedo jugar un poco contigo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#355", "es": "{F871}{0100}{F813}{0A00}{0000}{0A00}{0000}Qué raro... Conozco muchas criaturas.{F801}{F802}Humano, humano, humano... {F801}Está bien, ahora lo recordaré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#357", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}¡Ooh, un humano! Es la primera vez que {F801}veo uno que habla.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#358", "es": "“Todos los humanos hablan.”{F801}“¿Con qué me estás confundiendo?”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#359", "es": "{F871}{0100}¡¿Qué, en serio?! Eso está genial.{F801}{F802}Todos los demonios también hablan. Haré amistad contigo.{F801}{F802}*risita*{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#360", "es": "{F871}{0100}¿Eh? ¿Es así? ¿Con qué te confundí?{F801}{F802}Debería intentar hablar también con las hormigas. {F801}Quizá haya un tipo nuevo.{F801}{F802}Jeje...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#362", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}Es que es un humano. ¡Es la primera vez que veo uno!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#363", "es": "“¿Tan raros somos?”{F801}“Los humanos no son tan pocos.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#364", "es": "{F871}{0100}¿No te sorprenderías al encontrarte con algo por primera vez?{F801}{F802}Sería como ver el sol, la luna y las estrellas al mismo tiempo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#365", "es": "{F871}{0100}Como las flores, los demonios también somos pocos.{F801}{F802}{F813}{0A00}{0000}{0000}{0000}Hagamos crecer algunos, bebé.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#367", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}¡Oooh, negociaciones! Si te ayudo, ¿me haré más fuerte?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneInfo.mbm#368", "es": "“Te harás más fuerte.”{F801}“Te convertirás en material de fusión.”{F801}{F802}{FFFF}"}
