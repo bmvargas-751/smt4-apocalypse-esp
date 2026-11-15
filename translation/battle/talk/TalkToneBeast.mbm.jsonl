@@ -1,15 +1,252 @@
+{"key": "battle/talk/TalkToneBeast.mbm#1", "es": "{F871}{0100}YO TE COMER ENTERO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#2", "es": "{F871}{0100}TÚ ATACAR PRIMERO. YO QUERER MUCHO...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#3", "es": "{F871}{0100}GRRRRR...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#4", "es": "{F871}{0100}¡MI CORAZÓN LLENO!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#5", "es": "{F871}{0100}PRIMERO REGALO...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#6", "es": "{F871}{0100}HRM... TU TELÉFONO LLENO. YO NO CABER.{F801}{F802}ALIADO DEBER ESPERAR...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#7", "es": "{F871}{0100}YO {F804}{0500}{F875}{0100} {F873}{0100}{F804}{0000}.{F801}¡SER BUENO CONOCERTE!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#8", "es": "{F871}{0100}HRM... TÚ DÉBIL. MI NIVEL FUERTE.{F801}{F802}ADIÓS...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#9", "es": "{F871}{0100}HRM... AMIGO YA SER ALIADO. SALUDAR POR MÍ.{F801}{F802}ADIÓS...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#10", "es": "{F871}{0100}YO BUSCAR COMPAÑÍA DE VIAJE.{F801}CAZAR JUNTOS MÁS DIVERTIDO...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#11", "es": "{F871}{0100}HRM... TU TELÉFONO LLENO. NO CABER AMIGOS.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#12", "es": "{F871}{0100}ALGUIEN LLAMAR A MÍ...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#13", "es": "{F871}{0100}CADA UNO TENER SU CAMINO. YO CAZAR POR MI CUENTA.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#14", "es": "{F871}{0100}YO TAMBIÉN ALIARSE. TÚ NO OLVIDAR.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#15", "es": "{F871}{0100}YO PRESENTAR COMPAÑÍA DE CAZA.{F801}TÚ ESPERAR.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#16", "es": "{F871}{0100}{F873}{0200} LLAMAR A MÍ. YO AYUDAR...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#18", "es": "{F871}{0100}ESOS OJOS... IGUAL QUE BESTIA HAMBRIENTA...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#19", "es": "{F871}{0100}TOKIO, JUNGLA ATERRADORA...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#20", "es": "{F871}{0100}...¡YO TE COMER CON MACCA!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#21", "es": "{F871}{0100}¡¿A...A...AUUUUUUUUU?!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#22", "es": "{F871}{0100}...¡¿POR QUÉ HUMANOS SEGUIR QUERIENDO?!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#23", "es": "{F871}{0100}YO PROTEGERME... TU CULPA...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#24", "es": "{F871}{0100}¡NO! ¡SER TRAMPA!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#25", "es": "{F871}{0100}¿TÚ QUERER REGALO? ENTONCES TRUEQUE.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#26", "es": "{F871}{0100}BUENO... YO COMPARTIR REGALOS. ¡CONTIGO!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#27", "es": "{F871}{0100}¡AUUUUUUUUU! ¡YO SENTIR BIEN!{F801}{F802}¡FIESTA! ¡FIESTA! ¡TÚ TOMAR REGALO!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#28", "es": "{F871}{0100}¡TÚ BUEN TIPO! TOMAR ESTO TAMBIÉN.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#29", "es": "{F871}{0100}TÚ MOSTRAR DE QUÉ ESTAR HECHO.{F801}{F802}{F878}{0100} MACCA. YO DECIDIR CON ESO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#30", "es": "{F871}{0100}DAR {F872}{0100} x{F878}{0100}.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#31", "es": "{F871}{0100}DAR {F878}{0100} MACCA.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#32", "es": "{F871}{0100}TÚ, DAR UN POCO DE PS.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#33", "es": "{F871}{0100}TÚ, DAR ALGO DE PS.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#34", "es": "{F871}{0100}TÚ, DAR MUCHOS PS.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#35", "es": "{F871}{0100}¡TÚ, DAR MONTONES DE PS!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#36", "es": "{F871}{0100}TÚ, DAR UN POCO DE PM.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#37", "es": "{F871}{0100}TÚ, DAR ALGO DE PM.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#38", "es": "{F871}{0100}TÚ, DAR MUCHOS PM.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#39", "es": "{F871}{0100}¡TÚ, DAR MONTONES DE PM!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#40", "es": "{F871}{0100}TU ACOMPAÑANTE... YO QUERER VIDA DE{F801}{F873}{0200}.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#41", "es": "{F871}{0100}YO QUERER ESO. ¿TÚ ENTENDER?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#42", "es": "{F871}{0100}TU ACOMPAÑANTE... ¡DAR PS DE {F87E}!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#43", "es": "{F871}{0100}DAR A MÍ LO QUE YO GUSTAR.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#44", "es": "{F871}{0100}¡TÚ INCREÍBLE! ¡EXACTO LO QUE YO QUERER!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#45", "es": "{F871}{0100}YO NO QUERER ESO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#46", "es": "{F871}{0100}¿YO PODER HACERTE MIMOS?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBeast.mbm#47", "es": "“Claro.”{F801}“No.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#48", "es": "{F871}{0100}*GIMOTEO*{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#49", "es": "〉 ¡El grupo de {F843}{0000} se calmó con la suave mordida del demonio!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#50", "es": "〉 ¡El grupo de {F843}{0000} se calmó muchísimo con la suave mordida del demonio!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#51", "es": "{F871}{0100}¡AUUUUUUUUU!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#52", "es": "〉 ¡El demonio mordió a {F843}{0000}!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#53", "es": "〉 ¡El demonio mordió a {F843}{0000} una y otra vez!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#54", "es": "{F871}{0100}TÚ FRÍO...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#55", "es": "{F871}{0100}TÚ ME GUSTAR.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#56", "es": "{F871}{0100}HRM... BUENO, QUÉ HACER.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#57", "es": "{F871}{0100}¿POR QUÉ TÚ MENTIR? YO SABER QUE TÚ TENER.{F801}{F802}¡YO DEVOLVER FAVOR!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#58", "es": "{F871}{0100}YO ABURRIRSE.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#59", "es": "{F871}{0100}TÚ ESQUIVAR PREGUNTA.{F801}{F802}¡YO DEVOLVER FAVOR!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#60", "es": "{F871}{0100}HRM... ENTONCES...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#61", "es": "{F871}{0100}HRM... YO VER...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#62", "es": "{F871}{0100}GRRR... ¡TÚ SEGUIR RECHAZANDO A MÍ! ¡TÚ TENER CORAZÓN DE ACERO!{F801}{F802}¡TÚ FUERTE!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#63", "es": "{F871}{0100}YO ABURRIRSE.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#64", "es": "{F871}{0100}TÚ NO TENER NADA. HUMANO SIMPLE.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#65", "es": "{F871}{0100}ADIÓS...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#66", "es": "{F871}{0100}¡{F843}{0000}! ¡ENCONTRARNOS OTRA VEZ!{F801}{F802}NOSOTROS HABLAR MUCHO. YO CONOCER BIEN A TI.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#67", "es": "{F871}{0100}YO TAMBIÉN PENSAR EN ALIARSE. ESTE ENCUENTRO, DESTINO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#68", "es": "{F871}{0100}YO AYUDAR. TOMAR ESTO...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#69", "es": "{F871}{0100}YO AYUDAR. TOMAR ESTO...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#70", "es": "{F871}{0100}HRM... YO ABURRIRSE...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#71", "es": "{F871}{0100}{F843}{0000}... ASÍ TÚ AQUÍ.{F801}{F802}YO RECORDAR TU OLOR. YO ENCONTRAR A TI EN CUALQUIER MOMENTO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#72", "es": "{F871}{0100}...¡ESPERAR! ¡YO NO PODER GANAR!{F801}{F802}¡YO SEGUIR A TI, ASÍ NO DESPERDICIAR VIDA!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#73", "es": "{F871}{0100}TÚ SABER IMPORTANCIA DE VIDA. UF...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#74", "es": "{F871}{0100}...¡ENTONCES YO TE COMER ENTERO AUNQUE YO MORIR!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBeast.mbm#101", "es": "〉 El demonio está en guardia...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBeast.mbm#102", "es": "Bajar el arma{F801}Ponerse en guardia{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#103", "es": "{F871}{0100}¡QUIEN BAJAR GUARDIA PRIMERO PERDER!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#104", "es": "{F871}{0100}YO PODER CONFIAR EN TI. SEGUIR HABLANDO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#105", "es": "{F871}{0100}HRM... DEFENSA PERFECTA...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#106", "es": "{F871}{0100}¡ESPERAR! ¡YO NO QUERER PELEAR! ¡YO DAR ESTO A TI, ASÍ PERDONAR A MÍ!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#107", "es": "{F871}{0100}HUMANOS DAR MUCHO MIEDO...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBeast.mbm#109", "es": "〉 El demonio se te acerca...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBeast.mbm#110", "es": "Hacerse a un lado{F801}Levantar el arma{F801}No moverse{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBeast.mbm#111", "es": "〉 ¡{F843}{0000} esquiva al demonio!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#112", "es": "{F871}{0100}¿POR QUÉ TÚ ESQUIVAR? YO QUERER HABLAR.{F801}{F802}YO QUERER FUSIÓN DE DEMONIOS. PERO YO TAMBIÉN MIEDO...{F801}{F802}DAR REGALOS PARA TRANQUILIZAR A MÍ.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#113", "es": "〉 El demonio te alcanza...{F801}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#114", "es": "{F871}{0100}HRM... TU INSTINTO AGUDO...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#115", "es": "{F871}{0100}¡ESPERAR! ¡YO NO QUERER PELEAR! ¡YO VALORAR VIDA!{F801}{F802}YO PENSAR EN ALIARSE.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#116", "es": "{F871}{0100}YO GUSTAR HUMANO VALIENTE.{F801}{F802}YO HABLAR CON TI...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#117", "es": "{F871}{0100}YO GUSTAR HUMANO VALIENTE.{F801}{F802}...¿PERO SER VERDAD? ¡YO NECESITAR PELEAR PARA SABER!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBeast.mbm#119", "es": "〉 El demonio intenta irse...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBeast.mbm#120", "es": "Detener al demonio{F801}Ignorar al demonio{F801}Levantar el arma{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#121", "es": "{F871}{0100}YO SABER. TÚ QUERER QUE YO ALIARSE, ¿SÍ?{F801}{F802}DEPENDER DE REGALO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#122", "es": "〉 El demonio te ignoró y se fue...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#123", "es": "{F871}{0100}TÚ HABLAR A MÍ.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#124", "es": "{F871}{0100}HUMANOS SIEMPRE FINGIR SER GENIALES.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#125", "es": "{F871}{0100}¡ESPERAR! ¡YO NO QUERER PELEAR! ¡YO VALORAR VIDA!{F801}{F802}YO PENSAR EN ALIARSE.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#126", "es": "{F871}{0100}TÚ NO DEBER DESPERDICIAR VIDA.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#128", "es": "{F871}{0100}HUMANO, ¡NOSOTROS FIESTA! TÚ HACER QUE YO DIVERTIRME.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#129", "es": "Bailar{F801}Cantar{F801}Presumir macca{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#130", "es": "〉 {F843}{0000} baila con Dagda...{F801}{F802}〉 El demonio no parece estar a gusto...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#131", "es": "〉 {F843}{0000} baila con Dagda...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#132", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}¡DIVERSIÓN! ¡DIVERSIÓN! ¡YO AUUUUUUUUU!{F801}{F802}TÚ MERECER RECOMPENSA. YO PENSAR EN ALIARSE. DEPENDER DE REGALOS.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#133", "es": "〉 {F843}{0000} canta con Dagda...{F801}{F802}〉 El demonio no parece estar a gusto...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#134", "es": "〉 {F843}{0000} canta con Dagda...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#135", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}¡DIVERSIÓN! ¡DIVERSIÓN! ¡YO AUUUUUUUUU!{F801}{F802}TÚ MERECER RECOMPENSA. YO PENSAR EN ALIARSE. DEPENDER DE REGALOS.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#136", "es": "{F871}{0100}HUMANOS SIEMPRE SER ASÍ...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#137", "es": "{F871}{0100}¡AUUUUUUUUU! ¡DAR ESO A MÍ!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#139", "es": "{F871}{0100}HRM... ¿TÚ PERDONAR A MÍ?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBeast.mbm#140", "es": "Perdonar{F801}No perdonar{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#141", "es": "{F871}{0100}GRACIAS, HUMANO. TÚ BUEN TIPO.{F801}{F802}¿TÚ QUERER ALIADO? ENTONCES DAR REGALOS A MÍ.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#142", "es": "{F871}{0100}¡SER TRAMPA! ¡YO HAMBRE!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#143", "es": "{F871}{0100}YO DE MAL HUMOR... ¡GRRRRRRRRRRRR...!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#144", "es": "{F871}{0100}¡ESPERAR! ¡YO NO QUERER PELEAR! ¡YO DAR ESTO A TI, ASÍ PERDONAR A MÍ!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#146", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}TÚ, {F843}{0000}... YO OÍR RUMORES.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#148", "es": "{F871}{0100}ESTAR CONTIGO SER MALA SUERTE. YO OÍR ESO.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBeast.mbm#149", "es": "〉 El demonio se fue...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#151", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}HUMANOS, NO PODER CONFIAR...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBeast.mbm#152", "es": "“Exacto.”{F801}“Eso no es cierto.”{F801}“Soy un humano de confianza.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#153", "es": "{F871}{0100}YO HABLAR DE TI.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#154", "es": "{F871}{0100}YO SIEMPRE TENER RAZÓN.{F801}{F802}TÚ TENER BUEN OJO. YO PENSAR EN ALIARSE.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#155", "es": "{F871}{0100}TÚ DECIR QUE YO MENTIR. YO MATAR A TI...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#156", "es": "{F871}{0100}TÚ TENER RAZÓN...{F801}{F802}YO INTENTAR CONFIAR EN TI.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#157", "es": "{F871}{0100}SOLO CALMA...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#158", "es": "{F871}{0100}¡A MÍ NO IMPORTAR ESA SEGURIDAD! ¡TÚ INTENTAR QUE YO CONFIAR EN TI!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#160", "es": "{F871}{0100}A MÍ INTERESAR HUMANOS.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBeast.mbm#161", "es": "〉 ¿Cómo te acercarás al demonio?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBeast.mbm#162", "es": "Amistosamente{F801}Con prepotencia{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#163", "es": "{F871}{0100}TÚ TRATAR A MÍ COMO MASCOTA. ¡YO SALVAJE!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#164", "es": "{F871}{0100}TÚ SABER TU LUGAR. HUMANOS DEBER RESPETAR A MÍ.{F801}{F802}YO AMABLE CON HUMANOS BUENOS.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#165", "es": "{F871}{0100}HUMANOS SIEMPRE ROMPER COSAS ASÍ...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#166", "es": "{F871}{0100}QUIZÁ ESTAR BIEN QUE ALGUIEN DOMINAR A MÍ ALGUNA VEZ...{F801}{F802}YO SEGUIR A HUMANO FUERTE. ¿TÚ FUERTE?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#168", "es": "〉 El demonio se está estirando...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#169", "es": "Mirar al demonio{F801}Levantar el arma{F801}Estirarse{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#170", "es": "{F871}{0100}TÚ SIN DEFENSA.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#172", "es": "{F871}{0100}YO SABER QUÉ TÚ HACER.{F801}NO SUBESTIMAR NATURALEZA.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#173", "es": "{F871}{0100}¡ESPERAR! ¡YO NO QUERER PELEAR! ¡YO VALORAR VIDA!{F801}{F802}YO PENSAR EN ALIARSE.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#174", "es": "{F871}{0100}TÚ SIN DEFENSA.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#175", "es": "{F871}{0100}TÚ DIVERTIDO. ¡AUUUUUUUUU!{F801}{F802}YO DAR ESTO A TI. USAR CON CUIDADO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#177", "es": "{F871}{0100}HUMANOS ROBAR LO QUE NOSOTROS PROTEGER Y DESTRUIRLO...{F801}{F802}POR ESO AHORA ELLOS SUFRIR... JEJEJE...{F801}¡YO SENTIR BIEN!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#178", "es": "“Eso no es cierto.”{F801}“Exacto.”{F801}“Recuperémoslo juntos.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#180", "es": "{F871}{0100}YO NO SER COMO OTROS DEMONIOS. YO NO ABANDONAR HUMANOS.{F801}{F802}SI TÚ LAMENTAR, YO HACER A TI SEGUIDOR.{F801}DAR COSAS A MÍ.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#181", "es": "{F871}{0100}¿TÚ IR A MATAR MÁS?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#182", "es": "{F871}{0100}¡YA SER MUY TARDE!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#184", "es": "{F871}{0100}HRM... TÚ OLER A SANGRE.{F801}¿TÚ MATAR MUCHOS DEMONIOS?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#185", "es": "“SOY un cazador.”{F801}“Tú hueles más.”{F801}Rezar por los demonios{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#186", "es": "{F871}{0100}YO VER... ENTONCES YO EVITAR A TI.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#187", "es": "{F871}{0100}HUMANOS DÉBILES. POR ESO SOLO PODER MATAR DEMONIOS.{F801}{F802}YO NO QUERER MORIR. YO ALIARSE.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#189", "es": "{F871}{0100}TÚ TENER RAZÓN. NO HABER REMEDIO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#190", "es": "{F871}{0100}NO FINGIR SER GENIAL. ¿TÚ BURLARTE DE MÍ?{F801}{F802}SI TÚ SENTIR MAL, NO MATAR. ¡YO ENOJO!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#192", "es": "{F871}{0100}TÚ PEQUEÑO. ¡YO GRANDE!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#193", "es": "“¿De qué hablas?”{F801}“Yo soy más grande.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#194", "es": "{F871}{0100}¡YO NOBLE! HUMANOS HUIR CORRIENDO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#195", "es": "{F871}{0100}¡ESO MENTIRA! ¡YO NO PODER CONFIAR EN TI!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#196", "es": "{F871}{0100}GRANDE PERO PEQUEÑO... YO DE VERDAD PREGUNTARSE...{F801}{F802}YO ALIARSE.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#198", "es": "{F871}{0100}LUNA VENIR...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#199", "es": "“¿Y?”{F801}“Ah, sí.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#201", "es": "{F871}{0100}¡MI CORAZÓN, LUNÁTICO!{F801}{F802}¡AUUUUUUUUUUUU!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#202", "es": "{F871}{0100}GUERRA DE DIOSES, VENIR...{F801}{F802}¡AUUUUUUUUU!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#203", "es": "〉 El demonio aulló y se fue...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#205", "es": "{F871}{0100}YO JUGAR MUCHO CON HUMANOS VIEJOS. YO PELEAR MUCHO CON HUMANOS DE AHORA.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#206", "es": "“Juguemos.”{F801}“Los tiempos cambiaron.”{F801}“Qué triste...”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#207", "es": "〉 {F843}{0000} recoge un hueso cercano y lo lanza lejos...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#208", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}¡AUUUUUUUUU!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBeast.mbm#209", "es": "〉 El demonio se fue...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#210", "es": "{F871}{0100}NO PODER JUGAR MÁS...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#211", "es": "{F871}{0100}ESO CIERTO... COSAS CAMBIAR. TÚ TENER RAZÓN.{F801}{F802}¿CUÁL CAMINO MI FUTURO? TÚ DECIR A MÍ.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#212", "es": "{F871}{0100}NO... HUMANOS HABER CAMBIADO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#213", "es": "{F871}{0100}¿POR QUÉ TÚ TRISTE?{F801}{F802}YO GUSTAR PELEAR. ¡AUUUUUUUUU!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#214", "es": "{F871}{0100}¿YO TRISTE?{F801}{F802}TÚ HUMANO DIVERTIDO. YO HABLAR MÁS CON TI...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#216", "es": "{F871}{0100}CAZADOR... ¿CARNE DE DEMONIO SER RICA?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#217", "es": "“Es deliciosa.”{F801}“Es horrible.”{F801}“Nunca la probé.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#219", "es": "{F871}{0100}HUMANOS COMER DEMASIADO. COMER TODO.{F801}{F802}SI NO RICO, NO COMER. TÚ NECESITAR DIETA.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#220", "es": "{F871}{0100}SABOR NO IMPORTAR. TÚ OBTENER ENERGÍA.{F801}NO COMER, NO ENERGÍA.{F801}{F802}IGUAL QUE YO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#223", "es": "{F871}{0100}HUMANOS TODOS MISMA CARA. ¿POR QUÉ?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#224", "es": "“Tienen caras distintas.”{F801}“Es por el maquillaje.”{F801}“Con los demonios es igual.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#225", "es": "{F871}{0100}HUESOS TODOS IGUALES.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#226", "es": "{F871}{0100}YO NO PODER DISTINGUIR. CARA HUMANA PLANA.{F801}{F802}PARECER BEBÉ CHIMPANCÉ. JAJAJA...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#227", "es": "{F871}{0100}MAQUILLAJE TENER PODER MÁGICO. HOMBRES CAZAR PRESAS. MUJERES CAZAR HOMBRES.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#228", "es": "{F871}{0100}TÚ TAMBIÉN TENER MAQUILLAJE.{F801}{F802}...NO, SER DAGDA. DAGDA BUEN TIPO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#229", "es": "{F871}{0100}ESO CIERTO. CARA NO IMPORTAR.{F801}CORAZÓN SÍ.{F801}{F802}TÚ DAR REGALOS A MÍ. YO PROBAR TU CORAZÓN.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#230", "es": "{F871}{0100}¡AUUUUUUUUUUUU!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#231", "es": "〉 El demonio aulló y se fue...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#233", "es": "{F871}{0100}HUMANOS HACER CONTRADICCIÓN. LUEGO TENER PROBLEMAS.{F801}{F802}SER POR ESE CEREBRO. TÚ DEBER TIRARLO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#234", "es": "“Está bien, lo haré.”{F801}“No podemos hacer eso.”{F801}“No es asunto tuyo.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#235", "es": "{F871}{0100}NO... YO TOMAR ESO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#236", "es": "{F871}{0100}¿TÚ NO ENTENDER BROMA?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#237", "es": "{F871}{0100}ESO SER CONTRADICCIÓN.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#238", "es": "{F871}{0100}ENTONCES GUARDAR BAJO LLAVE. OTROS DEMONIOS IR TRAS ESO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#239", "es": "{F871}{0100}¡AUUUUUUUUUUUU! ¡TÚ TERCO!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#240", "es": "{F871}{0100}YO GUSTAR AYUDAR. YO CONSIDERAR ALIARSE.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#242", "es": "{F871}{0100}¿TÚ TENER MIEDO DE MORIR?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#243", "es": "“Tengo miedo.”{F801}“No tengo miedo.”{F801}“Solo quiero morir.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#244", "es": "{F871}{0100}ESO NATURAL. YO TAMBIÉN MIEDO.{F801}{F802}TÚ TOMAR ESTO. USAR VIDA CON SABIDURÍA...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#245", "es": "{F871}{0100}YO BUSCAR HUMANO QUE CONOCER MIEDO.{F801}TÚ NORMAL, TODOS LOS DEMÁS LOCOS.{F801}{F802}PERO NO PODER ALIARSE GRATIS. DAR REGALOS.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#246", "es": "{F871}{0100}TÚ IMPRUDENTE. TÚ MORIR PRONTO.{F801}{F802}USAR ESTO PARA PROTEGERTE.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#247", "es": "{F871}{0100}ENTONCES YO PODER PELEAR SIN DUDAR.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#248", "es": "{F871}{0100}NO. YO NO DEJAR QUE TÚ ESCAPAR TÚ SOLO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#249", "es": "{F871}{0100}TÚ HUMANO INTERESANTE... YO DEJAR A TI VIVIR MÁS.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#251", "es": "{F871}{0100}SI TÚ QUERER MI PODER, TOMAR MI MANO...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#252", "es": "Tomarle la mano{F801}“¡Dame la pata!”{F801}“Eso es una pata delantera.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#253", "es": "{F871}{0100}ESTO SER “MANO”. RECORDAR ESO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#254", "es": "{F871}{0100}...TÚ VALIENTE.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#255", "es": "{F871}{0100}HUMANOS SIEMPRE FINGIR SER GENIALES. QUÉ TRISTE...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#256", "es": "〉 ¡El demonio pone la mano sobre la tuya!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#257", "es": "{F871}{0100}TU MANO CÁLIDA... SEÑAL DE VIDA...{F801}{F802}MI MANO FRÍA. ¡SEÑAL DE DEMONIO!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#258", "es": "{F871}{0100}TÚ NO ESTÚPIDO. YO PODER HABLAR CON TI.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#259", "es": "{F871}{0100}TÚ REBELDE. YO CASTIGAR A TI.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#261", "es": "{F871}{0100}PRUEBA DE SUERTE...{F801}{F802}TÚ CAVAR AQUÍ. RÁPIDO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#262", "es": "Cavar aquí{F801}Cavar allá{F801}No cavar{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#263", "es": "〉 {F843}{0000} cava aquí...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#264", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}HRM... ¡ALGO SALIR! ¡TÚ SUERTUDO!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#265", "es": "〉 {F843}{0000} cava aquí...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#266", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}HRM... NADA SALIR. TÚ TENER MALA SUERTE.{F801}{F802}{F813}{0A00}{0000}{0000}{0000}EN CAMBIO YO ALIARSE.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#267", "es": "〉 {F843}{0000} cava aquí...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#268", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}BUENO. ESA SER TU TUMBA.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#269", "es": "〉 {F843}{0000} cava allá...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#270", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}HRM... ¡ALGO SALIR! ¡TÚ SUERTUDO!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#271", "es": "〉 {F843}{0000} cava allá...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#272", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}HRM... NADA SALIR. TÚ TENER MALA SUERTE.{F801}{F802}{F813}{0A00}{0000}{0000}{0000}EN CAMBIO YO ALIARSE.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#273", "es": "〉 {F843}{0000} cava allá...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#274", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}BUENO. ESA SER TU TUMBA.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#275", "es": "{F871}{0100}QUÉ LÁSTIMA...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#277", "es": "{F871}{0100}YO HAMBRE. HUMANO, HACER ALGO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#278", "es": "Entregar comida{F801}Entregar licor{F801}“Cómete a ti mismo.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#279", "es": "〉 {F843}{0000} casualmente no tiene comida...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#280", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}GRRRRR... YO TE COMER ENTERO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#281", "es": "〉 Dagda casualmente tenía comida.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#282", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}¡ESTO RICO! ¡TÚ TENER BUEN ACOMPAÑANTE!{F801}{F802}YO GUSTAR USTEDES DOS. YO CONSIDERAR ALIARSE.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#283", "es": "〉 {F843}{0000} casualmente no llevaba licor consigo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#284", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}GRRRRR... YO TE COMER ENTERO.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#285", "es": "{F871}{0100}¡YO AMAR LICOR!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#286", "es": "〉 El demonio lamió el licor con alegría...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#287", "es": "{F871}{0100}TÚ ME GUSTAR. YO CONSIDERAR ALIARSE.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#288", "es": "{F871}{0100}YO COMER, CRECER CARNE. YO COMER ESO, CRECER MÁS CARNE...{F801}{F802}OOOOH... ¡YO COMER INFINITO! ¡COMO REACTOR PERPETUO YAMATO!{F801}{F802}¡TÚ GENIO! ¡YO NUNCA TENER HAMBRE!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#289", "es": "{F871}{0100}YO NO GUSTAR TU ACTITUD...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBeast.mbm#291", "es": "〉 El demonio observa a {F843}{0000}...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#292", "es": "{F871}{0100}¡TÚ TENER BUENA “SUERTE”! TÚ NO OLVIDAR LO SALVAJE.{F801}{F802}¿TÚ QUERER ALIADO? ¡YO ALIARSE!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#293", "es": "{F871}{0100}“SUERTE” NO BUENA... TÚ URBANITA.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#294", "es": "〉 El demonio se fue con decepción...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#296", "es": "{F871}{0100}{F813}{0A00}{0000}{0A00}{0000}¿POR QUÉ MIRAR? ¿ALGO MALO CON YO?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#297", "es": "“Eres genial.”{F801}“Eres un amor.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#298", "es": "{F871}{0100}¡CLARO QUE YO FUERTE!{F801}{F802}TÚ PARECER DÉBIL. ¿QUERER QUE YO AYUDAR A TI?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#299", "es": "{F871}{0100}*GIMOTEO*{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#300", "es": "〉 El demonio se fue con vergüenza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#302", "es": "{F871}{0100}ENTONCES, ¿POR QUÉ NO HABER VERDE?{F801}SOLO LÁPIDAS GRANDES.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#303", "es": "“Es el desarrollo de la humanidad.”{F801}“Para protegerse de los enemigos.”{F801}“Son edificios.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#304", "es": "{F871}{0100}DESARROLLO... YO QUERER DESARROLLAR TAMBIÉN.{F801}{F802}TÚ DESARROLLAR A MÍ. DAR ALGO A MÍ.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#305", "es": "{F871}{0100}HUMANOS NO TENER COLMILLOS. NO TENER PELAJE.{F801}DÉBILES Y DESNUDOS.{F801}{F802}¿TÚ SABER POR QUÉ?{F801}{F802}DIOS HACERLOS FÁCILES DE COMER.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#306", "es": "{F871}{0100}¿EDIFICIO? ¿QUÉ SER ESO?{F801}{F802}¡AUUUUUUUUUUUU!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#308", "es": "{F871}{0100}{F813}{0A00}{0000}{0A00}{0000}*SNIF* *SNIF* ¿QUÉ TIPO DE OLOR?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#309", "es": "“Un buen aroma.”{F801}“Como una granja.”{F801}“Un olor horrible.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBeast.mbm#310", "es": "{F871}{0100}TÚ NO SABER MENTIR.{F801}{F802}ESTE OLOR SER DE CAZADOR QUE YO COMER HACE POCO.{F801}{F802}YO IR POR OTRA PORCIÓN.{F801}{F802}{FFFF}"}
