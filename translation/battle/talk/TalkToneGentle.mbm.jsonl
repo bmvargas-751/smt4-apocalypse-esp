@@ -1,20 +1,250 @@
+{"key": "battle/talk/TalkToneGentle.mbm#1", "es": "{F871}{0100}¿Desea que me una a usted?{F801}{F802}*risita* ¡No puede hablar en serio!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#2", "es": "{F871}{0100}¿Pedir mi ayuda después de atacarme? {F801}¿Dónde están sus modales?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#3", "es": "{F871}{0100}Ahora bien...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#4", "es": "{F871}{0100}Muy bien...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#5", "es": "{F871}{0100}Ah, le pido que espere... {F801}Primero quisiera ver su sinceridad.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#6", "es": "{F871}{0100}¿Oh? Parece que tiene demasiados aliados. {F801}Ha ensuciado mi nombre, señor.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#7", "es": "{F871}{0100}Soy {F804}{0500}{F875}{0100} {F873}{0100}{F804}{0000}.{F801}El placer es todo mío...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#8", "es": "{F871}{0100}...O tal vez no. Todavía no parece digno de mí.{F801}{F802}No puedo unirme a usted. Adiós.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#9", "es": "{F871}{0100}Ah... Veo que tiene a mi clon con usted.{F801}{F802}Me retiraré. Dele mis saludos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#10", "es": "{F871}{0100}Tengo una idea excelente. ¿Por qué no recluta algunos soldados?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#11", "es": "{F871}{0100}Hrm, pero resulta que su hueste está llena... Qué lástima.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#12", "es": "{F871}{0100}Este demonio dio mucha lástima al intentar invitarme, así que tendré la mente abierta y aceptaré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#13", "es": "{F871}{0100}Hrm, parece que hoy el mercado está a la baja.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#14", "es": "{F871}{0100}Ahora bien, es mi turno...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#15", "es": "{F871}{0100}Ah, sí. Permítame presentarle a un demonio digno de ser su sirviente.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#16", "es": "{F871}{0100}Me enteré por {F873}{0200} de que hay un humano interesante aquí.{F801}{F802}...¿Será usted? Jaja.{F801}...Lo espero con interés.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#18", "es": "{F871}{0100}¿Qué es esto? ¿Un nuevo tipo de estafa?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#19", "es": "{F871}{0100}¡Ugh! Jamás imaginé que un humano cegado por la codicia llegaría tan lejos...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#20", "es": "{F871}{0100}¿Pedirle dinero al enemigo? Vaya, no hay nada más bajo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#21", "es": "{F871}{0100}...¡Argh! ¡¿Qué está haciendo?!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#22", "es": "{F871}{0100}Le sugiero que lo deje así. {F801}Qué patético...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#23", "es": "{F871}{0100}...Así que ha ignorado mi advertencia, ya veo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#24", "es": "{F871}{0100}¡¿Ugh?! ¡Si no puedo moverme, no tengo manera de...!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#25", "es": "{F871}{0100}¿Le interesan los bienes inhumanos? Jaja. {F801}Entonces negociemos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#26", "es": "{F871}{0100}Tenga, tome esto. Tiene mucha suerte.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#27", "es": "{F871}{0100}Jajaja... ¡Ajajajajaja!{F801}¡Las ranas han criado pelo!{F801}{F802}¡Tome lo que quiera! {F801}¡Qué codicioso es!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#28", "es": "{F871}{0100}...Oh, me sobra uno. Tenga, es mejor que dejar que se desperdicie. {F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#29", "es": "{F871}{0100}El mundo gira en torno a los macca.{F801}{F802}{F878}{0100} macca... Esta es la cantidad {F801}que necesito para decidirme de inmediato.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#30", "es": "{F871}{0100}¿Podría cederme {F872}{0100} x{F878}{0100}?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#31", "es": "{F871}{0100}¿Podría cederme {F878}{0100} macca?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#32", "es": "{F871}{0100}¿Podría cederme una pizca de sus PS?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#33", "es": "{F871}{0100}¿Podría cederme una cantidad moderada de sus PS?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#34", "es": "{F871}{0100}¿Podría cederme una buena cantidad de sus PS?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#35", "es": "{F871}{0100}¡Tomaré una gran cantidad de sus PS!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#36", "es": "{F871}{0100}¿Podría cederme una pizca de sus PM?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#37", "es": "{F871}{0100}¿Podría cederme una cantidad moderada de sus PM?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#38", "es": "{F871}{0100}¿Podría cederme una buena cantidad de sus PM?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#39", "es": "{F871}{0100}¡Tomaré una gran cantidad de sus PM!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#40", "es": "{F871}{0100}Su aliado... Quisiera la vida de {F873}{0200}.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#41", "es": "{F871}{0100}Jaja... Eso me gustaría. {F801}¿Podría cederme eso?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#42", "es": "{F871}{0100}Su amigo... ¿Podría cederme los PS de {F87E}?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#43", "es": "{F871}{0100}¿De qué tengo ganas?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#44", "es": "{F871}{0100}Jo, jo, esto es espléndido...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#45", "es": "{F871}{0100}¿Qué clase de burla es esta, darme esta basura?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#46", "es": "{F871}{0100}Me hierve la sangre... ¿Puedo dejar que se desborde?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#47", "es": "“Claro.”{F801}“No.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#48", "es": "{F871}{0100}Jaja... Me disculpo por mostrar un lado mío tan vergonzoso.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#49", "es": "〉 El rápido vals del demonio alivia a {F843}{0000}...{F801}{F802}〉 ¡Fue un tiempo bien empleado!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#50", "es": "〉 El rápido vals del demonio alivia a {F843}{0000}...{F801}{F802}〉 ¡Fue un tiempo muy bien empleado!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#51", "es": "{F871}{0100}Ahhh... Ahora me siento mucho mejor. {F801}A veces necesito un poco de violencia.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#52", "es": "〉 El intenso vals del demonio no da tregua a {F843}{0000}...{F801}{F802}〉 ¡Qué cansancio!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#53", "es": "〉 El intenso vals del demonio no da tregua a {F843}{0000}...{F801}{F802}〉 ¡Qué cansancio tan grande!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#54", "es": "{F871}{0100}Muy bien. Soportaré este impulso...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#55", "es": "{F871}{0100}Me conformaré con esto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#56", "es": "{F871}{0100}¿Oh? Qué lástima...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#57", "es": "{F871}{0100}Ya sé lo que lleva en los bolsillos...{F801}{F802}¡No tomo a la ligera a quienes les mienten a los demonios!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#58", "es": "{F871}{0100}Parece que he perdido el tiempo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#59", "es": "{F871}{0100}Jaja... Eso fue bastante evidente.{F801}{F802}¡No tomo a la ligera a quienes les mienten a los demonios!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#60", "es": "{F871}{0100}Esto es bastante desagradable...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#61", "es": "{F871}{0100}Ugh... ¡Qué atrocidad!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#62", "es": "{F871}{0100}¡Qué humano tan insolente! ¡Es tan insolente que resulta bastante refrescante!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#63", "es": "{F871}{0100}Qué humano tan aburrido...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#64", "es": "{F871}{0100}Es usted bastante patético, humano. Me da lástima...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#65", "es": "{F871}{0100}¡Ahora, si me disculpa!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#66", "es": "{F871}{0100}Ahh... Es usted, {F843}{0000}.{F801}{F802}No he olvidado la vez que conversamos toda la noche.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#67", "es": "{F871}{0100}Quiere que me una a usted, ¿verdad? {F801}Jajaja... No necesita explicarlo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#68", "es": "{F871}{0100}No quiero verlo tan miserable...{F801}{F802}Haré algo al respecto con estos macca. Tenga...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#69", "es": "{F871}{0100}Como muestra de nuestra amistad,{F801}no pediré compensación.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#70", "es": "{F871}{0100}He perdido el interés. Adiós...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#71", "es": "{F871}{0100}Lo he estado buscando, {F843}{0000}...{F801}{F802}Acabo de terminar mi encargo. Ahora, permítame regresar.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#72", "es": "{F871}{0100}¡Espere, le digo! No tengo ganas de pelear. {F801}¡Por favor, baje sus armas!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#73", "es": "{F871}{0100}Jaja... Excelente. Ahora podemos hablar con la cortesía debida.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#74", "es": "{F871}{0100}Le mostré un lado mío tan vergonzoso... {F801}¡Es imperdonable!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#101", "es": "〉 El demonio está en guardia...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#102", "es": "Bajar el arma{F801}Ponerse en guardia{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#103", "es": "{F871}{0100}Le enseñaré que la necedad no se cura ni con la muerte.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#104", "es": "{F871}{0100}¿Esa pose es una muestra de valor? {F801}¿Qué más me mostrará?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#105", "es": "{F871}{0100}¡Ugh! No deja ninguna brecha...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#106", "es": "{F871}{0100}¡Espere, le digo! No tengo ganas de pelear. {F801}Le daré esto, así que, por favor... ¡baje su arma!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#107", "es": "{F871}{0100}Hrm... Los humanos son criaturas aterradoras, en efecto...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#109", "es": "〉 El demonio se te acerca...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#110", "es": "Hacerse a un lado{F801}Levantar el arma{F801}No moverse{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#111", "es": "〉 ¡{F843}{0000} esquiva al demonio!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#112", "es": "{F871}{0100}No había razón para evitarme. {F801}Solo me acerqué a usted.{F801}{F802}Quiere mi poder, ¿no es así? {F801}Lo lleva escrito en la cara.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#113", "es": "〉 El demonio te alcanza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#114", "es": "{F871}{0100}Tch... Así que lo descubrió...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#115", "es": "{F871}{0100}¡Espere, le digo! No tengo ganas de pelear. {F801}¡Por favor, baje sus armas!{F801}{F802}Necesita aliados, ¿no es así? Jaja... {F801}Conozco bien este viejo truco.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#116", "es": "{F871}{0100}Justo tengo ganas de darle esto a un humano.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#117", "es": "{F871}{0100}Ahora, si me disculpa...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#118", "es": "{F871}{0100}Justo tengo ganas de prestarle mi poder a un humano.{F801}{F802}Me dará algo a cambio, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#120", "es": "{F871}{0100}No necesita tener miedo. Ahora, tome mi mano.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#121", "es": "Tomar la mano del demonio{F801}Levantar el arma{F801}Ignorar al demonio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#122", "es": "{F871}{0100}Excelente... Ahora podemos hablar como gente civilizada.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#123", "es": "{F871}{0100}...¡Ha sido engañado!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#124", "es": "{F871}{0100}...¿Qué es eso?{F801}{F802}Le agradecería que no me subestimara.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#125", "es": "{F871}{0100}¡Espere, le digo! No tengo ganas de pelear. {F801}¡Por favor, baje sus armas!{F801}{F802}Necesita aliados, ¿no es así? Jaja...{F801}Conozco bien este viejo truco.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#126", "es": "{F871}{0100}Vaya saludo...{F801}{F802}Vamos, escuche lo que tengo que decir.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#127", "es": "{F871}{0100}He perdido el interés. Adiós...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#128", "es": " ¡El demonio te agarra del brazo de repente!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#130", "es": "〉 El demonio intenta irse...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#131", "es": "Detener al demonio{F801}Ignorar al demonio{F801}Levantar el arma{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#132", "es": "{F871}{0100}Hrm, tiene buen ojo.{F801}{F802}Creo que lo examinaré un poco más.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#133", "es": "{F871}{0100}Ah, es la hora. Con su permiso...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#134", "es": "{F871}{0100}No debería ser frío con los demonios. {F801}Escuche lo que tengo que decir.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#135", "es": "{F871}{0100}Algunos cazadores son bastante desconsiderados...{F801}{F802}Bueno... supongo que le perdonaré la vida.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#136", "es": "{F871}{0100}¡Eek! ¡Por favor, perdóneme la vida!{F801}{F802}¿No hablará en serio? Quizá me anime a hacer un pacto con usted.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#137", "es": "{F871}{0100}¿De verdad cree que puede derrotarme?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#139", "es": "〉 El demonio te ignora...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#140", "es": "Decirle algo{F801}Llamar su atención{F801}Amenazar al demonio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#141", "es": "{F871}{0100}Por favor, déjeme en paz.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#142", "es": "{F871}{0100}Un Cazador... Y además, cazador de Dagda...{F801}{F802}Qué buen momento. Permítame ser su oponente.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#146", "es": "{F871}{0100}¡Eek! ¡Por favor, perdóneme la vida!{F801}{F802}¿No hablará en serio? Quizá me anime a hacer un pacto con usted.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#147", "es": "{F871}{0100}¿Me está subestimando?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#149", "es": "{F871}{0100}¡Por favor, tenga piedad!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#150", "es": "Perdonar{F801}No perdonar{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#152", "es": "{F871}{0100}Es más necio de lo que pensaba, al caer en un truco tan mezquino.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#153", "es": "{F871}{0100}¡No se ponga altivo conmigo, simple cazador!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#156", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}Usted es... {F843}{0000}. He oído hablar mucho de usted. {F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#158", "es": "{F871}{0100}Nada bueno puede salir de involucrarme con usted.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#159", "es": "〉 El demonio se va...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#161", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}No se puede confiar en los humanos...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#162", "es": "“Exacto.”{F801}“Eso no es cierto.”{F801}“Soy un humano de confianza.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#163", "es": "{F871}{0100}Qué arrogante... Eso lo INCLUYE a usted.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#164", "es": "{F871}{0100}Usted... Usted y yo nos llevamos muy bien. Es una lástima que sea humano.{F801}{F802}Si fuera a hacer un pacto con alguien, preferiría que fuera con un humano como usted.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#165", "es": "{F871}{0100}Hrm... Todavía no puedo juzgar...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#166", "es": "{F871}{0100}Entonces haga que crea en usted.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#167", "es": "{F871}{0100}¿Se permite ser engreído solo porque es un cazador?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#168", "es": "{F871}{0100}Entonces haga que crea en usted.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#170", "es": "{F871}{0100}Jajaja... Me interesan los humanos.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#171", "es": "〉 ¿Cómo te acercarás al demonio?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#172", "es": "Amistosamente{F801}Con prepotencia{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#173", "es": "{F871}{0100}Muy bien... Si fuera un humano necio, lo habría hecho trizas.{F801}{F802}Entonces espero una respuesta amistosa a mis peticiones...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#174", "es": "{F871}{0100}Parece tener segundas intenciones. {F801}Ahora bien, ¿cómo debería comenzar...?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#175", "es": "{F871}{0100}Haré que comprenda lo pequeña que es su existencia.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#176", "es": "{F871}{0100}Conocer humanos siempre trae nuevos descubrimientos...{F801}{F802}Creo que lo examinaré un poco más.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#178", "es": "{F871}{0100}¿Desde cuándo los humanos dejaron de venerarnos?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#179", "es": "“Desde el principio.”{F801}“Todavía los veneramos.”{F801}“Basta de tanta charla.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#180", "es": "{F871}{0100}¿Así que es eso? ¿En qué se ha convertido el mundo?{F801}{F802}Permítame mostrarle la grandeza de los demonios...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#181", "es": "{F871}{0100}¿Podría demostrarme que no está fanfarroneando?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#182", "es": "{F871}{0100}Jaja... Esa mirada sincera... Siento una voluntad firme en usted.{F801}{F802}Continuemos nuestra conversación.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#183", "es": "{F871}{0100}Parece que no vale la pena hablar con usted.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#185", "es": "〉 El demonio ríe de forma siniestra...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#186", "es": "Reír con el demonio{F801}Observar al demonio{F801}Hablar con el demonio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#191", "es": "{F871}{0100}¿Qué le parece? ¿Por qué no olvida el mundo material y baila conmigo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#192", "es": "Bailar con el demonio{F801}Ignorar al demonio{F801}Levantar el arma{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#194", "es": "{F871}{0100}¿Tan apegado está al mundo material? Que así sea.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#195", "es": "{F871}{0100}Lo invité personalmente, ¿y así me trata? Qué descortés...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#197", "es": "{F871}{0100}¿Qué quiere? ¿Tanto desea morir?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#198", "es": "“Así es.”{F801}“Inténtalo.”{F801}“Enderecemos el mundo juntos.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#199", "es": "{F871}{0100}La dureza del mundo lo ha contagiado. Por eso mismo la ignorancia da miedo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#200", "es": "{F871}{0100}No tengo razón para matarlo.{F801}{F802}Es patético depender de otros.{F801}Al final, todos debemos morir solos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#201", "es": "{F871}{0100}¿Enderezar el mundo, dice...? Tiene bastante descaro al soltar palabras tan grandes.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#203", "es": "{F871}{0100}No tengo asuntos con humanos simples... {F801}Retírese.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#204", "es": "“No soy simple.”{F801}“Entonces me voy.”{F801}“Únete a mí.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#205", "es": "{F871}{0100}¿Dice que no es simple? {F801}Qué necio...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#206", "es": "{F871}{0100}Hrm, esa es una buena actitud.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#209", "es": "{F871}{0100}Nuestras razas son distintas. Al final, somos irreconciliables.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#210", "es": "“Podemos reconciliarnos.”{F801}“Tienes razón.”{F801}“Basta de charla. Únete a mí.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#212", "es": "{F871}{0100}Pero aun así, eso lo hace aburrido. {F801}Deseo estar con humanos...{F801}{F802}Los humanos tienen el deber de gritar al morir para mi deleite, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#213", "es": "{F871}{0100}Jajaja... ¿Hablé demasiado?{F801}{F802}Tiene mucha confianza. Eso me gusta.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#214", "es": "{F871}{0100}¿Ha renunciado a la necesidad de pensar? {F801}Eso es bastante peligroso...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#216", "es": "{F871}{0100}Ahora, míreme a los ojos...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#217", "es": "“Lindos ojos...”{F801}“No me mires así...”{F801}“¿Cuáles son tus motivos?”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#219", "es": "{F871}{0100}¿Por qué se sonroja? Me da escalofríos...{F801}{F802}Tenía polvo en el ojo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#220", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}Así que le metí más polvo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#221", "es": "{F871}{0100}Ah, disculpe. Sus ojos eran tan hermosos...{F801}{F802}Tengo el pasatiempo de arrancar ojos hermosos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#223", "es": "{F871}{0100}Jaja... Tiene buen ojo al elegirme...{F801}{F802}¿Podría decirme su razón?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#224", "es": "“Porque pareces fuerte.”{F801}“Porque te ves genial.”{F801}“Sin ningún motivo en particular.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#226", "es": "{F871}{0100}¿Juzgó por las apariencias? Es más necio de lo que pensaba.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#227", "es": "{F871}{0100}Así que se guio por su instinto. {F801}Tiene sentidos agudos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#229", "es": "{F871}{0100}¿Le adivino la fortuna?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#230", "es": "“Por favor.”{F801}“No, gracias.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#231", "es": "{F871}{0100}Puedo ver su futuro...{F801}{F802}¡Un futuro en el que yo lo masacro!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#232", "es": "{F871}{0100}...{F801}{F802}{F813}{0A00}{0000}{0000}{0000}Jaja... Vínculos y masacres...{F801}{F802}Hrm... Dagda interfiere... {F801}No puedo ver más allá.{F801}{F802}Ahora me interesa mucho su futuro. Sí, por favor... lléveme con usted.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#233", "es": "{F871}{0100}...{F801}{F802}{F813}{0A00}{0000}{0100}{0000}Humanos... Demonios... No, eso no puede ser...{F801}{F802}Una inmensa luz lo rodea.{F801}Sería mejor que no me involucrara con usted...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#234", "es": "{F871}{0100}Sí, no tiene sentido... Después de todo, usted no tiene futuro.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#235", "es": "{F871}{0100}Muy bien... El futuro es algo que uno mismo labra. Supongo que puedo escucharlo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#237", "es": "{F871}{0100}Por cierto, ¿quién cree que soy?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#238", "es": "“{F873}{0100}.”{F801}“Una persona cualquiera.”{F801}“...¿Quién eres?”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#239", "es": "{F871}{0100}¡Hrng...!{F801}{F802}En realidad es bastante vergonzoso que me llamen por mi nombre así.{F801}{F802}Según su actitud, podría llamarlo por su nombre.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#240", "es": "{F871}{0100}Tiene suerte de poder pronunciar ese nombre como su última palabra...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#241", "es": "{F871}{0100}Hubo un tiempo en que me transformé en un simple hombre para observar a los humanos.{F801}{F802}Pensar que ha visto a través de ese disfraz... Es usted muy hábil.{F801}{F802}Me gustaría saber más sobre usted. {F801}Ahora bien... ¿Qué debería hacer?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#242", "es": "{F871}{0100}Es bastante excéntrico, al querer reclutar a un desconocido.{F801}{F802}Muy bien, negociaré con usted.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#243", "es": "{F871}{0100}Adiós, niño olvidable...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#244", "es": "{F871}{0100}Soy {F873}{0100}. *suspiro* Qué humano tan irritante.{F801}{F802}...Permítame registrar mi nombre en su teléfono.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#245", "es": "{F871}{0100}Para decirle la verdad, lo he olvidado. {F801}Esperaba que usted me lo dijera, pero...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#247", "es": "{F871}{0100}¿No le hierve la sangre de emoción esta noche?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#248", "es": "“¿Por qué?”{F801}“No.”{F801}Esquivar la pregunta{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#249", "es": "{F871}{0100}Porque lo conocí, por supuesto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#250", "es": "{F871}{0100}Eso es lo que quisiera saber.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#251", "es": "{F871}{0100}¿No le corre sangre por las venas?{F801}{F802}Un humano bastante interesante...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#252", "es": "{F871}{0100}Puede que sea cauteloso, pero todavía le falta mucho por aprender.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#253", "es": "〉 ¡{F843}{0000} esquiva la pregunta!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#255", "es": "〉 {F843}{0000} baila una danza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#256", "es": "{F871}{0100}Qué audaz de su parte actuar frente a mí.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#257", "es": "{F871}{0100}Jajaja... ¿Quiere que lo haga bailar?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#259", "es": "〉 {F843}{0000} canta una canción...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#260", "es": "{F871}{0100}Qué audaz de su parte actuar frente a un demonio.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#261", "es": "{F871}{0100}Jajaja... Que su billetera también me regale una elegante melodía.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#263", "es": "〉 {F843}{0000} muestra un poco de macca...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#264", "es": "{F871}{0100}¿Me está menospreciando?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#265", "es": "{F871}{0100}Es bastante sabio. Podría considerar hacer un pacto con usted.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#267", "es": "{F871}{0100}No pensé que realmente soltaría su arma... ¿Está en su sano juicio?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#268", "es": "“Estoy bien.”{F801}“Creo que yo mismo estoy loco.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#269", "es": "{F871}{0100}Jaja... Me ha perdonado la vida. Esto es una muestra de mi gratitud.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#270", "es": "〉 El demonio se va...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#271", "es": "{F871}{0100}Ser consciente de uno mismo es señal de que aún conserva la compostura.{F801}{F802}Me gustan los humanos serenos. Vayamos juntos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#273", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}¿Por qué le gusta tanto pelear?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#274", "es": "“Porque me hierve la sangre.”{F801}“Porque eres un demonio.”{F801}“En realidad, no me gusta.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#275", "es": "{F871}{0100}Ya veo... ¡A mí también me hierve la sangre!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#276", "es": "{F871}{0100}Sí, soy un demonio. ¿Y qué?{F801}{F802}La diferencia entre nosotros no tiene valor en nuestra conversación. Ahora, hablemos con la cortesía debida.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#277", "es": "{F871}{0100}¿Pelea conmigo contra su voluntad? {F801}Qué forma tan lamentable de vivir...{F801}{F802}Parece que hablar con usted no merece mi tiempo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#279", "es": "{F871}{0100}{F813}{0A00}{0000}{0A00}{0000}¿De qué se ríe? ¿Quién cree que es?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#280", "es": "“Un humano.”{F801}“Yo.”{F801}“Perdón.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#281", "es": "{F871}{0100}Ah, es cierto. Perdóneme.{F801}{F802}Pero yo también tengo mi orgullo. No puedo perdonarle que se ría de mí.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#282", "es": "{F871}{0100}Parece tener mucha confianza.{F801}{F802}No puedo evitar la expectación. {F801}Ahora, entreténgame.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#283", "es": "{F871}{0100}Mientras lo entienda. Todos cometemos errores.{F801}{F802}...Ahora, muéstreme una prueba de su sinceridad.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#285", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}Yo estaba riendo aquí, ¿y usted me ignora? ¿No le parece descortés?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#286", "es": "“No.”{F801}“¿Por qué te reías?”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#287", "es": "{F871}{0100}Es aún más descortés de lo que pensaba. {F801}Me ha dolido mucho.{F801}{F802}Debo exigir una compensación bastante considerable...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#288", "es": "{F871}{0100}¿Quiere que se lo diga? {F801}{F802}Es porque ya elegí mi presa de hoy... ¡USTED!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#290", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}Me había abstraído en mis recuerdos...{F801}{F802}Pero gracias a usted, ya no tengo ganas. ¿Qué hará al respecto?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#291", "es": "“Lo siento...”{F801}“¿Qué debo hacer?”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#292", "es": "{F871}{0100}Es demasiado tarde para disculparse. *suspiro* Las emociones de otros tiempos ya no existen... {F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#293", "es": "{F871}{0100}Me alegra ver que es obediente. {F801}Aplaudo esa cualidad.{F801}{F802}Sepa que si lo devoro o me uno a usted depende de sus acciones.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#295", "es": "{F871}{0100}Todo tiene su orden. {F801}¿No lo comprende?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#296", "es": "“Lo entiendo.”{F801}“No lo entiendo.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#297", "es": "{F871}{0100}Ya veo... Al ponerse en peligro, intenta ganarse mi confianza.{F801}{F802}Entonces le daré otra oportunidad.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#298", "es": "{F871}{0100}Ya veo... Fue mi error tratarlo como a un igual.{F801}{F802}Le enseñaré que la necedad no se cura ni con la muerte.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#300", "es": "{F871}{0100}¿Por qué el mundo se volvió tan duro en primer lugar?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#301", "es": "“Porque aparecieron los demonios.”{F801}“Es la ley de la naturaleza.”{F801}“Porque los humanos no paran de pelear.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#303", "es": "{F871}{0100}Sí, todo sucede de forma natural...{F801}{F802}Ahora bien, como en la naturaleza, los débiles deben seguir a los fuertes.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#304", "es": "{F871}{0100}Usted es uno de ellos. ¿Por qué ignora ese hecho?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#306", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}Esa es una respuesta errónea. Fuimos nosotros quienes trajimos orden a este mundo.{F801}{F802}Más bien, debería agradecerme...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#307", "es": "“Gracias.”{F801}“Al diablo contigo.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#308", "es": "{F871}{0100}No quiero palabras mezquinas.{F801}{F802}Quiero algo mayor. ...Usted lo tiene, ¿no es así?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#309", "es": "{F871}{0100}Parece que nuestros esfuerzos han sido en vano.{F801}{F802}Entonces siga su camino hacia la autodestrucción, como guste. Disfrute el tiempo que le queda, mientras dure...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#311", "es": "{F871}{0100}¿Cómo, exactamente, planea enderezar el mundo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#312", "es": "“Con un poder abrumador.”{F801}“Siendo amigo de todos.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#313", "es": "{F871}{0100}¿Va a convertirse en el conquistador del mundo? Qué ambicioso...{F801}{F802}Podría ser interesante ir con usted...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#314", "es": "{F871}{0100}¿De verdad necesita tanto mi poder? {F801}Tiene buen criterio.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#316", "es": "{F871}{0100}¿Entonces dice que es igual a los demonios?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#317", "es": "“Así es.”{F801}“No, los demonios son superiores.”{F801}“No, los humanos son superiores.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#318", "es": "{F871}{0100}Está poniendo a prueba mi paciencia, ¿verdad?{F801}{F802}Interesante... Entonces permítame poner a prueba la suya.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#319", "es": "{F871}{0100}¿De verdad lo piensa? La adulación no lo llevará a ninguna parte.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#320", "es": "{F871}{0100}Jaja... Es el primer humano que conozco capaz de declarar eso.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#322", "es": "{F871}{0100}Entonces, permítame preguntarle: ¿en qué es superior a nosotros?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#323", "es": "“Conocimiento.”{F801}“Bondad.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#324", "es": "{F871}{0100}Es cierto que la civilización humana ha dado grandes pasos.{F801}{F802}Pero ese conocimiento vino de nosotros...{F801}{F802}Entonces, ¿qué le parece? Para dar otro paso, ¿por qué no me presenta algo de igual valor?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#325", "es": "{F871}{0100}De todas las respuestas... No es más que un necio.{F801}{F802}Puede ser amable conmigo en el más allá.{F801}{F802}{FFFF}"}

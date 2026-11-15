@@ -12,6 +12,7 @@
 {"key": "battle/talk/TalkToneOldman.mbm#132", "es": "Detener al demonio{F801}Ignorar al demonio{F801}Levantar el arma{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldman.mbm#140", "es": "〉 El demonio te ignora...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldman.mbm#141", "es": "Decirle algo{F801}Llamar su atención{F801}Amenazar al demonio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldman.mbm#150", "es": "{F871}{0100}¡Por favor, tenga piedad!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldman.mbm#151", "es": "Perdonar{F801}No perdonar{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldman.mbm#153", "es": "〉 El demonio se fue...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldman.mbm#162", "es": "〉 El demonio se fue...{F801}{F802}{FFFF}"}
