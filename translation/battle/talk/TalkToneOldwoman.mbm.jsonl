@@ -1,26 +1,221 @@
+{"key": "battle/talk/TalkToneOldwoman.mbm#1", "es": "{F871}{0100}No tengo asuntos contigo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#2", "es": "{F871}{0100}Qué descaro, abofetear a una dama en el rostro y luego pedir que hablemos...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#3", "es": "{F871}{0100}Ahora bien, ¿qué haré...?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#4", "es": "{F871}{0100}Con esto me basta.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#5", "es": "{F871}{0100}Primero, veamos si puedes satisfacer mis deseos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#6", "es": "{F871}{0100}¿Qué...? Ese aparato tuyo está lleno de demonios...{F801}{F802}Qué decepción...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#7", "es": "{F871}{0100}Soy {F804}{0500}{F875}{0100} {F873}{0100}{F804}{0000}.{F801}Considera un honor que esté contigo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#8", "es": "{F871}{0100}¿Qué...? ¿Eres inferior a mí?{F801}{F802}No me gusta pactar con humanos débiles.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#9", "es": "{F871}{0100}¿Qué...? Parece que ya tienes un pacto con alguien de mi linaje.{F801}{F802}Queda a tu cuidado...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#10", "es": "{F871}{0100}Te concederé otra compañía.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#11", "es": "{F871}{0100}¿Qué...? Ese aparato tuyo está lleno de demonios...{F801}{F802}Qué decepción...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#12", "es": "{F871}{0100}Te ves fresco como una lechuga...{F801}Ah, no temas, no te comeré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#13", "es": "{F871}{0100}Los demonios son muy caprichosos...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#14", "es": "{F871}{0100}Ahora me toca a mí ir contigo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#15", "es": "{F871}{0100}Invocaré a otro demonio...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#16", "es": "{F871}{0100}{F873}{0200} me invocó...{F801}Saciemos mutuamente nuestra sed.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#18", "es": "{F871}{0100}Joven descarado... Vete mientras conserves la cabeza.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#19", "es": "{F871}{0100}Qué bribón tan atrevido...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#20", "es": "{F871}{0100}Humano despreciable, deshonrarme es un crimen grave.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#21", "es": "{F871}{0100}¡Nnnnnnnnnnnngh!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#22", "es": "{F871}{0100}¡Detente ahora mismo! ¡Escucha! ¡Ahh! ¡Hasta mi misericordia tiene un límite...!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#23", "es": "{F871}{0100}...Se acabó. Has sobrepasado tus límites.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#24", "es": "{F871}{0100}...¡¿Qué?! ¡¿Por qué no puedo moverme?!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#25", "es": "{F871}{0100}Tengo algo que ya no me interesa. Se lo robé a un humano.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#26", "es": "{F871}{0100}Puedes quedarte con esto. Cuídalo bien.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#27", "es": "{F871}{0100}¡Jojojojojojo! Estoy de un humor espléndido. ¡Todos son mis queridos hijos!{F801}{F802}¡Toma, pequeño! ¡Aprovecha mi maravillosa actitud!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#28", "es": "{F871}{0100}Te ves bastante pobre, así que también puedes quedarte con esto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#29", "es": "{F871}{0100}No me gustan los discursos largos.{F801}{F802}{F878}{0100} macca.{F801}Conformémonos con esto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#30", "es": "{F871}{0100}Muy bien. {F872}{0100} x{F878}{0100}.{F801}Agradece que no pedí más.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#31", "es": "{F871}{0100}Muy bien. {F878}{0100} macca.{F801}Agradece que no pedí más.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#32", "es": "{F871}{0100}Tomaré apenas una gota de tus PS.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#33", "es": "{F871}{0100}Tomaré una modesta cantidad de tus PS.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#34", "es": "{F871}{0100}Tomaré una buena cantidad de tus{F801}PS.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#35", "es": "{F871}{0100}Tomaré una inmensa cantidad de tus PS.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#36", "es": "{F871}{0100}Tomaré apenas una gota de tus PM.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#37", "es": "{F871}{0100}Tomaré una modesta cantidad de tus PM.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#38", "es": "{F871}{0100}Tomaré una buena cantidad de tus{F801}PM.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#39", "es": "{F871}{0100}Tomaré una inmensa cantidad de tus PM.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#40", "es": "{F871}{0100}Dame la vida de quien te acompaña...{F801}{F873}{0200}.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#41", "es": "{F871}{0100}Dame eso.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#42", "es": "{F871}{0100}Tu acompañante... ¡Dame los PS de {F87E}!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#43", "es": "{F871}{0100}Ahora, deléitame.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#44", "es": "{F871}{0100}Eres muy considerado. Tienes mi bendición.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#45", "es": "{F871}{0100}¿Te burlas de mí?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#46", "es": "{F871}{0100}No tengo manera de usar este desbordante amor maternal. Permíteme derramarlo sobre ti.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#47", "es": "“Claro.”{F801}“No.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#48", "es": "{F871}{0100}Ahh, déjalo fluir...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#49", "es": "〉 ¡El amor maternal del demonio alivió a {F843}{0000}!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#50", "es": "〉 ¡El amor maternal del demonio alivió mucho a {F843}{0000}!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#51", "es": "{F871}{0100}Ahh, déjalo fluir...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#52", "es": "〉 ¡La sobreprotección del demonio lastimó a {F843}{0000}!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#53", "es": "〉 ¡La sobreprotección extrema del demonio lastimó a {F843}{0000}!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#54", "es": "{F871}{0100}Hmph, ¿ahora actúas con madurez...?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#55", "es": "{F871}{0100}Aquí estás, mi amado niño.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#56", "es": "{F871}{0100}Hmph...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#57", "es": "{F871}{0100}¿Te atreves a engañarme?{F801}{F802}Una jugada necia.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#58", "es": "{F871}{0100}Qué joven tan inútil...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#59", "es": "{F871}{0100}¿Te atreves a engañarme?{F801}{F802}Una jugada necia.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#60", "es": "{F871}{0100}Hmph...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#61", "es": "{F871}{0100}Hmph...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#62", "es": "{F871}{0100}Quién diría que alguien rechazaría así mis órdenes. ¡Eres un joven muy valiente!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#63", "es": "{F871}{0100}Qué joven tan inútil...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#64", "es": "{F871}{0100}¿Has comido? ¿Debería cuidar de este niño...?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#65", "es": "{F871}{0100}Nos volveremos a ver...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#66", "es": "{F871}{0100}Ahh... ¿{F843}{0000}? Veo que sigues con vida.{F801}{F802}Recuerdo el tiempo que pasamos juntos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#67", "es": "{F871}{0100}¿Quieres hacer un pacto conmigo?{F801}{F802}Jojojo... Quizá cuide de un humano por primera vez en mucho tiempo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#68", "es": "{F871}{0100}¿Pides mi compasión? Ya, ya, querido niño.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#69", "es": "{F871}{0100}Jojojo... ¿Un juguete nuevo? Muy bien,{F801}te daré uno.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#70", "es": "{F871}{0100}Te trabas con las palabras...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#71", "es": "{F871}{0100}Ahhh... ¡{F843}{0000}...!{F801}Cuánto me he preocupado por ti...{F801}{F802}¡No me entristezcas así nunca más! ¡Ahora, de vuelta a mis brazos...!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#72", "es": "{F871}{0100}...¿Vas a matarme así, sin más?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#73", "es": "{F871}{0100}Querido niño...{F801}{F802}Ahora mis pechos son tuyos.{F801}Haz lo que quieras.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#74", "es": "{F871}{0100}¡No! ¡No!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#101", "es": "〉 El demonio está en guardia...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#102", "es": "Bajar el arma{F801}Ponerse en guardia{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#103", "es": "{F871}{0100}Esa alma tierna es la presa perfecta para los demonios.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#104", "es": "{F871}{0100}Hmm... Tienes modales. Si tienes inteligencia, pasaré algo de tiempo contigo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#105", "es": "{F871}{0100}¿Te atreves a insultarme...?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#106", "es": "{F871}{0100}No te pongas tan rígido. Toma...{F801}te daré esto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#107", "es": "{F871}{0100}Los humanos son seres realmente extraños...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#109", "es": "〉 El demonio se te acerca...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#110", "es": "Hacerse a un lado{F801}Levantar el arma{F801}No moverse{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#111", "es": "〉 ¡{F843}{0000} esquiva al demonio!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#112", "es": "{F871}{0100}No te pongas tan rígido.{F801}Compórtate como el niño que eres.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#113", "es": "〉 El demonio te alcanza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#114", "es": "{F871}{0100}Hmm... Tienes buenos instintos.{F801}Permíteme ponerte a prueba.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#115", "es": "{F871}{0100}¿Te atreves a insultarme...?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#116", "es": "{F871}{0100}Un joven muy valiente... Quizá debería hablar con él.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#117", "es": "{F871}{0100}Un joven muy valiente...{F801}{F802}...¿Eso esperabas que dijera?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#119", "es": "〉 El demonio te hace señas...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#120", "es": "Acercarse{F801}Responder con señas{F801}Levantar el arma{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#121", "es": "{F871}{0100}No te acerques a mí.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#122", "es": "{F871}{0100}Ya, ya, querido niño...{F801}Te daré esto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#123", "es": "{F871}{0100}Volvamos a encontrarnos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#124", "es": "{F871}{0100}Ya, ya, querido niño...{F801}{F802}Si inclinas la cabeza ante mí,{F801}concederé tu deseo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#125", "es": "{F871}{0100}¿Te atreves a insultarme...?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#126", "es": "{F871}{0100}Un joven muy extraño...{F801}Quizá debería hablar con él.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#127", "es": "{F871}{0100}Al final, no eras más que un humano...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#128", "es": "〉 El demonio te tomó por sorpresa...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#129", "es": "{F871}{0100}No te pongas tan rígido. Ahora, continuemos nuestra conversación.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#131", "es": "〉 El demonio intenta irse...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#132", "es": "Detener al demonio{F801}Ignorar al demonio{F801}Levantar el arma{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#133", "es": "{F871}{0100}¿Deseas que me una a ti?{F801}{F802}Pero eso significa traicionar a mi raza...{F801}{F802}Debo recibir una compensación adecuada.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#134", "es": "{F871}{0100}Hmm... No te conozco.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#135", "es": "〉 El demonio se fue...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#136", "es": "{F871}{0100}¿Te atreves a insultarme...?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#137", "es": "{F871}{0100}No te pongas tan rígido. Ahora, continuemos nuestra conversación.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#138", "es": "{F871}{0100}Actuar sin consideración por uno mismo...{F801}Una jugada necia.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#140", "es": "〉 El demonio te ignora...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#141", "es": "Decirle algo{F801}Llamar su atención{F801}Amenazar al demonio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#142", "es": "{F871}{0100}Qué bicho tan molesto...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#143", "es": "{F871}{0100}¿Qué determinación tienes para hablarme?{F801}{F802}Descubriré tus motivos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#147", "es": "{F871}{0100}No te pongas tan rígido. Toma...{F801}te daré esto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#148", "es": "{F871}{0100}Los humanos son seres realmente extraños...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#149", "es": "{F871}{0100}Actuar sin consideración por uno mismo...{F801}Una jugada necia.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#151", "es": "{F871}{0100}Ahora puedes ponerte mimoso conmigo todo lo que quieras.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#152", "es": "Ponerse mimoso{F801}No ponerse mimoso{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#153", "es": "{F871}{0100}Un niño obediente. Ya, ya...{F801}{F802}¡Ooh! ¡Agitando brazos y piernas así, qué niño tan adorable!{F801}{F802}Tienes que convertirte en mi hijo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#154", "es": "{F871}{0100}Un niño obediente. Ya, ya...{F801}{F802}¿Puedo comerte ahora?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#155", "es": "{F871}{0100}¡Entonces seré yo quien te llene de mimos!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#156", "es": "{F871}{0100}No puedo contener mi amor maternal... ¡No quiero soltarte!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#158", "es": "{F871}{0100}Eres {F843}{0000}...{F801}He oído hablar de ti.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#159", "es": "{F871}{0100}Niño malvado, te derrotaré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#160", "es": "{F871}{0100}Alma brillante, nacida en el caos...{F801}Estaré contigo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#161", "es": "{F871}{0100}¡No deseo involucrarme contigo!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#162", "es": "〉 El demonio se fue...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#164", "es": "{F871}{0100}No hay que confiar en los humanos...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#165", "es": "“Exacto.”{F801}“Eso no es cierto.”{F801}“Soy un humano de confianza.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#166", "es": "{F871}{0100}¡Qué boca pronuncia esa palabra, hipócrita!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#167", "es": "{F871}{0100}Hmm... Así que hay humanos inteligentes. Permíteme ponerte a prueba.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#168", "es": "{F871}{0100}¿Te atreves a insultarme...?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#169", "es": "{F871}{0100}Entonces gánate mi confianza.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#170", "es": "{F871}{0100}Esas mismas palabras son la prueba de que no puedo confiar en ti.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#172", "es": "{F871}{0100}Jojojo... Los humanos me interesan.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#173", "es": "〉 ¿Cómo te acercarás al demonio?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#174", "es": "Amistosamente{F801}Con prepotencia{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#175", "es": "{F871}{0100}Excelente actitud... Como recompensa,{F801}te preguntaré qué deseas.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#176", "es": "{F871}{0100}Hmm... ¿Cómo debería responderte...?{F801}{F802}No puedo ordenar mis pensamientos...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#177", "es": "{F871}{0100}Actuar sin consideración por uno mismo...{F801}Una jugada necia.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#179", "es": "{F871}{0100}¿Cómo me ves a tus ojos?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#180", "es": "“Como una madre.”{F801}“Como un ogro.”{F801}“Como una mujer.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#181", "es": "{F871}{0100}Vaya... ¿Ves en mí tanta misericordia?{F801}Qué niño tan adorable eres...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#182", "es": "{F871}{0100}¿Qué...? ¿Me ves como un ogro...?{F801}Soy el reflejo de ustedes, los humanos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#185", "es": "{F871}{0100}Oh... ¿Puedes verme?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#186", "es": "“Puedo.”{F801}“No puedo.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#188", "es": "{F871}{0100}Entonces permíteme abrirte los ojos. Si es que abres los ojos cuando mueras.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#189", "es": "{F871}{0100}No tengo tiempo para bromas.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#191", "es": "{F871}{0100}¿Qué es este ruido...? ¿Qué quieres de mí?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#192", "es": "“Únete a mí.”{F801}“Quiero hablar.”{F801}“No soy ruidoso.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#193", "es": "{F871}{0100}No puedo traicionar a mi raza.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#196", "es": "{F871}{0100}Oh, eres un niño humano...{F801}Qué aburrimiento.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#198", "es": "{F871}{0100}Oh, un humano. ¿Debería llevarte y comerte?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#199", "es": "“¡Por favor, no!”{F801}“Adelante, inténtalo.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#200", "es": "{F871}{0100}¡Me niego!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#201", "es": "{F871}{0100}Ahh... ¡Ese rostro torcido de miedo!{F801}Como un simple niño... ¡Qué adorable!{F801}{F802}Ya, ya. Cuidaré de ti.{F801}{F802}...Pero ¿creíste que simplemente diría que sí?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#202", "es": "{F871}{0100}Quienes dicen ser puros son los más sucios. Deberían convertirse en esclavos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#203", "es": "{F871}{0100}Solo bromeaba. No te preocupes.{F801}{F802}Deseas mi amor, ¿no es así? Te lo concederé, así que dame regalos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#205", "es": "{F871}{0100}¿Qué piensas de haber nacido en este mundo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#206", "es": "“Estoy agradecido.”{F801}“Lo maldigo.”{F801}“No me importa.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#207", "es": "{F871}{0100}Entonces no deberías involucrarte con los demonios.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#208", "es": "{F871}{0100}Respetar la vida en este mundo de caos... Eres un niño inteligente...{F801}{F802}Te haré mi hijo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#209", "es": "{F871}{0100}Ya veo... Eres un alma frágil.{F801}Ahora hay muchos humanos como tú.{F801}{F802}Te presentaré a ellos en mi estómago.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#211", "es": "{F871}{0100}Hubo alguien que pasó por un gran dolor para traerte a este mundo...{F801}{F802}Se lo debes: aporta tú mismo algo a este mundo. Por eso, te prestaré mi fuerza.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#213", "es": "{F871}{0100}Me aburro... Humano, léeme un poema.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#214", "es": "Recitar “Poema de amor”{F801}Recitar “Poema de guerra”{F801}Recitar “Poema de la vida cotidiana”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#215", "es": "{F871}{0100}Oh, aún eres un joven... Veo que todavía no conoces el amor.{F801}{F802}Ya, ya. Te daré mi amor.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#216", "es": "{F871}{0100}¿Sientes alegría en la masacre? No deberías mentir, humano.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#217", "es": "{F871}{0100}No tengo interés en tu vida cotidiana.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#219", "es": "{F871}{0100}¿Quieres que te diga la fortuna de hoy?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#220", "es": "“Claro.”{F801}“No, gracias.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#221", "es": "{F871}{0100}...{F801}{F802}{F813}{0A00}{0000}{0000}{0000}...Tienes muy buena suerte.{F801}{F802}¡Es tal como pensaba! Estás destinado a llevarme contigo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#222", "es": "{F871}{0100}...{F801}{F802}{F813}{0A00}{0000}{0000}{0000}...Tienes buena suerte.{F801}{F802}Si eso es cierto, ¿qué harás?{F801}Tú decides tu destino.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#223", "es": "{F871}{0100}...{F801}{F802}{F813}{0A00}{0000}{0100}{0000}...Tienes mala suerte.{F801}{F802}Quizá sea porque terminas tu vida aquí.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#224", "es": "{F871}{0100}...{F801}{F802}{F813}{0A00}{0000}{0100}{0000}...Tienes muy mala suerte.{F801}{F802}No te entristezcas. La suerte es algo que cambia constantemente. De hecho, te ayudaré a cambiarla.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#225", "es": "{F871}{0100}Hmm... Eso es digno de un humano.{F801}{F802}Entonces, sigue adelante. Tú decides todo por ti mismo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#227", "es": "{F871}{0100}Percibo un elemento diabólico dentro de ti. ...¿Quién eres?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#228", "es": "“Un humano.”{F801}“Un demonio.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#230", "es": "{F871}{0100}El poder reside en las palabras. No digas lo que no piensas.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#231", "es": "{F871}{0100}Entonces, demonio como yo, tengo una pregunta para ti.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#233", "es": "{F871}{0100}Te ves abatido. ¿Te preocupa algo?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#234", "es": "“Sí.”{F801}“No.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#236", "es": "{F871}{0100}Hablaba con tu alma.{F801}{F802}Claro que está abatida... Después de todo,{F801}aún no he quedado conforme...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#237", "es": "{F871}{0100}Hablaba con tu alma.{F801}{F802}Claro que está abatida... Después de todo,{F801}aún no he quedado conforme...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#239", "es": "〉 {F843}{0000} baila una danza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#240", "es": "{F871}{0100}Carece de sacralidad.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#241", "es": "{F871}{0100}Hmm... ¿Es eso respeto? Muy bien. Sigue mostrándome tu sinceridad.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#243", "es": "〉 {F843}{0000} canta una canción...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#244", "es": "{F871}{0100}Carece de sacralidad.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#245", "es": "{F871}{0100}Hmm... ¿Es eso respeto? Muy bien. Sigue mostrándome tu sinceridad.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#247", "es": "〉 {F843}{0000} presume algo de macca...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#248", "es": "{F871}{0100}Un niño digno de lástima...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#249", "es": "{F871}{0100}Hmm... ¿Una ofrenda para mí? Es raro ver eso en la juventud de hoy.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#251", "es": "{F871}{0100}¿No me temes?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#252", "es": "“No te temo.”{F801}“Sí, pero pareces amable.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#253", "es": "{F871}{0100}Entonces acércate. Te envolveré en mis brazos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#254", "es": "{F871}{0100}Jojojo... Dices cosas muy interesantes para ser un niño.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#256", "es": "{F871}{0100}Entonces, ¿qué deseas?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#257", "es": "“Que te unas a mí.”{F801}“Que me cuides.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#258", "es": "{F871}{0100}No te pongas tan rígido, querido niño.{F801}Solo muéstrame tu sinceridad.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#259", "es": "{F871}{0100}Qué joven tan prepotente. No tengo el deber de hacerlo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#260", "es": "{F871}{0100}Un niño digno de lástima... No conoces el calor de la piel...{F801}{F802}Ya, ya, te haré mi hijo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#262", "es": "{F871}{0100}Y bien, niño, ¿te gustaría vivir como un ogro?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#263", "es": "“No soy un ogro.”{F801}“Ya lo soy.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#264", "es": "{F871}{0100}Hay muchos humanos que apartan la mirada del ogro que llevan dentro...{F801}{F802}Aunque en tu caso sería “Dagda”, ¿no es así?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#265", "es": "{F871}{0100}Entonces caza humanos. Eso hará de este mundo un lugar mejor.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#267", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}¿Te estás sonrojando? Qué niño.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#268", "es": "“Es que ERES una mujer.”{F801}“¡¿No eres una mujer?!”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#269", "es": "{F871}{0100}Los humanos solo ven con los ojos. Debes mirar dentro de mí.{F801}{F802}...Puedes ver lo que deseo, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#270", "es": "{F871}{0100}Jojojo... Pequeño, mira al hombre que hay en la mujer y a la mujer que hay en el hombre.{F801}{F802}...Puedes verlos, ¿no es así?{F801}Mis ardientes deseos...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#272", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}Entonces lo entiendes, ¿verdad? Ya no quiero maldecir a nadie más.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#273", "es": "“No entiendo.”{F801}“¿Por qué?”{F801}“Entonces no maldigas.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#274", "es": "{F871}{0100}Entonces permíteme abrirte los ojos. Si es que abres los ojos cuando mueras.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#275", "es": "{F871}{0100}Demonios y humanos... Somos el reflejo unos de otros.{F801}{F802}Mientras existan los humanos, no podremos escapar de nuestro destino.{F801}{F802}Niño, ¿podrías aceptar mi maldición?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#276", "es": "{F871}{0100}Entonces dejaría de ser yo...{F801}{F802}Mi maldición es un deseo muerto, algo que jamás podrá cumplirse en este mundo...{F801}{F802}Mi destino también es dejarme llevar por esta maldición...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#278", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}¿Dices que deseas ser gobernado por nosotros, los dioses?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#279", "es": "“Sí.”{F801}“No.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#280", "es": "{F871}{0100}Hmm... Soy la encarnación del aburrimiento. Quiero oírte hablar.{F801}{F802}Primero, veamos si puedes satisfacer mis deseos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#281", "es": "{F871}{0100}¿Por qué? Los humanos rezan y piden ayuda a los dioses todo el tiempo.{F801}{F802}¿Solo nos desean cuando nos necesitan?{F801}Traes el caos al mundo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#283", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}Entonces ¿me adorarás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#284", "es": "“Sí.”{F801}“No.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#285", "es": "{F871}{0100}Un niño admirable. ¿Cómo debería responderte...?{F801}{F802}{FFFF}"}

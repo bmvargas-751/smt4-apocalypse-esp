@@ -28,6 +28,7 @@
 {"key": "battle/talk/TalkToneUnknown.mbm#275", "es": "Darle dulces{F801}Darle agua{F801}Darle licor{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#286", "es": "“Te mataré.”{F801}“No te mataré.”{F801}“¿Qué debería hacer?”{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#292", "es": "“Es mentira.”{F801}“Es la verdad.”{F801}“Es mentira de verdad.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneUnknown.mbm#339", "es": "{F871}{0100}Entonces, ¿qué deseas?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#383", "es": "{F871}{0100}¡Quiero tener un amigo humano! Ahora, ¡démonos la mano para mostrar nuestra amistad!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#384", "es": "Darle la mano{F801}Dejar la mano en el aire{F801}Ponerse una tachuela en la mano{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#385", "es": "{F871}{0100}Guau, qué agarre...{F801}No quiero pelear con ese sujeto.{F801}{F802}{FFFF}"}
