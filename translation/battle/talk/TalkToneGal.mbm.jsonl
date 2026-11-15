@@ -15,7 +15,7 @@
 {"key": "battle/talk/TalkToneGal.mbm#15", "es": "{F871}{0100}Conozco a un demonio divertido, ¿sabes?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#16", "es": "{F871}{0100}Mmm...{F801}{F802}Tengo buena amistad con {F873}{0200}. {F801}Te ves delicioso.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#17", "es": "{F871}{0100}...¿Crees en tu destino?{F801}{F802}Jeje... ¿Quieres que te haga creer en él?{F801}{F802}{FFFF}"}
-{"key": "battle/talk/TalkToneGal.mbm#18", "es": "{F871}{0100}¿Qué? Eh, no tengo Macca.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#18", "es": "{F871}{0100}¿Qué? Eh, no tengo macca.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#19", "es": "{F871}{0100}Mmmmm... Eres como los demás humanos...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#20", "es": "{F871}{0100}¿Quieres morir?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#21", "es": "{F871}{0100}¡¿Qué...?! ¡Asqueroso!{F801}{F802}{FFFF}"}
@@ -26,9 +26,9 @@
 {"key": "battle/talk/TalkToneGal.mbm#26", "es": "{F871}{0100}Toma. No lo uses para nada raro, ¿okey?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#27", "es": "{F871}{0100}Agh... Me siento mal...{F801}{F802}Como sea... No me importa...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#28", "es": "{F871}{0100}Te daré esto.{F801}{F802}{FFFF}"}
-{"key": "battle/talk/TalkToneGal.mbm#29", "es": "{F871}{0100}Necesito Macca ahora mismo.{F801}{F802}¿Y si terminamos con {F878}{0100} Macca?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#29", "es": "{F871}{0100}Necesito macca ahora mismo.{F801}{F802}¿Y si terminamos con {F878}{0100} macca?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#30", "es": "{F871}{0100}Me darás {F872}{0100} x{F878}{0100}, ¿verdad?{F801}{F802}{FFFF}"}
-{"key": "battle/talk/TalkToneGal.mbm#31", "es": "{F871}{0100}Me darás {F878}{0100} Macca, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#31", "es": "{F871}{0100}Me darás {F878}{0100} macca, ¿verdad?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#32", "es": "{F871}{0100}Me darás un poquito de tus PS, ¿verdad?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#33", "es": "{F871}{0100}Me darás un poco de tus PS, ¿verdad?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#34", "es": "{F871}{0100}Me darás bastante de tus PS, ¿verdad?{F801}{F802}{FFFF}"}
@@ -188,7 +188,7 @@
 {"key": "battle/talk/TalkToneGal.mbm#242", "es": "〉 {F843}{0000} canta una canción...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#243", "es": "{F871}{0100}Qué espeluznante...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#244", "es": "{F871}{0100}¡Eres bueno! ¿Quieres negociar conmigo?{F801}{F802}{FFFF}"}
-{"key": "battle/talk/TalkToneGal.mbm#246", "es": "〉 {F843}{0000} muestra un poco de Macca...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#246", "es": "〉 {F843}{0000} muestra un poco de macca...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#247", "es": "{F871}{0100}Oh... ¡Qué negocio turbio!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#248", "es": "{F871}{0100}Jejeje...{F801}{F802}...Quiero ver más de tu lado amable.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#250", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}¿Querías verme?{F801}{F802}{FFFF}"}

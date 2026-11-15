@@ -26,9 +26,9 @@
 {"key": "battle/talk/TalkToneGirl.mbm#26", "es": "{F871}{0100}Toma. ¡Cuídalo mucho!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#27", "es": "{F871}{0100}¡Wiii! Hay flores por todas partes...{F801}¡Úsame como quieras, señor!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#28", "es": "{F871}{0100}¡Como fuiste tan buen chico, te doy uno extra!{F801}{F802}{FFFF}"}
-{"key": "battle/talk/TalkToneGirl.mbm#29", "es": "{F871}{0100}Oye, terminemos esto ya. Quiero arreglarlo con Macca...{F801}{F802}¡{F878}{0100} Macca! ¿Está bien, verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#29", "es": "{F871}{0100}Oye, terminemos esto ya. Quiero arreglarlo con macca...{F801}{F802}¡{F878}{0100} Macca! ¿Está bien, verdad?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#30", "es": "{F871}{0100}De verdad quiero {F872}{0100} x{F878}{0100}.{F801}{F802}{FFFF}"}
-{"key": "battle/talk/TalkToneGirl.mbm#31", "es": "{F871}{0100}Quiero {F878}{0100} Macca.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#31", "es": "{F871}{0100}Quiero {F878}{0100} macca.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#32", "es": "{F871}{0100}Tus PS, señor... Quiero un poquito de eso...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#33", "es": "{F871}{0100}Tus PS, señor... Quiero un poco de eso...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#34", "es": "{F871}{0100}Tus PS, señor... Quiero mucho de eso...{F801}{F802}{FFFF}"}
@@ -65,7 +65,7 @@
 {"key": "battle/talk/TalkToneGirl.mbm#65", "es": "{F871}{0100}¡Adiós, adiós!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#66", "es": "{F871}{0100}¡Oh! ¡Señor {F843}{0000}!{F801}{F802}¡Ya hablamos un montón! Eso nos hace amigos, ¿no?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#67", "es": "{F871}{0100}¿Quieres que seamos amigos? ¡Claro!{F801}{F802}Jejeje... Hagamos una masacre entre los dos, ¿okey?{F801}{F802}{FFFF}"}
-{"key": "battle/talk/TalkToneGirl.mbm#68", "es": "{F871}{0100}¿Te doy un poco de Macca? Jejeje...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#68", "es": "{F871}{0100}¿Te doy un poco de macca? Jejeje...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#69", "es": "{F871}{0100}¿Te doy esto? Jejeje...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#70", "es": "{F871}{0100}...Eres aburrido. Me voy a casa.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#71", "es": "{F871}{0100}¡Ohhhh! ¡{F843}{0000}...!{F801}{F802}¡Qué soledad! ¡No me dejes así nunca más, ¿okey?!{F801}{F802}{FFFF}"}
@@ -208,7 +208,7 @@
 {"key": "battle/talk/TalkToneGirl.mbm#278", "es": "〉 {F843}{0000} canta una canción...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#279", "es": "{F871}{0100}Qué canción tan clásica...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#280", "es": "{F871}{0100}¡Eres un humano divertido! ¿Quieres que me una a ti?{F801}{F802}{FFFF}"}
-{"key": "battle/talk/TalkToneGirl.mbm#282", "es": "〉 {F843}{0000} muestra un poco de Macca...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#282", "es": "〉 {F843}{0000} muestra un poco de macca...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#283", "es": "{F871}{0100}No me interesa el dinero...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#284", "es": "{F871}{0100}Jejeje... Quieres que me una a ti, ¿eh?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#286", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}Todos se meten conmigo. ¿Tú también me vas a molestar?{F801}{F802}{FFFF}"}

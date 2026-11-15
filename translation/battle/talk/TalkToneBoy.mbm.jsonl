@@ -14,7 +14,7 @@
 {"key": "battle/talk/TalkToneBoy.mbm#14", "es": "{F871}{0100}¡No te olvides de mí! ¡Yo también me uno a ti!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBoy.mbm#15", "es": "{F871}{0100}¡Está bien, te llamaré a un amigo!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBoy.mbm#16", "es": "{F871}{0100}Hola, humano.{F801}{F802}Escuché la voz de {F873}{0200}, así que...{F801}¡vine!{F801}{F802}{FFFF}"}
-{"key": "battle/talk/TalkToneBoy.mbm#18", "es": "{F871}{0100}¿Eh, una oportunidad de ganar dinero...?{F801}No tengo tanta Macca...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBoy.mbm#18", "es": "{F871}{0100}¿Eh, una oportunidad de ganar dinero...?{F801}No tengo tantos macca...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBoy.mbm#19", "es": "{F871}{0100}Ahhh, mi mesada... Qué cruel fue ese cobro...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBoy.mbm#20", "es": "{F871}{0100}¿Eres tonto? Arriesgar tu vida por mi mesada...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBoy.mbm#21", "es": "{F871}{0100}¡Ahhhh! ¡¿Qué haces?!{F801}{F802}{FFFF}"}
@@ -25,9 +25,9 @@
 {"key": "battle/talk/TalkToneBoy.mbm#26", "es": "{F871}{0100}Jejejeje... Entonces te doy esto.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBoy.mbm#27", "es": "{F871}{0100}¿Quieres mi colección? Entonces...{F801}{F802}...Wojejeje... Me estoy divirtiendo, así que cualquier cosa sirve.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBoy.mbm#28", "es": "{F871}{0100}Toma, uno extra. ¡Dame las gracias!{F801}{F802}{FFFF}"}
-{"key": "battle/talk/TalkToneBoy.mbm#29", "es": "{F871}{0100}¡Tienes suerte! ¡Lo decido ahora mismo con Macca!{F801}{F802}¡{F878}{0100} Macca! ¡No bajaré más!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBoy.mbm#29", "es": "{F871}{0100}¡Tienes suerte! ¡Lo decido ahora mismo con macca!{F801}{F802}¡{F878}{0100} Macca! ¡No bajaré más!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBoy.mbm#30", "es": "{F871}{0100}¡Dame {F872}{0100} x{F878}{0100}!{F801}{F802}{FFFF}"}
-{"key": "battle/talk/TalkToneBoy.mbm#31", "es": "{F871}{0100}¡Dame {F878}{0100} Macca!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBoy.mbm#31", "es": "{F871}{0100}¡Dame {F878}{0100} macca!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBoy.mbm#32", "es": "{F871}{0100}¡Te voy a quitar un poquito de tus PS!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBoy.mbm#33", "es": "{F871}{0100}¡Te voy a quitar una parte de tus PS!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBoy.mbm#34", "es": "{F871}{0100}¡Te voy a quitar un buen pedazo de tus PS!{F801}{F802}{FFFF}"}
@@ -64,7 +64,7 @@
 {"key": "battle/talk/TalkToneBoy.mbm#65", "es": "{F871}{0100}¡Adiós, adiós!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBoy.mbm#66", "es": "{F871}{0100}¡Oh, ahí está {F843}{0000}!{F801}{F802}Somos los mejores amigos, ¿no?{F801}Después de todo, hablamos un montón.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBoy.mbm#67", "es": "{F871}{0100}Quieres que seamos aliados, ¿verdad?{F801}{F802}{FFFF}"}
-{"key": "battle/talk/TalkToneBoy.mbm#68", "es": "{F871}{0100}Quieres Macca, ¿verdad? No necesitas mentir.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneBoy.mbm#68", "es": "{F871}{0100}Quieres macca, ¿verdad? No necesitas mentir.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBoy.mbm#69", "es": "{F871}{0100}Quieres mi colección, ¿verdad?{F801}No se lo digas a nadie más, ¿okey?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBoy.mbm#70", "es": "{F871}{0100}¡Me cansé de tu charla!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneBoy.mbm#71", "es": "{F871}{0100}¡Oyeeeeee, {F843}{0000}!{F801}{F802}No deberías perderte así.{F801}¡Vamos, vámonos!{F801}{F802}{FFFF}"}

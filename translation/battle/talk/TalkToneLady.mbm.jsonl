@@ -28,7 +28,7 @@
 {"key": "battle/talk/TalkToneLady.mbm#28", "es": "{F871}{0100}Voy a cuidarte todavía más. {F801}Toma esto también, por favor.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#29", "es": "{F871}{0100}Quiero sentir más de tu pasión...{F801}{F802}{F878}{0100} Macca, y me entrego a ti.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#30", "es": "{F871}{0100}Quisiera {F872}{0100} x{F878}{0100}...{F801}{F802}{FFFF}"}
-{"key": "battle/talk/TalkToneLady.mbm#31", "es": "{F871}{0100}Quisiera {F878}{0100} Macca...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneLady.mbm#31", "es": "{F871}{0100}Quisiera {F878}{0100} macca...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#32", "es": "{F871}{0100}Quisiera tus PS... Solo un poquito.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#33", "es": "{F871}{0100}Quisiera tus PS... Un poco, por favor.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#34", "es": "{F871}{0100}Quisiera tus PS... Una buena parte, por favor.{F801}{F802}{FFFF}"}
@@ -65,7 +65,7 @@
 {"key": "battle/talk/TalkToneLady.mbm#65", "es": "{F871}{0100}Au revoir...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#66", "es": "{F871}{0100}Vaya... {F843}{0000}.{F801}{F802}No habrás olvidado todas esas palabras que intercambiamos aquella vez, ¿verdad?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#67", "es": "{F871}{0100}He estado pensando en ti todo este tiempo... Me uno a ti.{F801}{F802}{FFFF}"}
-{"key": "battle/talk/TalkToneLady.mbm#68", "es": "{F871}{0100}No hace falta ser modesto... {F801}Me encargaré de lo del Macca.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneLady.mbm#68", "es": "{F871}{0100}No hace falta ser modesto... {F801}Me encargaré de lo del macca.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#69", "es": "{F871}{0100}...Aquí tienes. Eres un joven apuesto, así que procura llevar cosas como esta contigo.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#70", "es": "{F871}{0100}...Vaya, acabo de recordar un encargo pendiente. Hasta luego.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#71", "es": "{F871}{0100}Llegas tarde, señor. Deberías buscarme con más prisa.{F801}{F802}{FFFF}"}
@@ -197,7 +197,7 @@
 {"key": "battle/talk/TalkToneLady.mbm#260", "es": "〉 {F843}{0000} canta una canción...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#261", "es": "{F871}{0100}Lo siento. Eso no se parecía a una canción.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#262", "es": "{F871}{0100}Vaya, esa voz es muy sexy. Quizá deba unirme a ti.{F801}{F802}{FFFF}"}
-{"key": "battle/talk/TalkToneLady.mbm#264", "es": "〉 {F843}{0000} muestra un poco de Macca...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneLady.mbm#264", "es": "〉 {F843}{0000} muestra un poco de macca...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#265", "es": "{F871}{0100}No soy tan fácil.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#266", "es": "{F871}{0100}Vaya, qué hermosa muestra de riqueza.{F801}¿Quieres que me una a ti?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#268", "es": "{F871}{0100}¿Podrías ser más considerado con el planeta y la galaxia?{F801}{F802}{FFFF}"}
@@ -233,7 +233,7 @@
 {"key": "battle/talk/TalkToneLady.mbm#305", "es": "{F871}{0100}Jeje... Eres un humano fiel.{F801}Pero eso solo no basta.{F801}{F802}Si te lo tomas con demasiada calma, una dama cambiará de parecer. En momentos así, corresponde un regalo.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#306", "es": "{F871}{0100}Entonces te enseñaré.{F801}{F802}Empezaremos con un beso apasionado...{F801}¿Estás listo?{F801}{F802}Primero... un mordisquito, empezando por la cabeza.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#308", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}Si quieres hablar conmigo... Sabes qué hacer, ¿verdad?{F801}{F802}{FFFF}"}
-{"key": "battle/talk/TalkToneLady.mbm#309", "es": "Sacar Macca{F801}Sacar un objeto{F801}Ofrecer la vida de un aliado{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneLady.mbm#309", "es": "Sacar macca{F801}Sacar un objeto{F801}Ofrecer la vida de un aliado{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#310", "es": "{F871}{0100}No me gusta esa actitud tuya de intentar seducir a una dama con dinero.{F801}{F802}Así no llegarás a ser un buen adulto. Por favor, sigue siendo un niño para siempre.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#311", "es": "{F871}{0100}A las damas les encantan los regalos. Pero eso solo es cierto cuando quien regala es la persona a la que aman.{F801}{F802}Lo siento, pero tú estás descartado.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#312", "es": "{F871}{0100}¿Tu aliado está dispuesto a dar el sacrificio supremo por ti? Debes de ser un humano al que vale la pena servir.{F801}{F802}He estado esperando a un humano así. Quizá deba unirme a ti.{F801}{F802}{FFFF}"}
