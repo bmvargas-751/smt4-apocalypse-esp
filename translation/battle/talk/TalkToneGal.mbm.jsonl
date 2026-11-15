@@ -1,21 +1,228 @@
+{"key": "battle/talk/TalkToneGal.mbm#1", "es": "{F871}{0100}Para nada tengo ganas de hablar.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#2", "es": "{F871}{0100}¿Por qué atacaste antes de hablarme? {F801}¿Eres tonto o qué?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#3", "es": "{F871}{0100}Oseeea...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#4", "es": "{F871}{0100}Ya estoy bien. Entonces me uno a ti.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#5", "es": "{F871}{0100}...Primero, ¿puedo llevarme algo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#6", "es": "{F871}{0100}...Vaya forma de registrar de más en tu hueste. ¿Eres de los lujuriosos?{F801}{F802}Entonces me voy a casa.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#7", "es": "{F871}{0100}Soy {F804}{0500}{F875}{0100} {F873}{0100}{F804}{0000}.{F801}¡Mucho gusto!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#8", "es": "{F871}{0100}...¿No tienes un nivel un poco bajo?{F801}{F802}Entonces me voy a casa.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#9", "es": "{F871}{0100}¡Ohhh... Tienes contigo a mi BFF!{F801}{F802}Dile “hola”. Entonces me voy a casa.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#10", "es": "{F871}{0100}¿Estás de acuerdo con que invite a otro demonio, no?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#11", "es": "{F871}{0100}...Vaya forma de registrar de más en tu hueste. ¿Eres de los lujuriosos?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#12", "es": "{F871}{0100}*risita* Quizá me divierta un poquito.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#13", "es": "{F871}{0100}...Todos son unos aguafiestas.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#14", "es": "{F871}{0100}¡Muy bien, vamos!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#15", "es": "{F871}{0100}Conozco a un demonio divertido, ¿sabes?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#16", "es": "{F871}{0100}Mmm...{F801}{F802}Tengo buena amistad con {F873}{0200}. {F801}Te ves delicioso.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#17", "es": "{F871}{0100}...¿Crees en tu destino?{F801}{F802}Jeje... ¿Quieres que te haga creer en él?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#18", "es": "{F871}{0100}¿Qué? Eh, no tengo Macca.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#19", "es": "{F871}{0100}Mmmmm... Eres como los demás humanos...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#20", "es": "{F871}{0100}¿Quieres morir?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#21", "es": "{F871}{0100}¡¿Qué...?! ¡Asqueroso!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#22", "es": "{F871}{0100}¡Esto no está pasando, para nada! {F801}...Ya me estoy enojando.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#23", "es": "{F871}{0100}...Tienes unos gustos interesantes, ¿no?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#24", "es": "{F871}{0100}...¡N-No! ¡Ahora no puedo moverme!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#25", "es": "{F871}{0100}¿Un trueque? Claro, ¿por qué no?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#26", "es": "{F871}{0100}Toma. No lo uses para nada raro, ¿okey?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#27", "es": "{F871}{0100}Agh... Me siento mal...{F801}{F802}Como sea... No me importa...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#28", "es": "{F871}{0100}Te daré esto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#29", "es": "{F871}{0100}Necesito Macca ahora mismo.{F801}{F802}¿Y si terminamos con {F878}{0100} Macca?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#30", "es": "{F871}{0100}Me darás {F872}{0100} x{F878}{0100}, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#31", "es": "{F871}{0100}Me darás {F878}{0100} Macca, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#32", "es": "{F871}{0100}Me darás un poquito de tus PS, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#33", "es": "{F871}{0100}Me darás un poco de tus PS, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#34", "es": "{F871}{0100}Me darás bastante de tus PS, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#35", "es": "{F871}{0100}Me darás una cantidad enorme de tus PS, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#36", "es": "{F871}{0100}Me darás un poquito de tus PM, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#37", "es": "{F871}{0100}Me darás un poco de tus PM, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#38", "es": "{F871}{0100}Me darás bastante de tus PM, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#39", "es": "{F871}{0100}Me darás una cantidad enorme de tus PM, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#40", "es": "{F871}{0100}Me darás la vida de {F873}{0200}, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#41", "es": "{F871}{0100}Dame eso, ¿okey?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#42", "es": "{F871}{0100}Me darás los PS de {F87E}, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#43", "es": "{F871}{0100}¿Qué me vas a dar?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#44", "es": "{F871}{0100}Sabes lo que haces.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#45", "es": "{F871}{0100}¿Qué rayos es eso?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#46", "es": "{F871}{0100}Oye... ¿Quieres hacer algo todavía más divertido?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#47", "es": "“Claro.”{F801}“No.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#48", "es": "{F871}{0100}¡Wuuuuu!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#49", "es": "〉 ¡El demonio besa a {F843}{0000}!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#50", "es": "〉 ¡El demonio besa a {F843}{0000} un montón!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#51", "es": "{F871}{0100}¡Wuuuuuuu!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#52", "es": "〉 ¡El demonio abofetea a {F843}{0000}!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#53", "es": "〉 ¡El demonio abofetea a {F843}{0000} con fuerza!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#54", "es": "{F871}{0100}Eres un hombrecito.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#55", "es": "{F871}{0100}Me diste muchos regalos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#56", "es": "{F871}{0100}¿Mmm...?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#57", "es": "{F871}{0100}¿Lo tienes, pero no me lo vas a dar?{F801}{F802}...Entonces, ¿por qué no te mueres?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#58", "es": "{F871}{0100}¿Podemos terminar con esto?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#59", "es": "{F871}{0100}Agh, ¿de verdad vas a hacer eso?{F801}{F802}...Entonces, ¿por qué no te mueres?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#60", "es": "{F871}{0100}Así que... no lo tienes.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#61", "es": "{F871}{0100}No lo tienes...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#62", "es": "{F871}{0100}¿Eres de los que siempre dicen que no?{F801}{F802}Eso me gusta un poco. Es nuevo para mí.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#63", "es": "{F871}{0100}Esto se está poniendo abu-rrido.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#64", "es": "{F871}{0100}Me estoy empezando a preocupar por ti. {F801}¿Quieres que te ayude?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#65", "es": "{F871}{0100}Ya me voy a casa.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#66", "es": "{F871}{0100}¡Oh, {F843}{0000}!{F801}{F802}Hace tiempo que no te veía, así que me preocupé.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#67", "es": "{F871}{0100}Sí, lo siento en el corazón.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#68", "es": "{F871}{0100}¿Quieres que te muestre mi lado amable?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#69", "es": "{F871}{0100}¿Cómo estás? Te daré esto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#70", "es": "{F871}{0100}Ya me cansé de hablar.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#71", "es": "{F871}{0100}Oh, {F843}{0000}. Bienvenido.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#72", "es": "{F871}{0100}...¿Aquí es donde muero?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#73", "es": "{F871}{0100}¡Gracias! ¡Eres buena persona!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#74", "es": "{F871}{0100}Qué cruel...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#101", "es": "〉 El demonio está en guardia...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#102", "es": "Bajar el arma{F801}Ponerse en guardia{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#103", "es": "{F871}{0100}Eres un ingenuo, ¿no?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#104", "es": "{F871}{0100}Bien... Ahora puedo hablar sin preocuparme.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#105", "es": "{F871}{0100}Los humanos siempre han sido tan estúpidos como tú, ¿no?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#106", "es": "{F871}{0100}...¡No estoy peleando! ¡Te daré esto, así que no ataques, por favor!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#107", "es": "{F871}{0100}Agh, qué patán...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#109", "es": "〉 El demonio se te acerca...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#110", "es": "Hacerse a un lado{F801}Levantar el arma{F801}No moverse{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#111", "es": "〉 ¡{F843}{0000} esquiva al demonio!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#112", "es": "〉 {F843}{0000} se inclina para esquivar al demonio...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#113", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}¿Qué fue eso? ¡Fue divertido!{F801}{F802}Me pareces interesante. Quizá me vaya contigo.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#114", "es": "〉 El demonio te alcanza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#115", "es": "{F871}{0100}Los humanos siempre han sido tan estúpidos como tú, ¿no?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#116", "es": "{F871}{0100}¡Iiih! No me mates...{F801}{F802}¡Si me das algo, me uno a ti!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#117", "es": "{F871}{0100}¿Intentas parecer genial?{F801}{F802}Pero, ¿sabes qué? Eso me gusta un poco.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#118", "es": "{F871}{0100}No te muevas, ¿okey?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#120", "es": "〉 El demonio te hace señas...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#121", "es": "Acercarse{F801}Responder con señas{F801}Levantar el arma{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#122", "es": "{F871}{0100}Sí viniste... ¿Pensaste que intentaría matarte?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#123", "es": "{F871}{0100}Este regalo es para ti.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#124", "es": "{F871}{0100}¡Adiós!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#125", "es": "{F871}{0100}Así es, qué obediente.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#126", "es": "{F871}{0100}Si te vas a quedar parado tan lejos, entonces me voy.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#127", "es": "{F871}{0100}Jejeje...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#128", "es": "{F871}{0100}No hagas cosas así.{F801}Yo también tenía interés en ti...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#129", "es": "{F871}{0100}¡Iiih! No me mates...{F801}{F802}¡Si me das algo, me uno a ti!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#131", "es": "〉 El demonio intenta irse...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#132", "es": "Detener al demonio{F801}Ignorar al demonio{F801}Levantar el arma{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#133", "es": "{F871}{0100}¿A dónde vas? ¿Voy contigo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#134", "es": "{F871}{0100}Perdón... ¡me invocaron, así que tengo que apurarme!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#135", "es": "{F871}{0100}¡Oye...!{F801}{F802}...Quiero saber más de ti. {F801}Hablemos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#136", "es": "{F871}{0100}¿Qué clase de cazador eres si no puedes ser amable con los demonios?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#137", "es": "{F871}{0100}¡Iiih! No me mates...{F801}{F802}¡Si me das algo, me uno a ti!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#138", "es": "{F871}{0100}Los humanos siempre han sido tan estúpidos como tú, ¿no?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#140", "es": "〉 El demonio tiene mala cara...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#141", "es": "Decirle algo{F801}Llamar su atención{F801}Amenazar al demonio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#142", "es": "{F871}{0100}¿No se nota con solo mirar? Me estoy enojando en serio, ¿sabes?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#143", "es": "{F871}{0100}...{F801}{F802}Tengo un rato libre.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#147", "es": "{F871}{0100}¡Iiih! No me mates...{F801}{F802}¡Si me das algo, me uno a ti!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#148", "es": "{F871}{0100}¡Iiih! No me mates...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#150", "es": "{F871}{0100}Por favor, déjame ir...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#151", "es": "Perdonar{F801}No perdonar{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#152", "es": "{F871}{0100}Bien... Ahora puedo hablar sin preocuparme.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#153", "es": "{F871}{0100}Jeje... ¿Tienes ganas de morir?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#154", "es": "{F871}{0100}¿Qué clase de cazador eres si no puedes ser amable con los demonios?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#155", "es": "{F871}{0100}Quería conocerte de otra manera...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#157", "es": "{F871}{0100}Tú eres {F843}{0000}... He oído hablar de ti.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#158", "es": "{F871}{0100}Eres un cazador malvado. Quizá debería matarte.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#159", "es": "{F871}{0100}Bueno, ya nos conocimos, ¿por qué no le damos sentido a este encuentro?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#160", "es": "{F871}{0100}Tú y yo no nos llevamos bien, ¿eh?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#161", "es": "〉 El demonio se va...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#163", "es": "{F871}{0100}¿Holaaa? ¿No puedo confiar en ustedes, los humanos?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#164", "es": "“Exacto.”{F801}“Eso no es cierto.”{F801}“Soy un humano de confianza.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#165", "es": "{F871}{0100}Jeje... Tienes una forma interesante de ver las cosas.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#166", "es": "〉 ...Y el demonio se va.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#167", "es": "{F871}{0100}Los humanos siempre han sido tan estúpidos como tú, ¿no?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#168", "es": "{F871}{0100}Así es.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#169", "es": "{F871}{0100}Mmmmm...{F801}{F802}Pareces bastante sincero. Veré qué tienes que decir.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#170", "es": "{F871}{0100}Mmm...{F801}{F802}Qué bueno saberlo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#171", "es": "{F871}{0100}Me gusta un poco la gente así.{F801}{F802}...Oye, ¿me muestras tus puntos fuertes?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#173", "es": "{F871}{0100}Jeje... Me interesan los humanos, ¿sabes?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#174", "es": "〉 ¿Cómo te acercarás al demonio?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#175", "es": "Amistosamente{F801}Con prepotencia{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#176", "es": "{F871}{0100}Abu-rrido...{F801}{F802}Pero ahora tengo tiempo, así que te dejo seguir.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#177", "es": "{F871}{0100}Eres, como, un buen humano.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#178", "es": "{F871}{0100}Así que muestras tu verdadera cara, ¿eh, humano...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#179", "es": "{F871}{0100}Me gusta un poco la gente así.{F801}{F802}...Oye, ¿me muestras tus puntos fuertes?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#181", "es": "{F871}{0100}Oye, ¿qué haces?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#182", "es": "“Busco aliados.”{F801}“Estoy entrenando.”{F801}“Intento salvar el mundo.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#187", "es": "{F871}{0100}¿Qué crees que es la felicidad para un demonio?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#188", "es": "“Atacar a los humanos.”{F801}“Hacernos aliados.”{F801}“No tienen felicidad.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#189", "es": "{F871}{0100}Sabes lo que haces.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#190", "es": "{F871}{0100}Es un poco distinto.{F801}{F802}Es asustar a los humanos cada vez más... y poder controlarlos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#191", "es": "{F871}{0100}¿No es un poco pronto para decir eso?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#192", "es": "{F871}{0100}No es eso...{F801}{F802}Es escuchar los gritos de los humanos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#193", "es": "{F871}{0100}Entonces quizá me una a ti.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#194", "es": "{F871}{0100}Jeje... Tienes una forma interesante de ver las cosas.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#195", "es": "〉 ...Y el demonio se va.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#198", "es": "{F871}{0100}¿Qué harás por mí si me uno a ti?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#199", "es": "“Criarte con cuidado.”{F801}“Usarte para una fusión.”{F801}“No lo he pensado.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#200", "es": "{F871}{0100}Oh... ¿Nos desprecias a los demonios? ¿No es cruel?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#203", "es": "{F871}{0100}No pareces tener preocupaciones. Qué envidia.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#204", "es": "{F871}{0100}Deberías pensar un poco más.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#206", "es": "{F871}{0100}Oye, ¿quieres hacer algo divertido?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#207", "es": "“Claro.”{F801}“No.”{F801}“¿Qué es?”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#208", "es": "{F871}{0100}¡Muy bien!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#209", "es": "{F871}{0100}Sí, ¿no? Entonces déjame preguntarte esto...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#210", "es": "{F871}{0100}¿Eh? ¿Me lo preguntas a mí? ¿Por qué no lo piensas tú mismo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#212", "es": "{F871}{0100}¡Jajajajaja...!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#213", "es": "〉 El demonio te ignora. No tiene tiempo: está comunicándose con la Inmensidad...{F801}{F802}〉 ¿Qué harás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#214", "es": "Hablarle otra vez{F801}Reírse con el demonio{F801}Regañar al demonio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#215", "es": "〉 El demonio no escucha para nada...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#216", "es": "{F871}{0100}Oh... ¿Intentas “reclutarme” o algo así?{F801}{F802}Tengo la política de matar a quien haga eso.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#217", "es": "{F871}{0100}¿Eh...?{F801}{F802}Ja... Jajaja... Es gracioso, ¿no? {F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#218", "es": "〉 ...Y el demonio se va.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#220", "es": "{F871}{0100}Oye... No me gustan las cosas que dan miedo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#221", "es": "{F871}{0100}Qué rayos... Humano...{F801}{F802}Pero puede que sea la primera vez que me regañan...{F801}{F802}...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#222", "es": "〉 El demonio se sonrojó...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#224", "es": "{F871}{0100}¿Qué quieren lograr los humanos matando a dioses y demonios?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#225", "es": "“Ser dioses.”{F801}“Ser los gobernantes del mundo.”{F801}“Hacer del mundo un lugar mejor.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#226", "es": "{F871}{0100}Eso no es cierto...{F801}{F802}Eso es lo que hacen los demonios.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#227", "es": "{F871}{0100}Qué bueno tener un gran sueño, ¿no?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#228", "es": "〉 ...Y el demonio se va.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#229", "es": "{F871}{0100}Qué bueno tener un gran sueño, ¿no?{F801}{F802}Primero, dame unos regalos.{F801}Así quizá te acerques más a tu sueño, ¿sabes?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#230", "es": "{F871}{0100}¿Hay humanos como tú por ahí? {F801}Quizá debería irme contigo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#233", "es": "{F871}{0100}...¿Te dio miedo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#234", "es": "“Me dio miedo.”{F801}“No me dio miedo.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#235", "es": "{F871}{0100}Jeje... Sí, ¿no? Pero eso es justo lo que quería oír.{F801}{F802}Seamos más sinceros el uno con el otro, ¿okey?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#236", "es": "{F871}{0100}Abu-rrido...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#238", "es": "〉 {F843}{0000} baila una danza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#239", "es": "{F871}{0100}Qué espeluznante...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#240", "es": "{F871}{0100}¡Le pones mucho empeño! ¿Quieres negociar conmigo?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#242", "es": "〉 {F843}{0000} canta una canción...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#243", "es": "{F871}{0100}Qué espeluznante...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#244", "es": "{F871}{0100}¡Eres bueno! ¿Quieres negociar conmigo?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGal.mbm#246", "es": "〉 {F843}{0000} muestra un poco de Macca...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#247", "es": "{F871}{0100}Oh... ¡Qué negocio turbio!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#248", "es": "{F871}{0100}Jejeje...{F801}{F802}...Quiero ver más de tu lado amable.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#250", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}¿Querías verme?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#251", "es": "“Sí.”{F801}“No mucho.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#252", "es": "{F871}{0100}Mmm...{F801}{F802}Bueno, qué bien para ti.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#253", "es": "{F871}{0100}Mmm...{F801}{F802}Eso sonó medio sin ganas.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#254", "es": "{F871}{0100}¡Eso me aceleró el corazón!{F801}{F802}¡Tu actitud puede hacerlo latir aún más!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#255", "es": "{F871}{0100}Lo mismo digo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#256", "es": "{F871}{0100}Jeje... Tienes una forma interesante de ver las cosas.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#257", "es": "〉 ...Y el demonio se va.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#258", "es": "{F871}{0100}Awww, ¡préstame más atención!{F801}{F802}...¿De verdad pensaste que diría eso?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#260", "es": "{F871}{0100}{F813}{0A00}{0000}{0A00}{0000}¿Te estás divirtiendo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#261", "es": "“Sí.”{F801}“No.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#262", "es": "{F871}{0100}¡No es justo! ¡Si te diviertes tanto, entonces haz que me una a ti!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#263", "es": "{F871}{0100}Yo no me estoy divirtiendo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#264", "es": "{F871}{0100}Entonces, ¿por qué no lo dejas?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#266", "es": "{F871}{0100}¿Te sientes capaz?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#267", "es": "“Sí.”{F801}“Quizá no...”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#268", "es": "{F871}{0100}Mmm...{F801}{F802}Diviértete intentándolo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#269", "es": "{F871}{0100}Mmm...{F801}{F802}Entonces, ¿puedes hacer que lo crea?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#270", "es": "{F871}{0100}Entonces no hay problema si te como, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#272", "es": "{F871}{0100}{F813}{0A00}{0000}{0A00}{0000}¿Eres feliz ahora mismo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#273", "es": "“Sí.”{F801}“No.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#274", "es": "{F871}{0100}Oh... ¿Nos desprecias a los demonios? ¿No es cruel?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#275", "es": "{F871}{0100}Entonces, ¿morirías conmigo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#276", "es": "{F871}{0100}¿Por qué tanta desesperación? Te ayudaré a conseguir algo de esperanza.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#278", "es": "{F871}{0100}{F813}{0A00}{0000}{0A00}{0000}¿No vas a hacer nada cruel, verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#279", "es": "“Lo haré.”{F801}“No lo haré.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#280", "es": "{F871}{0100}¡E-Espera! ¡Me encanta servir!{F801}{F802}Negociaré contigo, así que no hagas nada malo, ¿okey?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#281", "es": "{F871}{0100}Abu-rrido...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#283", "es": "{F871}{0100}Solo me quieres por mi cuerpo, ¿eh?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#284", "es": "“Así es.”{F801}“No es verdad.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#285", "es": "〉 El demonio te fulmina con la mirada, como si fueras escoria...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#286", "es": "{F871}{0100}Jeje... Sí, ¿no? Pero eso es justo lo que quería oír.{F801}{F802}Eres un humano honesto, ¿no? {F801}Quizá debería irme contigo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#287", "es": "{F871}{0100}¡No me engañarás con tus mentiras!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#289", "es": "{F871}{0100}¿Estás diciendo que mi cuerpo no te interesa?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGal.mbm#290", "es": "“No me interesa.”{F801}“SÍ me interesa.”{F801}{F802}{FFFF}"}
