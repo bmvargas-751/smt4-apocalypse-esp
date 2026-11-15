@@ -14,6 +14,6 @@
 {"key": "battle/ResultMsg.mbm#13", "es": "Este demonio aprendió todo lo que podía. Puede transmitir una {F804}{0500}habilidad susurrada{F804}{0000}.{F801}{F802}Es una habilidad suya que se le puede enseñar a {F843}{0000}.{F801}{F802}Si susurra una que {F843}{0000} ya conoce, esa habilidad se fortalecerá un poco.{F801}{F802}Un demonio solo puede susurrar una vez.{F801}{F802}{FFFF}"}
 {"key": "battle/ResultMsg.mbm#14", "es": "Apareció Caronte.{F801}{FFFF}"}
 {"key": "battle/ResultMsg.mbm#15", "es": "{F812}Caronte{0000}{F87A}{0100}Bien, tomaré lo que se me prometió...{F801}{FFFF}"}
-{"key": "battle/ResultMsg.mbm#16", "es": "Perdiste {F878}{0100} Macca.{F801}{FFFF}"}
+{"key": "battle/ResultMsg.mbm#16", "es": "Perdiste {F878}{0100} macca.{F801}{FFFF}"}
 {"key": "battle/ResultMsg.mbm#17", "es": "¡Por los dioses! ¡¿Estás en la ruina?! Volveré cuando tengas más dinero.{F801}{FFFF}"}
 {"key": "battle/ResultMsg.mbm#18", "es": "{F843}{0000}: aumentó su número de habilidades. {F801}{FFFF}"}
