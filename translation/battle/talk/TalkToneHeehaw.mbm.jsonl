@@ -1,16 +1,167 @@
+{"key": "battle/talk/TalkToneHeehaw.mbm#1", "es": "{F871}{0100}¡Ni hablar, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#2", "es": "{F871}{0100}¡¿Crees que voy a ser amable contigo después de haberme golpeado, jo?! ¡Voy a hablar con enojo, jii, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#3", "es": "{F871}{0100}Mmmm...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#4", "es": "{F871}{0100}¡Ahora somos aliados, jii, jo!{F801}¡Vamos a ser imparables, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#5", "es": "{F871}{0100}¡Primero dame algo, jo!{F801}¡Esa es la etiqueta correcta!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#6", "es": "{F871}{0100}Jii, jo, jo... Tu hueste está llena, jo...{F801}{F802}¡Me voy a ca-jii-sa!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#7", "es": "{F871}{0100}¡Soy {F804}{0500}{F875}{0100} {F873}{0100}{F804}{0000}, jo!{F801}Mucho gusto. ¡Jii, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#8", "es": "{F871}{0100}Jii, jo... Tienes menos nivel que yo, jo...{F801}{F802}¡No ando con los de bajo nivel, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#9", "es": "{F871}{0100}¿Jii, jo? ¡Ya tienes contigo a un clon mío, jo!{F801}{F802}¡Cuida bien a mi otro yo, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#10", "es": "{F871}{0100}¡Voy a traer a alguien y haremos una fiesta de Halloween, jii, jo! ¿Vendrá alguien?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#11", "es": "{F871}{0100}...Pero ya no te caben más aliados, jo.{F801}Se acabó eso de traer a alguien, jo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#12", "es": "{F871}{0100}¡Déjame entrar! ¡Jii, jo! ¡Qué aburrimiento, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#13", "es": "{F871}{0100}Nadie viene, jo... ¡Argh!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#14", "es": "{F871}{0100}¡No te olvides de mí, jo! ¡Yo también me voy a aliar contigo, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#15", "es": "{F871}{0100}¡Te voy a presentar a un amigo mío, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#16", "es": "{F871}{0100}¡{F873}{0200} me invitó aquí, jii, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#18", "es": "{F871}{0100}¿Inver-qué? Se me va a derretir el cerebro, jo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#19", "es": "{F871}{0100}Jii, jo... Mi financiamiento...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#20", "es": "{F871}{0100}¿Arriesgas la vida por unas monedas, jo?{F801}{F802}...¡Qué barato, jo! ¡No eres más que basura, jo! ¡Y la basura hay que sacarla, jii, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#21", "es": "{F871}{0100}¡Jiiii, joooo! ¡No-jo-joooo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#22", "es": "{F871}{0100}¡¿D-Dónde me estás tocando, jii, jo?!{F801}¡No hagas eso, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#23", "es": "{F871}{0100}...¡Qué enojo, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#24", "es": "{F871}{0100}¡¿Q... Qué le vas a hacer a un demonio que no puede moverse, jii, jo?!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#25", "es": "{F871}{0100}¿Quieres la mercancía, jii, jo?{F801}¡Entonces hagamos un trato, jii, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#26", "es": "{F871}{0100}¡Puedes quedarte con la mercancía, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#27", "es": "{F871}{0100}¡Dulce o travesu-jo-ra! ¡Ahora dame, dame!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#28", "es": "{F871}{0100}Invito yo, jii, jo. ¡Dame las gracias, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#29", "es": "{F871}{0100}¡Soy de mente abierta, así que lo decidiré rápido, jii, jo!{F801}{F802}¡{F878}{0100} de macca, jo! ¡Y esa es mi oferta final, jii, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#30", "es": "{F871}{0100}¡Dame {F872}{0100} x{F878}{0100}, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#31", "es": "{F871}{0100}¡Dame {F878}{0100} de macca, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#32", "es": "{F871}{0100}¡Dame un poquito de tus PS, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#33", "es": "{F871}{0100}¡Dame algo de tus PS, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#34", "es": "{F871}{0100}¡Dame un montón de tus PS, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#35", "es": "{F871}{0100}¡Dame un montooooón de tus PS, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#36", "es": "{F871}{0100}¡Dame un poquito de tus PM, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#37", "es": "{F871}{0100}¡Dame algo de tus PM, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#38", "es": "{F871}{0100}¡Dame un montón de tus PM, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#39", "es": "{F871}{0100}¡Dame un montooooón de tus PM, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#40", "es": "{F871}{0100}¡Quiero la vida de uno de tus demonios compinches... {F873}{0200}, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#41", "es": "{F871}{0100}¡Eso, jo! ¡Dame eso, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#42", "es": "{F871}{0100}Tu amigo... ¡Quiero los PS de {F87E}, jii, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#43", "es": "{F871}{0100}¡Hora del concurso, jii, jo! ¿Qué es lo que quiero, jo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#44", "es": "{F871}{0100}¡Correcto, jii, jo! ¡Qué emoción, jii, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#45", "es": "{F871}{0100}¡Bzzzt, incorrecto, jii, jo! Qué tristeza, jo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#46", "es": "{F871}{0100}¿Quieres probar mi diablura, jo?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneHeehaw.mbm#47", "es": "“Claro.”{F801}“No.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#48", "es": "{F871}{0100}¡Jii, jo, yo-jooo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#49", "es": "〉 ¡El grupo de {F843}{0000} se calma con la diablura!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#50", "es": "〉 ¡El grupo de {F843}{0000} se calma muchísimo con la diablura!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#51", "es": "{F871}{0100}¡Jii, jo, yo-joo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#52", "es": "〉 ¡{F843}{0000} recibe un golpe de la diablura!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#53", "es": "〉 ¡{F843}{0000} recibe un duro golpe de la diablura!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#54", "es": "{F871}{0100}Bueno, eso lo entiendo, jii, jo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#55", "es": "{F871}{0100}¡JIIIIII, JOOOOOO!{F801}{F802}¡Me caes bien, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#56", "es": "{F871}{0100}¡Eres un asco, jii, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#57", "es": "{F871}{0100}¿Lo tienes, pero no me lo vas a dar, jo?{F801}{F802}¡Te vas al infierno con-jo-migo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#58", "es": "{F871}{0100}Qué aburrimiento, jo. ¡Al diablo con esto, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#59", "es": "{F871}{0100}Tsk, tsk, tsk... ¡No me engañas, jo!{F801}{F802}¡Te vas al infierno con-jo-migo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#60", "es": "{F871}{0100}Si no lo tienes, no hay remedio, jii, jo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#61", "es": "{F871}{0100}No-jo-jo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#62", "es": "{F871}{0100}Suenas sospechoso... pero bue-jo-no.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#63", "es": "{F871}{0100}Qué aburrimiento, jii, jo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#64", "es": "{F871}{0100}Suenas sospechoso... pero bue-jo-no.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#65", "es": "{F871}{0100}¡Adiós, adiós, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#66", "es": "{F871}{0100}¡Jii, jo, jii, jo! ¡Es {F843}{0000}, jo!{F801}{F802}Hablamos un montón.{F801}¡Ya somos los mejores amigos!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#67", "es": "{F871}{0100}¡JIIIIIII, JOOOOOO!{F801}{F802}¡Vamos a ser muy buenos amigos, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#68", "es": "{F871}{0100}¡JIIIIII, JOOOOOO!{F801}{F802}¿Quieres macca, jo? ¡No hace falta que finjas que no, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#69", "es": "{F871}{0100}¡JIIIIII, JOOOOOO!{F801}{F802}Quieres la mercancía, ¿verdad? ¡No le digas a nadie que te di esto, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#70", "es": "{F871}{0100}¡Ya me cansé de hablar contigo, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#71", "es": "{F871}{0100}¡Jii, jo, jii, jo! ¡Ahí estás, {F843}{0000}!{F801}{F802}¡No te vuelvas a perder, jii, jo!{F801}¡Asegúrate de seguirme, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#72", "es": "{F871}{0100}...¡Me rindo, jo! ¡Haré lo que quieras, pero perdóname, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#73", "es": "{F871}{0100}Jiii, jooo... Me alegra que seas un cazador comprensivo, jo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#74", "es": "{F871}{0100}...¡Sabía que no podía esperar nada de los niños humanos, jo!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneHeehaw.mbm#101", "es": "〉 El demonio está en guardia...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneHeehaw.mbm#102", "es": "Bajar el arma{F801}Ponerse en guardia{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#103", "es": "{F871}{0100}Tsk, tsk, tsk... ¡Eres un ingenuo, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#104", "es": "{F871}{0100}¡Tienes agallas! ¡Qué lástima que seas humano, jo!{F801}{F802}¡Hablemos, jii, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#105", "es": "{F871}{0100}Tch... ¿No bajas la guardia, jo? ¡Esto apesta!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#106", "es": "{F871}{0100}¡Jii, jo! ¡Qué miedo das! ¡Te doy esto, así que déjame ir!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#107", "es": "{F871}{0100}Los humanos sí que dan miedo, jo...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneHeehaw.mbm#109", "es": "〉 El demonio se te acerca...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneHeehaw.mbm#110", "es": "Hacerse a un lado{F801}Levantar el arma{F801}No moverse{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneHeehaw.mbm#111", "es": "〉 ¡{F843}{0000} esquiva al demonio!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#112", "es": "{F871}{0100}¡¿Qué?! ¡No tenías que esquivar-jo-me!{F801}{F802}¡Si me das algo bueno, te escucho con gusto, jii, jo!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneHeehaw.mbm#113", "es": "〉 El demonio te alcanza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#114", "es": "{F871}{0100}Tch... ¡Lo descubriste, jii, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#115", "es": "{F871}{0100}¡Jii, jo! ¡Por favor! ¡Perdóname la vida, jo!{F801}{F802}Si me das algo, me uno a tu grupo, jii, jo. ¿De acuerdo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#116", "es": "{F871}{0100}¡Eres valiente, jo! Voy a andar contigo, jii, jo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#117", "es": "{F871}{0100}¡Eres valiente, jo!{F801}{F802}...¿Creías que iba a decir eso, jo?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneHeehaw.mbm#119", "es": "〉 El demonio intenta irse...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneHeehaw.mbm#120", "es": "Detener al demonio{F801}Ignorar al demonio{F801}Levantar el arma{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#121", "es": "{F871}{0100}¡Jii, jo! ¡El encuentro del destino!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#122", "es": "{F871}{0100}¡Tengo mucha prisa, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#123", "es": "{F871}{0100}¡No seas tan frío, jii, jo!{F801}¡Hablemos un poco, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#124", "es": "{F871}{0100}¡No seas tan frío, jii, jo! Deberías ser amable con los demonios, jo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#125", "es": "{F871}{0100}¡Jii, jo! ¡Por favor! ¡Perdóname la vida, jo!{F801}{F802}Si me das algo, me uno a tu grupo, jii, jo. ¿De acuerdo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#126", "es": "{F871}{0100}Los humanos están poseídos por algún espíritu maligno, jo...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneHeehaw.mbm#128", "es": "〉 El demonio te ignora...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneHeehaw.mbm#129", "es": "Decirle algo{F801}Llamar su atención{F801}Amenazar al demonio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#130", "es": "{F871}{0100}¡Argh! ¡No me molestes, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#131", "es": "{F871}{0100}¿Qué pasa, jii, jo? ¿Quieres hablar conmigo, jo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#135", "es": "{F871}{0100}¡Jii, jo! ¡Por favor! ¡Perdóname la vida, jo!{F801}{F802}Si me das algo, me uno a tu grupo, jii, jo. ¿De acuerdo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#136", "es": "{F871}{0100}¡La gente debe odiarte de verdad, jii, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#138", "es": "〉 El demonio está posando...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#139", "es": "Adoptar la misma pose{F801}Tomar una foto{F801}Ignorar al demonio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#141", "es": "{F871}{0100}¡Jii, jo, jii, jo! ¡¿Un cazatalentos?!{F801}¡Soy lo máximo, jo!{F801}{F802}¡Mi sueño es llenar el Tokyo Doom, jii, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#142", "es": "{F871}{0100}{F813}{0A00}{0000}{0A00}{0000}Oye, humano, ¿estás tan hipnotizado conmigo que no puedes moverte, jo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#144", "es": "{F871}{0100}¡Jii, jo! ¡Mi diablura da vueltitas!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#145", "es": "“Daré vueltitas contigo.”{F801}Ignorar al demonio{F801}“¿Cómo que vueltitas?”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#150", "es": "{F871}{0100}¿Hay algo en lo que pueda ayudarte, jo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#151", "es": "“Masacrar.”{F801}“Únete a mí.”{F801}“Juguemos.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#153", "es": "{F871}{0100}¡Jii, jo! ¡Eres muy sincero! ¡Qué lástima que seas humano, jo!{F801}{F802}Pero déjame pensarlo, jo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#154", "es": "{F871}{0100}¡¿Eh?! Eres un humano raro, jo.{F801}Los humanos se están volviendo más comunes, jii, jo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#156", "es": "{F871}{0100}¡Te dejo acariciarme la cabeza, jii, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#157", "es": "“¡Yupi!”{F801}“No quiero tocarte.”{F801}Acariciar al demonio en silencio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#158", "es": "{F871}{0100}¿Jii, jo? ¿Tan feliz te hace, jo?{F801}¡Qué bueno por ti, jii, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#162", "es": "{F871}{0100}¿Puedes verme, jo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#163", "es": "“Puedo verte.”{F801}“No puedo verte.”{F801}Hacer como si no estuviera{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#165", "es": "{F871}{0100}Las personas normales no pueden verme, jo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#166", "es": "{F871}{0100}{F813}{0A00}{0000}{0A00}{0000}¿Jii, jo? ¿No puede verme, jo?{F801}{F802}¡Entonces es mi oportunidad de dejarlo sin nada, jii, jo!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneHeehaw.mbm#168", "es": "〉 {F843}{0000} baila una danza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#169", "es": "{F871}{0100}¡Me siento mal, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#170", "es": "{F871}{0100}¡Eres un humano interesante, jo!{F801}¡Me hiciste bailar, jii, jo!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneHeehaw.mbm#172", "es": "〉 {F843}{0000} canta una canción...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#173", "es": "{F871}{0100}¡Me siento mal, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#174", "es": "{F871}{0100}¡Eres un humano interesante, jo!{F801}¡Escucha mi increíble voz, jii, jo!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneHeehaw.mbm#176", "es": "〉 {F843}{0000} muestra un poco de macca...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#177", "es": "{F871}{0100}No tengo ganas de nada, jo...{F801}¿Qué vas a hacer al respecto, jo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#178", "es": "{F871}{0100}¡Jii, jo, jii, jo! Si tuviera macca,{F801}¡podría comprar lo que quisiera, jo!{F801}{F802}¡Que comiencen las negociaciones, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#180", "es": "{F871}{0100}{F813}{0A00}{0000}{0A00}{0000}¡Alguien me está copiando, jii, jo!{F801}¿Me estás faltando el respeto, jo?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneHeehaw.mbm#181", "es": "“Sí.”{F801}“No.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#182", "es": "{F871}{0100}¡Jii, jo! ¡Eres peor que los demonios!{F801}¡No me caces, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#185", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}Entonces, ¿quieres decir que quieres unirte a mi grupo, jii, jo?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneHeehaw.mbm#186", "es": "“Así es.”{F801}“No.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#187", "es": "{F871}{0100}¡Jii, jo! ¡Entonces es hora de la audición, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#188", "es": "{F871}{0100}Qué aburrimiento, jii, jo. Eres un aguafiestas, jo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#190", "es": "{F871}{0100}¿Me ayudarás, jo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#191", "es": "“Te ayudaré.”{F801}“No te ayudaré.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#192", "es": "{F871}{0100}¡Jii, jo! ¡Maestro, por favor enséñame, jo!{F801}{F802}¡Y por favor paga mis gastos, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#193", "es": "{F871}{0100}¡Agh! ¡No voy a permitir que eso pase, jo!{F801}¡Hazme una gran estrella, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#195", "es": "{F871}{0100}...Esto es incómodo. ¡Di algo, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#196", "es": "“.........”{F801}“Únete a mí.”{F801}“¿Eres un demonio?”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#197", "es": "〉 {F843}{0000} guarda silencio...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#198", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}¡Argh! ¡No lo soporto, jo!{F801}{F802}¡Me uno a tu grupo, pero di algo, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#199", "es": "{F871}{0100}¡Ni hablar, jo! ¡Elogia mi pose o me volveré delincuente, jii, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#200", "es": "{F871}{0100}¡¿Si no soy un demonio, entonces qué soy, jii, jo?!{F801}{F802}¡No hablo con tontos, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#202", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}¡Ohh! ¿Tu diablura también da vueltitas, jo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#203", "es": "“Así es.”{F801}“No mucho.”{F801}“Algo va a pasar.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#205", "es": "{F871}{0100}¡Entonces déjame en paz, jo! ¡Hrngh!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#206", "es": "{F871}{0100}¡Jii, jo! ¡Eso no es bueno, jo!{F801}¡Va a llover sangre, jo!{F801}{F802}¡Huye, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#208", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}¡¿Q-Qué?! ¡¿Dices que tu diablura es más fuerte que la mía, jo?!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#209", "es": "“Es más fuerte.”{F801}“Es casi igual.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#210", "es": "{F871}{0100}¡¿De verdad, jo?! No puedo permitirlo...{F801}¡Te reto a un duelo, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#211", "es": "{F871}{0100}¡Jii, jo! ¡Creo que nos vamos a llevar muy bien, jo!{F801}{F802}¡Solo falta la compatibilidad, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#213", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}¿Quieres hacer llorar a un demonio?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#214", "es": "“Así es.”{F801}“Perdón...”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#215", "es": "{F871}{0100}¡Qué divertido, jii, jo! ¡Eres muy bueno para tratar con los demonios, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#216", "es": "{F871}{0100}¡Ya es muy tarde para eso, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#218", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}¿Quieres saberlo, jo? ¿No te arrepentirás de oírlo, jo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#219", "es": "“No me arrepentiré.”{F801}“Sí me arrepentiré.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#220", "es": "〉 El demonio sonríe de forma inquietante...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#221", "es": "{F871}{0100}{F813}{0A00}{0000}{0A00}{0000}¿Jii, jo? ¡Mientes, jo! ¡Se te ríen los ojos!{F801}{F802}Los niños humanos dan miedo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#223", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}¡Jii, jo! ¡Los humanos son aterradores, jo!{F801}¡No te me acerques, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#224", "es": "“Mira quién habla.”{F801}“Será divertido.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#225", "es": "{F871}{0100}¿Jii, jo? ¡Deja de hablarme mal, jo!{F801}{F802}¡Te voy a coser esa boca, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#226", "es": "{F871}{0100}¡Jii, jo! ¿Estás en una película gore?{F801}¡Tienes buen gusto, jo!{F801}{F802}¡Dame algo, jo! ¡Entonces pensaré en unirme a tu grupo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#228", "es": "{F871}{0100}¿Puedo confiar en ti, jo?{F801}{F802}{FFFF}"}

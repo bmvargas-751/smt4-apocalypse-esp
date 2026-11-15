@@ -1,0 +1,97 @@
+{"key": "battle/talk/TalkSystem.mbm#1", "es": "〉 Parece que no puedes comunicarte con este demonio con tus apps actuales...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#2", "es": "〉 Parece que Reclutar no funciona con este demonio...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#3", "es": "〉 Las palabras de {F843}{0000} caen en oídos sordos.{F801}Parece que ya no se le considera acompañante.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#4", "es": "〉 {F843}{0000} intenta iniciar una negociación...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#5", "es": "〉 {F843}{0000} intenta hablar con su acompañante de antes...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#6", "es": "〉 {F843}{0000} intenta iniciar una negociación...{F801}{F802}〉 ...¡pero este objeto no puede hablar!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#7", "es": "〉 {F843}{0000} intenta iniciar una negociación...{F801}{F802}〉 ...¡Es inútil! ¡El enemigo no escucha!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#8", "es": "〉 {F843}{0000} intenta iniciar una negociación...{F801}{F802}〉 ...¡Es inútil! ¡El zombi no entiende tus palabras!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#9", "es": "〉 {F843}{0000} intenta iniciar una negociación...{F801}{F802}〉 ...¡Es inútil! ¡No quieren hablar!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#10", "es": "〉 {F843}{0000} intenta hablar con el grupo...{F801}{F802}〉 ...¡Es inútil! ¡Todos hablan al mismo tiempo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#11", "es": "〉 {F843}{0000} intenta iniciar una negociación con Shesha...{F801}{F802}〉 ...¡Es inútil! ¡Shesha no entiende lo que le dice!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#12", "es": "〉 {F843}{0000} intenta iniciar una negociación con Shesha...{F801}{F802}〉 ...¡Es inútil! ¡Shesha no quiere hablar!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#13", "es": "〉 {F843}{0000} intenta iniciar una negociación...{F801}{F802}〉 ...¡pero su voz no puede llegar a quien sirve a YHVH!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#14", "es": "〉 {F843}{0000} intenta hablar con YHVH, ¡pero las palabras no le salen!{F801}{F802}〉 YHVH es la Palabra misma. ¡No hay otro!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#15", "es": "〉 {F843}{0000} intenta iniciar una conversación...{F801}{F802}〉 ...¡pero el demonio perdió el control!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#16", "es": "〉 {F843}{0000} intenta iniciar una negociación...{F801}{F802}〉 ...Pero el demonio es un ser de otro plano de existencia y no puede comprender lo que le dice.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#17", "es": "{F812}Navarre{0000}{F81B}{4930}{3033}{3034}{3900}{0000}{0000}¡Silencio! ¡No te perdonaré!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#18", "es": "{F812}Nozomi{0000}{F81B}{4930}{3034}{3035}{3100}{0000}{0000}Vas a caer.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#19", "es": "{F812}Hallelujah{0000}{F81B}{4930}{3035}{3036}{3300}{0000}{0000}¡Basta! ¡No quiero oírlo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#20", "es": "{F812}Gaston{0000}{F81B}{4930}{3036}{3037}{3500}{0000}{0000}Hmph...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#21", "es": "{F812}Isabeau{0000}{F81B}{4930}{3038}{3034}{3500}{0000}{0000}¡Silencio! No me contendré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#22", "es": "{F812}Toki{0000}{F81B}{4930}{3037}{3036}{3000}{0000}{0000}Supongo... que no hay forma de evitarlo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#23", "es": "〉 Pero tu hueste está llena...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#24", "es": "〉 Pero tu nivel es demasiado bajo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#25", "es": "〉 El enemigo está de mal humor por el ataque anterior...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#26", "es": "〉 El enemigo despierta al oír la voz de {F843}{0000}...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#27", "es": "〉 {F843}{0000} le pide al oponente que se una a su grupo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#28", "es": "〉 {F843}{0000} le pide cortésmente al enemigo que le dé dinero...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#29", "es": "〉 {F843}{0000} le pide cortésmente al enemigo que le dé un objeto...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#30", "es": "〉 ¡Al enemigo le gustó!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#31", "es": "〉 ¡El corazón del enemigo se conmovió!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#32", "es": "〉 Al enemigo no le gustó eso...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#33", "es": "〉 El demonio mira a {F843}{0000} con pasión...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#34", "es": "〉 ¡{F804}{0500}{F875}{0100} {F873}{0100}{F804}{0000} se alió contigo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#35", "es": "〉 El enemigo intentó invitar a otros miembros de su grupo a que se sumaran...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#36", "es": "〉 ¡{F873}{0100} se ofreció!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#37", "es": "〉 ...pero nadie se ofreció...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#38", "es": "〉 ¡Las estadísticas de {F873}{0100} aumentaron!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#39", "es": "〉 ¡Las estadísticas de {F873}{0100} aumentaron más de lo normal!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#40", "es": "〉 ¡Las estadísticas de {F873}{0100} aumentaron muchísimo más de lo normal!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#41", "es": "〉 ¡{F873}{0100} aprendió {F804}{0500}{F877}{0100}{F804}{0000}!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#42", "es": "〉 ¡{F843}{0000} usa todos los métodos posibles para sacarle dinero al enemigo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#43", "es": "〉 ¡{F843}{0000} consiguió {F878}{0100} macca del enemigo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#44", "es": "〉 ¡El enemigo se estaba guardando {F878}{0100} macca!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#45", "es": "Pedir más{F801}Dejar de hablar{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#46", "es": "〉 {F843}{0000} se aleja a toda prisa con los macca...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#47", "es": "〉 ¡Flynn regatea y logra sacarle {F878}{0100} macca al enemigo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#48", "es": "〉 ¡Y encima, Flynn le sacó {F878}{0100} macca al enemigo a la fuerza!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#49", "es": "〉 ¡El enemigo no puede moverse! Parece que {F843}{0000} podrá sacarle mucho dinero a este enemigo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#50", "es": "〉 {F843}{0000} se pasa un buen rato revisando los bolsillos del enemigo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#51", "es": "〉 ¡{F843}{0000} obtiene un total de {F878}{0100} macca!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#52", "es": "〉 ¡{F843}{0000} obtiene un total de {F878}{0100} macca!{F801}{F802}〉 ...¡Pero el enemigo se enfureció!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#53", "es": "〉 {F843}{0000} no consigue ningún macca...{F801}{F802}〉 ...¡Además, ahora el enemigo se enfurece!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#54", "es": "〉 ¡El enemigo se confunde y actúa con generosidad!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#55", "es": "Acceder{F801}Rechazar{F801}Engañar{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#56", "es": "Acceder{F801}Rechazar{F801}Engañar{F801}Terminar la charla{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#57", "es": "Acceder{F801}Rechazar{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#58", "es": "“No lo tengo.”{F801}Engañar{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#59", "es": "“No lo tengo.”{F801}Engañar{F801}Terminar la charla{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#60", "es": "Aceptar{F801}Negociar como siempre{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#61", "es": "Acceder{F801}Rechazar{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#62", "es": "Entregar “eso”{F801}No entregar nada{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#63", "es": "Objeto{F801}Macca{F801}PS{F801}PM{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#64", "es": "〉 {F843}{0000} responde con evasivas...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#65", "es": "〉 ¡El enemigo quedó conforme!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#66", "es": "〉 ...¡Pero el enemigo descubre sus mentiras!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#67", "es": "〉 ¡{F843}{0000} terminó la conversación!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#68", "es": "〉 El enemigo le quita la vida a {F873}{0200}...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#69", "es": "〉 El enemigo le quita los PS a {F87E}.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#70", "es": "〉 ¡El enemigo quedó muy conforme!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#71", "es": "〉 ¡Por alguna extraña razón, el enemigo quedó conforme!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#72", "es": "〉 ¡{F843}{0000} no tenía el objeto pedido!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#73", "es": "〉 ¡Pero {F843}{0000} no tenía el objeto pedido!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#74", "es": "〉 ¡{F804}{0500}{F873}{0100}{F804}{0000} regresa del estado Perdido!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#75", "es": "〉 {F873}{0100} trajo un recuerdo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#76", "es": "“Únete a mí.”{F801}“Dame un objeto.”{F801}“Dame dinero.”{F801}“Muere.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#77", "es": "“Haz un pacto conmigo.”{F801}“Dame un objeto.”{F801}“Dame dinero.”{F801}“Muere.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#78", "es": "〉 El demonio intenta hablar...{F801}{F802}〉 ¡Pero {F843}{0000} no entiende nada de lo que dice!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#79", "es": "〉 El enemigo se muestra amigable y ve a {F843}{0000} como un conocido.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#80", "es": "〉 Parece que el enemigo se cansó de hablar de este tema...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#81", "es": "〉 Parece que al enemigo le irrita hablar de este tema...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#82", "es": "〉 El enemigo se va...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#83", "es": "〉 El enemigo ha muerto...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#84", "es": "〉 El enemigo se sorprendió y huye...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#85", "es": "〉 ¡{F843}{0000} obtiene {F872}{0100}!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#86", "es": "〉 ¡Le quitaron {F872}{0100} a{F801}{F843}{0000}!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#87", "es": "〉 ¡{F843}{0000} obtiene {F878}{0100} macca!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#88", "es": "〉 ¡Le quitaron {F878}{0100} macca a {F843}{0000}!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#89", "es": "〉 ¡El enemigo devuelve {F878}{0100} macca!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#90", "es": "{F804}{0500}Hada Napaea{F804}{0000} se fusionó con un demonio durante su viaje...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#91", "es": "¡Y regresó como {F804}{0500}Nocturno Mokoi{F804}{0000}!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#92", "es": "{F812}Jack Frost{0000}¡Apúrate, jo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#93", "es": "Prueba de fuente 1{F801}{F804}{0100}Prueba de fuente 1{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#94", "es": "Prueba de fuente 2{F801}{F804}{0200}Prueba de fuente 2{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#95", "es": "Prueba de fuente 3{F801}{F804}{0300}Prueba de fuente 3{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#96", "es": "Prueba de fuente 4{F801}{F804}{0400}Prueba de fuente 4{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkSystem.mbm#97", "es": "Prueba de fuente 5{F801}{F804}{0500}Prueba de fuente 5{F801}{F802}{FFFF}"}

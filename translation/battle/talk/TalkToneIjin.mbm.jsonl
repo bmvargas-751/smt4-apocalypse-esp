@@ -1,22 +1,336 @@
+{"key": "battle/talk/TalkToneIjin.mbm#1", "es": "{F871}{0100}Hazte a un lado, bribón. Nuestros caminos no se cruzan.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#2", "es": "{F871}{0100}Ya me has deshonrado antes. {F801}Prepárate para la venganza.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#3", "es": "{F871}{0100}Permíteme pensar...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#4", "es": "{F871}{0100}Así sea. Te prestaré mi poder.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#5", "es": "{F871}{0100}Primero, preséntame una ofrenda.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#6", "es": "{F871}{0100}Tu hueste está llena. No hay lugar para mí.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#7", "es": "{F871}{0100}Soy {F804}{0500}{F875}{0100} {F873}{0100}{F804}{0000}.{F801}Es un placer conocerte.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#8", "es": "{F871}{0100}Sin embargo, tus habilidades no bastan para mandarme.{F801}{F802}No sirvo a quienes carecen de fuerza.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#9", "es": "{F871}{0100}Mi compatriota ya está contigo. {F801}Siendo así, no necesitas mi ayuda.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#10", "es": "{F871}{0100}Es solitario viajar a solas. Permíteme traer compañía.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#11", "es": "{F871}{0100}...¿Hrm? No tienes lugar.{F801}{F802}Qué lástima...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#12", "es": "{F871}{0100}Responderé a tu llamado. Agradécelo, hijo del hombre.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#13", "es": "{F871}{0100}Parece que, de todos los demonios, solo yo tengo caprichos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#14", "es": "{F871}{0100}...Ahora, apresurémonos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#15", "es": "{F871}{0100}Invitaré a alguien digno de ti.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#16", "es": "{F871}{0100}Es una oportunidad que {F873}{0200} ha creado. Iré contigo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#18", "es": "{F871}{0100}Una inversión para el mañana... {F801}¿Para mi retiro?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#19", "es": "{F871}{0100}La macca enloquece a la gente. {F801}Es un objeto de bárbaros...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#20", "es": "{F871}{0100}Tu avaricia te destruirá... {F801}¡Conoce mi ira!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#21", "es": "{F871}{0100}¡¿Nrrrrrrrrrrgh?!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#22", "es": "{F871}{0100}Maldición, bribón... ¡Me has engañado...!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#23", "es": "{F871}{0100}¡No me dejaré engañar!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#24", "es": "{F871}{0100}Pedir objetos de valor a quien no puede moverse... ¿Así actúan los humanos?{F801}{F802}...¡Entonces haz lo que te plazca!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#25", "es": "{F871}{0100}Hrm... Los humanos siempre desean las posesiones de aquellos a quienes adoran.{F801}{F802}Muy bien. Te concederé esa gloria. {F801}...Siempre que se me compense como es debido.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#26", "es": "{F871}{0100}Bien hecho. Te otorgaré el artículo que deseas.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#27", "es": "{F871}{0100}¡Jajaja! ¡Los niños juegan! {F801}¡Los caracoles bailan! ¡Es un día hermoso!{F801}{F802}¡Ven aquí! ¡Te daré un obsequio! {F801}¡Lo que desees! ¡Jajajajaja!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#28", "es": "{F871}{0100}Estoy de buen humor. Esto también te lo concedo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#29", "es": "{F871}{0100}No me agradan las charlas largas. Apresurémonos y terminemos con esto.{F801}{F802}Dame {F878}{0100} macca.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#30", "es": "{F871}{0100}Ofréceme {F872}{0100} x{F878}{0100}.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#31", "es": "{F871}{0100}Ofréceme {F878}{0100} macca.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#32", "es": "{F871}{0100}Ofréceme una cantidad ínfima de tu vida.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#33", "es": "{F871}{0100}Ofréceme una cantidad razonable de tu vida.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#34", "es": "{F871}{0100}Ofréceme una gran cantidad de tu vida.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#35", "es": "{F871}{0100}Ofréceme la cantidad máxima de tu vida.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#36", "es": "{F871}{0100}Ofréceme una cantidad ínfima de tu espíritu.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#37", "es": "{F871}{0100}Ofréceme una cantidad razonable de tu espíritu.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#38", "es": "{F871}{0100}Ofréceme una gran cantidad de tu espíritu.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#39", "es": "{F871}{0100}Ofréceme la cantidad máxima de tu espíritu.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#40", "es": "{F871}{0100}{F873}{0200}... Ofrece la vida de tu aliado.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#41", "es": "{F871}{0100}¿Posees eso?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#42", "es": "{F871}{0100}Tu acompañante... Ofréceme los PS de {F87E}.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#43", "es": "{F871}{0100}Ofréceme lo que deseo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#44", "es": "{F871}{0100}Hmhmhm... Bien.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#45", "es": "{F871}{0100}No tengo uso para esto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#46", "es": "{F871}{0100}¿Deseas ver el mundo que los humanos desconocen?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#47", "es": "“Quiero.”{F801}“No quiero.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#48", "es": "{F871}{0100}Entonces siéntelo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#49", "es": "〉 Una indescriptible sensación de alivio envuelve a {F843}{0000}...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#50", "es": "〉 Una misteriosa paz interior envuelve a {F843}{0000}...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#51", "es": "{F871}{0100}¡Haaa!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#52", "es": "〉 ¡Un dolor indescriptible recorre el cuerpo de {F843}{0000}!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#53", "es": "〉 ¡Un poder misterioso desgarra el cuerpo de {F843}{0000}!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#54", "es": "{F871}{0100}Es una decisión sabia... {F801}Pero aburrida.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#55", "es": "{F871}{0100}Bien, bien. Me has adorado como es debido.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#56", "es": "{F871}{0100}Insolente bribón...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#57", "es": "{F871}{0100}Ahora sé cuánto valgo para ti. {F801}Las negociaciones han terminado.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#58", "es": "{F871}{0100}Muy bien. Terminemos nuestra charla.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#59", "es": "{F871}{0100}Me has subestimado. {F801}Sufre las consecuencias.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#60", "es": "{F871}{0100}Increíble...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#61", "es": "{F871}{0100}Hrm...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#62", "es": "{F871}{0100}Has rechazado todas mis peticiones.{F801}{F802}¡Tu valentía es digna de elogio! Me agradas. {F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#63", "es": "{F871}{0100}Bien, bien. Has hecho bien en responder a mis deseos.{F801}{F802}Sin embargo, un humano que solo asiente no me interesa.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#64", "es": "{F871}{0100}No tienes nada. Muy interesante.{F801}{F802}Muy bien, tú que nada posees. {F801}Viajaré contigo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#65", "es": "{F871}{0100}He recibido tus ofrendas. {F801}Que te vaya bien.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#66", "es": "{F871}{0100}Recuerdo tu rostro... {F801}Tú eres... {F843}{0000}.{F801}{F802}Es raro que yo recuerde el nombre de un humano.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#67", "es": "{F871}{0100}Esto debe ser el destino. Muy bien, {F801}me aliaré contigo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#68", "es": "{F871}{0100}Nuestra relación es estrecha. Te patrocinaré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#69", "es": "{F871}{0100}Nuestra relación es estrecha. Te concederé esto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#70", "es": "{F871}{0100}Te repites...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#71", "es": "{F871}{0100}...Oh, eres {F843}{0000}. Has hecho bien en venir por mí.{F801}{F802}La soledad no es mala... Pero si lo deseas, volveré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#72", "es": "{F871}{0100}¡¡Ja!!{F801}{F802}Es inútil seguir luchando. {F801}Baja tu arma.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#73", "es": "{F871}{0100}...Qué alegría que mi oponente sea un necio.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#74", "es": "{F871}{0100}¡Entonces, lucharé hasta la muerte!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#101", "es": "〉 El demonio está en guardia...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#102", "es": "Bajar el arma{F801}Ponerse en guardia{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#103", "es": "{F871}{0100}...Sería una deshonra para mí dañar a un hombre desarmado.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#104", "es": "{F871}{0100}¿Deseas tanto hablar conmigo? {F801}Entonces, responderé a eso.{F801}{F802}Permíteme pensar...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#105", "es": "〉 El demonio está observando a {F843}{0000}...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#106", "es": "〉 El demonio está observando a {F843}{0000}...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#108", "es": "〉 El demonio se te acerca...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#109", "es": "Hacerse a un lado{F801}Levantar el arma{F801}No moverse{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#110", "es": "〉 ¡{F843}{0000} esquiva al demonio!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#111", "es": "{F871}{0100}¿Te atreves a esquivarme...? {F801}Qué insolencia...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#112", "es": "{F871}{0100}Bribón desdeñoso...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#113", "es": "{F871}{0100}¿Temes mi grandeza?{F801}{F802}Eso fue muy entretenido. {F801}Te concederé esto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#114", "es": "{F871}{0100}Vaya, vaya. Eso fue todo un espectáculo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#115", "es": "{F871}{0100}¿No me temes?{F801}{F802}Aplaudo tu valentía. {F801}Te concederé una recompensa.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#116", "es": "{F871}{0100}¿No me temes?{F801}{F802}¡Qué insolencia...!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#118", "es": "〉 El demonio te hace señas...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#119", "es": "Acercarse{F801}Responder con señas{F801}Levantar el arma{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#120", "es": "{F871}{0100}No te he llamado. Vete.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#121", "es": "{F871}{0100}Ahh, te acercas a mí. Un hombre admirable.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#122", "es": "{F871}{0100}Imitación mezquina...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#123", "es": "{F871}{0100}Si me llaman, acudiré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#124", "es": "{F871}{0100}¿Responder a una invocación con fuerza...?{F801}{F802}Entonces yo también responderé con fuerza.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#125", "es": "{F871}{0100}Arrepiéntete de tu falta de respeto y perece.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#126", "es": "{F871}{0100}¿Responder a una invocación con fuerza...?{F801}{F802}Te enseñaré lo básico de la conversación.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#128", "es": "〉 El demonio intenta irse...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#129", "es": "Detener al demonio{F801}Ignorar al demonio{F801}Levantar el arma{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#130", "es": "{F871}{0100}¿Hrm? ¿Me estabas llamando? Disculpa.{F801}{F802}Negociaré contigo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#131", "es": "{F871}{0100}No puedes detenerme.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#132", "es": "〉 El demonio se va...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#133", "es": "{F871}{0100}...¿No tienes asuntos conmigo? {F801}¿Te rindes tan pronto?{F801}{F802}Hablábamos de ofrendas, ¿no es así? Entonces ofréceme algo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#134", "es": "{F871}{0100}Iba a perdonarte...{F801}{F802}Pero si deseas pelear, te responderé.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#135", "es": "{F871}{0100}Iba a perdonarte...{F801}{F802}Pero admiro tu temeridad. Aceptaré las ofrendas que puedas tener.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#137", "es": "〉 El demonio te ignora...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#138", "es": "Decirle algo{F801}Llamar su atención{F801}Amenazar al demonio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#139", "es": "{F871}{0100}No me interesa...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#140", "es": "{F871}{0100}¡Ja! ¡No perturbes mi meditación!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#144", "es": "{F871}{0100}¿Eso llamas una amenaza?{F801}{F802}ESTA es una amenaza.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#145", "es": "{F871}{0100}¿Eso llamas una amenaza?{F801}{F802}Muy divertido. Te escucharé.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#147", "es": "{F871}{0100}Hijo del hombre... Déjame marchar.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#148", "es": "Perdonar{F801}No perdonar{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#149", "es": "{F871}{0100}Te lo agradezco.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#150", "es": "〉 El demonio se va...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#151", "es": "{F871}{0100}¿Dejar escapar a un enemigo? {F801}Necesitas más determinación.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#152", "es": "{F871}{0100}Lo imaginaba...{F801}{F802}Entonces, que impere la ley del más fuerte.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#153", "es": "{F871}{0100}No necesito tu permiso.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#154", "es": "{F871}{0100}Ugh... Está bien. Te preguntaré tus deseos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#156", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}Así que tú eres el famoso {F843}{0000}.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#157", "es": "{F871}{0100}¡Te aniquilaré!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#159", "es": "{F871}{0100}Es mejor que nunca me acerque a ti.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#160", "es": "〉 El demonio se va...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#162", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}Los humanos apenas merecen que se les crea.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#163", "es": "“Exacto.”{F801}“Eso no es cierto.”{F801}“Soy un humano de confianza.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#164", "es": "{F871}{0100}Entonces vete.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#165", "es": "{F871}{0100}¿No puedes creer en los tuyos? {F801}Qué ser tan miserable.{F801}{F802}Lo mínimo que puedo hacer es hablar contigo. {F801}{F802}Sí... Siempre que me proporciones ofrendas.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#166", "es": "{F871}{0100}¿Desconoces la suciedad del mundo? Qué lástima...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#167", "es": "{F871}{0100}Entonces demuéstralo. {F801}¿Puedes ganarte mi confianza?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#168", "es": "{F871}{0100}Es exactamente por eso que no se puede confiar en los humanos...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#169", "es": "{F871}{0100}Una declaración admirable. {F801}Entonces demuéstralo.{F801}{F802}En forma de ofrenda, por supuesto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#171", "es": "{F871}{0100}Para decirte la verdad... {F801}Me interesan bastante los humanos...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#172", "es": "〉 ¿Cómo te acercarás al demonio?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#173", "es": "Amistosamente{F801}Con prepotencia{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#174", "es": "{F871}{0100}Necio débil...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#175", "es": "{F871}{0100}Ahh, ¿me adoras? {F801}Eres un humano inteligente.{F801}{F802}Entonces... ¿supongo que tienes ofrendas para mí?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#176", "es": "{F871}{0100}Me parece que te estás excediendo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#177", "es": "{F871}{0100}Un farol digno de elogio. Muy bien, {F801}te escucharé.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#179", "es": "〉 El demonio no baja la guardia...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#180", "es": "Saludar al demonio{F801}Disculparse{F801}Alzar el arma{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#182", "es": "{F871}{0100}Te perdono. Pero ese arrepentimiento no son solo palabras, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#183", "es": "{F871}{0100}¡Batámonos a muerte!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#184", "es": "{F871}{0100}¿Una muestra de poder? Muy bien.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#185", "es": "{F871}{0100}Has hecho bien en resistir mi ataque. Recordaré tu rostro.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#187", "es": "〉 ...El demonio está mirando fijamente a {F843}{0000}...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#188", "es": "Devolver la mirada{F801}Devolver la sonrisa{F801}Darse la vuelta{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#189", "es": "{F871}{0100}Así que respondes a mi mirada, ¿hijo del hombre?{F801}{F802}Jo, jo, esos ojos...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#190", "es": "{F871}{0100}¿Te atreves a burlarte de mí? Mereces mil muertes.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#191", "es": "{F871}{0100}Un cobarde rastrero...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#192", "es": "{F871}{0100}Jo, jo... Conoces tus límites. {F801}Eso me gusta, hijo del hombre.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#193", "es": "{F871}{0100}Hmph, ¿eso es todo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#195", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}¿Piensas hablar con un arma en la mano?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#196", "es": "Alzar el arma{F801}Bajar el arma{F801}Levantar las manos {F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#199", "es": "{F871}{0100}Necio...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#201", "es": "{F871}{0100}Ha pasado mucho tiempo desde la última vez que vi a un humano.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#202", "es": "Pedir un apretón de manos{F801}Hacer una reverencia cortés{F801}Amenazar al demonio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#207", "es": "{F871}{0100}La vida humana es tan efímera. ¿Qué piensas de su brevedad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#208", "es": "“Brillante y triunfante.”{F801}“Miserable y triste.”{F801}“¿Y TÚ qué piensas?”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#209", "es": "{F871}{0100}Entonces dame ese brillo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#211", "es": "{F871}{0100}Entonces lo terminaré aquí.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#213", "es": "{F871}{0100}Yo hago la pregunta. {F801}¡Conoce tu lugar!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#214", "es": "{F871}{0100}No hay mucho que decir... ¿Piensas acaso en la vida de una hormiga?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#216", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}Los humanos dan lástima...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#217", "es": "“Tienes razón...”{F801}“Eso no es verdad.”{F801}“TÚ das lástima.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#219", "es": "{F871}{0100}Cualquiera puede negar con la cabeza, incluso los monos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#220", "es": "{F871}{0100}Habla tonterías en otra parte.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#221", "es": "{F871}{0100}Incapaz de percibir tu propia miseria... {F801}Es desgarrador.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#223", "es": "{F871}{0100}Nada hay que ganar de la guerra.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#224", "es": "“Tienes razón.”{F801}“Eso no es verdad.”{F801}“No se trata de beneficios.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#227", "es": "{F871}{0100}¿Así que el combate mismo es tu objetivo?{F801}{F802}Entonces esta conversación ya no tiene sentido.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#229", "es": "{F871}{0100}He oído que los humanos comen carne de demonios. ¿Por qué?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#230", "es": "“Es deliciosa.”{F801}“Es todo lo que tenemos.”{F801}“No quiero comerla...”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#232", "es": "{F871}{0100}¿Es eso realmente así? Seguramente hay muchos otros alimentos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#233", "es": "{F871}{0100}¿Los débiles no pueden comer lo que desean? Qué lástima...{F801}{F802}{F813}{0A00}{0000}{0000}{0000}Yo soy fuerte y puedo comer carne humana cuanto desee.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#235", "es": "{F871}{0100}Los fuertes aspiran a mayores alturas, buscando a otros más fuertes.{F801}{F802}Respóndeme: ¿eres fuerte?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#236", "es": "“Soy fuerte.”{F801}“Soy normal.”{F801}“Soy débil.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#237", "es": "{F871}{0100}Entonces no es momento de conversar. Alza tu arma.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#238", "es": "{F871}{0100}Los fuertes deben ir acompañados de los fuertes.{F801}{F802}Muy bien. Te responderé. {F801}Primero, muéstrame tu valía.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#239", "es": "{F871}{0100}¿Normal? ¿Qué parámetro usas?{F801}{F802}...Una simple prueba de fuerza me lo mostrará.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#240", "es": "{F871}{0100}Respóndeme con claridad...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#241", "es": "{F871}{0100}Tú, que conoces tu propio límite, muéstrame tu técnica.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#242", "es": "{F871}{0100}No tengo asuntos con los débiles.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#244", "es": "{F871}{0100}Es muy extraño. Siento en ti la misma agua que en mí.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#245", "es": "“No siento nada.”{F801}“¡Lo sabía!”{F801}“...¿Agua?”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#246", "es": "{F871}{0100}Ah, lo olvidé. Es algo que los humanos no tienen modo de saber.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#247", "es": "{F871}{0100}¿Qué pueden percibir los humanos? No me mientas, bribón.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#248", "es": "{F871}{0100}Sí, es nostálgico, ¿no es así?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#251", "es": "{F871}{0100}¿Qué se siente que los demonios te mantengan con vida?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#252", "es": "“Genial.”{F801}“Es duro, en realidad...”{F801}“Así son las cosas.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#254", "es": "{F871}{0100}Como esperaba. No te preocupes.{F801}Pondré fin a tu miseria.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#257", "es": "{F871}{0100}¿Me has desafiado con tan poca “Magia”?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#258", "es": "{F871}{0100}Qué indefenso eres... {F801}No vale la pena pelear contigo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#259", "es": "{F871}{0100}Aprende cuál es tu lugar, bastardo arrogante...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#261", "es": "{F871}{0100}Tienes bastante “Magia”. {F801}Así que deseas pelear conmigo con ese poder.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#262", "es": "{F871}{0100}Muy bien. Entretenme.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#263", "es": "{F871}{0100}¿Negociarás conmigo? {F801}Lo mereces.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#265", "es": "〉 {F843}{0000} baila una danza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#266", "es": "{F871}{0100}Eso no es un baile.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#267", "es": "{F871}{0100}¿Eso llamas baile? Qué sujeto tan divertido.{F801}{F802}Te permitiré darme ofrendas.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#269", "es": "〉 {F843}{0000} canta una canción...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#270", "es": "{F871}{0100}No hay alma en tu canto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#271", "es": "{F871}{0100}Es divertido verte cantar tan frenéticamente.{F801}{F802}Te permitiré darme ofrendas.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#273", "es": "〉 {F843}{0000} presume algo de macca...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#274", "es": "{F871}{0100}¿Crees que deseo cosas así? {F801}Qué ofensa.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#275", "es": "{F871}{0100}Si estás tan desesperado, {F801}te escucharé...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#277", "es": "〉 El demonio está observando a {F843}{0000}...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#278", "es": "{F871}{0100}Oí que tienes una excelente “Magia”...{F801}{F802}Los rumores son ciertos. Mejoraré esa “Magia”.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#279", "es": "{F871}{0100}Oí que tienes una excelente “Magia”...{F801}{F802}¿Esto es excelente...? Me río de ti.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#281", "es": "{F871}{0100}¿Qué haces, humano?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#282", "es": "“Muestro respeto.”{F801}“No quiero morir...”{F801}“Los saludos son importantes.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#283", "es": "{F871}{0100}¿Qué dices?{F801}{F802}Mostrar respeto es lo esperable. {F801}Ahora, muéstralo materialmente.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#284", "es": "{F871}{0100}¿Qué dices?{F801}{F802}Es natural que se me adore. {F801}¿No conoces algo tan básico?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#285", "es": "{F871}{0100}Entonces, muestra tu respeto quitándote la cabeza.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#287", "es": "{F871}{0100}Excelentes modales para un joven. {F801}Pero el respeto debe mostrarse con ofrendas.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#288", "es": "{F871}{0100}Eso no es una razón.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#290", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}Qué extraño. No hay nada que un humano pueda hacer viviendo más tiempo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#291", "es": "“Podemos hacer cualquier cosa.”{F801}“Puedo hacerte más fuerte.”{F801}“Podemos explorar lo desconocido.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#292", "es": "{F871}{0100}Esa es una afirmación muy grandiosa.{F801}{F802}Tú, que nada sabes del mundo... iré contigo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#293", "es": "{F871}{0100}Muy bien. Pondré fin a tu vida antes de que te des cuenta de que tu sueño es inútil.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#294", "es": "{F871}{0100}{F802}Hmhmhm... Seguiré el juego a esa broma. Pero hay algo que debes hacer primero, ¿no es así?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#295", "es": "{F871}{0100}¿Me harás más fuerte...?{F801}{F802}Entonces muéstrame tu fuerza.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#296", "es": "{F871}{0100}Ya veo... lo desconocido. Sin embargo, {F801}eso también puedo proporcionarlo.{F801}{F802}¡Lo desconocido, como la muerte!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#297", "es": "{F871}{0100}Es cierto que aliarme contigo me es desconocido. Eso podría resultar interesante.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#299", "es": "{F871}{0100}¿Qué beneficio obtendrás de mí?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#300", "es": "“Obtendré un amigo.”{F801}“Podré ser tu esclavo.”{F801}“Podré negociar.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#302", "es": "{F871}{0100}Ya tengo suficientes esclavos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#303", "es": "{F871}{0100}¿Deseas ser mi esclavo? {F801}Pero aún necesito ofrendas.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#304", "es": "{F871}{0100}Eso es lo máximo que un humano puede hacer.{F801}Ahora... ofréceme tus objetos de valor.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#305", "es": "{F871}{0100}¿Te crees igual a mí? {F801}No seas engreído, humano.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#307", "es": "{F871}{0100}{F813}{0A00}{0000}{0A00}{0000}¿Hacer amistad con un humano...? {F801}¿Qué beneficio recibo de eso?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#308", "es": "“Estar conmigo todo el tiempo.”{F801}“Tener la amistad de un gran ser.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#309", "es": "{F871}{0100}Ya veo... Tener un sacrificio listo en todo momento... No está mal...{F801}{F802}{F813}{0A00}{0000}{0000}{0000}¡Si además me das ofrendas, sería perfecto!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#310", "es": "{F871}{0100}Así que perdería la soledad...{F801}{F802}{F813}{0A00}{0000}{0100}{0000}No puedo soportar tal pérdida.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#311", "es": "{F871}{0100}Ese es tu beneficio.{F801}{F802}{F813}{0A00}{0000}{0000}{0000}Pero que me adoraran todo el tiempo no dejaría de tener su atractivo. {F801}Ahora, tomaré mis obsequios.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#312", "es": "{F871}{0100}¿Eres más grande que yo...?{F801}{F802}{F813}{0A00}{0000}{0100}{0000}Basta de tonterías.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#313", "es": "{F871}{0100}¿Eres más grande que yo...?{F801}{F802}{F813}{0A00}{0000}{0000}{0000}No se juzga un libro por su portada. {F801}Ahora, permíteme ponerte a prueba.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#315", "es": "{F871}{0100}Ese rostro... Te recuerdo, {F843}{0000}.{F801}{F802}No olvido el rostro de los fuertes, especialmente de quien resistió mi golpe.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#316", "es": "{F871}{0100}Sucede que me aburría. {F801}Permíteme prestarte mi poder.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#318", "es": "{F871}{0100}Tienes un deseo que supera al de la humanidad. Ahora, dímelo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#319", "es": "“Únete a mí.”{F801}“Dime la verdad del mundo.”{F801}“Quiero ser el más fuerte.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#320", "es": "{F871}{0100}Ese deseo realmente sobrepasa el reino de la humanidad. Solo tengo una cosa que decir.{F801}{F802}{F813}{0A00}{0000}{0100}{0000}Conoce tu lugar.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#322", "es": "{F871}{0100}Muy divertido. ¿Qué piensas hacer ahora que conoces la verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#323", "es": "{F871}{0100}Todos los hombres sueñan con eso, pero es un deseo fuera de tu alcance.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#325", "es": "{F871}{0100}Ese deseo realmente sobrepasa tu reino. {F801}¿Qué piensas hacer conmigo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#326", "es": "“Pelear contra enemigos poderosos.”{F801}“Fusión de demonios.”{F801}“Nada.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#327", "es": "{F871}{0100}Suena interesante.{F801}{F802}Entonces, me entretendrá el bribón que tengo enfrente.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#328", "es": "{F871}{0100}Suena interesante.{F801}{F802}Accederé a concederte tu deseo, pero primero... ¿Comprendes?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#329", "es": "{F871}{0100}¡¿Fusión de demonios?! ¡¿De la {F801}Catedral de las Sombras?!{F801}{F802}¿Conoces esa técnica? {F801}Entonces te escucharé.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#330", "es": "{F871}{0100}¡¿Fusión de demonios?! ¡¿De la {F801}Catedral de las Sombras?!{F801}{F802}Qué repulsivo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#331", "es": "{F871}{0100}Simplemente tener poder tiene valor en sí mismo. {F801}Tú conoces la verdad.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#333", "es": "{F871}{0100}¿Realmente crees que hay una verdad en este mundo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#334", "es": "“La verdad existe.”{F801}“No lo sé...”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#335", "es": "{F871}{0100}Entonces muere junto con esa idea.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#336", "es": "{F871}{0100}Esa convicción misma excede el reino humano.{F801}{F802}Muy bien. Veré qué yace al final de tu altivo deseo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#337", "es": "{F871}{0100}Como esperaba. Es algo que los humanos ni siquiera pueden percibir.{F801}{F802}Los humanos deben vivir conforme a ello. {F801}...Me parece que para ti es demasiado tarde.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#339", "es": "{F871}{0100}Sin embargo... ¿Y si yo ayudara?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#340", "es": "“Únete a mí.”{F801}“Conviértete en material de fusión.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#341", "es": "{F871}{0100}¿No te avergüenza tomar prestado el poder de los demonios? Qué muchacho tan sencillo.{F801}{F802}Muy bien. Te escucharé.{F801}{F802}Primero, dame ofrendas.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#342", "es": "{F871}{0100}¿No te avergüenza tomar prestado el poder de los demonios? Qué muchacho tan sencillo.{F801}{F802}Es lamentable no conocer tu propia vergüenza.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#343", "es": "{F871}{0100}Estás dispuesto a sacrificar a otros por tu sueño... No está mal.{F801}{F802}Muy bien. Te prestaré mi poder.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#344", "es": "{F871}{0100}¿Crees que prestaría mi poder a un humano?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#346", "es": "{F871}{0100}Jo, jo... ¿Crees que puedes derrotarme?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#347", "es": "“Exacto.”{F801}“Es una ofrenda.”{F801}“No lo dije en ese sentido.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#348", "es": "{F871}{0100}Entonces muéstrame tu poder.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#350", "es": "{F871}{0100}Tienes modales. Entonces primero, ofréceme tu vida.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#351", "es": "{F871}{0100}Es una exquisitez. Ahora... las ofrendas.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#352", "es": "{F871}{0100}¡Entonces aprende que alzar tu arma tiene un solo significado!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#354", "es": "{F871}{0100}Hablas con grandeza, hijo del hombre. {F801}¿No me temes?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#355", "es": "“Tengo miedo.”{F801}“No tengo miedo.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#356", "es": "{F871}{0100}Ya veo. No cedes ante el miedo... {F801}Esa hoja es tu orgullo. {F801}{F802}Eso me gusta. Muy bien, estaré contigo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#357", "es": "{F871}{0100}Romperé esa insolente hoja tuya.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#359", "es": "{F871}{0100}Eres honesto. ¿No pensaste que te atacaría?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#360", "es": "“Estoy decidido.”{F801}“Creo en ti.”{F801}“Ah, cierto...”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#361", "es": "{F871}{0100}Entonces muéstrame esa determinación.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#362", "es": "{F871}{0100}Jo, jo... Tu determinación es real. {F801}Entonces ahora dame ofrendas.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#363", "es": "{F871}{0100}Un hombre bastante interesante.{F801}{F802}Pero no me agradan los necios.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#364", "es": "{F871}{0100}Qué ignorancia, en un mundo donde los demonios andan desatados y hasta los niños empuñan armas.{F801}{F802}.........{F801}{F802}Te daré esto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#365", "es": "{F871}{0100}Quizá sea hora de retirarme...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#366", "es": "{F871}{0100}Qué ignorancia, en un mundo donde los demonios andan desatados y hasta los niños empuñan armas.{F801}{F802}Deja aquí tu vida.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#368", "es": "{F871}{0100}...¿Qué es eso?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#369", "es": "“Una señal de amistad.”{F801}“Una señal de sumisión.”{F801}“Una señal de desafío.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#370", "es": "{F871}{0100}Muy propio de los humanos. Muy adorable.{F801}{F802}...Y muy repugnante.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#372", "es": "{F871}{0100}Ya veo, ¿una prueba de fuerza? Acepto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#373", "es": "{F871}{0100}Jo, jo... Me parece que conoces los modales. {F801}Escucharé lo que tengas que decir.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#375", "es": "{F871}{0100}Muy bien. Como prueba de tu lealtad, ofréceme tu cuerpo.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneIjin.mbm#376", "es": "“Está bien.”{F801}“No.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#377", "es": "{F871}{0100}Lo tomaré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#378", "es": "{F871}{0100}Que te vaya bien.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#379", "es": "{F871}{0100}Entonces, ¿qué ofrecerás? {F801}Muéstrame tu magnanimidad.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#381", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}Oh, ¿así que me entregas tu cabeza? {F801}Espléndido, hijo del hombre.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#382", "es": "“¡Vamos, no!”{F801}“No lo decía en ese sentido...”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#383", "es": "{F871}{0100}¡Allá voy!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#384", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}Hrm... Pensar que no pude cortarla de un solo golpe...{F801}{F802}En vista de esa solidez, accederé a tu petición.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#385", "es": "{F871}{0100}¿Osas retractarte de lo que prometiste? {F801}¡Bribón desvergonzado!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#387", "es": "{F871}{0100}¿Acaso creíste que cedería ante semejante amenaza?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#388", "es": "“Escúchame.”{F801}“¿No lo harás?”{F801}“Lo siento...”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#389", "es": "{F871}{0100}Muere arrepintiéndote de tu insolencia.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#390", "es": "{F871}{0100}¡Ur...gh......!{F801}{F802}Espera. Aceptaré escucharte.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#391", "es": "{F871}{0100}¡Ur...gh......!{F801}{F802}Te perdonaré esta vez.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#392", "es": "{F871}{0100}Todos cometen errores.{F801}{F802}Incluso mi mano resbala. De vez en cuando.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#393", "es": "{F871}{0100}Todos cometen errores.{F801}{F802}Supongo que sabes qué hacer después de esto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#395", "es": "{F871}{0100}¿Deseas que haga eterno ese resplandor?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#396", "es": "“Quiero la eternidad.”{F801}“No lo necesito.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#397", "es": "{F871}{0100}Muy bien.{F801}{F802}Arde como una vela que se apaga y obtén la eternidad mediante la muerte.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#398", "es": "{F871}{0100}Es una lástima que seas humano... {F801}Pero esa forma también es tu deseo, {F801}supongo.{F801}{F802}Que te vaya bien, hijo del hombre.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#400", "es": "{F871}{0100}{F813}{0A00}{0000}{0A00}{0000}Si es tan miserable, ¿por qué te aferras a este mundo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#401", "es": "“Tengo algo que hacer.”{F801}“Tengo compatriotas.”{F801}“Me da miedo morir...”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#402", "es": "{F871}{0100}Así que te resignas de buen grado a la deshonra de vivir por tu deber...{F801}{F802}{F813}{0A00}{0000}{0000}{0000}Qué hermosa forma de vivir. {F801}Responderé a tu deseo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#403", "es": "{F871}{0100}Así que te resignas de buen grado a la deshonra de vivir por tu deber...{F801}{F802}{F813}{0A00}{0000}{0100}{0000}Qué divertida muestra de hipocresía.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#404", "es": "{F871}{0100}En qué infierno viviente has caído. Tu sufrimiento no terminará mientras haya otros.{F801}{F802}No hay necesidad de lamentarse. Terminaré aquí con tu sufrimiento.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#405", "es": "{F871}{0100}En qué infierno viviente has caído. Tu sufrimiento no terminará mientras haya otros.{F801}{F802}Qué entretenidos son los humanos que sufren. {F801}Quizá me quede a tu lado a verte sufrir.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#406", "es": "{F871}{0100}Te diré algo bueno: {F801}los humanos temen a lo desconocido.{F801}{F802}Si te enseño la muerte, ya no habrá nada que temer.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#407", "es": "{F871}{0100}Huyes de lo aterrador, cubriéndote de más lodo...{F801}{F802}Jaja... Verte debatirte es entretenido.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#409", "es": "{F871}{0100}¿Hay alguna razón para que exista algo tan débil?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#410", "es": "“No hay sentido.”{F801}“Para vivir como humano.”{F801}“Nunca lo pensé.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#411", "es": "{F871}{0100}Como sospechaba.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#413", "es": "{F871}{0100}No se puede evitar en seres que se arrastran por el presente, sin medio alguno de conocer el futuro.{F801}{F802}Hijo del hombre, si lo deseas, yo te guiaré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#415", "es": "{F871}{0100}¿En qué sentido es vivir como un humano?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#416", "es": "“Para divertirme.”{F801}“Para matar demonios.”{F801}“Para estar con alguien.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#417", "es": "{F871}{0100}Una vida buscando placeres momentáneos... Qué vida tan pobre.{F801}{F802}No mereces que se hable contigo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#418", "es": "{F871}{0100}¿El destino de los débiles es... la batalla?{F801}{F802}Ya veo. Las pruebas y tribulaciones forman la vida. Entonces te ayudaré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#419", "es": "{F871}{0100}Los débiles se reúnen para vivir. {F801}Ya veo, eso tiene sentido.{F801}{F802}Es irrelevante para mí, que soy fuerte.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#421", "es": "{F871}{0100}Si dices que no eres digno de lástima, ¿qué puedes hacer?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#422", "es": "“Pelear contra ti.”{F801}“Manipular demonios.”{F801}“Salvar a alguien.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#423", "es": "{F871}{0100}Bien dicho, oh débil humano. {F801}Entonces muéstrame una prueba.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#424", "es": "{F871}{0100}...Ya veo. No eres solo palabras. {F801}Escucharé lo que tengas que decir.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#425", "es": "{F871}{0100}Qué cosa tan divertida de decir.{F801}{F802}Ahora, entretenme.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#426", "es": "{F871}{0100}Qué temible insolencia... No puedo ocuparme de ti.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#427", "es": "{F871}{0100}Palabras feroces de un niño.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#429", "es": "{F871}{0100}Hubo un humano que predicaba la salvación.{F801}Ahora mira este mundo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#430", "es": "“Puedo hacerlo.”{F801}“Ayuda tú también.”{F801}“Quizá no sea posible...”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#431", "es": "{F871}{0100}¿Tu confianza se debe a tu desconocimiento del mundo? ¿O eres estúpido?{F801}{F802}Muy bien, lo veré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#432", "es": "{F871}{0100}Entonces intenta salvarte a ti mismo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#433", "es": "{F871}{0100}Conoces tus límites. Ese es el camino de la vida humana.{F801}{F802}Ahora, lamentable ser. Si deseas mi poder, ofréceme obsequios.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#434", "es": "{F871}{0100}Qué aburrimiento.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneIjin.mbm#436", "es": "{F871}{0100}{F813}{0A00}{0000}{0A00}{0000}Entonces, ¿por qué luchan los humanos entre sí?{F801}{F802}{FFFF}"}
