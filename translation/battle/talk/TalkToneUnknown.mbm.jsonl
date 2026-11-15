@@ -8,6 +8,9 @@
 {"key": "battle/talk/TalkToneUnknown.mbm#120", "es": "Acercarse{F801}Responder con señas{F801}Levantar el arma{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#130", "es": "〉 El demonio intenta irse...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#139", "es": "〉 El demonio te ignora...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneUnknown.mbm#143", "es": "〉 {F843}{0000} baila una danza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneUnknown.mbm#145", "es": "〉 {F843}{0000} baila una danza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneUnknown.mbm#150", "es": "{F871}{0100}¡Por favor, déjame ir!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#151", "es": "Perdonar{F801}No perdonar{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#164", "es": "“Exacto.”{F801}“Eso no es cierto.”{F801}“Soy un humano de confianza.”{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#172", "es": "{F871}{0100}Me interesan los humanos.{F801}{F802}{FFFF}"}

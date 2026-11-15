@@ -1,5 +1,13 @@
 {"key": "battle/talk/TalkToneLady.mbm#47", "es": "“Claro.”{F801}“No.”{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#102", "es": "Bajar el arma{F801}Ponerse en guardia{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#109", "es": "〉 El demonio intenta irse...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneLady.mbm#110", "es": "Detener al demonio{F801}Ignorar al demonio{F801}Levantar el arma{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#118", "es": "〉 El demonio te ignora...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneLady.mbm#119", "es": "Decirle algo{F801}Llamar su atención{F801}Amenazar al demonio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneLady.mbm#132", "es": "〉 El demonio se va...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneLady.mbm#135", "es": "“Exacto.”{F801}“Eso no es cierto.”{F801}“Soy un humano de confianza.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneLady.mbm#177", "es": "〉 El demonio se va...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneLady.mbm#227", "es": "〉 El demonio se va...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneLady.mbm#256", "es": "〉 {F843}{0000} baila una danza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneLady.mbm#260", "es": "〉 {F843}{0000} canta una canción...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneLady.mbm#264", "es": "〉 {F843}{0000} muestra un poco de Macca...{F801}{F802}{FFFF}"}

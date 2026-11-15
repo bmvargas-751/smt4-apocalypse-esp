@@ -11,10 +11,13 @@
 {"key": "battle/talk/TalkToneYoung.mbm#132", "es": "Detener al demonio{F801}Ignorar al demonio{F801}Levantar el arma{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneYoung.mbm#140", "es": "〉 El demonio te ignora...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneYoung.mbm#141", "es": "Decirle algo{F801}Llamar su atención{F801}Amenazar al demonio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneYoung.mbm#150", "es": "{F871}{0100}¡Por favor, déjame ir!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneYoung.mbm#151", "es": "Perdonar{F801}No perdonar{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneYoung.mbm#153", "es": "〉 El demonio se fue...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneYoung.mbm#161", "es": "〉 El demonio se fue...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneYoung.mbm#164", "es": "“Exacto.”{F801}“Eso no es cierto.”{F801}“Soy un humano de confianza.”{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneYoung.mbm#173", "es": "〉 ¿Cómo te acercarás al demonio?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneYoung.mbm#174", "es": "Amistosamente{F801}Con prepotencia{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneYoung.mbm#275", "es": "〉 {F843}{0000} baila una danza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneYoung.mbm#279", "es": "〉 {F843}{0000} canta una canción...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneYoung.mbm#350", "es": "〉 El demonio se fue...{F801}{F802}{FFFF}"}

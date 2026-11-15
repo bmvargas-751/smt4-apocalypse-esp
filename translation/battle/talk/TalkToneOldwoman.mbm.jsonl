@@ -9,9 +9,13 @@
 {"key": "battle/talk/TalkToneOldwoman.mbm#120", "es": "Acercarse{F801}Responder con señas{F801}Levantar el arma{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#128", "es": "〉 El demonio te tomó por sorpresa...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#131", "es": "〉 El demonio intenta irse...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#132", "es": "Detener al demonio{F801}Ignorar al demonio{F801}Levantar el arma{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#135", "es": "〉 El demonio se fue...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#140", "es": "〉 El demonio te ignora...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#141", "es": "Decirle algo{F801}Llamar su atención{F801}Amenazar al demonio{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#162", "es": "〉 El demonio se fue...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#165", "es": "“Exacto.”{F801}“Eso no es cierto.”{F801}“Soy un humano de confianza.”{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#173", "es": "〉 ¿Cómo te acercarás al demonio?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneOldwoman.mbm#174", "es": "Amistosamente{F801}Con prepotencia{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#239", "es": "〉 {F843}{0000} baila una danza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneOldwoman.mbm#243", "es": "〉 {F843}{0000} canta una canción...{F801}{F802}{FFFF}"}

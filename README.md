@@ -18,10 +18,10 @@ Traducción fan al español neutro de *Shin Megami Tensei IV: Apocalypse* (Ninte
 | 6.3 | Datos | 2.599 | 2.599 | 100,0 % |
 | 6.4 | Historia | 2.409 | 2.409 | 100,0 % |
 | 6.5 | Secundarias | 1.085 | 1.085 | 100,0 % |
-| 6.6 | Negociaciones | 507 | 5.847 | 8,7 % |
+| 6.6 | Negociaciones | 809 | 5.847 | 13,8 % |
 | 6.7 | Demonios en combate | 1 | 2.367 | 0,0 % |
 | 6.8 | Contenido descargable | 69 | 531 | 13,0 % |
-| | **Total** | **14.115** | **22.283** | **63,3 %** |
+| | **Total** | **14.417** | **22.283** | **64,7 %** |
 <!-- /progress -->
 
 Qué entra en cada sección y cómo se cuenta: [translation/README.md](translation/README.md).

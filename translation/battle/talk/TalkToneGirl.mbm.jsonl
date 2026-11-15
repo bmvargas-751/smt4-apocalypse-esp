@@ -1,19 +1,272 @@
+{"key": "battle/talk/TalkToneGirl.mbm#1", "es": "{F871}{0100}Oye, ¿por qué no hacemos algo más divertido que hablar? Jejeje...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#2", "es": "{F871}{0100}¡Entonces no ataques primero! ¡Agh!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#3", "es": "{F871}{0100}Entonces...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#4", "es": "{F871}{0100}¡Está bien, me uno a ti!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#5", "es": "{F871}{0100}Primero quiero algo. No voy a estar feliz si no me das algo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#6", "es": "{F871}{0100}Oye, tu hueste está llena.{F801}No hay lugar para mí...{F801}{F802}¡Entonces olvídalo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#7", "es": "{F871}{0100}Soy {F804}{0500}{F875}{0100} {F873}{0100}{F804}{0000}.{F801}Mucho gusto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#8", "es": "{F871}{0100}...¿Eh? ¿Eres más débil que yo, señor?{F801}{F802}Entonces no puedo unirme a ti.{F801}No me gustan los humanos débiles.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#9", "es": "{F871}{0100}¡Ohhh, ya tienes contigo a una amiga mía!{F801}{F802}¡Cuídala!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#10", "es": "{F871}{0100}Oye, ¿puedo invitar a otro demonio?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#11", "es": "{F871}{0100}Oh... Ya no te queda tanto espacio.{F801}{F802}¡Entonces invitemos a alguien después!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#12", "es": "{F871}{0100}¡Jejeje! ¡Suena divertido! ¡Yo también voy!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#13", "es": "{F871}{0100}¿Eh? ¿No viene nadie? ¿Les dará vergüenza?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#14", "es": "{F871}{0100}¡Yo también me uno a ti!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#15", "es": "{F871}{0100}...Oye, ¿puedo llamar a un amigo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#16", "es": "{F871}{0100}¡Hola, humano!{F801}{F802}{F873}{0200} me rogó que viniera, así que aquí estoy.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#17", "es": "{F871}{0100}¡Ahh! ¡Señor, qué guapo eres!{F801}{F802}Oye, oye... ¿no quieres un aliado?{F801}¿Quieres uno, verdad? ¡Yo también!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#18", "es": "{F871}{0100}¿Eh? ¿Quieres que te dé dinero?{F801}Pero... no tengo muchas ganas...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#19", "es": "{F871}{0100}*snif* *snif* Mi dinero...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#20", "es": "{F871}{0100}Entonces sí eras un humano, señor.{F801}Muérete...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#21", "es": "{F871}{0100}¡Ah! ¡Oye...!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#22", "es": "{F871}{0100}¡Escoria!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#23", "es": "{F871}{0100}...Más te vale que pares.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#24", "es": "{F871}{0100}Eh... ¿señor? ¿Sabes que... no puedo moverme...?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#25", "es": "{F871}{0100}¿Quieres hacer un trueque de objetos? Está bien.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#26", "es": "{F871}{0100}Toma. ¡Cuídalo mucho!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#27", "es": "{F871}{0100}¡Wiii! Hay flores por todas partes...{F801}¡Úsame como quieras, señor!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#28", "es": "{F871}{0100}¡Como fuiste tan buen chico, te doy uno extra!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#29", "es": "{F871}{0100}Oye, terminemos esto ya. Quiero arreglarlo con Macca...{F801}{F802}¡{F878}{0100} Macca! ¿Está bien, verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#30", "es": "{F871}{0100}De verdad quiero {F872}{0100} x{F878}{0100}.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#31", "es": "{F871}{0100}Quiero {F878}{0100} Macca.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#32", "es": "{F871}{0100}Tus PS, señor... Quiero un poquito de eso...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#33", "es": "{F871}{0100}Tus PS, señor... Quiero un poco de eso...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#34", "es": "{F871}{0100}Tus PS, señor... Quiero mucho de eso...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#35", "es": "{F871}{0100}Tus PS, señor... Quiero muuucho de eso...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#36", "es": "{F871}{0100}Tus PM, señor... Quiero un poquito de eso...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#37", "es": "{F871}{0100}Tus PM, señor... Quiero un poco de eso...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#38", "es": "{F871}{0100}Tus PM, señor... Quiero mucho de eso...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#39", "es": "{F871}{0100}Tus PM, señor... Quiero muuucho de eso...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#40", "es": "{F871}{0100}Dame la vida de {F873}{0200}.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#41", "es": "{F871}{0100}Ummm... Quiero eso.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#42", "es": "{F871}{0100}Señor, quiero los PS de {F87E}.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#43", "es": "{F871}{0100}Oye, oye... dame algo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#44", "es": "{F871}{0100}¡Bien, señor! ¡Qué felicidad que me entendieras!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#45", "es": "{F871}{0100}No... Esperaba que me entendieras...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#46", "es": "{F871}{0100}¿Puedo morderte, señor?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#47", "es": "“Claro.”{F801}“No.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#48", "es": "{F871}{0100}¡Gracias!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#49", "es": "〉 ¡{F843}{0000} se llena de vigor!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#50", "es": "〉 ¡{F843}{0000} rebosa de vigor!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#51", "es": "{F871}{0100}¿Dejas que cualquiera te muerda?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#52", "es": "〉 ¡{F843}{0000} perdió un poco de energía!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#53", "es": "〉 ¡{F843}{0000} perdió algo de energía!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#54", "es": "{F871}{0100}Aww, qué gallina eres...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#55", "es": "{F871}{0100}¡Yupi! ¡Conseguí lo que quería!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#56", "es": "{F871}{0100}¡Hmph! Qué tacaño...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#57", "es": "{F871}{0100}Awww, pero lo tienes. ¿Por qué no me lo das...?{F801}{F802}Está bien, entonces... te mataré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#58", "es": "{F871}{0100}Olvídalo... ¡Me rindo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#59", "es": "{F871}{0100}¡Oye! No estás diciendo la verdad, ¿cierto?{F801}{F802}Está bien, entonces te mataré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#60", "es": "{F871}{0100}¿Eh? ¿No lo tienes...?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#61", "es": "{F871}{0100}¿Eh? ¿No tienes una Piedra vital...?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#62", "es": "{F871}{0100}¡No puedo creer que dijeras que no tantas veces! ¡Eres increíble, señor!{F801}{F802}¡Es genial hacerle eso a un demonio!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#63", "es": "{F871}{0100}Esto me aburre...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#64", "es": "{F871}{0100}¡Vaya! ¡De verdad no tienes nada!{F801}{F802}¡Ya soy grande, así que lo dejaré pasar!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#65", "es": "{F871}{0100}¡Adiós, adiós!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#66", "es": "{F871}{0100}¡Oh! ¡Señor {F843}{0000}!{F801}{F802}¡Ya hablamos un montón! Eso nos hace amigos, ¿no?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#67", "es": "{F871}{0100}¿Quieres que seamos amigos? ¡Claro!{F801}{F802}Jejeje... Hagamos una masacre entre los dos, ¿okey?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#68", "es": "{F871}{0100}¿Te doy un poco de Macca? Jejeje...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#69", "es": "{F871}{0100}¿Te doy esto? Jejeje...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#70", "es": "{F871}{0100}...Eres aburrido. Me voy a casa.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#71", "es": "{F871}{0100}¡Ohhhh! ¡{F843}{0000}...!{F801}{F802}¡Qué soledad! ¡No me dejes así nunca más, ¿okey?!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#72", "es": "{F871}{0100}...Por favor, no me mates.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#73", "es": "{F871}{0100}¡Jeje! ¡Señor, te quiero!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#74", "es": "{F871}{0100}¿Te parece bien matar demonios?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#101", "es": "〉 El demonio está en guardia...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#102", "es": "Bajar el arma{F801}Ponerse en guardia{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#103", "es": "{F871}{0100}Eres lo que la gente llama un ingenuo, ¿no, señor? ¿De verdad puedes sobrevivir ahí afuera así?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#104", "es": "{F871}{0100}¡De verdad me conoces! ¡Nos llevamos bien!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#105", "es": "{F871}{0100}¡Ohhh! ¡Esto es muy aburrido!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#106", "es": "{F871}{0100}¡Espera! ¡No quiero pelear!{F801}Te daré esto.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#107", "es": "{F871}{0100}Los humanos sí que dan miedo...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#109", "es": "〉 El demonio se te acerca...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#110", "es": "Hacerse a un lado{F801}Levantar el arma{F801}No moverse{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#111", "es": "〉 ¡{F843}{0000} esquiva al demonio!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#112", "es": "{F871}{0100}¡Ohhh! ¡No tenías que esquivarme!{F801}¡Me interesas!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#113", "es": "〉 El demonio te alcanza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#114", "es": "{F871}{0100}Jejeje... Eres un humano inteligente.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#115", "es": "{F871}{0100}¡Por favor, sálvame! ¡Me uniré a ti!{F801}¿Okey?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#116", "es": "{F871}{0100}Señor, eres muy valiente.{F801}Quiero hablar contigo.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#117", "es": "{F871}{0100}Señor, eres muy valiente.{F801}{F802}...¿Creíste que diría eso?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#119", "es": "〉 El demonio te hace señas...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#120", "es": "Acercarse{F801}Responder con señas{F801}Levantar el arma{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#121", "es": "{F871}{0100}¡Caíste! ¡Jejeje!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#122", "es": "{F871}{0100}¡Quería darte esto!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#123", "es": "{F871}{0100}Por favor, úsalo con cuidado.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#124", "es": "{F871}{0100}¡Solo pensaba en ayudar a un humano!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#125", "es": "{F871}{0100}Puaj, qué asco...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#126", "es": "{F871}{0100}¡Nos parecemos, ¿no?!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#127", "es": "{F871}{0100}¡Eres un ingenuo, señor!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#128", "es": "〉 El demonio te tomó por sorpresa...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#129", "es": "{F871}{0100}¡Por favor, sálvame! ¡Me uniré a ti!{F801}¿Okey?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#131", "es": "〉 El demonio intenta irse...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#132", "es": "Detener al demonio{F801}Ignorar al demonio{F801}Levantar el arma{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#133", "es": "{F871}{0100}Oh, está bien. ¡Negociaré contigo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#134", "es": "{F871}{0100}¡Lo siento, tengo prisa!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#135", "es": "{F871}{0100}¡No seas tan frío! Hablemos, ¿okey?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#136", "es": "{F871}{0100}¡No seas tan frío!{F801}{F802}Tienes que ser más amable con las chicas, ¿sabes?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#137", "es": "{F871}{0100}¡Por favor, sálvame! ¡Me uniré a ti!{F801}¿Okey?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#138", "es": "{F871}{0100}Los humanos sí que son tontos, ¿no?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#140", "es": "〉 El demonio te ignora...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#141", "es": "Decirle algo{F801}Llamar su atención{F801}Amenazar al demonio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#142", "es": "{F871}{0100}¡Iiih! ¡Aléjate de mí!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#143", "es": "{F871}{0100}¡Oh, solo eres tú! Te contaré un secreto.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#147", "es": "{F871}{0100}¡Por favor, sálvame! ¡Me uniré a ti!{F801}¿Okey?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#148", "es": "{F871}{0100}Los humanos sí que son tontos, ¿no?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#150", "es": "{F871}{0100}¡Por favor, déjame ir!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#151", "es": "Perdonar{F801}No perdonar{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#152", "es": "{F871}{0100}¡Gracias, señor! ¡Toma un regalo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#153", "es": "〉 El demonio se va...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#154", "es": "{F871}{0100}¡Caíste! ¡Jajaja!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#155", "es": "{F871}{0100}Está bien, entonces... te mataré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#156", "es": "{F871}{0100}¡Por favor, sálvame! ¡Me uniré a ti!{F801}¿Okey?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#158", "es": "{F871}{0100}Tú eres {F843}{0000}, ¿verdad? He oído hablar de ti.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#159", "es": "{F871}{0100}¡Eres un asesino de demonios! ¡No te perdonaré!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#160", "es": "{F871}{0100}¡Oye, hazme tu demonio! ¡Iré contigo aunque digas que no!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#161", "es": "{F871}{0100}¡No quiero tener nada que ver contigo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#162", "es": "〉 El demonio se va...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#164", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}¡No puedo confiar en los humanos!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#165", "es": "“Exacto.”{F801}“Eso no es cierto.”{F801}“Soy un humano de confianza.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#166", "es": "{F871}{0100}Eso significa que tú también eres igual, ¿no?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#167", "es": "{F871}{0100}¡Pensamos igual! ¿Por qué no nos hacemos amigos?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#168", "es": "{F871}{0100}¡Qué perdedor!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#169", "es": "{F871}{0100}Entonces, ¿por qué no haces que confíe en ti?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#170", "es": "{F871}{0100}¡No puedo confiar en nadie que diga cosas así!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#171", "es": "{F871}{0100}Entonces, ¿por qué no haces que confíe en ti?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#173", "es": "{F871}{0100}¡Los humanos me interesan mucho!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#174", "es": "〉 ¿Cómo te acercarás al demonio?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGirl.mbm#175", "es": "Amistosamente{F801}Con prepotencia{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#176", "es": "{F871}{0100}Eres algo inquietante...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#177", "es": "{F871}{0100}¡Vaya! ¡Tal como lo imaginaba!{F801}¡Los humanos sí que son interesantes!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#178", "es": "{F871}{0100}Perdí el interés...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#179", "es": "{F871}{0100}¡Vaya! ¡Tal como lo imaginaba!{F801}¡Los humanos sí que son interesantes!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#181", "es": "〉 El demonio tiene miedo...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#182", "es": "Sonreír con amabilidad{F801}Hacer una reverencia con rostro sincero{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#183", "es": "{F871}{0100}¡Iiih...! ¡Este humano da miedo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#187", "es": "〉 El demonio levanta la vista hacia ti...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#188", "es": "Devolver la sonrisa{F801}Extender la mano{F801}Hacer una reverencia cortés{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#189", "es": "{F871}{0100}Eres lo que la gente llama un ingenuo, ¿no, señor? ¿De verdad puedes sobrevivir ahí afuera así?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#191", "es": "{F871}{0100}La gente dice que eres un buen humano, ¿no, señor?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#193", "es": "{F871}{0100}Oye... Juguemos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#194", "es": "“Claro.”{F801}“No quiero.”{F801}“No gratis.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#195", "es": "{F871}{0100}¿Un humano que de verdad quiere jugar?{F801}¡¿Qué estás tramando?!{F801}{F802}Está bien, entonces... te mataré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#197", "es": "{F871}{0100}Awww, ¿quieres algo a cambio?{F801}Los humanos son un fastidio.{F801}{F802}Si me uno a ti, ¿jugarás conmigo? ¡Lo pensaré!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#199", "es": "{F871}{0100}¿Te gusta pelear, señor?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#200", "es": "“Sí.”{F801}“No tanto.”{F801}“Me da igual.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#202", "es": "{F871}{0100}¡Eres igual que yo!{F801}{F802}¡Prefiero que mueras sin que yo tenga que pelear contigo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#203", "es": "{F871}{0100}¡Eres igual que yo!{F801}{F802}Tal vez debería revisar nuestra afinidad.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#204", "es": "{F871}{0100}¿Te da igual y aun así matas demonios?{F801}Los humanos son unos bárbaros...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#206", "es": "{F871}{0100}Señor, ¿por qué te hiciste cazador?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#207", "es": "“Porque quise.”{F801}“Las circunstancias...”{F801}“No lo recuerdo.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#209", "es": "{F871}{0100}¡Las circunstancias son importantes, ¿verdad?!{F801}{F802}¿Y nosotros? ¿Con las circunstancias adecuadas podríamos ser amigos?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#210", "es": "{F871}{0100}¡Entonces te ayudaré a recordar!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#212", "es": "{F871}{0100}¿Me quieres?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#213", "es": "“Te quiero.”{F801}“No te necesito.”{F801}“Es una trampa, ¿verdad?”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#218", "es": "{F871}{0100}Oye... ¿No quieres ser mi único hermano mayor?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#219", "es": "“Entonces yo soy el mayor.”{F801}“Pero tú eres mayor que yo.”{F801}“Entonces somos aliados.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#224", "es": "{F871}{0100}¿Qué vas a hacer cuando me una a ti?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#225", "es": "“Criarte.”{F801}“Fusionarte.”{F801}“Contemplarte.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#227", "es": "{F871}{0100}¡Quiero fusionarme! ¡Me voy a unir a ti!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#228", "es": "{F871}{0100}¡Pervertido!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#230", "es": "{F871}{0100}Si tuvieras que hacer una obra de teatro, ¿qué papel harías?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#231", "es": "“Protagonista.”{F801}“Papel secundario.”{F801}“Tramoyista.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#232", "es": "{F871}{0100}¿Eh? El papel principal es mío. Ahora mismo te doy la prueba.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#233", "es": "{F871}{0100}Entonces, tal vez, por esta vez haga un papel secundario y te ayude.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#234", "es": "{F871}{0100}¡Eso es, tú haces de mi esclavo!{F801}{F802}¡Jajaja!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#237", "es": "{F871}{0100}¡Allá voy! ¡Asegúrate de recibir esto!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#238", "es": "Recibirlo{F801}Esquivarlo{F801}Contraatacar{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#239", "es": "〉 ¡El demonio ataca de repente!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#240", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}Uf, ya me siento mejor.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#241", "es": "{F871}{0100}¡Muy bien! ¡Ahora te pertenezco!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#243", "es": "{F871}{0100}¿S-Señor? ¿Por qué levantas tu arma?{F801}{F802}Y-Yo... tengo miedo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#244", "es": "{F871}{0100}¡Vaya! ¡Eres bueno, señor! ¡Te ves fuerte!{F801}{F802}¡Yo también quiero ser fuerte! ¡Quiero unirme a ti!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#246", "es": "{F871}{0100}Oye... ¿Te enojarías si te arrancara los brazos y las piernas?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#247", "es": "“No deberías hacer eso.”{F801}“Si lo haces, yo te lo haré a ti.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#251", "es": "{F871}{0100}Este... ¿abuelito?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#252", "es": "“¿Qué pasa?”{F801}“No soy tan viejo.”{F801}“¿Qué pasa? Mayor eres tú.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#253", "es": "{F871}{0100}Hay un viejo en tu espalda, señor.{F801}{F802}Se ve solo, ¡así que hazte su amigo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#254", "es": "{F871}{0100}No puede ser... ¿Entonces eres un bebé?{F801}{F802}¡Tengo que unirme a ti y cuidarte!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#255", "es": "{F871}{0100}¿Bisabuelito, entonces? Te ayudaré a meterte en tu ataúd.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#256", "es": "{F871}{0100}¿C-Cómo lo supiste? En realidad he vivido mucho tiempo.{F801}{F802}Qué vergüenza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#258", "es": "{F871}{0100}¿Con todos o por tu cuenta? ¿Cuál es más fuerte?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#259", "es": "“Juntos.”{F801}“Por mi cuenta.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#260", "es": "{F871}{0100}Tienes razón. Puedes formar equipo con todos.{F801}{F802}...Pero todos desaparecerán algún día.{F801}Entonces, ¿serás fuerte?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#261", "es": "{F871}{0100}Por eso estás con tus aliados, ¿no?{F801}{F802}...Pero ¿de verdad eres fuerte? Déjame ponerte a prueba.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#262", "es": "{F871}{0100}¿Eh? ¡Pero no eres fuerte para nada!{F801}{F802}¡No puedes hacer nada sin tus aliados!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#263", "es": "{F871}{0100}¿Los humanos se hacen fuertes por sí solos?{F801}Eso suena peligroso...{F801}{F802}¡Ya sé! ¡No dejaré que estés solo! ¡Iré contigo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#265", "es": "{F871}{0100}¿Qué haces aquí?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#266", "es": "“Trabajo.”{F801}“Espero a alguien.”{F801}“Busco un lugar donde morir.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#267", "es": "{F871}{0100}¿Tu trabajo es hablar con chicas?{F801}Eso suena sospechoso...{F801}{F802}Tal vez deberías cambiar de trabajo. Iré contigo y te ayudaré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#268", "es": "{F871}{0100}Entonces no debería estorbarte.{F801}¡Adiós, adiós!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#269", "es": "{F871}{0100}¿Quién es? ¿Quién es? Qué celos...{F801}{F802}¡Yo también quiero que nos reunamos! ¡Prométemelo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#270", "es": "{F871}{0100}¿Será que la persona que esperas es...?{F801}{F802}Y-Yo... ¡Lo siento! ¡Te mandaré al infierno ahora mismo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#271", "es": "{F871}{0100}Pero puedes morir en cualquier parte.{F801}En realidad quieres vivir, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#272", "es": "{F871}{0100}No es divertido matar a alguien que quiere morir.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#274", "es": "〉 {F843}{0000} baila una danza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#275", "es": "{F871}{0100}Lo siento, pero me avergüenzas...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#276", "es": "{F871}{0100}¡Eres un humano divertido! ¿Quieres que me una a ti?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#278", "es": "〉 {F843}{0000} canta una canción...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#279", "es": "{F871}{0100}Qué canción tan clásica...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#280", "es": "{F871}{0100}¡Eres un humano divertido! ¿Quieres que me una a ti?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#282", "es": "〉 {F843}{0000} muestra un poco de Macca...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#283", "es": "{F871}{0100}No me interesa el dinero...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#284", "es": "{F871}{0100}Jejeje... Quieres que me una a ti, ¿eh?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#286", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}Todos se meten conmigo. ¿Tú también me vas a molestar?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#287", "es": "“Tal vez.”{F801}“No lo haré.”{F801}“Te esclavizaré.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#289", "es": "{F871}{0100}¡Eres un buen humano!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#290", "es": "{F871}{0100}¿Eh? ¿Qué quieres decir?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#292", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}¿Eh? ¡¿Qué vas a hacer?!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#293", "es": "Declararse{F801}Hacer una reverencia{F801}Levantar el arma{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#295", "es": "{F871}{0100}¡Vaya! ¡Qué buenos modales! ¡Los humanos son muy románticos!{F801}{F802}¡Muy bien, te haré mi mascota!{F801}{F802}¡Trabaja para mí, como lo hace una buena mascota!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#296", "es": "{F871}{0100}¡Ah! ¡¿Me estás amenazando?! Si vas a hacer eso... ¡pues no voy a perder!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#298", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}¡¿Eeeeh?! Mi corazón todavía no está listo...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#299", "es": "“Esperaré hasta que decidas.”{F801}“No te forzaré.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#300", "es": "{F871}{0100}Señor... Eres muy amable. Tal vez me una a ti...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#301", "es": "{F871}{0100}¡¿En qué quedamos?! ¡Odio a la gente voluble!{F801}¡Hmph!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#303", "es": "{F871}{0100}¿Eres lo bastante fuerte como para que no te molesten?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#304", "es": "“Soy fuerte.”{F801}“No sabría decir.”{F801}“Soy débil.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#305", "es": "{F871}{0100}¡Jaja! ¿Puedo probarlo contigo?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#306", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}¡Eres bastante fuerte, ¿eh?! ¡Veamos qué tan fuerte es tu billetera!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#307", "es": "{F871}{0100}¡Qué lindo! ¡La modestia es una cualidad encantadora en ustedes, los mayores!{F801}{F802}¡Haz lo que quieras conmigo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#308", "es": "{F871}{0100}¡¿Eh, en serio?! ¡Entonces déjame probar!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#310", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}...¿Eres un humano y me pides algo A MÍ?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#311", "es": "“Quiero que te unas a mí.”{F801}“Quiero que me des una bofetada.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#312", "es": "{F871}{0100}Esto... Esto es muy repentino...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#313", "es": "{F871}{0100}¿Quieres jugar conmigo? ¡Yupi! ¡Allá voy!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#314", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}¡Jajaja! ¡Qué divertido! ¡Seamos amigos, si quieres!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#316", "es": "{F871}{0100}Quiero algo. ¿Me lo darás?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#317", "es": "“¿Qué quieres?”{F801}“Quiero algo a cambio.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#318", "es": "{F871}{0100}¡Tu vida!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#319", "es": "{F871}{0100}Si me das lo que quiero, lo consideraré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#321", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}Vamos, juega conmigo. ¿Por favooor?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#322", "es": "“Está bien, juguemos.”{F801}“¡Jamás!”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#323", "es": "{F871}{0100}¡Yupi! ¡Entonces iré a buscar el collar y la correa!{F801}{F802}¡Espera aquí, señor!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#324", "es": "{F871}{0100}...Entonces muere.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#326", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}¡Ohhh! ¿No te dije que esperaras?{F801}{F802}¡Toma! ¡Un collar y una correa! Sabes cómo usarlos, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#327", "es": "“Sí.”{F801}“¿De qué hablas?”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#328", "es": "{F871}{0100}¡Yupi! ¡Desde ahora eres mi esclavo!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#329", "es": "{F871}{0100}Qué tristeza... Eres un fastidio...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#331", "es": "{F871}{0100}¿Por qué? Deberías llevarte bien con todos.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#332", "es": "“Tienes razón.”{F801}“Eso no puede pasar.”{F801}Bajar el arma{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#333", "es": "{F871}{0100}Así es. ¡Seamos amigos!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#334", "es": "{F871}{0100}Tienes razón. El mundo está lleno de odio.{F801}{F802}Entonces, ¿por qué no lo cambiamos y hablamos?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#335", "es": "{F871}{0100}Eres lo que la gente llama un ingenuo, ¿no, señor? ¿De verdad puedes sobrevivir ahí afuera así?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#337", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}¿Por qué?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#338", "es": "“Por el bien de Tokio.”{F801}“Porque quiero matar demonios.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#339", "es": "{F871}{0100}¡Tienes sentido del deber!{F801}{F802}Tokio tiene mucha suerte... ¡Quiero que también te esfuerces por mí!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#340", "es": "{F871}{0100}¡Sí HAY muchos demonios desagradables, ¿verdad?!{F801}{F802}¿Quieres que me una a ti para que hagamos una masacre?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#342", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}Mmm, qué debería hacer... ¿Podrías acercarte un poquito, señor?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#343", "es": "Acercarse{F801}Esperar{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#344", "es": "{F871}{0100}¿Creíste que me atraparías? ¡Qué lástima!{F801}{F802}¡Los humanos son tan tontos!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#345", "es": "{F871}{0100}¡Odio a la gente que no se arriesga cuando importa!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#347", "es": "{F871}{0100}{F813}{0A00}{0000}{0100}{0000}Ohhh... Qué cruel... Qué soledad...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#348", "es": "“Entonces ven conmigo.”{F801}“Lo siento...”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#349", "es": "{F871}{0100}¡Está bien! ¡No me sueltes nunca!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#350", "es": "{F871}{0100}¿Eh? ¡Eres TÚ quien debe seguirme a MÍ!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#351", "es": "{F871}{0100}...¡Idiota!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#353", "es": "{F871}{0100}¡No es una trampa! ¡¿Por qué crees que es una trampa?!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#354", "es": "“Porque eres una chica.”{F801}“Porque eres un demonio.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#355", "es": "{F871}{0100}Eso es machista, señor. Eres lo peor de lo peor.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#356", "es": "{F871}{0100}Mmm, ¡eres bastante perspicaz! Pero así no se hacen amigos.{F801}{F802}Arregla tus problemas de personalidad para la próxima vez que nos veamos, ¿okey, señor?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#358", "es": "{F871}{0100}{F813}{0A00}{0000}{0000}{0000}Jejeje. Mi hermano mayor haría cualquier cosa por mí, ¿verdad?{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGirl.mbm#359", "es": "“Cualquier cosa.”{F801}“No cualquier cosa.”{F801}{F802}{FFFF}"}

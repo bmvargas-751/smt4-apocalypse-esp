@@ -10,6 +10,11 @@
 {"key": "battle/talk/TalkToneGentle.mbm#139", "es": "〉 El demonio te ignora...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#140", "es": "Decirle algo{F801}Llamar su atención{F801}Amenazar al demonio{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#150", "es": "Perdonar{F801}No perdonar{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#159", "es": "〉 El demonio se va...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#162", "es": "“Exacto.”{F801}“Eso no es cierto.”{F801}“Soy un humano de confianza.”{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#171", "es": "〉 ¿Cómo te acercarás al demonio?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneGentle.mbm#172", "es": "Amistosamente{F801}Con prepotencia{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#255", "es": "〉 {F843}{0000} baila una danza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#259", "es": "〉 {F843}{0000} canta una canción...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#263", "es": "〉 {F843}{0000} muestra un poco de Macca...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneGentle.mbm#270", "es": "〉 El demonio se va...{F801}{F802}{FFFF}"}

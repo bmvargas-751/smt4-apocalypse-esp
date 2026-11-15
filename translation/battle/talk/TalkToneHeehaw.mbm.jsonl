@@ -9,4 +9,7 @@
 {"key": "battle/talk/TalkToneHeehaw.mbm#120", "es": "Detener al demonio{F801}Ignorar al demonio{F801}Levantar el arma{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneHeehaw.mbm#128", "es": "〉 El demonio te ignora...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneHeehaw.mbm#129", "es": "Decirle algo{F801}Llamar su atención{F801}Amenazar al demonio{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#168", "es": "〉 {F843}{0000} baila una danza...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#172", "es": "〉 {F843}{0000} canta una canción...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneHeehaw.mbm#176", "es": "〉 {F843}{0000} muestra un poco de Macca...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneHeehaw.mbm#186", "es": "“Así es.”{F801}“No.”{F801}{F802}{FFFF}"}
