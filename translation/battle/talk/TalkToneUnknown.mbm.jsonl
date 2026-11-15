@@ -1,13 +1,23 @@
+{"key": "battle/talk/TalkToneUnknown.mbm#1", "es": "{F871}{0100}A^3Amñ&sH$0^a#;s+4gka{F801}oyyT7$ftb&z)2%%he^*{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneUnknown.mbm#7", "es": "{F871}{0100}bIñpo|*2{F804}{0500}{F875}{0100}{F804}{0000}!5?”=1,7{F801}¡RMoq59AtuE{F804}{0500}{F873}{0100}{F804}{0000}=xD7￥%t!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneUnknown.mbm#9", "es": "{F871}{0100}m￥8[7}G‘=l5,Z*i*Ka+a{F801}qWYSV[0￥VRTFXs9g,**|Zr’ñ{1l’/W{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneUnknown.mbm#12", "es": "{F871}{0100}¡J4y(9fJ0zTXg8_B(’9EzjxInY9ZF0! ¡xoq5*ñdya”(=jyO-}Q”PYHZ4gY$SX97!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneUnknown.mbm#16", "es": "{F871}{0100}¡j:t0Pjy{F873}{0200}’9Ézj t7DS[#tbs%]9%~v^+96!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#47", "es": "Reservado{F801}Reservado{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneUnknown.mbm#66", "es": "{F871}{0100}¡N;￥BvGmfa!/-P$-{F801}ñArQ#.4M5lJ|RtSX#H={F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneUnknown.mbm#71", "es": "{F871}{0100}¡cqQdw7￥(I”%3!{F801}¡+9hD62éC,&zfOu!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneUnknown.mbm#72", "es": "{F871}{0100}¡=~{LMfVuRÑE‘tG*W ¿dO?gV&[j[EB#zW/!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#101", "es": "〉 El demonio está en guardia...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#102", "es": "Bajar el arma{F801}Ponerse en guardia{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#103", "es": "{F871}{0100}Necio...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneUnknown.mbm#104", "es": "{F871}{0100}Eres valiente. Eso me gusta.{F801}Te escucharé.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#105", "es": "{F871}{0100}Tsk... No hay ningún hueco.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#106", "es": "{F871}{0100}Espera, tengo ganas de pelear.{F801}{F802}Perdóname por esto.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#107", "es": "{F871}{0100}Los humanos dan miedo...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#109", "es": "〉 El demonio se te acerca...{F801}¿Qué harás?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#110", "es": "Hacerse a un lado{F801}Levantar el arma{F801}No moverse{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#111", "es": "〉 ¡{F843}{0000} esquiva al demonio!{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneUnknown.mbm#112", "es": "{F871}{0100}No tenías que evitarme. Déjame escucharte.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#113", "es": "〉 El demonio te alcanza...{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#114", "es": "{F871}{0100}¡Por favor, perdóname! ¡Negociemos!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#115", "es": "{F871}{0100}Tsk, lo notaste...{F801}{F802}{FFFF}"}
@@ -63,6 +73,7 @@
 {"key": "battle/talk/TalkToneUnknown.mbm#172", "es": "{F871}{0100}Me interesan los humanos.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#173", "es": "Amistosamente{F801}Con prepotencia{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#174", "es": "{F871}{0100}Eres espeluznante...{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneUnknown.mbm#175", "es": "{F871}{0100}Eres justo como pensé. Negociemos.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#176", "es": "{F871}{0100}Ya se me quitaron las ganas.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#177", "es": "{F871}{0100}Estás lleno de dignidad, tal como imaginé... Empecemos a negociar.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#179", "es": "{F871}{0100}Buaaaaah...{F801}{F802}{FFFF}"}
@@ -116,6 +127,7 @@
 {"key": "battle/talk/TalkToneUnknown.mbm#268", "es": "{F871}{0100}¡Hmph! ¡No escucharé a los humanos!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#269", "es": "“Por favor...”{F801}“Entonces olvídalo.”{F801}“Entonces di algo.”{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#270", "es": "{F871}{0100}Si me das algo, hablaré.{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneUnknown.mbm#271", "es": "{F871}{0100}Oh, no digas eso. Te escucharé.{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#272", "es": "{F871}{0100}¡Juguemos a perseguirnos!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#274", "es": "{F871}{0100}¿Qué me vas a dar?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#275", "es": "Darle dulces{F801}Darle agua{F801}Darle licor{F801}{F802}{FFFF}"}
@@ -145,6 +157,7 @@
 {"key": "battle/talk/TalkToneUnknown.mbm#319", "es": "“Así que te diste cuenta.”{F801}“Nadie sabe la respuesta.”{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#323", "es": "{F871}{0100}¿Qué quieres de mí si nos aliamos?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#324", "es": "“Tu habilidad.”{F801}“Tu cuerpo.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneUnknown.mbm#328", "es": "{F871}{0100}Estoy en un verdadero aprieto...{F801}¿Me darías eso?{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#329", "es": "“Claro.”{F801}“Ni hablar.”{F801}“No gratis.”{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#330", "es": "{F871}{0100}¡Yupi!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#331", "es": "{F871}{0100}¡¿Qué?!{F801}{F802}{FFFF}"}
@@ -160,6 +173,7 @@
 {"key": "battle/talk/TalkToneUnknown.mbm#349", "es": "{F871}{0100}¡¿Qué?!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#351", "es": "{F871}{0100}¡¿Quién eres?!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#352", "es": "“Yo.”{F801}“No lo sé.”{F801}{F802}{FFFF}"}
+{"key": "battle/talk/TalkToneUnknown.mbm#356", "es": "{F871}{0100}¡¿Estás diciendo que eres mejor que yo?!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#357", "es": "“Así es.”{F801}“Fui demasiado duro.”{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#358", "es": "{F871}{0100}¡Soy mejor que tú!{F801}{F802}{FFFF}"}
 {"key": "battle/talk/TalkToneUnknown.mbm#359", "es": "{F871}{0100}Yo también exageré. Lo siento.{F801}{F802}{FFFF}"}
