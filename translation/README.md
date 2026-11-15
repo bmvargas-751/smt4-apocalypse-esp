@@ -14,10 +14,10 @@ La traducción es la fase 6 del [plan](../PLAN.md) y se hace por secciones, en e
 | 6.3 | Datos | Descripciones de objetos y habilidades, perfiles de demonios y base de datos de cazadores | 2.599 | 2.599 | 100,0 % |
 | 6.4 | Historia | Eventos, combates de la historia, mapas y tu cuarto | 2.409 | 2.409 | 100,0 % |
 | 6.5 | Secundarias | Misiones, centro de misiones, personajes de la ciudad y charlas con el compañero | 1.085 | 1.085 | 100,0 % |
-| 6.6 | Negociaciones | Conversaciones con demonios, por personalidad | 2.856 | 5.847 | 48,8 % |
-| 6.7 | Demonios en combate | Frases de demonios y compañeros en combate y en StreetPass | 6 | 2.367 | 0,3 % |
+| 6.6 | Negociaciones | Conversaciones con demonios, por personalidad | 3.114 | 5.847 | 53,3 % |
+| 6.7 | Demonios en combate | Frases de demonios y compañeros en combate y en StreetPass | 7 | 2.367 | 0,3 % |
 | 6.8 | Contenido descargable | Misiones descargables | 69 | 531 | 13,0 % |
-| | **Total** | | **16.469** | **22.283** | **73,9 %** |
+| | **Total** | | **16.728** | **22.283** | **75,1 %** |
 <!-- /progress -->
 
 - **Se cuentan textos**, no palabras: un mensaje puede ser un «Sí» o una escena entera, y un texto de tabla suele ser un nombre. Muchos se repiten (de los 24.182 mensajes, 11.490 son distintos; de los 6.757 textos de tablas, 3.306), y una línea repetida se traduce una sola vez.

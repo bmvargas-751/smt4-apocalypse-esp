@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Lotes de traducción: preparar y guardar.
 
-    python3 tools/batch.py prepare (--section NOMBRE | --prefix RUTA) [--size N] [--name NOMBRE]
+    python3 tools/batch.py prepare (--section NOMBRE | --prefix RUTA [--prefix RUTA...]) [--size N] [--name NOMBRE]
     python3 tools/batch.py save NOMBRE [ARCHIVO.jsonl]
     python3 tools/batch.py fill --section NOMBRE [--dry-run]
 
@@ -68,7 +68,7 @@ def prepare(section=None, prefix=None, size=250, name=None, japanese=False, repe
         rel = corpus.rel_of(k)
         if section and section_of(rel) != section:
             continue
-        if prefix and not rel.startswith(prefix):
+        if prefix and not rel.startswith(tuple(prefix)):
             continue
         en = eng[k]["en"]
         if k in done or (en in done_en and not repeats) or en in seen or excluded(k, en) or (JAPANESE.search(PORTRAIT.sub("", en)) and not japanese):
@@ -93,7 +93,7 @@ def prepare(section=None, prefix=None, size=250, name=None, japanese=False, repe
             item["glossary"] = hits
         items.append(item)
     if not name:
-        slug = re.sub(r"[^a-z0-9]+", "-", (section or prefix).lower()).strip("-")
+        slug = re.sub(r"[^a-z0-9]+", "-", (section or prefix[0]).lower()).strip("-")
         n = 1 + sum(1 for p in WORK.glob(f"{slug}-*")) if WORK.exists() else 1
         name = f"{slug}-{n:03d}"
     d = batch_dir(name)
@@ -183,7 +183,7 @@ def main():
     sub = a.add_subparsers(dest="cmd", required=True)
     p = sub.add_parser("prepare")
     p.add_argument("--section", choices=[s[1] for s in SECTIONS])
-    p.add_argument("--prefix")
+    p.add_argument("--prefix", action="append", help="se puede repetir para juntar varios archivos en un lote")
     p.add_argument("--size", type=int, default=250)
     p.add_argument("--name")
     p.add_argument("--japanese", action="store_true", help="incluir las líneas con japonés (se saltan por defecto)")
