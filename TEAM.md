@@ -24,7 +24,11 @@ Objetivo: un videojuego que se sienta escrito originalmente en español.
 
 - **Cada regla vive en un solo lugar:** la guía de estilo, el glosario, las fichas o las reglas técnicas. Los prompts de los roles traen solo el método, y a cada lote se le adjuntan las reglas que le tocan. En THL las reglas estaban copiadas en varios archivos y las copias terminaron contradiciéndose.
 - **No se inventan reglas.** Solo valen los documentos y las decisiones registradas ([DECISIONS.md](DECISIONS.md)). Un hallazgo sin regla va a [PENDING.md](PENDING.md), no al texto.
-- **Se cambia solo con motivo.** Lo que está bien se deja, y no se agregan palabras que el original no dice.
+- **Un patrón no es una regla.** Que algo se repita (una muletilla, una forma de traducir un término) no lo vuelve obligatorio. Se propone en PENDING.md y lo decide el usuario.
+- **Cada documento manda en lo suyo:** TECH.md en lo técnico (códigos, bytes, caracteres), GLOSSARY.md en los términos y nombres, las fichas en la voz y el trato de cada personaje, y STYLE.md en la lengua. Si dos chocan y no queda claro cuál manda, no se decide por intuición: va a PENDING.md.
+- **Se cambia solo con motivo.** Lo que está bien se deja, y no se agregan palabras que el original no dice. Una alternativa que también sirve no es un error.
+- **Evidencia:** cada hallazgo copia tal cual el fragmento que falla, del español actual o del inglés. Un script lo busca en el texto; si no está, el hallazgo no pasa.
+- **Cada agente lee solo lo que necesita:** STYLE.md y TECH.md enteros (son cortos); del glosario, los términos que trae cada línea del lote (`glossary`), y si falta uno, se busca ese término; de las fichas, solo las de quien habla en el lote.
 - **Quien revisa no edita.** El revisor y el corrector entregan hallazgos; solo el editor cambia el texto.
 - **Informe honesto:** cada rol dice qué leyó completo y qué no.
 - **Lo mecánico va en scripts**, que no se cansan, no inventan y no gastan cupo. Más esfuerzo no reemplaza un chequeo.
@@ -54,7 +58,7 @@ Los agentes están en [.claude/agents/](.claude/agents) y el orquestador, en [.c
 ## Controles
 
 1. **Los prompts no agregan nada propio.** Cada línea del prompt de un rol cita su fuente: una sección del encargo (§N) o una regla (E-12, T-3, G-1). Lo que no tiene fuente no entra, y el usuario aprueba cada prompt antes de usarlo.
-2. **Cada hallazgo cita su regla.** `tools/review.py findings` comprueba que la regla exista en STYLE.md, TECH.md o GLOSSARY.md. Un hallazgo «sin regla», o con una regla que no existe, no llega al texto: va a PENDING.md.
+2. **Cada hallazgo cita su regla y su evidencia.** `tools/review.py findings` comprueba que la regla exista en STYLE.md, TECH.md o GLOSSARY.md y que el fragmento esté tal cual en el texto. Un hallazgo «sin regla», o con una regla que no existe, no llega al texto: va a PENDING.md. Uno sin evidencia se rechaza. Dos hallazgos de la misma línea con el mismo arreglo quedan en uno.
 3. **El editor no cambia por su cuenta.** `tools/review.py edits` solo aplica los cambios que responden a un hallazgo aprobado de esa misma línea. Los demás se rechazan.
 4. **Lo mecánico lo revisa un script** (`tools/check.py`), que siempre aplica lo mismo.
 5. **Set de oro:** líneas con su traducción buena y sus trampas, armadas en el piloto. Un cambio de prompt que empeora el set no entra.
@@ -79,11 +83,12 @@ Todo el trabajo de un lote queda en `build/work/batches/NOMBRE/` (fuera del repo
 2. **Traducir:** el traductor escribe `translation.jsonl` (`{key, es}`). Las líneas delicadas las resuelve el agente de delicadas.
 3. **Guardar** (script): `python3 -I tools/batch.py save NOMBRE`. Pasa la traducción a `translation/` y la copia a las líneas idénticas.
 4. **Validar** (script): `python3 -I tools/check.py NOMBRE`. El traductor corrige los avisos.
-5. **Revisar y corregir**, en paralelo: `findings-reviewer.jsonl` y `findings-proofreader.jsonl`.
-6. **Controlar los hallazgos** (script): `python3 -I tools/review.py findings NOMBRE`. Los aprobados van a `approved.jsonl`; los sin regla, a PENDING.md.
-7. **Editar:** el editor escribe `edits.jsonl` con los cambios mínimos.
-8. **Controlar y aplicar los cambios** (script): `python3 -I tools/review.py edits NOMBRE`, y después validar otra vez.
-9. **Cerrar:** marcar el avance en el PLAN, `python3 -I tools/progress.py --readme` y un informe corto, sin spoilers.
+5. **Vista del lote** (script): `python3 -I tools/batch.py view NOMBRE`. Escribe `current.jsonl` (inglés, español vigente, bytes, glosario y contexto) y `current-es.jsonl` (solo el español). Es lo que leen el revisor, el corrector, el editor y delicadas: el `translation.jsonl` del traductor queda viejo cuando cambian las delicadas o los nombres oficiales. Se vuelve a correr antes de cada agente.
+6. **Revisar y corregir**, en paralelo: `findings-reviewer.jsonl` y `findings-proofreader.jsonl`.
+7. **Controlar los hallazgos** (script): `python3 -I tools/review.py findings NOMBRE`. Los aprobados van a `approved.jsonl`; los sin regla, a PENDING.md.
+8. **Editar:** el editor escribe `edits.jsonl` con los cambios mínimos.
+9. **Controlar y aplicar los cambios** (script): `python3 -I tools/review.py edits NOMBRE`, y después validar otra vez.
+10. **Cerrar:** marcar el avance en el PLAN, `python3 -I tools/progress.py --readme` y un informe corto, sin spoilers.
 
 ## Un hallazgo
 
@@ -98,6 +103,8 @@ Una línea JSON por hallazgo:
 - `pasada`: una de las siete.
 - `gravedad`: crítica, mayor o menor.
 - `regla`: el número de la regla (E-, T- o G-), o `sin regla`.
+- `fragmento`: copiado tal cual del español actual (o del inglés, si falta algo que el inglés dice). Es la evidencia: el script lo busca.
+- `motivo`: cómo se aplica la regla a este fragmento, en una frase.
 
 ## Un cambio del editor
 

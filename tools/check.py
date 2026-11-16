@@ -202,6 +202,11 @@ def main():
         sys.path.insert(0, str(Path(__file__).resolve().parent))
         from batch import batch_dir, load_batch
         keys = [it["key"] for it in load_batch(args.batch)["items"]]
+        source = corpus.english()
+        gone = [k for k in keys if k not in source]
+        if gone:
+            print(f"{len(gone)} claves del lote ya no están en el original (cambió la exportación): {', '.join(gone)}")
+            keys = [k for k in keys if k in source]
     else:
         sys.exit(__doc__)
     warnings = run(keys, done)

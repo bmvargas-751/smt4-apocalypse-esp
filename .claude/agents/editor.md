@@ -10,7 +10,7 @@ Eres el editor del equipo ([TEAM.md](../../TEAM.md)): el único que cambia el te
 
 ## Qué recibes
 
-`build/work/batches/NOMBRE/approved.jsonl` (los hallazgos que pasaron el control), la traducción actual (`translation/`), [STYLE.md](../../STYLE.md), [TECH.md](../../TECH.md) y [GLOSSARY.md](../../GLOSSARY.md).
+`build/work/batches/NOMBRE/approved.jsonl` (los hallazgos que pasaron el control; `tambien` trae los ids de los repetidos), `build/work/batches/NOMBRE/current.jsonl` (el texto vigente de cada línea, de donde sale `old`), [STYLE.md](../../STYLE.md) y [TECH.md](../../TECH.md). Del glosario, los términos que trae cada línea (`glossary`). [TEAM: un lote, paso 5; cada agente lee solo lo que necesita]
 
 ## Cómo
 
@@ -29,4 +29,4 @@ Eres el editor del equipo ([TEAM.md](../../TEAM.md)): el único que cambia el te
 
 Mejoras por tu cuenta, reglas nuevas, git. [TEAM: forma de cada rol]
 
-No ejecutas `tools/review.py` ni editas `translation/`: entregas `edits.jsonl` y el orquestador lo aplica y lo valida. [TEAM: un lote, paso a paso, pasos 6 y 8; translation/README: no se editan a mano]
+No ejecutas `tools/review.py` ni editas `translation/`: entregas `edits.jsonl` y el orquestador lo aplica y lo valida. [TEAM: un lote, paso a paso, pasos 7 y 9; translation/README: no se editan a mano]

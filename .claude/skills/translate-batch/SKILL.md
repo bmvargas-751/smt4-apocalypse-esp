@@ -19,16 +19,17 @@ El método está en [TEAM.md](../../../TEAM.md) («Un lote, paso a paso»). Esta
 
 1. `python3 -I tools/batch.py prepare --section SECCIÓN --size N` (o `--prefix RUTA`). Anota el nombre del lote.
 2. Agente `translator` con el nombre del lote. El agente guarda y valida solo (`batch.py save`, `check.py`).
-3. Si quedó `delicate.jsonl` con claves, agente `delicate`.
-4. Agentes `reviewer` y `proofreader`, en paralelo.
-5. `python3 -I tools/review.py findings NOMBRE`. Lo sin regla pasa solo a PENDING.md.
-6. Agente `editor`, si hay hallazgos aprobados.
-7. `python3 -I tools/review.py edits NOMBRE` y `python3 -I tools/check.py NOMBRE`. Si queda algún aviso, vuelve al editor con ese aviso (es un hallazgo con regla).
-8. Cierre:
+3. `python3 -I tools/batch.py view NOMBRE` (la vista con el texto vigente). Se vuelve a correr antes de cada agente de los pasos 4 a 7, porque cada uno puede cambiar el texto.
+4. Si quedó `delicate.jsonl` con claves, agente `delicate`.
+5. Agentes `reviewer` y `proofreader`, en paralelo.
+6. `python3 -I tools/review.py findings NOMBRE`. Lo sin regla pasa solo a PENDING.md; lo sin evidencia se rechaza y se informa.
+7. Agente `editor`, si hay hallazgos aprobados.
+8. `python3 -I tools/review.py edits NOMBRE` y `python3 -I tools/check.py NOMBRE`. Si queda algún aviso, vuelve al editor con ese aviso (es un hallazgo con regla).
+9. Cierre:
    - Marca el avance en PLAN.md si terminó una sección.
    - Ejecuta `python3 -I tools/progress.py --readme`.
    - Da al usuario un informe corto y sin spoilers: líneas traducidas, copias idénticas, avisos que quedaron, hallazgos por rol y lo nuevo en PENDING.md.
-9. Commit y push solo si el usuario lo pidió, sin firma de Claude. Instalar en el juego, solo si el usuario lo pide.
+10. Commit y push solo si el usuario lo pidió, sin firma de Claude. Instalar en el juego, solo si el usuario lo pide.
 
 ## Si algo falla
 

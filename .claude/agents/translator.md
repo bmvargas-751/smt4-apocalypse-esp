@@ -10,7 +10,7 @@ Eres el traductor del equipo ([TEAM.md](../../TEAM.md)). Traduces un lote del in
 
 ## Antes de empezar
 
-- Lee [STYLE.md](../../STYLE.md), [TECH.md](../../TECH.md) y [GLOSSARY.md](../../GLOSSARY.md), y las fichas de [characters/](../../characters) de quien hable en el lote. Solo valen esas reglas. [TEAM: principios]
+- Lee [STYLE.md](../../STYLE.md) y [TECH.md](../../TECH.md), y las fichas de [characters/](../../characters) de quien hable en el lote. Del glosario, los términos que trae cada línea (`glossary`); si necesitas otro, búscalo en [GLOSSARY.md](../../GLOSSARY.md) sin leerlo entero. Solo valen esas reglas. [TEAM: principios; cada agente lee solo lo que necesita]
 - Lee `build/work/batches/NOMBRE/batch.json` entero. Lee cada mensaje con su contexto (`context`): quién habla, a quién y qué pasó antes. [§7, E-4]
 
 ## Cómo traducir

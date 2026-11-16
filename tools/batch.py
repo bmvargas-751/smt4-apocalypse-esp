@@ -3,6 +3,7 @@
 
     python3 tools/batch.py prepare (--section NOMBRE | --prefix RUTA [--prefix RUTA...]) [--size N] [--name NOMBRE]
     python3 tools/batch.py save NOMBRE [ARCHIVO.jsonl]
+    python3 tools/batch.py view NOMBRE
     python3 tools/batch.py fill --section NOMBRE [--dry-run]
 
 prepare  elige las siguientes N líneas sin traducir (en el orden del juego) y
@@ -16,6 +17,12 @@ prepare  elige las siguientes N líneas sin traducir (en el orden del juego) y
 save     guarda en translation/ lo que escribió el traductor
          (build/work/batches/NOMBRE/translation.jsonl, {key, es}) y lo copia a
          las líneas idénticas que todavía no tienen traducción.
+view     escribe lo que leen el revisor, el corrector, el editor y delicadas, con
+         la traducción vigente de translation/ (no la del traductor, que queda
+         vieja cuando cambian las delicadas o los nombres oficiales):
+         current.jsonl (key, en, es, max, glossary, context) y
+         current-es.jsonl (key, es), en el orden del lote. Las claves que ya
+         no están en el original se nombran y se saltan.
 fill     completa, sin agentes, los textos de tabla que son exactamente un
          término del glosario (G-1, G-3), si caben en sus bytes (T-4) y en el ancho de su
          columna (T-3). Lo que
@@ -142,6 +149,33 @@ def save(name, path=None):
     print(f"Guardadas {len(changes) - copies} líneas y {copies} copias idénticas en translation/")
 
 
+def view(name):
+    batch = load_batch(name)
+    eng = corpus.english()
+    done = corpus.translations()
+    d = batch_dir(name)
+    gone = [it["key"] for it in batch["items"] if it["key"] not in eng]
+    rows = []
+    for it in batch["items"]:
+        if it["key"] in gone:
+            continue
+        row = {"key": it["key"], "en": it["en"], "es": done.get(it["key"]), "max": it.get("max")}
+        if it.get("glossary"):
+            row["glossary"] = it["glossary"]
+        if it.get("context"):
+            row["context"] = [dict(c, es=done.get(c["key"])) for c in it["context"]]
+        rows.append(row)
+    with open(d / "current.jsonl", "w", encoding="utf-8") as w:
+        for r in rows:
+            w.write(json.dumps(r, ensure_ascii=False) + "\n")
+    with open(d / "current-es.jsonl", "w", encoding="utf-8") as w:
+        for r in rows:
+            w.write(json.dumps({"key": r["key"], "es": r["es"]}, ensure_ascii=False) + "\n")
+    if gone:
+        print(f"{len(gone)} claves del lote ya no están en el original: {', '.join(gone)}")
+    print(f"Lote {name}: {len(rows)} líneas en {d / 'current.jsonl'} y {d / 'current-es.jsonl'}")
+
+
 def fill(section, dry_run=False):
     eng = corpus.english()
     done = corpus.translations()
@@ -197,6 +231,8 @@ def main():
     s = sub.add_parser("save")
     s.add_argument("name")
     s.add_argument("path", nargs="?")
+    v = sub.add_parser("view")
+    v.add_argument("name")
     args = a.parse_args()
     if args.cmd == "prepare":
         if not (args.section or args.prefix):
@@ -204,6 +240,8 @@ def main():
         prepare(args.section, args.prefix, args.size, args.name, args.japanese, args.repeats)
     elif args.cmd == "fill":
         fill(args.section, args.dry_run)
+    elif args.cmd == "view":
+        view(args.name)
     else:
         save(args.name, args.path)
 
