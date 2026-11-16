@@ -65,3 +65,4 @@ Las decisiones del usuario, con fecha. Una regla nueva de [STYLE.md](STYLE.md), 
 - **2026-11-16** Revisión de PENDING, bloque 10 (Negociaciones 005-008), aprobado: soluciones de delicadas sin cambios; Gentle #219 «Tenía polvo en el ojo»; Oldwoman «mis pechos» en femenino, como el inglés (igual que Lady); opciones del jugador entre comillas con el punto dentro y citas con el punto fuera (STYLE E-58).
 - **2026-11-16** Revisión de PENDING, bloque 11 (Negociaciones 009-011), aprobado: soluciones de delicadas sin cambios.
 - **2026-11-16** Revisión de PENDING, bloque 12 (Negociaciones 012-014), aprobado: soluciones de delicadas sin cambios (Info «¡Bonjour!» por el *Hola!* del inglés).
+- **2026-11-16** Revisión de PENDING, bloque 13 (Negociaciones 015-017), aprobado: soluciones de delicadas sin cambios.
