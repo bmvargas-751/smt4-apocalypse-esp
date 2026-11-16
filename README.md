@@ -2,14 +2,14 @@
 
 Traducción fan al español neutro de *Shin Megami Tensei IV: Apocalypse* (Nintendo 3DS), hecha desde el inglés oficial.
 
-**Estado:** traducción completa (todos los diálogos, misiones, negociaciones, descripciones y menús de los archivos de texto del juego, y el contenido descargable). Quedan en inglés los textos del ejecutable (unos mil textos cortos de interfaz) y los de las texturas.
+**Estado:** traducción completa (todos los diálogos, misiones, negociaciones, descripciones y menús de los archivos de texto del juego, el contenido descargable y los textos cortos de interfaz del ejecutable). Quedan en inglés los textos de las texturas.
 
 > Es un proyecto de fans, sin relación con Atlus ni con Nintendo. **No incluye el juego ni sus archivos:** el instalador arma la traducción a partir de tu propia copia.
 
 ## Avance
 
 <!-- progress: lo actualiza `python3 -I tools/progress.py --readme` en cada commit que toca translation/ -->
-**Etapa actual:** Fase 6. Traducción: 6.9 Ejecutable: los textos cortos de interfaz de `exefs/code.bin` (`tools/codebin.py`)
+**Etapa actual:** Fase 7. Prueba en el juego: Jugar con la traducción completa y anotar cortes, cajas que se pasan, glifos que faltan y texto que quedó en inglés.
 
 | Fase | Sección | Traducidos | Total | % |
 |---|---|---:|---:|---:|

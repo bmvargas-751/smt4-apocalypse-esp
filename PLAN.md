@@ -74,7 +74,7 @@ Datos e interfaz primero; después la historia en orden, las secundarias y las n
 - [x] 6.6 Negociaciones
 - [x] 6.7 Demonios en combate
 - [x] 6.8 Contenido descargable
-- [ ] 6.9 Ejecutable: los textos cortos de interfaz de `exefs/code.bin` (`tools/codebin.py`)
+- [x] 6.9 Ejecutable: los textos cortos de interfaz de `exefs/code.bin` (`tools/codebin.py`) (2026-11-16)
 
 ### Fase 7. Prueba en el juego
 

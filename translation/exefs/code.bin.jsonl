@@ -682,14 +682,14 @@
 {"key": "exefs/code.bin#0x45F815", "es": "Rayo extraño"}
 {"key": "exefs/code.bin#0x45F82C", "es": "Manejo experto de lanza"}
 {"key": "exefs/code.bin#0x45F84D", "es": "Buenas noches, bebé"}
-{"key": "exefs/code.bin#0x45F86E", "es": "Arrullo"}
+{"key": "exefs/code.bin#0x45F86E", "es": "Canc. de cuna"}
 {"key": "exefs/code.bin#0x45F87D", "es": "Caramelo brillante"}
 {"key": "exefs/code.bin#0x45F896", "es": "Melodía malvada"}
 {"key": "exefs/code.bin#0x45F8AD", "es": "Rapsodia embrujada"}
 {"key": "exefs/code.bin#0x45F8D0", "es": "Ideales de Maruología"}
 {"key": "exefs/code.bin#0x45F8F7", "es": "Fuego del letargo"}
 {"key": "exefs/code.bin#0x45F918", "es": "Llamar aliado"}
-{"key": "exefs/code.bin#0x45F92B", "es": "Moverse lento"}
+{"key": "exefs/code.bin#0x45F92B", "es": "Movimiento lento"}
 {"key": "exefs/code.bin#0x45F94D", "es": "Mala compañía"}
 {"key": "exefs/code.bin#0x45F964", "es": "Armonía divina"}
 {"key": "exefs/code.bin#0x45F981", "es": "Grito bélico"}
@@ -775,7 +775,7 @@
 {"key": "exefs/code.bin#0x46F0C3", "es": "Ikebukuro infernal"}
 {"key": "exefs/code.bin#0x46F0FF", "es": "Toyosu"}
 {"key": "exefs/code.bin#0x46F13B", "es": "Tennozu"}
-{"key": "exefs/code.bin#0x46F177", "es": "Purgatorio"}
+{"key": "exefs/code.bin#0x46F177", "es": "Purgatorium"}
 {"key": "exefs/code.bin#0x46F1B3", "es": "Palacio de Lucifer"}
 {"key": "exefs/code.bin#0x46F1EF", "es": "Kinshicho"}
 {"key": "exefs/code.bin#0x46F22B", "es": "Minami Sunamachi"}
@@ -856,7 +856,7 @@
 {"key": "exefs/code.bin#0x4838C8", "es": "Sala de entrenamiento 1"}
 {"key": "exefs/code.bin#0x483924", "es": "Sala de entrenamiento 2"}
 {"key": "exefs/code.bin#0x483980", "es": "Pasaje oculto"}
-{"key": "exefs/code.bin#0x4839DC", "es": "Pasaje de Lapislázuli"}
+{"key": "exefs/code.bin#0x4839DC", "es": "Pasaje de lapislázuli"}
 {"key": "exefs/code.bin#0x483A38", "es": "Pasaje de ámbar"}
 {"key": "exefs/code.bin#0x483A94", "es": "Pasaje de jade"}
 {"key": "exefs/code.bin#0x483AF0", "es": "Pasaje central"}
