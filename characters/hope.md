@@ -2,8 +2,8 @@
 
 Personaje del contenido descargable (addon/testdata/content24), en un combate. Si la etiqueta *Hope* es un nombre propio o se traduce lo decide el glosario.
 
-- **Género:** pendiente. Sus dos líneas no lo marcan (*a celestial being such as myself*, addon/testdata/content24/evt/btl/BtlEvent635.mbm#1) y no hay narración sobre este personaje. No se deduce por el nombre.
-- **Trato (propuesta, falta la aprobación del usuario; E-30):**
+- **Género:** sin marcar (DECISIONS 2026-11-15): redactar sin género. Sus dos líneas no lo marcan (*a celestial being such as myself*, addon/testdata/content24/evt/btl/BtlEvent635.mbm#1) y no hay narración sobre este personaje. No se deduce por el nombre.
+- **Trato (aprobado 2026-11-15; E-30):**
   - **Tú** con Nanashi: *You said your name is {nombre}, yes?*, *If you want to stop this, you need to find Abbot Hugo.* (BtlEvent635#1).
   - **Ustedes** cuando habla a los humanos como bando: *Our differences with you Unclean Ones are irreconcilable.* (BtlEvent635#0) (E-11). *unawakened rabble like you* (#1) puede ir a Nanashi o al grupo: a criterio de la escena.
 - **Registro:** fanático y altivo, de converso orgulloso; habla en *we* por los transformados (*We've become something more, something better--a new breed of humanity rebuilt by God. We are celestial beings*, #0). Formal pero con contracciones (*We've*, *won't*). Al perder, incrédulo y luego burlón: *Ugh... How could a celestial being such as myself lose...*, *Heh...* (#1).

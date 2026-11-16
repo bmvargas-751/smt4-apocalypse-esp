@@ -59,12 +59,18 @@ CODE = re.compile(r"\{[0-9A-F]{4}\}")
 JAPANESE = re.compile("[぀-ヿ一-鿿]")
 PORTRAIT = re.compile(r"\{F87A\}(?:\{[0-9A-F]{4}\}|.)")
 TALK_FILLER = re.compile(r"(?:Not Used|Dummy Message|Blank Line|Reserved|Font Test|ダミーメッセージ|リザーブ)\W*$")
+# Demonios en combate y Contenido descargable (DECISIONS 2026-11-15): «Dummy», las etiquetas «(provisional)»
+# de LegionMsg, «Download Quest 1 again» y variantes, «TEST» y «Godslayers need exp! / Dummy text».
+COMBAT_DLC = ("battle/DevilMsg/", "camp/CecDevilMsg/", "battle/PartnerAttack", "battle/Legion/", "addon/")
+COMBAT_DLC_FILLER = re.compile(r"(?i:Dummy(?: text)?|TEST|\(provisional\) \w+|Download Quest 1(?: again|, 2nd time))\W*$|^Godslayers need exp!.*Dummy text\W*$")
 
 
 def excluded(key, en):
     """Fuera de la cuenta: relleno y mensajes sin texto, solo códigos (DECISIONS 2026-11-09)."""
     text = CODE.sub("", en).strip()
     if key.startswith("battle/talk/") and TALK_FILLER.match(text):
+        return True
+    if key.startswith(COMBAT_DLC) and COMBAT_DLC_FILLER.match(text):
         return True
     if JAPANESE.search(PORTRAIT.sub("", en)):  # restos sin localizar (T-6, DECISIONS 2026-11-10)
         return True

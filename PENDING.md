@@ -31,6 +31,11 @@ Candidatos de SMT V que en IVA tienen otro sentido (G-2). No salen en la Interfa
 - [ ] `Attack` del tutorial (terminólogo): «Choose ”Attack” from the list of commands.» (BtlEvent001#4, BtlEventSub150#4) → «Atacar». Si el menú de combate es una textura y queda en inglés, el tutorial tiene que citar «Attack». Se ve en el juego.
 - [ ] **Professor/Dr. Matsuda** (perfilador, §6): Asahi le dice *Professor Matsuda* (e049#4) y los demás *Dr. Matsuda*. Se traduce como dice cada línea.
 
+### Demonios en combate y Contenido descargable (2026-11-15)
+
+- [ ] `addon/testdata/content24/tbl/SkillName.tbb#0.5.2` (terminólogo, sentido dudoso): *Forfeit* → «Confiscación» (provisional). Puede ser quitarle algo al rival o renunciar a algo; el contenido descargable no trae la descripción. Alternativa: «Renuncia». Se ve en el juego.
+- [ ] `addon/testdata/content23/evt/e241.mbm#155` (perfilador, cita de *Fausto*): «”Stay, thou art so beautiful.”» → solución provisional de delicadas. Es el verso que da por cumplido el contrato de Mephisto.
+
 ## De los lotes
 
 - [ ] `battle/ResultMsg.mbm#17` (delicadas, registro de época): «Ye gods, are you broke!? I’ll come again when you have more money.» → «¡Por los dioses! ¡¿Estás en la ruina?! Volveré cuando tengas más dinero.» Provisional hasta decidir E-31. *¡Por los dioses!* es una exclamación hecha en español con el mismo sabor antiguo que *Ye gods*, y conserva los dioses en plural, que van con Caronte. Como no lleva verbo, sirve para cualquier registro de época que se decida, sin *vosotros*. No es grosería, igual que en el inglés (ficha), y no usa *¡Demonios!* ni *¡Diablos!*, que siguen pendientes. Alternativas: «¡Dioses!», más corta; «¡Válganme los dioses!», si E-31 pide un tono más marcado.

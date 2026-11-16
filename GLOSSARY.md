@@ -1182,3 +1182,222 @@ Aprobados en bloque el 2026-11-10, con las propuestas del terminólogo (detalle 
 - ***Master* + nombre:** «amo» con hombres («el amo X») y «señora» con mujeres («la señora X», «las señoras X e Y»), como *Lady X*. El aviso de *Master* → «amo» en las líneas de las señoras es esperado.
 - ***Power*, *Man*, *Attack*, *Counter*:** palabras comunes en esta sección; no se fijan (*Counter it* → «contraatacar»).
 - ***Liberator*, *Leader*:** no salen en Negociaciones; se confirman con battle/PartnerAttack.mbm y PartnerTopic.
+
+### Demonios en combate
+
+Filas de la sección Demonios en combate (battle/DevilMsg/, camp/CecDevilMsg/, battle/PartnerAttack.mbm, battle/Legion/). En en.jsonl son 4380 mensajes: 1998 en japonés (fuera de la cuenta, T-6), 15 sin texto y 2367 en inglés, de los que 334 son *Dummy* y 60 son etiquetas *(provisional)* de LegionMsg (ver pending.md). Salen de `system-terms-combate.tsv` (126 términos), de `glossary-candidates.tsv` y de los términos que la sección repite en minúscula. No repiten las filas que GLOSSARY.md ya tiene. Las cifras son líneas en inglés de la sección.
+
+`tools/check.py` busca el término inglés con las mayúsculas exactas: *Skills* no cubre *skill*. Por eso van aquí formas en minúscula de filas que ya existen.
+
+#### Formas en minúscula de filas oficiales
+
+| Inglés | Español | Fuente | Nota |
+|---|---|---|---|
+| skill | habilidad | SMT V (como *Skills* ⇒ *Habilidades*; ejemplo: *Sort skills* ⇒ *Ordenar habilidades*) | El término más repetido de la sección (203 líneas): *A new skill!* (battle/DevilMsg/dMsg_Shiki01.mbm#0), *Let the skill mutate* (la línea #18 de cada archivo de DevilMsg, 113 líneas). En las demás secciones, 62 de 64 textos ya lo dicen así. Avisará en item/GauntletAppHelpMessage.tbb#0.39.2 y #0.41.2 (*when the Scout skill succeeds* → «si Reclutar tiene éxito»; GLOSSARY pide «la habilidad Reclutar»). |
+| skills | habilidades | SMT V (*Skills* ⇒ *Habilidades*) | 23 líneas: *Too many skills, huh? Let’s throw away one.* (battle/DevilMsg/dMsg_Boy.mbm#3). Avisará en 2 textos ya traducidos: battle/talk/TalkToneBoss15.mbm#25 (*”conversational skills”* → «dotes de conversación», otro sentido) y camp/partnerHelpMsg.mbm#5 (*Attacks using Magic skills* → «ataques de Magia»). |
+
+#### Aplicación de lo decidido
+
+Términos de la sección que salen de una decisión del glosario. No hay elección nueva.
+
+| Inglés | Español | Fuente | Nota |
+|---|---|---|---|
+| Leader | Líder | Decidido en Tablas (*Leader* → «Líder», formas de llamar al jugador) | Un acompañante le dice así al jugador: *Let’s do it, Leader!* (battle/PartnerAttack.mbm#147), #155, #156; también en el contenido descargable (addon/testdata/content23/evt/e241.mbm#100). GLOSSARY lo dejaba para confirmar «con las Negociaciones», donde no sale; aquí se confirma. En las demás secciones, 27 textos ya dicen «Líder» o «líder» (*our Leader* → «nuestro Líder», battle/event/BtlEvent039/BtlEvent039.mbm#0). |
+| Unclean | Impuros | Decidido en Tablas (*Unclean Ones* → «los Impuros») | *I must spread the Lord’s word to as many Unclean as possible.* (camp/CecDevilMsg/dMsg_Boss42.mbm#1). Avisará en event/e015/e015.mbm#10 (*all Unclean Filth* → «toda la inmundicia», sin *Impuros*). |
+
+Decisiones que se aplican sin fila:
+
+- *the Lord* (battle/DevilMsg/dMsg_Boss30.mbm, dMsg_Boss42.mbm, camp/CecDevilMsg/dMsg_Boss42.mbm y 4 líneas de LegionMsg: *O Lord*, *Praise the Lord*) → «el Señor», como en Negociaciones. Boss42 lo grita en mayúsculas (*THE WILL OF THE LORD*, *MY LORD, GUIDE ME*).
+- *Master* (battle/PartnerAttack.mbm#242-256, #289, #290: un acompañante al jugador) → «amo», como la fila.
+- *Hunter(s)* → «cazador(es)» en minúscula a media frase; *Samurai* → «samurái»; *Numerous Samurai* (camp/CecDevilMsg/dMsg_Shiki08.mbm#1, dMsg_Shiki09.mbm#1) → «numerosos samuráis».
+- *Fiend* (*A Fiend’s whispers spin death*, battle/DevilMsg/dMsg_MajinShadow.mbm#15, dMsg_Shiki10.mbm#15) → «Oscuro»; *Filth* → «Inmundicia»; *Mother of All* (camp/CecDevilMsg/dMsg_Boss38.mbm#1, #2) → «Madre de Todos»; *Firmament* (dMsg_Boss16.mbm#6) → «Firmamento» (Tablas); *Valhalla* → «el Valhalla».
+- *Mister* (dMsg_Girl, dMsg_Shiki01) → «señor»; *Mr. Glover* (camp/CecDevilMsg/dMsg_Gentle.mbm#8) → «el señor Glover».
+- *Godslayer* (battle/PartnerAttack.mbm#291) → «Matadioses»; *StreetPass* se deja; *Mido* se deja (la línea de accidente de fusión, #21 de cada archivo de DevilMsg, lleva su etiqueta).
+- Nombres que se dejan: Nanashi, Navarre (*It’s Navarre time!*, PartnerAttack#55), Burroughs, Danu, Flynn, Chiro (PartnerAttack#113; un demonio que ya sale así en event/e504 y PartnerTopicTable).
+- *mutate* (*Let the skill mutate*) → «mutar», como la app decidida en Tablas: *Skill Augment* (*Makes skills mutate*) → «Mutador de habilidades». El menú completo está en pending.md.
+
+#### Revisados sin fila
+
+De los 126 términos de `system-terms-combate.tsv`:
+
+- **20** ya tienen fila en GLOSSARY.md: Mido, Skills, Hunter, Samurai, Master, Nanashi, Strength, Mister, Yes, Save, Fire, StreetPass, Tokyo, Talk, Support, Fuse, Filth, Godslayer, Valhalla, Mother of All.
+- **7** ya están cubiertos por una decisión sin fila: *Lord*, *LORD*, *Hunters*, *Mr*, *Burroughs*, *It’s Navarre*, *Numerous Samurai*.
+- **3** van a pending.md: *Encounter*, *Discussion*, *Quarrel* (las etiquetas *(provisional)* de LegionMsg).
+- **96** se descartan:
+  - **3** son relleno o japonés (T-6): *DUMMY* (334 líneas *Dummy*) y *OK*, *NG*, que solo salen en las etiquetas japonesas «(仮)スキル変化OK/NGメッセージ».
+  - **61** son el habla en mayúsculas de los tonos Beast y Unarigoe y del jefe Boss42 (*ME*, *YOU*, *ME EAT*, *YOU LOOK TASTY*, *ME ACCEPT*, *CURSE YOU*, *FOLLOW YOUR DECISION*, *AWOOOOOO*, *GRRR*, *GIFT*...).
+  - **22** son palabras comunes que el script trajo como etiquetas de SMT V o como mayúscula (*NEW*, *Other*, *Result*, *self*, *Close*, *Open*, *Next*, *Unused*, *End*, *Place*, *Always*, *Start*, *Special*, *Essence*, *Off*, *Pass*, *LIGHT*, *OLD*, *’Tis*) y nombres geográficos comunes (*Kanto*, *Shikoku*, *Jupiter*; también *Hokkaido* y *Koushin’etsu*, fuera de la lista).
+  - **10** son fragmentos de los textos revueltos de dMsg_Unknown.mbm (*Gl*, *Gz*, *IA*, *IBchads*, *JyrLychs*, *NTuTTt*, *OyAhma*, *WLl*, *Ykbg*, *DV*).
+
+De los candidatos de `glossary-candidates.tsv`, los que salen en la sección con su mayúscula ya tienen fila (Demon, Fiend, Danu, Hunter, Samurai...). *Concentrate* (*Concentrate your fire!*, PartnerAttack#90, #96) ya está en PENDING como palabra común.
+
+#### Decididos por el usuario: Demonios en combate
+
+Aprobados en bloque el 2026-11-15, con las propuestas del terminólogo (detalle en DECISIONS).
+
+| Inglés | Español | Fuente | Nota |
+|---|---|---|---|
+| Super Navarre | Súper Navarre | Decidido por el usuario (2026-11-15) | Apodo (battle/DevilMsg/dMsg_Partner02.mbm#22). |
+| souvenir | recuerdo | Decidido por el usuario (2026-11-15) | Lo que trae el demonio de StreetPass (33 líneas), como battle/talk/TalkSystem.mbm#75. |
+
+- **Menús de DevilMsg** (#18-20 de cada archivo), en infinitivo: «Dejar que la habilidad mute / No dejar que cambie»; «Dejar que el demonio se transforme / No hacerlo» (y «/ No» donde el inglés dice solo *Don’t*); «“Con esto me basta.” / “Déjame pensarlo...”».
+- **StreetPass** (camp/CecDevilMsg/), sin fila pero siempre igual: *other*, *different* y *another world* → «otro mundo»; *other worlds* → «otros mundos»; *cyber world*, *cyber sea* → «mundo cibernético», «mar cibernético»; *other self* → «tu otro yo»; *gift* → «regalo» (salvo las voces que ya dicen «obsequio»); el verbo *I gift you (with) this* → «te obsequio».
+- **Relleno de LegionMsg** (*(provisional) Encounter / Discussion / Quarrel / Damage*, 60 líneas): fuera de la cuenta (T-6).
+
+### Contenido descargable
+
+Filas de la sección Contenido descargable (addon/testdata/). En en.jsonl son 225 mensajes: 11 en japonés (T-6) y 214 en inglés; en tbb.jsonl, 317 textos de tabla (objetos, demonios, habilidades, misiones y la base de datos de cazadores). Salen de `system-terms-dlc.tsv` (89 términos), de `glossary-candidates.tsv` y de los nombres de las tablas. Muchos textos repiten los del juego base (battle/event/BtlEvent611, BtlEvent660, BtlEvent661, event/quest/quest358, event/NpcData.tbb): se cita lo ya traducido para que coincida (G-3).
+
+#### Formas en minúscula de filas oficiales
+
+| Inglés | Español | Fuente | Nota |
+|---|---|---|---|
+| stats | estadísticas | SMT V (como *Stats* ⇒ *Estadísticas*; ejemplo: *All stats up!* ⇒ *¡Todas las estadísticas potenciadas!*) | *You and your demons’ stats greatly increase!* (addon/testdata/content24/evt/btl/BtlEvent651.mbm#4), *items to raise your stats* (content27/tbl/quest355.mbm#0, SubQuestData.tbb#0.0.116). En las demás secciones, 31 de 32 textos ya lo dicen así; avisará en battle/SkillHelpMess.mbm#236 (*Trigger: Smirk, stats up* → «sonrisa maliciosa y efectos positivos»). |
+
+#### Aplicación de lo decidido
+
+| Inglés | Español | Fuente | Nota |
+|---|---|---|---|
+| Eastern Kingdom of Mikado | Reino Oriental de Mikado | Decidido en Tablas (lugares) | content24/evt/btl/BtlEvent635.mbm#1, BtlEvent640.mbm#0, BtlEvent650.mbm#1 (partido por un salto de línea) y content24/evt/e221.mbm#22. En las demás secciones, 9 textos ya lo dicen así. |
+| Unclean Ones | Impuros | Decidido en Tablas (facciones: *Unclean Ones* → «los Impuros») | BtlEvent635.mbm#0, BtlEvent650.mbm#0, BtlEvent651.mbm#1; en singular, *a mere Unclean One* (content24/evt/e221.mbm#15) → «un simple Impuro». En las demás secciones, 7 textos ya lo dicen así. |
+| Diamond Realm | Reino de Diamante | Decidido en Tablas (*Diamond* ⇒ *Diamante*) | content29/tbl/HunterDataTable.tbb#0.0.16 y el título de misión *Messiahs in the Diamond Realm* (SubQuestData.tbb#0.0.8). Ya traducido así: map/all/MapSystemTable.tbb#2.39.0. |
+| Twisted Tokyo | Tokio retorcido | Decidido en Tablas | *a new level in Twisted Tokyo* (content26/tbl/quest374.mbm#0) y el título *Depths of Twisted Tokyo* (SubQuestData.tbb#0.0.8). Ya traducido así: camp/PlayLogTable.tbb#0.45.2. |
+| Monastery | Monasterio | Decidido en Tablas (lugares) | content24/tbl/quest358.mbm#2, BtlEvent635.mbm#1, BtlEvent652.mbm#13, e221.mbm#0. En las demás secciones, 7 textos ya lo dicen así. |
+| AP | PA | Decidido en la Interfaz (*App Points*, sigla *AP* → «PA») | *gain AP* (content12/tbl/quest354.mbm#0, 2 veces) y *items that raise AP* (SubQuestData.tbb#0.0.116). Avisará en item/ItemTable.tbb#2.756.0 (*AP Rounds* → «Balas AP»: balas perforantes, otro sentido); el aviso es esperado. |
+| Hunter Association Intelligence | Inteligencia de Cazadores | Decidido en Tablas (divisiones de los Cazadores) | content19/tbl/HunterDataTable.tbb#0.0.54, ya traducido así. |
+| Demon Horde | Horda de demonios | Decidido en Tablas (patrón de hordas) | content26/tbl/NKMSortIndex.tbb#1.6.2, ya traducido así. |
+| Sharp-eyed Samurai | Samurái de mirada aguda | Patrón de Tablas (*Sharp-eyed monk* → «Monje de mirada aguda») | Etiqueta de quien habla (content24/evt/e220.mbm#33, #35); en la narración, *A sharp-eyed Samurai* (#32, #34) → «un samurái de mirada aguda». |
+| Samurai lookout | Vigía samurái | Patrón de Historia (*Samurai guard* → «Guardia samurái») | Etiqueta de quien habla (content24/evt/e220.mbm#2, #4, #5). |
+
+Decisiones que se aplican sin fila:
+
+- Nombres que se dejan (Tablas, Historia): Hugo, Nozomi, Toki, Gaston, Asahi, Hallelujah, Navarre, Flynn, Stephen, Mikado, Hope (la etiqueta de BtlEvent635), Aleph (ver pending.md), Asterius, Kangiten, *En no Ozuno*, Aeros, Aquans, Erthys, Flaemis, Atlus.
+- Ya traducidos en el juego base, iguales aquí: *St. Germain* → «Saint Germain»; *Mephistopheles* → «Mefistófeles»; *Hunter Association* → «Asoc. Cazadores» (campo del cliente, como las 16 misiones de event/quest/QuestData.tbb); *Python* → «Pitón»; *Reaper* → «Segador»; *Replicant* → «Replicante»; *Superhuman* → «Sobrehumano».
+- Filas oficiales que salen aquí: *Demi-fiend* → «Semioscuro»; *Mephisto* → «Mefisto»; *Cleopatra*, *Megami*, *Tyrant* → «Tirano», *Fallen* → «Caído», *Enigma*, *Drake*, *Meta*, *Element* → «Elemental», *Herald* → «Heraldo», *Surt*, *Mot*, *Vasuki*, *Samael*; las habilidades *Freikugel*, *Magma Axis* → «Explosión de magma», *Gaea Rage* → «Ira de Gea», *Deadly Fury* → «Furia mortal» (content29/tbl/SkillName.tbb#0.19-22.2); *Bind* → «Atadura», que aquí es el nombre de una habilidad (content24/tbl/SkillName.tbb#0.7.2); *Demon Market*, *Godslayer* → «Matadioses», *Macca*, *YHVH*, *Filth*, *Ceiling* → «Techo», *Wailing Gate* → «Puerta de los Lamentos».
+- *Lord* + nombre (*Greetings, Lord .*, content23/tbl/quest359.mbm#0, una carta al jugador) → «señor» + nombre, como *Lord Lucifer* → «el señor Lucifer»; *the Lord* → «el Señor».
+- *Master* (content23/evt/e241.mbm#158, #163: una acompañante al jugador) → «amo», como la fila.
+- *Leader* (content23/evt/e241.mbm#100) → «Líder» (fila arriba, en Demonios en combate).
+- Etiquetas de quien habla: *Boy’s voice*, *Girl’s voice* (e241.mbm#100, #112) → «Voz de chico», «Voz de chica»; *Mysterious man* (e221.mbm#1) → «Hombre misterioso»; *Dadga’s voice* (content24/evt/e220.mbm#23) → «Voz de Dagda» (errata *Dadga* decidida en Negociaciones y patrón *Danu’s voice* → «Voz de Danu»).
+- *messiahs* (content29/tbl/quest360.mbm#0, *Guide the messiahs*) → «mesías», como *Second Messiah* → «Segundo Mesías» (camp/CampCecTable.tbb#0.66.0).
+- *Magnetite* (content29/evt/btl/BtlEvent661.mbm#1) → «Magnetita», como *Biological Magnetite* → «Magnetita biológica» (event/HunterDataBase/HunterDataTable.tbb#0.71.16).
+- *pompadour* (e241.mbm#110) → «pompadour», como ya está en event/e020/e020.mbm#19 («poltergeist de pompadour»); va con el objeto *Green Pompadour* (pending.md).
+
+#### Revisados sin fila
+
+De los 89 términos de `system-terms-dlc.tsv`:
+
+- **16** ya tienen fila en GLOSSARY.md: Tokyo, Samurai, Navarre, Godslayer, Hunter Association, Nanashi, Macca, Master, Stats, UNKNOWN (*Unknown*, content18/tbl/HunterDataTable.tbb#0.0.54 → «Desconocido»), Ceiling, Demon Market, Wailing Gate, YHVH, Bind, Filth.
+- **8** dan fila aquí, en «Aplicación de lo decidido»: *Hunter Association Intelligence*, *Eastern Kingdom of Mikado*, *Unclean Ones*, *Diamond Realm*, *Twisted Tokyo*, *AP*, *Demon Horde*, *Sharp-eyed Samurai*.
+- **13** ya están cubiertos por una decisión sin fila: Hugo, Nozomi, Toki, Gaston, Mikado, Asahi, Stephen, Hallelujah, Flynn, Ozuno, *Lord*, *Hunters*, *It’s Navarre*.
+- **38** van a pending.md (objetos, hordas, la serie *Demonic*, *Demon Gene*, *Gift*, *Download Quest*...).
+- **14** se descartan:
+  - **1** es relleno: *TEST* (9 líneas *TEST* de los evt/e85x.mbm y e300.mbm; ver pending.md).
+  - **13** son palabras comunes que el script trajo como etiquetas de SMT V (*All*, *Return*, *EXIT*, *NEW*, *End*, *Place*, *Special*, *Other*, *LIGHT*, *Set*, *Hide*) o que solo salen dentro de los nombres de hordas (*LAW*, *NEUTRAL*, en *Law Horde* y *Neutral Horde*).
+
+Fuera de la lista del script, la sección repite *Lord*, *Master*, *Leader*, *Monastery*, *messiahs*, *celestial being(s)* y *Samurai lookout*: van arriba o en pending.md.
+
+#### Decididos por el usuario: Contenido descargable
+
+Aprobados en bloque el 2026-11-15, con las propuestas del terminólogo (detalle en DECISIONS). Los bytes (T-4) son los del campo de cada tabla.
+
+| Inglés | Español | Fuente | Nota |
+|---|---|---|---|
+| Demonic Samurai | Samurái demoníaco | Decidido por el usuario (2026-11-15) | Serie de *Demonic Hugo* → «Hugo demoníaco» (Tablas). 19/37. |
+| Demonic Hope | Hope demoníaco | Decidido por el usuario (2026-11-15) | 15/37. |
+| Demonic Citizens | Ciudadanos demoníacos | Decidido por el usuario (2026-11-15) | 22/37; también la etiqueta *Demonic citizens* y *an army of demonic citizens*. |
+| Demonic citizens | Ciudadanos demoníacos | Decidido por el usuario (2026-11-15) | Etiqueta de quien habla (BtlEvent640.mbm#0). |
+| Demonic Horde | Horda demoníaca | Decidido por el usuario (2026-11-15) | 16/37. |
+| Demon Gene | gen demoníaco | Decidido por el usuario (2026-11-15) | Como event/quest/quest358.mbm#2. Título de la base de datos: «Gen demoníaco». *angelic genes* → «genes angelicales». |
+| Abbot Hugo | abad Hugo | Decidido por el usuario (2026-11-15) | En minúscula, como *Commander Hope* → «comandante Hope». |
+| God’s Word | Palabra de Dios | Decidido por el usuario (2026-11-15) | BtlEvent652.mbm#7. |
+| God’s Chosen | Elegidos de Dios | Decidido por el usuario (2026-11-15) | BtlEvent630.mbm#0. |
+| Chosen Celestial | Celestial Elegido | Decidido por el usuario (2026-11-15) | *His Chosen Celestial* → «Su Celestial Elegido» (BtlEvent650.mbm#0). *celestial being(s)* → «ser(es) celestial(es)», en minúscula. |
+| Hawaii | Hawái | Decidido por el usuario (2026-11-15) | content23. |
+| The Hero | El Héroe | Decidido por el usuario (2026-11-15) | Protagonista de otro juego de la saga, como *Demi-fiend* → «Semioscuro». *Aleph* se deja. |
+| A. Law Horde | A. Horda de la Ley | Decidido por el usuario (2026-11-15) | 18/37. La *A.* sigue lo que se decida en PENDING. |
+| A. Chaos Horde | A. Horda del Caos | Decidido por el usuario (2026-11-15) | 17/37. |
+| A. Neutral Horde | A. Horda neutral | Decidido por el usuario (2026-11-15) | 16/37. |
+| Egyptian Horde | Horda egipcia | Decidido por el usuario (2026-11-15) | 13/37. |
+| Synthetic Human | Humano sintético | Decidido por el usuario (2026-11-15) | Raza (content32), 17/31. |
+| Chaos Lord | Señor del Caos | Decidido por el usuario (2026-11-15) | Raza (content32), 15/31. |
+| Special 1: Parallel Universes | Especial 1: Universos paralelos | Decidido por el usuario (2026-11-15) | 31/37. |
+| Special 2: What is Observation? | Especial 2: ¿Qué es observar? | Decidido por el usuario (2026-11-15) | 31/37 (la forma con «la observación» no cabe). |
+| Special 3: History of Tokyo & Mikado | Especial 3: Historia Tokio-Mikado | Decidido por el usuario (2026-11-15) | 33/37 (la forma larga no cabe). |
+| Secret Memo | Nota secreta | Decidido por el usuario (2026-11-15) | *Secret Memo 4/8* → «Nota secreta 4/8». |
+| Hunter PR Division | División de Relaciones Públicas | Decidido por el usuario (2026-11-15) | Cliente (SubQuestData.tbb#0.0.64), 33/51. |
+| Agent of Dagda | Agente de Dagda | Decidido por el usuario (2026-11-15) | Cliente, 15/51. |
+| Peace Earring | Arete de paz | Decidido por el usuario (2026-11-15) | Plural «Aretes de paz» (título y texto). |
+| Anarchy Earring | Arete de anarquía | Decidido por el usuario (2026-11-15) | Plural «Aretes de anarquía». |
+| GSEB Power Suit | Servoarmadura GSEB | Decidido por el usuario (2026-11-15) | *(Top)/(Bottom)* → «(torso)/(piernas)». |
+| Prime Suit | Traje Prime | Decidido por el usuario (2026-11-15) | |
+| Retail Hero | Héroe de tienda | Decidido por el usuario (2026-11-15) | |
+| Loppi Studs | Tachuelas Loppi | Decidido por el usuario (2026-11-15) | Solo en el texto de la misión; el «￥» suelto del inglés (content02/tbl/quest363.mbm#0) no se copia (§6). |
+| Cute Glasses | Lentes bonitos | Decidido por el usuario (2026-11-15) | E-12. |
+| Secret Eye Power Seal | Sello del poder del ojo secreto | Decidido por el usuario (2026-11-15) | 31/31, justo. |
+| Surgical Mask | Mascarilla quirúrgica | Decidido por el usuario (2026-11-15) | |
+| Chiro Mask | Máscara de Chiro | Decidido por el usuario (2026-11-15) | |
+| Childhood Friend's Cap | Gorra de la amiga de infancia | Decidido por el usuario (2026-11-15) | Es de Asahi. 29/31. |
+| Childhood Friend’s Cap | Gorra de la amiga de infancia | Decidido por el usuario (2026-11-15) | Forma del texto de la misión (con ’). |
+| Queen's Visor | Visera de la reina | Decidido por el usuario (2026-11-15) | |
+| Queen’s Visor | Visera de la reina | Decidido por el usuario (2026-11-15) | Forma del texto de la misión (con ’). |
+| Green Pompadour | Pompadour verde | Decidido por el usuario (2026-11-15) | |
+| Avatar's Hat | Sombrero de Avatar | Decidido por el usuario (2026-11-15) | *Avatar*, la raza. |
+| Avatar’s Hat | Sombrero de Avatar | Decidido por el usuario (2026-11-15) | Forma del texto de la misión (con ’). |
+| Prime Demon Meat | Carne de demonio selecta | Decidido por el usuario (2026-11-15) | |
+| Flowering Branch | Rama en flor | Decidido por el usuario (2026-11-15) | |
+| Beer of Paradise | Cerveza del paraíso | Decidido por el usuario (2026-11-15) | |
+| Friend Grimoire | Grimorio de amistad | Decidido por el usuario (2026-11-15) | |
+| Eternal Torus | Toroide eterno | Decidido por el usuario (2026-11-15) | «Toro» se leería como el animal. |
+| outside world | mundo exterior | Decidido por el usuario (2026-11-15) | «Has recibido un regalo del mundo exterior.», igual en todas (26 líneas). |
+| A Godslayer Needs | Un Matadioses necesita | Decidido por el usuario (2026-11-15) | Serie de títulos: niveles / macca / demonios / apps / joyas / objetos. |
+| Tokyo Destruction Promo | Promo de la destrucción de Tokio | Decidido por el usuario (2026-11-15) | Con la categoría *[Otr]* de PENDING. |
+| Coastal Inverted Pyramid | Pirámide invertida costera | Decidido por el usuario (2026-11-15) | *[Int]* → «[Inf]». |
+| Explosive Epidemic in Mikado | Epidemia explosiva en Mikado | Decidido por el usuario (2026-11-15) | |
+| A Trip to Hawaii | Un viaje a Hawái | Decidido por el usuario (2026-11-15) | |
+| Messiahs in the Diamond Realm | Mesías en el Reino de Diamante | Decidido por el usuario (2026-11-15) | |
+| Depths of Twisted Tokyo | Profundidades de Tokio retorcido | Decidido por el usuario (2026-11-15) | |
+| Royal Curse | Maldición real | Decidido por el usuario (2026-11-15) | Habilidad (content19). |
+| Grave Judgment | Juicio de ultratumba | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Adaptive Tactics | Tácticas adaptativas | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Alluring Banter | Charla seductora | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Dazzle Ray | Rayo deslumbrante | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Growing Hate | Odio creciente | Decidido por el usuario (2026-11-15) | Habilidad (content23). |
+| Fear Darkness | Oscuridad del miedo | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Dark Photon | Fotón oscuro | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Judgment Strike | Golpe del juicio | Decidido por el usuario (2026-11-15) | Habilidad (content24). |
+| Heavenly Punishment | Castigo celestial | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Irrational Glimmer | Destello irracional | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Evil-crushing Flash | Destello destructor del mal | Decidido por el usuario (2026-11-15) | Habilidad, 27/29. |
+| Revelation | Revelación | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Forfeit | Confiscación | Decidido por el usuario (2026-11-15) | Habilidad; provisional, se revisa en el juego (PENDING). |
+| Nightmare | Pesadilla | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Zenki's Axe | Hacha de Zenki | Decidido por el usuario (2026-11-15) | Habilidad (content26). |
+| Goki's Water Wall | Muro de agua de Goki | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Peacock Incantation | Conjuro del pavo real | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Singularity Hellfire | Infierno de singularidad | Decidido por el usuario (2026-11-15) | Serie *Singularity X* → «X de singularidad» (content29): Hail → «Granizo», Lightning → «Rayo», Vortex → «Vórtice», Brand → «Marca», Wave → «Onda». |
+| Singularity Hail | Granizo de singularidad | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Singularity Lightning | Rayo de singularidad | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Singularity Vortex | Vórtice de singularidad | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Singularity Brand | Marca de singularidad | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Singularity Wave | Onda de singularidad | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Execute Code | Código de ejecución | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Crack Code | Código de ruptura | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Reboot Code | Código de reinicio | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Calamity Code | Código de calamidad | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Black Body Radiation | Radiación de cuerpo negro | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Black Hole | Agujero negro | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Energy Compression | Compresión de energía | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Convergence | Convergencia | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Wave Function | Función de onda | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Pair Production | Producción de pares | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Particle Annihilation | Aniquilación de partículas | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Lightspeed Slash | Tajo a la velocidad de la luz | Decidido por el usuario (2026-11-15) | Habilidad, 29/29, justo. |
+| Crescent Slice | Corte de media luna | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Morale Boost | Aumento de moral | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Gideon Bullet | Bala de Gedeón | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Sonic Shot | Disparo sónico | Decidido por el usuario (2026-11-15) | Habilidad. |
+| Warrior's Spirit | Espíritu guerrero | Decidido por el usuario (2026-11-15) | Habilidad. |
+
+- **Títulos con objetos** (SubQuestData.tbb#0.N.8): *Tokyo’s Past (Glasses/Eyepatch/Mask)* → «El pasado de Tokio (lentes/parche/mascarilla)»; *Asahi/Nozomi Set (Asahi/Nozomi)* → «Conjunto Asahi/Nozomi (Asahi/Nozomi)»; *(Head)* → «(cabeza)». Los demás títulos son el nombre del objeto.
+- **Corrección:** «Hugo demonio» → «Hugo demoníaco» en event/NpcData.tbb#0.342.0 y sus copias del contenido descargable (G-3).
+- **Relleno:** *Download Quest 1 again* y sus variantes (quest*.mbm#1), los *TEST* y *Godslayers need exp! / Dummy text* (content31/tbl/quest352.mbm#0): fuera de la cuenta (T-6).
