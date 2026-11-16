@@ -211,6 +211,7 @@ Pisos del ascensor (provisional, se comprueba en el juego): *1F, 2F...* → «P1
 | Slime | Limo | SMT V (personaje) | Demonio. |
 | Mitra | Mitra | SMT V (personaje) | Deidad. IVA también usa *Mitra-Buddha* (por decidir). |
 | Enduring Soul | Alma inmortal | SMT V (habilidad) | Habilidad. |
+| Enduring Cheer | Ánimo perdurable | Decidido por el usuario (2026-11-16) | Habilidad; no es *Enduring Soul*. |
 | Diamond | Diamante | SMT V (objeto) | Joya. En el contenido descargable va también en *Diamond Realm*, un lugar. |
 | Emerald | Esmeralda | SMT V (objeto) | Joya. |
 | Garnet | Granate | SMT V (objeto) | Joya. |
