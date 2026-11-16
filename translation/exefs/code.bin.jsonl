@@ -27,10 +27,10 @@
 {"key": "exefs/code.bin#0x11B4B4", "es": "No especificar"}
 {"key": "exefs/code.bin#0x12A9E0", "es": "No se pudo obtener el nombre del mapa"}
 {"key": "exefs/code.bin#0x12B6A0", "es": "Resultado"}
-{"key": "exefs/code.bin#0x12B6B0", "es": "1ro"}
-{"key": "exefs/code.bin#0x12B6B8", "es": "2do"}
-{"key": "exefs/code.bin#0x12B6C0", "es": "3ro"}
-{"key": "exefs/code.bin#0x12B6C8", "es": "4to"}
+{"key": "exefs/code.bin#0x12B6B0", "es": "1.°"}
+{"key": "exefs/code.bin#0x12B6B8", "es": "2.°"}
+{"key": "exefs/code.bin#0x12B6C0", "es": "3.°"}
+{"key": "exefs/code.bin#0x12B6C8", "es": "4.°"}
 {"key": "exefs/code.bin#0x12C42C", "es": "Diosa"}
 {"key": "exefs/code.bin#0x12ECD0", "es": "Sin afinidades de habilidad"}
 {"key": "exefs/code.bin#0x130CA0", "es": "Todos los aliados"}
@@ -48,25 +48,25 @@
 {"key": "exefs/code.bin#0x154910", "es": "El efecto de Estoma se acabó."}
 {"key": "exefs/code.bin#0x154968", "es": "El agua seductora se acabó."}
 {"key": "exefs/code.bin#0x1549A0", "es": "El efecto de Riberama se acabó."}
-{"key": "exefs/code.bin#0x1615B8", "es": "        1ro (A)"}
-{"key": "exefs/code.bin#0x1615D8", "es": "        2do (A)"}
-{"key": "exefs/code.bin#0x1615F8", "es": "        3ro (B)"}
-{"key": "exefs/code.bin#0x161618", "es": "        4to (A)"}
-{"key": "exefs/code.bin#0x161638", "es": "        4to (S)"}
-{"key": "exefs/code.bin#0x161658", "es": "        1ro (C)"}
-{"key": "exefs/code.bin#0x161678", "es": "        1ro (G)"}
-{"key": "exefs/code.bin#0x161698", "es": "        2do (C)"}
-{"key": "exefs/code.bin#0x1616B8", "es": "        2do (F)"}
-{"key": "exefs/code.bin#0x1616D8", "es": "        2do (L)"}
-{"key": "exefs/code.bin#0x1616F8", "es": "        3ro (C)"}
-{"key": "exefs/code.bin#0x161718", "es": "        3ro (D)"}
-{"key": "exefs/code.bin#0x161738", "es": "        3ro (E)"}
-{"key": "exefs/code.bin#0x161758", "es": "        3ro (F)"}
-{"key": "exefs/code.bin#0x161778", "es": "        4to (C)"}
-{"key": "exefs/code.bin#0x161798", "es": "        4to (E)"}
-{"key": "exefs/code.bin#0x1617B8", "es": "        4to (F)"}
-{"key": "exefs/code.bin#0x1617D8", "es": "        1ro (H)"}
-{"key": "exefs/code.bin#0x1617F8", "es": "        3ro (G)"}
+{"key": "exefs/code.bin#0x1615B8", "es": "        1.° (A)"}
+{"key": "exefs/code.bin#0x1615D8", "es": "        2.° (A)"}
+{"key": "exefs/code.bin#0x1615F8", "es": "        3.° (B)"}
+{"key": "exefs/code.bin#0x161618", "es": "        4.° (A)"}
+{"key": "exefs/code.bin#0x161638", "es": "        4.° (S)"}
+{"key": "exefs/code.bin#0x161658", "es": "        1.° (C)"}
+{"key": "exefs/code.bin#0x161678", "es": "        1.° (G)"}
+{"key": "exefs/code.bin#0x161698", "es": "        2.° (C)"}
+{"key": "exefs/code.bin#0x1616B8", "es": "        2.° (F)"}
+{"key": "exefs/code.bin#0x1616D8", "es": "        2.° (L)"}
+{"key": "exefs/code.bin#0x1616F8", "es": "        3.° (C)"}
+{"key": "exefs/code.bin#0x161718", "es": "        3.° (D)"}
+{"key": "exefs/code.bin#0x161738", "es": "        3.° (E)"}
+{"key": "exefs/code.bin#0x161758", "es": "        3.° (F)"}
+{"key": "exefs/code.bin#0x161778", "es": "        4.° (C)"}
+{"key": "exefs/code.bin#0x161798", "es": "        4.° (E)"}
+{"key": "exefs/code.bin#0x1617B8", "es": "        4.° (F)"}
+{"key": "exefs/code.bin#0x1617D8", "es": "        1.° (H)"}
+{"key": "exefs/code.bin#0x1617F8", "es": "        3.° (G)"}
 {"key": "exefs/code.bin#0x164BBC", "es": "Fusión de demonios"}
 {"key": "exefs/code.bin#0x178FDC", "es": "%s lanzan Estoma."}
 {"key": "exefs/code.bin#0x179000", "es": "El efecto de Estoma se acabó."}
@@ -223,7 +223,7 @@
 {"key": "exefs/code.bin#0x4251BC", "es": "Brana 4"}
 {"key": "exefs/code.bin#0x425210", "es": "Terminal de %s"}
 {"key": "exefs/code.bin#0x42A484", "es": "Atacar"}
-{"key": "exefs/code.bin#0x42A494", "es": "El enemigo espera para ver qué haces."}
+{"key": "exefs/code.bin#0x42A494", "es": "El enemigo espera a ver qué haces."}
 {"key": "exefs/code.bin#0x42A818", "es": "Veneno"}
 {"key": "exefs/code.bin#0x42A828", "es": "Pánico"}
 {"key": "exefs/code.bin#0x42A834", "es": "Sueño"}
@@ -234,25 +234,25 @@
 {"key": "exefs/code.bin#0x42A870", "es": "Silencio"}
 {"key": "exefs/code.bin#0x42AFD8", "es": "Los usuarios de StreetPass recibirán esto."}
 {"key": "exefs/code.bin#0x42C80C", "es": "No tienes acompañantes."}
-{"key": "exefs/code.bin#0x42D04F", "es": "(ID del cubo de portal: 1/4)"}
-{"key": "exefs/code.bin#0x42D0B7", "es": "(ID del cubo de portal: 1/4)"}
-{"key": "exefs/code.bin#0x42D11F", "es": "(ID del cubo de portal: 1/6)"}
-{"key": "exefs/code.bin#0x42D187", "es": "(ID del cubo de portal: 1/5)"}
-{"key": "exefs/code.bin#0x42D1EF", "es": "(ID del cubo de portal: 5/5)"}
-{"key": "exefs/code.bin#0x42D257", "es": "(ID del cubo de portal: 3/4)"}
-{"key": "exefs/code.bin#0x42D2BF", "es": "(ID del cubo de portal: 2/4)"}
-{"key": "exefs/code.bin#0x42D327", "es": "(ID del cubo de portal: 3/4)"}
-{"key": "exefs/code.bin#0x42D38F", "es": "(ID del cubo de portal: 2/4)"}
-{"key": "exefs/code.bin#0x42D3F7", "es": "(ID del cubo de portal: 4/4)"}
-{"key": "exefs/code.bin#0x42D45F", "es": "(ID del cubo de portal: 5/6)"}
-{"key": "exefs/code.bin#0x42D4C7", "es": "(ID del cubo de portal: 2/6)"}
-{"key": "exefs/code.bin#0x42D52F", "es": "(ID del cubo de portal: 6/6)"}
-{"key": "exefs/code.bin#0x42D597", "es": "(ID del cubo de portal: 3/6)"}
-{"key": "exefs/code.bin#0x42D5FF", "es": "(ID del cubo de portal: 2/5)"}
-{"key": "exefs/code.bin#0x42D667", "es": "(ID del cubo de portal: 3/5)"}
-{"key": "exefs/code.bin#0x42D6CF", "es": "(ID del cubo de portal: 4/5)"}
-{"key": "exefs/code.bin#0x42D737", "es": "(ID del cubo de portal: 4/4)"}
-{"key": "exefs/code.bin#0x42D79F", "es": "(ID del cubo de portal: 4/6)"}
+{"key": "exefs/code.bin#0x42D04F", "es": "(ID del cubo portal: 1/4)"}
+{"key": "exefs/code.bin#0x42D0B7", "es": "(ID del cubo portal: 1/4)"}
+{"key": "exefs/code.bin#0x42D11F", "es": "(ID del cubo portal: 1/6)"}
+{"key": "exefs/code.bin#0x42D187", "es": "(ID del cubo portal: 1/5)"}
+{"key": "exefs/code.bin#0x42D1EF", "es": "(ID del cubo portal: 5/5)"}
+{"key": "exefs/code.bin#0x42D257", "es": "(ID del cubo portal: 3/4)"}
+{"key": "exefs/code.bin#0x42D2BF", "es": "(ID del cubo portal: 2/4)"}
+{"key": "exefs/code.bin#0x42D327", "es": "(ID del cubo portal: 3/4)"}
+{"key": "exefs/code.bin#0x42D38F", "es": "(ID del cubo portal: 2/4)"}
+{"key": "exefs/code.bin#0x42D3F7", "es": "(ID del cubo portal: 4/4)"}
+{"key": "exefs/code.bin#0x42D45F", "es": "(ID del cubo portal: 5/6)"}
+{"key": "exefs/code.bin#0x42D4C7", "es": "(ID del cubo portal: 2/6)"}
+{"key": "exefs/code.bin#0x42D52F", "es": "(ID del cubo portal: 6/6)"}
+{"key": "exefs/code.bin#0x42D597", "es": "(ID del cubo portal: 3/6)"}
+{"key": "exefs/code.bin#0x42D5FF", "es": "(ID del cubo portal: 2/5)"}
+{"key": "exefs/code.bin#0x42D667", "es": "(ID del cubo portal: 3/5)"}
+{"key": "exefs/code.bin#0x42D6CF", "es": "(ID del cubo portal: 4/5)"}
+{"key": "exefs/code.bin#0x42D737", "es": "(ID del cubo portal: 4/4)"}
+{"key": "exefs/code.bin#0x42D79F", "es": "(ID del cubo portal: 4/6)"}
 {"key": "exefs/code.bin#0x42E2F8", "es": "Fin"}
 {"key": "exefs/code.bin#0x42FADC", "es": "¡Se detectó a Shesha! ¡Ten cuidado!"}
 {"key": "exefs/code.bin#0x42FFE8", "es": "Aumento de Estoma"}
@@ -333,10 +333,10 @@
 {"key": "exefs/code.bin#0x45D7F4", "es": "Pléroma de fuego alto"}
 {"key": "exefs/code.bin#0x45D817", "es": "Pléroma de oscur. alto"}
 {"key": "exefs/code.bin#0x45D83A", "es": "Pléroma curativo alto"}
-{"key": "exefs/code.bin#0x45D85D", "es": "Pleroma superior de disparo"}
+{"key": "exefs/code.bin#0x45D85D", "es": "Pléroma de disparo alto"}
 {"key": "exefs/code.bin#0x45D87E", "es": "Pléroma físico alto"}
 {"key": "exefs/code.bin#0x45D8A1", "es": "Pléroma de luz alto"}
-{"key": "exefs/code.bin#0x45D8C6", "es": "Pleroma superior múltiple"}
+{"key": "exefs/code.bin#0x45D8C6", "es": "Pléroma múltiple alto"}
 {"key": "exefs/code.bin#0x45D8E9", "es": "Pléroma todopoderoso"}
 {"key": "exefs/code.bin#0x45D90A", "es": "Estoma"}
 {"key": "exefs/code.bin#0x45D917", "es": "Venema"}
@@ -385,7 +385,7 @@
 {"key": "exefs/code.bin#0x45DCF8", "es": "Absorber hielo"}
 {"key": "exefs/code.bin#0x45DD0B", "es": "Resistir hielo"}
 {"key": "exefs/code.bin#0x45DD20", "es": "Tajo fino"}
-{"key": "exefs/code.bin#0x45DD35", "es": "Voz de Pánico"}
+{"key": "exefs/code.bin#0x45DD35", "es": "Voz de pánico"}
 {"key": "exefs/code.bin#0x45DD4C", "es": "Voz de atadura"}
 {"key": "exefs/code.bin#0x45DD61", "es": "Baile de arañazos"}
 {"key": "exefs/code.bin#0x45DD7C", "es": "Danza Maru-Maru"}
@@ -395,7 +395,7 @@
 {"key": "exefs/code.bin#0x45DDFC", "es": "Postura imponente"}
 {"key": "exefs/code.bin#0x45DE1B", "es": "Silencio"}
 {"key": "exefs/code.bin#0x45DE2A", "es": "Pestilencia"}
-{"key": "exefs/code.bin#0x45DE3F", "es": "Perforar elec."}
+{"key": "exefs/code.bin#0x45DE3F", "es": "Perforar electricidad"}
 {"key": "exefs/code.bin#0x45DE56", "es": "Perforar hielo"}
 {"key": "exefs/code.bin#0x45DE6B", "es": "Perforar choque"}
 {"key": "exefs/code.bin#0x45DE84", "es": "Perforar fuego"}
@@ -612,7 +612,7 @@
 {"key": "exefs/code.bin#0x45F175", "es": "Espejo mágico"}
 {"key": "exefs/code.bin#0x45F18E", "es": "Espejo ofensivo"}
 {"key": "exefs/code.bin#0x45F1A9", "es": "Mil cabezas"}
-{"key": "exefs/code.bin#0x45F1C6", "es": "5.67 billones de manos"}
+{"key": "exefs/code.bin#0x45F1C6", "es": "5.67 mil millones de manos"}
 {"key": "exefs/code.bin#0x45F1EB", "es": "Dioses del trueno"}
 {"key": "exefs/code.bin#0x45F204", "es": "Agujas aturdidoras"}
 {"key": "exefs/code.bin#0x45F21D", "es": "Colmillos de serpiente"}
