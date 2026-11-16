@@ -83,7 +83,7 @@ Aquí no se agrega ninguna regla sin fuente.
 - **E-21** Cada personaje habla como en el original: formalidad, vocabulario, humor, trato y peculiaridades. No todos hablan igual; tiene que sonar espontáneo, no a texto traducido ni demasiado formal. Lo de cada uno está en su ficha ([characters/](characters)). [Encargo §3]
 - **E-22** Los tics van según el inglés: cortes, tartamudeos, jerga, muletillas y groserías. Las groserías no se suavizan ni se intensifican: igualan la intensidad del original. [THL]
 - **E-23** Frases delicadas (juegos de palabras, muletillas, referencias, acertijos): se traducen desde el inglés con una solución provisional y se anotan en [PENDING.md](PENDING.md). No se agregan datos que el inglés no tiene. [THL]
-- **E-24** Nada de «¡Demonios!» ni «¡Diablos!» como exclamación: en este juego se leen como los demonios de verdad. *Hell no*, *hell yeah* y parecidas van con una forma sin ellos («¡Ni de broma!», «¡Claro que sí!»), con la misma intensidad (E-22). [DECISIONS 2026-11-16]
+- **E-24** Nada de «¡Demonios!» ni «¡Diablos!» como exclamación: en este juego se leen como los demonios de verdad. *Hell no*, *hell yeah* y parecidas van con una forma sin ellos («¡Ni de broma!», «¡Claro que sí!»), con la misma intensidad (E-22). Las preguntas con intensificador («¿Qué demonios...?», «¿Quién demonios te crees que eres?») sí van. [DECISIONS 2026-11-16]
 
 ## Trato
 
