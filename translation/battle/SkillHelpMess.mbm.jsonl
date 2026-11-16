@@ -291,7 +291,7 @@
 {"key": "battle/SkillHelpMess.mbm#293", "es": "Ataque de tipo {F87D}{0E00}. Absorbe PM del enemigo{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#294", "es": "Ataque extremo de tipo {F87D}{0E00}. Sonrisa maliciosa: muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#295", "es": "Anula todos los efectos de apoyo{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#296", "es": "Ataque medio de tipo {F87D}{0F00}. Inflige Atadura/Pánico/Encanto Objetivo: {F87D}{0F00}{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#296", "es": "Ataque medio de tipo {F87D}{0E00}. Inflige Atadura/Pánico/Encanto Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#297", "es": "Ataque de muerte instantánea{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#298", "es": "Aumenta mucho el ataque mágico{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#299", "es": "Ataque intenso de tipo {F87D}{0E00}. Inflige Perdido{F801}Objetivo: {F87D}{0F00}{F801}{FFFF}"}
@@ -474,8 +474,8 @@
 {"key": "battle/SkillHelpMess.mbm#476", "es": "Repele los ataques de luz{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#477", "es": "Recupera unos pocos PS tras el combate{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#478", "es": "Recupera unos pocos PM tras el combate{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#479", "es": "Ataques de luz perforan al enemigo con:{F801}Absorber/Repeler/Anular/Resistir luz{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#480", "es": "Ataques de oscuridad perforan al enemigo con:{F801}Absorber/Repeler/Anular/Resistir oscuridad{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#479", "es": "Ataques de luz atraviesan:{F801}Absorber/Repeler/Anular/Resistir luz{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#480", "es": "Ataques de oscuridad atraviesan:{F801}Absorber/Repeler/Anular/Resistir oscuridad{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#481", "es": "Absorbe los ataques de luz{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#482", "es": "Reduce la probabilidad de sufrir estados alterados{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#483", "es": "Aumenta la EXP obtenida tras los combates{F801}{FFFF}"}
@@ -483,12 +483,12 @@
 {"key": "battle/SkillHelpMess.mbm#485", "es": "Aumenta la precisión/evasión{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#486", "es": "Aumenta mucho la precisión/evasión{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#487", "es": "Aumenta la probabilidad de crítico{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#488", "es": "Ataques físicos perforan al enemigo con:{F801}Absorber/Repeler/Anular/Resistir físico{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#489", "es": "Ataques de disparo perforan al enemigo con:{F801}Absorber/Repeler/Anular/Resistir disparo{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#490", "es": "Ataques de fuego perforan al enemigo con:{F801}Absorber/Repeler/Anular/Resistir fuego{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#491", "es": "Ataques de hielo perforan al enemigo con:{F801}Absorber/Repeler/Anular/Resistir hielo{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#492", "es": "Ataques de electricidad perforan al enemigo con:{F801}Absorber/Repeler/Anular/Resistir electricidad{F801}{FFFF}"}
-{"key": "battle/SkillHelpMess.mbm#493", "es": "Ataques de choque perforan al enemigo con:{F801}Absorber/Repeler/Anular/Resistir choque{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#488", "es": "Ataques físicos atraviesan:{F801}Absorber/Repeler/Anular/Resistir físico{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#489", "es": "Ataques de disparo atraviesan:{F801}Absorber/Repeler/Anular/Resistir disparo{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#490", "es": "Ataques de fuego atraviesan:{F801}Absorber/Repeler/Anular/Resistir fuego{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#491", "es": "Ataques de hielo atraviesan:{F801}Absorber/Repeler/Anular/Resistir hielo{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#492", "es": "Ataques de electricidad atraviesan:{F801}Absorber/Repeler/Anular/Resistir electricidad{F801}{FFFF}"}
+{"key": "battle/SkillHelpMess.mbm#493", "es": "Ataques de choque atraviesan:{F801}Absorber/Repeler/Anular/Resistir choque{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#494", "es": "Potencia y añade perforación a todos los ataques{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#495", "es": "Potencia mucho la magia curativa{F801}{FFFF}"}
 {"key": "battle/SkillHelpMess.mbm#496", "es": "Potencia y añade perforación a los ataques de disparo{F801}{FFFF}"}

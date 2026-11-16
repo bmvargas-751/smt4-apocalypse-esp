@@ -113,6 +113,7 @@ Aquí no se agrega ninguna regla sin fuente.
 - **E-57** Porcentajes sin espacio: `50%`. [THL]
 - **E-58** Comillas donde el inglés las usa para una cita. El punto final va fuera de las comillas; `?`, `!` y `...` van dentro si son de lo citado. Las comillas son las del juego (`“...”`), porque la fuente no tiene las rectas (T-5). [THL]
 - **E-59** Lugares y términos comunes del juego van en minúscula a media frase. Llevan mayúscula al inicio de la oración, en las etiquetas de menú y mapa, y en los nombres propios. [THL]
+- **E-62** Separador decimal: punto, como el inglés («daño x2.5», «1.7 billones»). [DECISIONS 2026-11-16]
 
 ## Método
 

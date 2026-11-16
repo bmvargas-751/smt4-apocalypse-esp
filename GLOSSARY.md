@@ -324,6 +324,7 @@ Candidatos de `glossary-candidates.tsv` que no aparecen en archivos de la Interf
 | Fafnir | Fafnir | SMT V (personaje) | Demonio. |
 | Fenrir | Fenrir | SMT V (personaje) | Demonio. |
 | Fortuna | Fortuna | SMT V (personaje) | Demonio. |
+| Tyche | Tique | SMT V (perfil de Fortuna) | Diosa griega; status/profile.mbm#40. |
 | Ishtar | Ishtar | SMT V (personaje) | Demonio. |
 | Jaki | Jaki | SMT V (raza) | Raza. |
 | Kinmamon | Kinmamon | SMT V (personaje) | Demonio. |
