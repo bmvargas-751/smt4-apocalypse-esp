@@ -62,7 +62,7 @@
 {"key": "item/ItemTable.tbb#1.0.0", "es": "Medicina"}
 {"key": "item/ItemTable.tbb#1.1.0", "es": "Piedra vital"}
 {"key": "item/ItemTable.tbb#1.2.0", "es": "Abalorio"}
-{"key": "item/ItemTable.tbb#1.3.0", "es": "Collar abalorios"}
+{"key": "item/ItemTable.tbb#1.3.0", "es": "Cadena de abalorios"}
 {"key": "item/ItemTable.tbb#1.4.0", "es": "Gota de chakra"}
 {"key": "item/ItemTable.tbb#1.5.0", "es": "Bote de chakra"}
 {"key": "item/ItemTable.tbb#1.6.0", "es": "Gran chakra"}
@@ -87,7 +87,7 @@
 {"key": "item/ItemTable.tbb#1.26.0", "es": "Elixir de chakra"}
 {"key": "item/ItemTable.tbb#1.27.0", "es": "Piedra de invocación"}
 {"key": "item/ItemTable.tbb#1.28.0", "es": "Jet de oro"}
-{"key": "item/ItemTable.tbb#1.29.0", "es": "Bulldozer oro"}
+{"key": "item/ItemTable.tbb#1.29.0", "es": "Bulldozer de oro"}
 {"key": "item/ItemTable.tbb#1.30.0", "es": "Incienso de Fu"}
 {"key": "item/ItemTable.tbb#1.31.0", "es": "Incienso de Ma"}
 {"key": "item/ItemTable.tbb#1.32.0", "es": "Incienso de De"}
@@ -209,7 +209,7 @@
 {"key": "item/ItemTable.tbb#2.157.0", "es": "Bazuca de acero"}
 {"key": "item/ItemTable.tbb#2.159.0", "es": "Stradivari"}
 {"key": "item/ItemTable.tbb#2.164.0", "es": "Bazuca inteligente"}
-{"key": "item/ItemTable.tbb#2.168.0", "es": "Bazuca as"}
+{"key": "item/ItemTable.tbb#2.168.0", "es": "Bazuca de as"}
 {"key": "item/ItemTable.tbb#2.170.0", "es": "Bazuca grande"}
 {"key": "item/ItemTable.tbb#2.172.0", "es": "Bazuca maligna"}
 {"key": "item/ItemTable.tbb#2.174.0", "es": "Bazuca BB"}
@@ -546,7 +546,7 @@
 {"key": "item/ItemTable.tbb#2.752.0", "es": "Disparo de Suzaku"}
 {"key": "item/ItemTable.tbb#2.753.0", "es": "Bomba de Genbu"}
 {"key": "item/ItemTable.tbb#2.754.0", "es": "Balas de Baihu"}
-{"key": "item/ItemTable.tbb#2.755.0", "es": "Balas largas"}
+{"key": "item/ItemTable.tbb#2.755.0", "es": "Balas de Long"}
 {"key": "item/ItemTable.tbb#2.756.0", "es": "Balas AP"}
 {"key": "item/ItemTable.tbb#2.757.0", "es": "Disparo aturdidor"}
 {"key": "item/ItemTable.tbb#2.758.0", "es": "Balas de Hefesto"}
@@ -622,7 +622,7 @@
 {"key": "item/ItemTable.tbb#4.3.0", "es": "Tostadora"}
 {"key": "item/ItemTable.tbb#4.4.0", "es": "Calculadora"}
 {"key": "item/ItemTable.tbb#4.5.0", "es": "Microondas"}
-{"key": "item/ItemTable.tbb#4.6.0", "es": "Tarjeta memoria"}
+{"key": "item/ItemTable.tbb#4.6.0", "es": "Tarjeta de memoria"}
 {"key": "item/ItemTable.tbb#4.7.0", "es": "Despertador"}
 {"key": "item/ItemTable.tbb#4.8.0", "es": "Secador de pelo"}
 {"key": "item/ItemTable.tbb#4.9.0", "es": "Hub USB"}
@@ -675,7 +675,7 @@
 {"key": "item/ItemTable.tbb#4.107.0", "es": "Vinagre"}
 {"key": "item/ItemTable.tbb#4.108.0", "es": "Azúcar"}
 {"key": "item/ItemTable.tbb#4.109.0", "es": "Sal"}
-{"key": "item/ItemTable.tbb#4.110.0", "es": "Comida al instante"}
+{"key": "item/ItemTable.tbb#4.110.0", "es": "Comida instantánea"}
 {"key": "item/ItemTable.tbb#4.111.0", "es": "Comida saludable"}
 {"key": "item/ItemTable.tbb#4.112.0", "es": "Comida congelada"}
 {"key": "item/ItemTable.tbb#4.113.0", "es": "Comida seca"}
@@ -786,14 +786,14 @@
 {"key": "item/ItemTable.tbb#4.323.0", "es": "Almizcle de ciervo"}
 {"key": "item/ItemTable.tbb#4.324.0", "es": "Ámbar gris"}
 {"key": "item/ItemTable.tbb#4.350.0", "es": "Moneda de 1 yen"}
-{"key": "item/ItemTable.tbb#4.351.0", "es": "Moneda 5 yen"}
-{"key": "item/ItemTable.tbb#4.352.0", "es": "Moneda 10 yen"}
-{"key": "item/ItemTable.tbb#4.353.0", "es": "Moneda 100 yen"}
-{"key": "item/ItemTable.tbb#4.354.0", "es": "Moneda 500 yen"}
-{"key": "item/ItemTable.tbb#4.355.0", "es": "Billete 1000 yen"}
-{"key": "item/ItemTable.tbb#4.356.0", "es": "Billete 2000 yen"}
-{"key": "item/ItemTable.tbb#4.357.0", "es": "Billete 5000 yen"}
-{"key": "item/ItemTable.tbb#4.358.0", "es": "Billete 10000 yen"}
+{"key": "item/ItemTable.tbb#4.351.0", "es": "Moneda de 5 yenes"}
+{"key": "item/ItemTable.tbb#4.352.0", "es": "Moneda de 10 yenes"}
+{"key": "item/ItemTable.tbb#4.353.0", "es": "Moneda de 100 yenes"}
+{"key": "item/ItemTable.tbb#4.354.0", "es": "Moneda de 500 yenes"}
+{"key": "item/ItemTable.tbb#4.355.0", "es": "Billete de 1000 yenes"}
+{"key": "item/ItemTable.tbb#4.356.0", "es": "Billete de 2000 yenes"}
+{"key": "item/ItemTable.tbb#4.357.0", "es": "Billete de 5000 yenes"}
+{"key": "item/ItemTable.tbb#4.358.0", "es": "Billete de 10000 yenes"}
 {"key": "item/ItemTable.tbb#4.359.0", "es": "Tarjeta de crédito"}
 {"key": "item/ItemTable.tbb#4.360.0", "es": "Folleto de película"}
 {"key": "item/ItemTable.tbb#4.361.0", "es": "Entrada"}
@@ -803,7 +803,7 @@
 {"key": "item/ItemTable.tbb#4.365.0", "es": "Garantía solidaria"}
 {"key": "item/ItemTable.tbb#4.366.0", "es": "Lista de invitados"}
 {"key": "item/ItemTable.tbb#4.367.0", "es": "Acusación formal"}
-{"key": "item/ItemTable.tbb#4.368.0", "es": "Licencia"}
+{"key": "item/ItemTable.tbb#4.368.0", "es": "Licencia de conducir"}
 {"key": "item/ItemTable.tbb#4.369.0", "es": "0"}
 {"key": "item/ItemTable.tbb#4.370.0", "es": "Orden de arresto"}
 {"key": "item/ItemTable.tbb#4.371.0", "es": "Sello imperial"}
@@ -911,7 +911,7 @@
 {"key": "item/ItemTable.tbb#6.39.0", "es": "Esmeralda"}
 {"key": "item/ItemTable.tbb#6.40.0", "es": "Gema de curación total"}
 {"key": "item/ItemTable.tbb#6.41.0", "es": "Reliquia de resurrección"}
-{"key": "item/ItemTable.tbb#6.42.0", "es": "Reloj de arena"}
+{"key": "item/ItemTable.tbb#6.42.0", "es": "Reloj de arena dimensional"}
 {"key": "item/ItemTable.tbb#6.43.0", "es": "???"}
 {"key": "item/ItemTable.tbb#6.44.0", "es": "???"}
 {"key": "item/ItemTable.tbb#6.45.0", "es": "???"}
