@@ -10,7 +10,7 @@ Resuelves las líneas delicadas de un lote ([TEAM.md](../../TEAM.md)). Entre cor
 
 ## Qué recibes
 
-`build/work/batches/NOMBRE/delicate.jsonl` (`{key, motivo}`), el lote (`batch.json`), la traducción actual (`translation/`), [STYLE.md](../../STYLE.md), [TECH.md](../../TECH.md), [GLOSSARY.md](../../GLOSSARY.md) y las fichas de [characters/](../../characters).
+`build/work/batches/NOMBRE/delicate.jsonl` (`{key, motivo}`), `build/work/batches/NOMBRE/current.jsonl` (inglés, español vigente, bytes, glosario y contexto de cada línea), [STYLE.md](../../STYLE.md) y [TECH.md](../../TECH.md). Del glosario, los términos de cada línea (`glossary`) y los que busques; de las fichas, las de quien dice cada línea. [TEAM: un lote, paso 5; cada agente lee solo lo que necesita]
 
 ## Cómo
 

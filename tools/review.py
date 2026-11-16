@@ -5,10 +5,12 @@
     python3 tools/review.py edits NOMBRE_DE_LOTE
 
 findings  lee build/work/batches/NOMBRE/findings-*.jsonl y comprueba cada
-          hallazgo: campos completos, la línea es del lote y la regla citada
-          existe en STYLE.md, TECH.md o GLOSSARY.md. Los válidos van a
-          approved.jsonl. Los «sin regla» y los que citan una regla que no
-          existe no llegan al texto: se agregan a PENDING.md.
+          hallazgo: campos completos, la línea es del lote, el «fragmento» está
+          tal cual en el español actual o en el inglés (la evidencia) y la regla
+          citada existe en STYLE.md, TECH.md o GLOSSARY.md. Los válidos van a
+          approved.jsonl; dos hallazgos de la misma línea con el mismo arreglo
+          quedan en uno («tambien» lleva el otro id). Los «sin regla» y los que
+          citan una regla que no existe no llegan al texto: se agregan a PENDING.md.
 edits     lee edits.jsonl del editor ({key, old, es, hallazgos}) y aplica solo
           los cambios que responden a un hallazgo aprobado de esa misma línea y
           cuyo «old» es el texto actual. Los demás se rechazan. El cambio se copia
@@ -38,8 +40,11 @@ def findings(name):
     batch = load_batch(name)
     keys = {it["key"] for it in batch["items"]}
     rules = corpus.rule_ids()
+    done = corpus.translations()
+    eng = corpus.english()
     d = batch_dir(name)
     approved, pending, rejected = [], [], []
+    same = {}
     for path in sorted(d.glob("findings-*.jsonl")):
         role = path.stem.split("-", 1)[1]
         for f in read_jsonl(path):
@@ -53,14 +58,20 @@ def findings(name):
                 problem = f"pasada desconocida: {f['pasada']}"
             elif f["gravedad"] not in SEVERITY:
                 problem = f"gravedad desconocida: {f['gravedad']}"
+            elif not evidence(f["key"], str(f["fragmento"]), done, eng):
+                problem = "el fragmento no está tal cual en el español actual ni en el inglés"
             if problem:
                 rejected.append((f, problem))
             elif f["regla"] == NO_RULE:
                 pending.append((f, "sin regla"))
             elif f["regla"] not in rules:
                 pending.append((f, f"cita {f['regla']}, que no existe"))
+            elif (f["key"], f["arreglo"]) in same:
+                same[(f["key"], f["arreglo"])].setdefault("tambien", []).append(f["id"])
             else:
+                same[(f["key"], f["arreglo"])] = f
                 approved.append(f)
+    repeated = sum(len(f.get("tambien", [])) for f in approved)
     with open(d / "approved.jsonl", "w", encoding="utf-8") as w:
         for f in approved:
             w.write(json.dumps(f, ensure_ascii=False) + "\n")
@@ -68,7 +79,20 @@ def findings(name):
         add_pending(name, pending)
     for f, why in rejected:
         print(f"RECHAZADO {f.get('id', '?')} ({f.get('rol')}): {why}")
-    print(f"{len(approved)} hallazgos aprobados, {len(pending)} a PENDING.md, {len(rejected)} rechazados")
+    extra = f" ({repeated} repetidos, juntos con el otro)" if repeated else ""
+    print(f"{len(approved)} hallazgos aprobados{extra}, {len(pending)} a PENDING.md, {len(rejected)} rechazados")
+
+
+def evidence(key, fragment, done, eng):
+    """El fragmento citado tiene que estar tal cual en el texto: el español actual o el inglés."""
+    texts = [done.get(key) or ""]
+    if key in eng:
+        texts.append(eng[key]["en"])
+        try:
+            texts.append(corpus.reading_en(key))
+        except Exception:  # noqa: BLE001 - la forma de lectura es solo una ayuda
+            pass
+    return bool(fragment.strip()) and any(fragment in t for t in texts)
 
 
 def add_pending(name, items):
@@ -82,7 +106,10 @@ def add_pending(name, items):
 
 def edits(name):
     d = batch_dir(name)
-    approved = {f["id"]: f for f in read_jsonl(d / "approved.jsonl")}
+    approved = {}
+    for f in read_jsonl(d / "approved.jsonl"):
+        for i in [f["id"], *f.get("tambien", [])]:
+            approved[i] = f
     done = corpus.translations()
     eng = corpus.english()
     changes, rejected = {}, []
