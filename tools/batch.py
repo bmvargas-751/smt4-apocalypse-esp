@@ -82,9 +82,9 @@ def prepare(section=None, prefix=None, size=250, name=None, japanese=False, repe
     items = []
     for k in chosen:
         item = {"key": k, "kind": corpus.kind_of(k), "en": corpus.reading_en(k)}
-        if item["kind"] == "tbb":
+        if item["kind"] != "mbm":
             item["max"] = eng[k]["max"]
-        else:
+        if item["kind"] != "tbb":  # los textos vecinos: en el ejecutable suelen ser de la misma lista
             rel = corpus.rel_of(k)
             prev = [p for p in keys[max(0, position[k] - CONTEXT):position[k]] if corpus.rel_of(p) == rel]
             item["context"] = [{"key": p, "en": corpus.reading_en(p), "es": done.get(p)} for p in prev]
@@ -151,7 +151,7 @@ def fill(section, dry_run=False):
     changes, too_long = {}, []
     meter = corpus.meter()
     for k, v in eng.items():
-        if k in done or k in EXCLUDED_KEYS or corpus.kind_of(k) != "tbb":
+        if k in done or k in EXCLUDED_KEYS or corpus.kind_of(k) == "mbm":
             continue
         if section_of(corpus.rel_of(k)) != section:
             continue
@@ -164,9 +164,12 @@ def fill(section, dry_run=False):
         if len(tbb.encode(es)) > v["max"]:
             too_long.append((k, en, es, f"{len(tbb.encode(es))} bytes, máximo {v['max']}"))
             continue
-        _, tb, _, col = re.match(r"(.*)#(\d+)\.(\d+)\.(\d+)$", k).groups()
-        cw = corpus.column_width(corpus.rel_of(k), int(tb), int(col))
-        if meter.width(es) > cw:  # T-3: más ancho que el inglés más largo de su columna
+        if corpus.kind_of(k) == "tbb":
+            _, tb, _, col = re.match(r"(.*)#(\d+)\.(\d+)\.(\d+)$", k).groups()
+            cw = corpus.column_width(corpus.rel_of(k), int(tb), int(col))
+        else:
+            cw = meter.width(v["en"])
+        if corpus.kind_of(k) == "tbb" and meter.width(es) > cw:  # T-3: más ancho que el inglés más largo de su columna
             too_long.append((k, en, es, f"{meter.width(es)} px, el inglés llega a {cw}"))
             continue
         changes[k] = es

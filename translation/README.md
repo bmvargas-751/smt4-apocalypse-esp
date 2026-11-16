@@ -17,7 +17,8 @@ La traducción es la fase 6 del [plan](../PLAN.md) y se hace por secciones, en e
 | 6.6 | Negociaciones | Conversaciones con demonios, por personalidad | 5.847 | 5.847 | 100,0 % |
 | 6.7 | Demonios en combate | Frases de demonios y compañeros en combate y en StreetPass | 1.973 | 1.973 | 100,0 % |
 | 6.8 | Contenido descargable | Misiones descargables | 488 | 488 | 100,0 % |
-| | **Total** | | **21.846** | **21.846** | **100,0 %** |
+| 6.9 | Ejecutable | Textos cortos de interfaz del ejecutable (exefs/code.bin) | 0 | 1.016 | 0,0 % |
+| | **Total** | | **21.846** | **22.862** | **95,6 %** |
 <!-- /progress -->
 
 - **Se cuentan textos**, no palabras: un mensaje puede ser un «Sí» o una escena entera, y un texto de tabla suele ser un nombre. Muchos se repiten (de los 24.182 mensajes, 11.490 son distintos; de los 6.757 textos de tablas, 3.306), y una línea repetida se traduce una sola vez.

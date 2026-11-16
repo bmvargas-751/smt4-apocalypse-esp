@@ -125,11 +125,16 @@ def check(key, es):
                 warn("bytes", "T-4", f"{n} bytes, el máximo es {eng['max']}")
         except UnicodeEncodeError as e:
             warn("caracteres", "T-5", f"no se puede escribir en la tabla: {e.object[e.start:e.end]}")
-        _, t, _, o = re.match(r"(.*)#(\d+)\.(\d+)\.(\d+)$", key).groups()
-        cw = corpus.column_width(corpus.rel_of(key), int(t), int(o))
+        if kind == "tbb":
+            _, t, _, o = re.match(r"(.*)#(\d+)\.(\d+)\.(\d+)$", key).groups()
+            cw = corpus.column_width(corpus.rel_of(key), int(t), int(o))
+            where = "el inglés de esta columna llega a"
+        else:  # exe: sin columnas; se compara con el mismo texto en inglés
+            cw = max(m.width(line) for line in en.split("\n"))
+            where = "el inglés mide"
         wide = [line for line in es.split("\n") if m.width(line) > cw]
         if wide:
-            warn("ancho", "T-3", f"renglón de {m.width(wide[0])} px; el inglés de esta columna llega a {cw}")
+            warn("ancho", "T-3", f"renglón de {m.width(wide[0])} px; {where} {cw}")
         if es.count("\n") > en.count("\n"):
             warn("renglones", "T-3", f"{es.count(chr(10)) + 1} renglones; el inglés tiene {en.count(chr(10)) + 1}")
     if Counter(re.findall(r"%[sd]", en)) != Counter(re.findall(r"%[sd]", es)):

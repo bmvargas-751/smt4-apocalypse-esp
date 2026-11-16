@@ -9,7 +9,7 @@ Traducción fan al español neutro de *Shin Megami Tensei IV: Apocalypse* (Ninte
 ## Avance
 
 <!-- progress: lo actualiza `python3 -I tools/progress.py --readme` en cada commit que toca translation/ -->
-**Etapa actual:** Fase 7. Prueba en el juego: Jugar con la traducción completa y anotar cortes, cajas que se pasan, glifos que faltan y texto que quedó en inglés.
+**Etapa actual:** Fase 6. Traducción: 6.9 Ejecutable: los textos cortos de interfaz de `exefs/code.bin` (`tools/codebin.py`)
 
 | Fase | Sección | Traducidos | Total | % |
 |---|---|---:|---:|---:|
@@ -21,7 +21,8 @@ Traducción fan al español neutro de *Shin Megami Tensei IV: Apocalypse* (Ninte
 | 6.6 | Negociaciones | 5.847 | 5.847 | 100,0 % |
 | 6.7 | Demonios en combate | 1.973 | 1.973 | 100,0 % |
 | 6.8 | Contenido descargable | 488 | 488 | 100,0 % |
-| | **Total** | **21.846** | **21.846** | **100,0 %** |
+| 6.9 | Ejecutable | 0 | 1.016 | 0,0 % |
+| | **Total** | **21.846** | **22.862** | **95,6 %** |
 <!-- /progress -->
 
 Qué entra en cada sección y cómo se cuenta: [translation/README.md](translation/README.md).

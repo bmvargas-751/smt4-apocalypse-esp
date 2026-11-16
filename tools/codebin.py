@@ -30,6 +30,7 @@ PREFIX = "exefs/code.bin"
 # Letras y números de ancho completo (Ａ-Ｚ, ａ-ｚ, ０-９): marcan un texto en inglés.
 FULL_LATIN = re.compile(rb"\x82[\x4f-\x9a]")
 JAPANESE = re.compile("[぀-ヿ一-鿿]")
+WORD = re.compile("[A-Za-z]{2}")
 
 
 def key(off):
@@ -110,6 +111,10 @@ def find_texts(code):
         except (ValueError, UnicodeDecodeError):
             continue
         if JAPANESE.search(text) or any(ord(ch) < 0x20 for ch in text):
+            continue
+        # Sin dos letras seguidas no hay qué traducir (pisos «B1F», rangos «10~19», cifras,
+        # datos que parecen texto); la tabla de conversión a ancho completo es del juego.
+        if not WORD.search(text) or "ABCDEFGHIJKLMNOPQRSTUVWXYZ" in text:
             continue
         # Lugar: hasta el múltiplo de 4 siguiente al 00, mientras siga habiendo ceros.
         end = (e + 1 + 3) & ~3

@@ -14,3 +14,4 @@ Se deciden al ver la pantalla (DECISIONS 2026-11-16).
 - [ ] Lote historia-009 (orquestador): no se quitó el espacio de «{F801} {F801}» en BtlEventSub131#11 y BtlEventSub147#6 (viene del inglés: es una página con un solo espacio). Ver en el juego si esa página en blanco hace falta.
 - [ ] `map/m026/m026.mbm#2` (reviewer, sin regla): «First» → «Primero». Sin contexto de qué lista abre; ver en el juego.
 - [ ] `battle/Legion/LegionMsg.mbm#212` (orquestador, T-2): el inglés tiene *You make me sick{F801}Oh dear...* sin punto, y check.py lo lee como un salto blando (4 frases en vez de 5). Queda «Me das asco. Ay, cielos...» en un solo fragmento, como lo cuenta la herramienta. Si en el juego cada {F801} es una frase suelta de la horda, se separa.
+- [ ] **Ejecutable** (orquestador): sus textos van en letras de un byte, no en el ancho completo del inglés; revisar en el juego que se vean bien (con tildes) y que quepan en su lugar (elementos, estados, menús).
