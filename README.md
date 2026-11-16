@@ -9,7 +9,7 @@ Traducción fan al español neutro de *Shin Megami Tensei IV: Apocalypse* (Ninte
 ## Avance
 
 <!-- progress: lo actualiza `python3 -I tools/progress.py --readme` en cada commit que toca translation/ -->
-**Etapa actual:** Fase 1. Prueba técnica: Ida y vuelta del ejecutable (`code.bin`): tiene unos mil textos de interfaz en inglés de ancho completo (elementos, estados, mensajes cortos).
+**Etapa actual:** Fase 7. Prueba en el juego: Jugar con la traducción completa y anotar cortes, cajas que se pasan, glifos que faltan y texto que quedó en inglés.
 
 | Fase | Sección | Traducidos | Total | % |
 |---|---|---:|---:|---:|

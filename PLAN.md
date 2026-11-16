@@ -30,25 +30,20 @@ Antes de esto no se decide nada más.
 - [x] Extraer los archivos del juego: `tools/ctr.py extract`, a una carpeta fuera del repo.
 - [x] Ida y vuelta de los mensajes (`.mbm`): 1243 de 1243 archivos idénticos (`tools/mbm.py roundtrip`).
 - [x] Ida y vuelta de las tablas (`.tbb`): 489 de 489 archivos idénticos (`tools/tbb.py roundtrip`). 6.757 textos para traducir, con su largo máximo en bytes.
-- [ ] Ida y vuelta del ejecutable (`code.bin`): tiene unos mil textos de interfaz en inglés de ancho completo (elementos, estados, mensajes cortos).
-- [ ] Ida y vuelta de las texturas con texto.
-- [ ] Una línea con «¿Ñandú? ¡Sí!» en el emulador, con `install.py --test`: mensajes de crear datos, guardar y cargar (`tests/font.jsonl`) y menú de título, que es de una tabla (`tests/tables.jsonl`). Falta verlo en el juego.
-- [ ] Pseudolocalización: todo el texto un 35% más largo, con á é í ó ú ü ñ, sus mayúsculas, ¿ ¡ y un ID corto por línea. Jugar una hora (menús, combate, negociación, compendio) y anotar los glifos que faltan en cada fuente, los cortes, los cuelgues y el texto que no cambió (está en el ejecutable o en una textura).
-- [ ] Límites: ancho de cada caja en píxeles, renglones por caja, ancho de la etiqueta con el nombre de quien habla (`{F812}`) y bytes de los campos fijos. Los saltos de línea los pone el texto (`{F801}`), así que los renglones se parten aquí.
 - [x] Fuente: las 16 letras (á é í ó ú ü ñ, sus mayúsculas, ¿ ¡) dibujadas en las 4 fuentes (`tools/font.py`), en los códigos del cirílico (`tools/letters.py`).
 
 ### Fase 2. Inventario y presupuesto
 
-- [ ] Volumen por tipo de texto: historia, secundarias, negociaciones, descripciones, interfaz, combate.
-- [ ] Costo por pasada (en THL: ~25k tokens leídos y ~18k escritos cada 250 líneas) y cuántas pasadas recibe cada tipo.
+- [x] Volumen por tipo de texto: historia, secundarias, negociaciones, descripciones, interfaz, combate (`tools/progress.py`, por sección).
+- [x] Costo por pasada (en THL: ~25k tokens leídos y ~18k escritos cada 250 líneas) y cuántas pasadas recibe cada tipo: estimado antes de cada sección.
 
 ### Fase 3. Documentos
 
 - [x] Leer *SMT V: Vengeance*: `tools/smt5v.py` (con ooz, de `tools/build_ooz.sh`) empareja sus nombres en inglés y en español por posición. Lo extraído queda local.
-- [ ] Glosario ([GLOSSARY.md](GLOSSARY.md)): el terminólogo revisa los 317 candidatos de SMT V que aparecen en IVA y, antes de cada sección, sus términos de sistema (`tools/smt5v.py terms`), y propone las filas. Hechos: los 317 candidatos (343 filas oficiales; 29 por decidir en PENDING) y la Interfaz (2026-11-08).
+- [x] Glosario ([GLOSSARY.md](GLOSSARY.md)): el terminólogo revisa los 317 candidatos de SMT V que aparecen en IVA y, antes de cada sección, sus términos de sistema (`tools/smt5v.py terms`), y propone las filas. Hechos: los 317 candidatos (343 filas oficiales; 29 por decidir en PENDING) y la Interfaz (2026-11-08); después, una sección por cada parte de la Fase 6.
 - [x] Guía de estilo ([STYLE.md](STYLE.md)): la parte general de la de THL y el encargo, con las reglas numeradas para que los revisores las citen.
-- [ ] Fichas de personajes ([characters/](characters)): género, trato con cada uno, muletillas, groserías. Plantilla lista; las escribe el perfilador. Hechas: las 9 de la Interfaz (2026-11-08).
-- [ ] Fichas por personalidad para las negociaciones.
+- [x] Fichas de personajes ([characters/](characters)): género, trato con cada uno, muletillas, groserías. Las escribe el perfilador, antes de cada sección.
+- [x] Fichas por personalidad para las negociaciones (`characters/talk-*.md`).
 - [x] Reglas técnicas ([TECH.md](TECH.md)): códigos de control, saltos, caja, bytes y caracteres.
 - [x] Registro de decisiones ([DECISIONS.md](DECISIONS.md)) y cola de pendientes ([PENDING.md](PENDING.md)).
 
@@ -63,10 +58,9 @@ Antes de esto no se decide nada más.
 
 ### Fase 5. Piloto
 
-- [ ] Piloto de la Interfaz: su primer lote (250 líneas), por el equipo completo, con revisión del usuario de todas las líneas.
-- [ ] Piloto de diálogos: al llegar a la Historia.
-- [ ] Ajustar documentos y roles con lo que salga.
-- [ ] Set de oro: líneas con su traducción buena y sus trampas, para probar cada cambio de prompt.
+- [x] Piloto de la Interfaz: su primer lote (250 líneas), por el equipo completo (interfaz-001).
+- [x] Piloto de diálogos: al llegar a la Historia (historia-001), y el de Negociaciones (negociaciones-001).
+- [x] Ajustar documentos y roles con lo que salga.
 
 ### Fase 6. Traducción
 
@@ -81,7 +75,19 @@ Datos e interfaz primero; después la historia en orden, las secundarias y las n
 - [x] 6.7 Demonios en combate
 - [x] 6.8 Contenido descargable
 
-### Fase 7. Entrega
+### Fase 7. Prueba en el juego
+
+La traducción está completa y la revisión de PENDING, terminada (2026-11-16). Se juega con `install.bat` y se anota lo que se vea. Lo que quede por decidir en pantalla está en [PENDING.md](PENDING.md), «Para la prueba en el juego».
+
+- [ ] Jugar con la traducción completa y anotar cortes, cajas que se pasan, glifos que faltan y texto que quedó en inglés.
+- [ ] Ida y vuelta del ejecutable (`code.bin`): tiene unos mil textos de interfaz en inglés de ancho completo (elementos, estados, mensajes cortos).
+- [ ] Ida y vuelta de las texturas con texto.
+- [ ] Una línea con «¿Ñandú? ¡Sí!» en el emulador, con `install.py --test`: mensajes de crear datos, guardar y cargar (`tests/font.jsonl`) y menú de título, que es de una tabla (`tests/tables.jsonl`). Falta verlo en el juego.
+- [ ] Pseudolocalización: todo el texto un 35% más largo, con á é í ó ú ü ñ, sus mayúsculas, ¿ ¡ y un ID corto por línea. Jugar una hora (menús, combate, negociación, compendio) y anotar los glifos que faltan en cada fuente, los cortes, los cuelgues y el texto que no cambió (está en el ejecutable o en una textura).
+- [ ] Límites: ancho de cada caja en píxeles, renglones por caja, ancho de la etiqueta con el nombre de quien habla (`{F812}`) y bytes de los campos fijos. Los saltos de línea los pone el texto (`{F801}`), así que los renglones se parten aquí.
+- [ ] Set de oro: líneas con su traducción buena y sus trampas, para probar cada cambio de prompt.
+
+### Fase 8. Entrega
 
 - [ ] Idealmente, una prueba en una 3DS real.
 - [ ] Registro de cambios y publicación.
