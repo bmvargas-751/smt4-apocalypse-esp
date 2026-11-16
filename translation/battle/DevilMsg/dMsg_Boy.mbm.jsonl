@@ -1,1 +1,22 @@
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#0", "es": "{F871}{0100}¡Habilidad conseguida!{F801}¡Déjame pelear más!{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#1", "es": "{F871}{0100}¡Mira, mira, {F843}{0000}! ¿Verdad que es genial?{F801}Je, je, je...{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#2", "es": "{F871}{0100}¡Voy a convertirte en un gran cazador!{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#3", "es": "{F871}{0100}Demasiadas habilidades, ¿eh?{F801}Tiremos una.{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#4", "es": "{F871}{0100}¡Okey, cambio {F804}{0500}{F877}{0100}{F804}{0000} por {F804}{0500}{F877}{0200}{F804}{0000}!{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#5", "es": "{F871}{0100}¡Déjamelo a mí!{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#6", "es": "{F871}{0100}Tsk, tsk, tsk...{F801}Eres un debilucho, ¿eh?{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#7", "es": "{F871}{0100}¡Transfoooormación!{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#8", "es": "{F871}{0100}¡Tú sí que no te complicas!{F801}¡Hagámoslo!{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#9", "es": "{F871}{0100}...¡Raaah!{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#10", "es": "{F871}{0100}¡Me siento genial!{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#11", "es": "{F871}{0100}Siguiente forma...{F801}5... 4... 3... 2...{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#12", "es": "{F871}{0100}Te doy esto: {F804}{0500}{F872}{0100}{F804}{0000}.{F801}No te mueras.{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#13", "es": "{F871}{0100}¡{F843}{0000}! ¡Ánimo! ¡Toma esto:{F801}{F804}{0500}{F872}{0100}{F804}{0000}!{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#14", "es": "{F871}{0100}Toma: {F804}{0500}{F872}{0100}{F804}{0000}.{F801}¡Seamos los cazadores más fuertes!{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#15", "es": "{F871}{0100}Te enseñaré sobre el poder de los demonios.{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#16", "es": "{F871}{0100}Puedo enseñarte más si quieres, ¿sabes?{F801}{F802}{FFFF}"}
 {"key": "battle/DevilMsg/dMsg_Boy.mbm#17", "es": "{F871}{0100}Soy {F804}{0500}{F875}{0100} {F873}{0100}{F804}{0000}.{F801}¡Mucho gusto!{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#18", "es": "{F871}{0100}Dejar que la habilidad mute{F801}No dejar que cambie{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#19", "es": "Dejar que el demonio se transforme{F801}No hacerlo{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#20", "es": "“Con esto me basta.”{F801}“Déjame pensarlo...”{F801}{F802}{FFFF}"}
+{"key": "battle/DevilMsg/dMsg_Boy.mbm#21", "es": "{F812}Mido{0000}{F87A}{0100}...Parece que hubo un error en su fusión. Se ha creado un demonio distinto al previsto.{F801}{F802}{FFFF}"}
