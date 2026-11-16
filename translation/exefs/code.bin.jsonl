@@ -1,0 +1,1016 @@
+{"key": "exefs/code.bin#0xFD310", "es": "Ninguno"}
+{"key": "exefs/code.bin#0xFD7CC", "es": "No hay habilidades disponibles."}
+{"key": "exefs/code.bin#0xFDDB4", "es": "Sus habilidades son desconocidas."}
+{"key": "exefs/code.bin#0x10D2EC", "es": "Curativa"}
+{"key": "exefs/code.bin#0x10D2F8", "es": "Físico"}
+{"key": "exefs/code.bin#0x10D304", "es": "Disparo"}
+{"key": "exefs/code.bin#0x10D30C", "es": "Fuego"}
+{"key": "exefs/code.bin#0x10D318", "es": "Hielo"}
+{"key": "exefs/code.bin#0x10D320", "es": "Eléctrico"}
+{"key": "exefs/code.bin#0x10D32C", "es": "Choque"}
+{"key": "exefs/code.bin#0x10D338", "es": "Luz"}
+{"key": "exefs/code.bin#0x10D344", "es": "Oscuridad"}
+{"key": "exefs/code.bin#0x10D350", "es": "Veneno"}
+{"key": "exefs/code.bin#0x10D360", "es": "Pánico"}
+{"key": "exefs/code.bin#0x10D36C", "es": "Sueño"}
+{"key": "exefs/code.bin#0x10D378", "es": "Atadura"}
+{"key": "exefs/code.bin#0x10D384", "es": "Enfermedad"}
+{"key": "exefs/code.bin#0x10D390", "es": "Perdido"}
+{"key": "exefs/code.bin#0x10D39C", "es": "Encanto"}
+{"key": "exefs/code.bin#0x10D3A8", "es": "Mareo"}
+{"key": "exefs/code.bin#0x10D3B4", "es": "Silencio"}
+{"key": "exefs/code.bin#0x10D3C0", "es": "Todopoderoso"}
+{"key": "exefs/code.bin#0x10EF4C", "es": "Veneno"}
+{"key": "exefs/code.bin#0x10EF5C", "es": "Enfermedad"}
+{"key": "exefs/code.bin#0x115248", "es": "%sH %sM"}
+{"key": "exefs/code.bin#0x118E68", "es": "%s macca"}
+{"key": "exefs/code.bin#0x11B4B4", "es": "No especificar"}
+{"key": "exefs/code.bin#0x12A9E0", "es": "No se pudo obtener el nombre del mapa"}
+{"key": "exefs/code.bin#0x12B6A0", "es": "Resultado"}
+{"key": "exefs/code.bin#0x12B6B0", "es": "1.°"}
+{"key": "exefs/code.bin#0x12B6B8", "es": "2.°"}
+{"key": "exefs/code.bin#0x12B6C0", "es": "3.°"}
+{"key": "exefs/code.bin#0x12B6C8", "es": "4.°"}
+{"key": "exefs/code.bin#0x12C42C", "es": "Diosa"}
+{"key": "exefs/code.bin#0x12ECD0", "es": "Sin afinidades de habilidad"}
+{"key": "exefs/code.bin#0x130CA0", "es": "Todos los aliados"}
+{"key": "exefs/code.bin#0x130CB8", "es": "1 enemigo"}
+{"key": "exefs/code.bin#0x130CC8", "es": "Todos los enemigos"}
+{"key": "exefs/code.bin#0x130CE0", "es": "Uno mismo"}
+{"key": "exefs/code.bin#0x130CEC", "es": "Todos"}
+{"key": "exefs/code.bin#0x130D00", "es": "Varios enemigos"}
+{"key": "exefs/code.bin#0x130D1C", "es": "1 aliado"}
+{"key": "exefs/code.bin#0x13BDB0", "es": "Buscando "}
+{"key": "exefs/code.bin#0x13BDCC", "es": "Ocurrió un error de fusión."}
+{"key": "exefs/code.bin#0x13C044", "es": "Buscando"}
+{"key": "exefs/code.bin#0x13DCBC", "es": "No hay habilidades disponibles."}
+{"key": "exefs/code.bin#0x1548E8", "es": "%s lanza Estoma."}
+{"key": "exefs/code.bin#0x154910", "es": "El efecto de Estoma se acabó."}
+{"key": "exefs/code.bin#0x154968", "es": "El agua seductora se acabó."}
+{"key": "exefs/code.bin#0x1549A0", "es": "El efecto de Riberama se acabó."}
+{"key": "exefs/code.bin#0x1615B8", "es": "        1.° (A)"}
+{"key": "exefs/code.bin#0x1615D8", "es": "        2.° (A)"}
+{"key": "exefs/code.bin#0x1615F8", "es": "        3.° (B)"}
+{"key": "exefs/code.bin#0x161618", "es": "        4.° (A)"}
+{"key": "exefs/code.bin#0x161638", "es": "        4.° (S)"}
+{"key": "exefs/code.bin#0x161658", "es": "        1.° (C)"}
+{"key": "exefs/code.bin#0x161678", "es": "        1.° (G)"}
+{"key": "exefs/code.bin#0x161698", "es": "        2.° (C)"}
+{"key": "exefs/code.bin#0x1616B8", "es": "        2.° (F)"}
+{"key": "exefs/code.bin#0x1616D8", "es": "        2.° (L)"}
+{"key": "exefs/code.bin#0x1616F8", "es": "        3.° (C)"}
+{"key": "exefs/code.bin#0x161718", "es": "        3.° (D)"}
+{"key": "exefs/code.bin#0x161738", "es": "        3.° (E)"}
+{"key": "exefs/code.bin#0x161758", "es": "        3.° (F)"}
+{"key": "exefs/code.bin#0x161778", "es": "        4.° (C)"}
+{"key": "exefs/code.bin#0x161798", "es": "        4.° (E)"}
+{"key": "exefs/code.bin#0x1617B8", "es": "        4.° (F)"}
+{"key": "exefs/code.bin#0x1617D8", "es": "        1.° (H)"}
+{"key": "exefs/code.bin#0x1617F8", "es": "        3.° (G)"}
+{"key": "exefs/code.bin#0x164BBC", "es": "Fusión de demonios"}
+{"key": "exefs/code.bin#0x178FDC", "es": "%s lanzan Estoma."}
+{"key": "exefs/code.bin#0x179000", "es": "El efecto de Estoma se acabó."}
+{"key": "exefs/code.bin#0x1844A0", "es": "〉 ¿A dónde quieres ir?"}
+{"key": "exefs/code.bin#0x18568C", "es": "Zona actual"}
+{"key": "exefs/code.bin#0x185EEC", "es": "Límite de fusión:"}
+{"key": "exefs/code.bin#0x185F14", "es": "Ninguno"}
+{"key": "exefs/code.bin#0x188EFC", "es": "¡Nuevo registro posible!"}
+{"key": "exefs/code.bin#0x18AC98", "es": "Acompañante"}
+{"key": "exefs/code.bin#0x18ACA8", "es": "Todos los aliados"}
+{"key": "exefs/code.bin#0x18ACC0", "es": "1 aliado"}
+{"key": "exefs/code.bin#0x18ACD8", "es": "Ninguno"}
+{"key": "exefs/code.bin#0x18ACE4", "es": "Muerte instantánea"}
+{"key": "exefs/code.bin#0x18AD00", "es": "Veneno"}
+{"key": "exefs/code.bin#0x18AD10", "es": "Pánico"}
+{"key": "exefs/code.bin#0x18AD1C", "es": "Sueño"}
+{"key": "exefs/code.bin#0x18AD28", "es": "Atadura"}
+{"key": "exefs/code.bin#0x18AD34", "es": "Enfermedad"}
+{"key": "exefs/code.bin#0x18AD40", "es": "Encanto"}
+{"key": "exefs/code.bin#0x18AD4C", "es": "Mareo"}
+{"key": "exefs/code.bin#0x18AD58", "es": "Silencio"}
+{"key": "exefs/code.bin#0x18B03C", "es": "Absorber: "}
+{"key": "exefs/code.bin#0x18B04C", "es": "Repeler: "}
+{"key": "exefs/code.bin#0x18B05C", "es": "Anular: "}
+{"key": "exefs/code.bin#0x18B068", "es": "Resistir: "}
+{"key": "exefs/code.bin#0x18B078", "es": "Débil: "}
+{"key": "exefs/code.bin#0x18D73C", "es": "Atacar"}
+{"key": "exefs/code.bin#0x18DA40", "es": "Disparar"}
+{"key": "exefs/code.bin#0x18EC08", "es": "Disparar"}
+{"key": "exefs/code.bin#0x19A23C", "es": "Por favor, acéptalo."}
+{"key": "exefs/code.bin#0x1A9994", "es": "Heredando"}
+{"key": "exefs/code.bin#0x1A99B4", "es": "Habilidades de los padres"}
+{"key": "exefs/code.bin#0x1A9E00", "es": "Ninguno"}
+{"key": "exefs/code.bin#0x1AAA30", "es": "Límite de fusión:"}
+{"key": "exefs/code.bin#0x1AAA54", "es": "Ninguno"}
+{"key": "exefs/code.bin#0x1AAF84", "es": "No hay candidatos."}
+{"key": "exefs/code.bin#0x1AC91C", "es": "Cortar"}
+{"key": "exefs/code.bin#0x1AC928", "es": "Disparo"}
+{"key": "exefs/code.bin#0x1AC930", "es": "Fuego"}
+{"key": "exefs/code.bin#0x1AC93C", "es": "Hielo"}
+{"key": "exefs/code.bin#0x1AC944", "es": "Eléctrico"}
+{"key": "exefs/code.bin#0x1AC950", "es": "Choque"}
+{"key": "exefs/code.bin#0x1AC95C", "es": "Luz"}
+{"key": "exefs/code.bin#0x1AC968", "es": "Oscuridad"}
+{"key": "exefs/code.bin#0x1AC974", "es": "Todopoderoso"}
+{"key": "exefs/code.bin#0x1ACD84", "es": "Individual"}
+{"key": "exefs/code.bin#0x1ACD94", "es": "Todos"}
+{"key": "exefs/code.bin#0x1ACD9C", "es": "Múltiple"}
+{"key": "exefs/code.bin#0x1AD8C0", "es": "Anular todos los estados alterados"}
+{"key": "exefs/code.bin#0x1AD8E4", "es": "Anular: "}
+{"key": "exefs/code.bin#0x1AD918", "es": "Resistir todos los estados alterados"}
+{"key": "exefs/code.bin#0x1AD940", "es": "Resistir: "}
+{"key": "exefs/code.bin#0x1AD950", "es": "Débil contra estados alterados"}
+{"key": "exefs/code.bin#0x1AD974", "es": "Débil: "}
+{"key": "exefs/code.bin#0x1ADA1C", "es": "Sin resistencia a estados alterados"}
+{"key": "exefs/code.bin#0x1B7BB8", "es": "Sky Tower"}
+{"key": "exefs/code.bin#0x225978", "es": "SIN DATOS"}
+{"key": "exefs/code.bin#0x227350", "es": "[Tokio retorcido] %d S%d %s"}
+{"key": "exefs/code.bin#0x227380", "es": "[Tokio retorcido] S%d %s"}
+{"key": "exefs/code.bin#0x229D54", "es": "%d macca"}
+{"key": "exefs/code.bin#0x22D2FC", "es": "Ninguno"}
+{"key": "exefs/code.bin#0x22D308", "es": "Muerte instantánea"}
+{"key": "exefs/code.bin#0x22D324", "es": "Veneno"}
+{"key": "exefs/code.bin#0x22D334", "es": "Pánico"}
+{"key": "exefs/code.bin#0x22D340", "es": "Sueño"}
+{"key": "exefs/code.bin#0x22D34C", "es": "Atadura"}
+{"key": "exefs/code.bin#0x22D358", "es": "Enfermedad"}
+{"key": "exefs/code.bin#0x22D364", "es": "Encanto"}
+{"key": "exefs/code.bin#0x22D370", "es": "Mareo"}
+{"key": "exefs/code.bin#0x22D37C", "es": "Silencio"}
+{"key": "exefs/code.bin#0x239E8C", "es": "Cámara sobre el hombro"}
+{"key": "exefs/code.bin#0x23A19C", "es": "Ángulo de cámara predeterminado"}
+{"key": "exefs/code.bin#0x23A1C8", "es": "Cámara en ángulo alto"}
+{"key": "exefs/code.bin#0x23FD64", "es": "Ángulo de cámara lejano"}
+{"key": "exefs/code.bin#0x23FE54", "es": "Ángulo de cámara predeterminado"}
+{"key": "exefs/code.bin#0x23FE80", "es": "Ángulo de cámara en primer plano"}
+{"key": "exefs/code.bin#0x245924", "es": "Combatir"}
+{"key": "exefs/code.bin#0x245934", "es": "Por favor, toca el icono."}
+{"key": "exefs/code.bin#0x24B028", "es": "Límite de fusión:"}
+{"key": "exefs/code.bin#0x24B054", "es": "Ninguno"}
+{"key": "exefs/code.bin#0x24D488", "es": "Cortar"}
+{"key": "exefs/code.bin#0x24D494", "es": "Disparo"}
+{"key": "exefs/code.bin#0x24D49C", "es": "Fuego"}
+{"key": "exefs/code.bin#0x24D4A8", "es": "Hielo"}
+{"key": "exefs/code.bin#0x24D4B0", "es": "Eléctrico"}
+{"key": "exefs/code.bin#0x24D4BC", "es": "Choque"}
+{"key": "exefs/code.bin#0x24D4C8", "es": "Luz"}
+{"key": "exefs/code.bin#0x24D7FC", "es": "Oscuridad"}
+{"key": "exefs/code.bin#0x24D808", "es": "Todopoderoso"}
+{"key": "exefs/code.bin#0x24D828", "es": "Individual"}
+{"key": "exefs/code.bin#0x24D838", "es": "Todos"}
+{"key": "exefs/code.bin#0x24D840", "es": "Múltiple"}
+{"key": "exefs/code.bin#0x259C6C", "es": "Uno mismo"}
+{"key": "exefs/code.bin#0x26D2F4", "es": "%dH %02dM"}
+{"key": "exefs/code.bin#0x26DE54", "es": "〉 ¿A dónde quieres ir?"}
+{"key": "exefs/code.bin#0x274E40", "es": "Atacar"}
+{"key": "exefs/code.bin#0x274E50", "es": "Disparar"}
+{"key": "exefs/code.bin#0x275678", "es": "Analizar"}
+{"key": "exefs/code.bin#0x27B6EC", "es": "Desarrollador"}
+{"key": "exefs/code.bin#0x284C98", "es": "Dominio"}
+{"key": "exefs/code.bin#0x28870C", "es": "〉 ¿A dónde quieres ir?"}
+{"key": "exefs/code.bin#0x29A040", "es": "Ninguno"}
+{"key": "exefs/code.bin#0x29A04C", "es": "Muerte instantánea"}
+{"key": "exefs/code.bin#0x29A068", "es": "Veneno"}
+{"key": "exefs/code.bin#0x29A078", "es": "Pánico"}
+{"key": "exefs/code.bin#0x29A084", "es": "Sueño"}
+{"key": "exefs/code.bin#0x29A090", "es": "Atadura"}
+{"key": "exefs/code.bin#0x29A09C", "es": "Enfermedad"}
+{"key": "exefs/code.bin#0x29A0A8", "es": "Encanto"}
+{"key": "exefs/code.bin#0x29A0B4", "es": "Mareo"}
+{"key": "exefs/code.bin#0x29A0C0", "es": "Silencio"}
+{"key": "exefs/code.bin#0x2A4D30", "es": "Desarrollador"}
+{"key": "exefs/code.bin#0x2AED3C", "es": "Ninguno"}
+{"key": "exefs/code.bin#0x2AED48", "es": "Muerte instantánea"}
+{"key": "exefs/code.bin#0x2AED64", "es": "Veneno"}
+{"key": "exefs/code.bin#0x2AED74", "es": "Pánico"}
+{"key": "exefs/code.bin#0x2AED80", "es": "Sueño"}
+{"key": "exefs/code.bin#0x2AED8C", "es": "Atadura"}
+{"key": "exefs/code.bin#0x2AED98", "es": "Enfermedad"}
+{"key": "exefs/code.bin#0x2AEDA4", "es": "Encanto"}
+{"key": "exefs/code.bin#0x2AEDB0", "es": "Mareo"}
+{"key": "exefs/code.bin#0x2AEDBC", "es": "Silencio"}
+{"key": "exefs/code.bin#0x2DA414", "es": "Fusionando..."}
+{"key": "exefs/code.bin#0x2DA674", "es": "Error de fusión"}
+{"key": "exefs/code.bin#0x2DA698", "es": "Completado"}
+{"key": "exefs/code.bin#0x2F7B34", "es": "Uso de la Terminal restablecido"}
+{"key": "exefs/code.bin#0x2F7B64", "es": "Administración de la Asociación de Cazadores"}
+{"key": "exefs/code.bin#0x2F7BA0", "es": "Info"}
+{"key": "exefs/code.bin#0x2F7BAC", "es": "Aviso de construcción"}
+{"key": "exefs/code.bin#0x2F7BE0", "es": "División de Mantenimiento Vial"}
+{"key": "exefs/code.bin#0x2F9308", "es": "Sí"}
+{"key": "exefs/code.bin#0x2F9310", "es": "Ninguno"}
+{"key": "exefs/code.bin#0x302E20", "es": "Autor"}
+{"key": "exefs/code.bin#0x38B804", "es": "Activando..."}
+{"key": "exefs/code.bin#0x3A9BA0", "es": "¡El enemigo ataca primero!"}
+{"key": "exefs/code.bin#0x3AA6DC", "es": "Atacar"}
+{"key": "exefs/code.bin#0x3AA6F4", "es": "Regresar"}
+{"key": "exefs/code.bin#0x3AA704", "es": "Invocar"}
+{"key": "exefs/code.bin#0x3AA714", "es": "Huir"}
+{"key": "exefs/code.bin#0x3ABF6C", "es": "¡El enemigo ataca primero!"}
+{"key": "exefs/code.bin#0x3B1DB8", "es": "Fin"}
+{"key": "exefs/code.bin#0x3CE760", "es": "Manantial curativo"}
+{"key": "exefs/code.bin#0x3E3F4C", "es": "Físico"}
+{"key": "exefs/code.bin#0x3E3F58", "es": "Disparo"}
+{"key": "exefs/code.bin#0x3E3F60", "es": "Fuego"}
+{"key": "exefs/code.bin#0x3E3F6C", "es": "Hielo"}
+{"key": "exefs/code.bin#0x3E3F74", "es": "Eléctrico"}
+{"key": "exefs/code.bin#0x3E3F80", "es": "Choque"}
+{"key": "exefs/code.bin#0x3E3F8C", "es": "Luz"}
+{"key": "exefs/code.bin#0x3E3F98", "es": "Oscuridad"}
+{"key": "exefs/code.bin#0x425180", "es": "Brana 1"}
+{"key": "exefs/code.bin#0x425194", "es": "Brana 2"}
+{"key": "exefs/code.bin#0x4251A8", "es": "Brana 3"}
+{"key": "exefs/code.bin#0x4251BC", "es": "Brana 4"}
+{"key": "exefs/code.bin#0x425210", "es": "Terminal de %s"}
+{"key": "exefs/code.bin#0x42A484", "es": "Atacar"}
+{"key": "exefs/code.bin#0x42A494", "es": "El enemigo espera a ver qué haces."}
+{"key": "exefs/code.bin#0x42A818", "es": "Veneno"}
+{"key": "exefs/code.bin#0x42A828", "es": "Pánico"}
+{"key": "exefs/code.bin#0x42A834", "es": "Sueño"}
+{"key": "exefs/code.bin#0x42A840", "es": "Atadura"}
+{"key": "exefs/code.bin#0x42A84C", "es": "Enfermedad"}
+{"key": "exefs/code.bin#0x42A858", "es": "Encanto"}
+{"key": "exefs/code.bin#0x42A864", "es": "Mareo"}
+{"key": "exefs/code.bin#0x42A870", "es": "Silencio"}
+{"key": "exefs/code.bin#0x42AFD8", "es": "Los usuarios de StreetPass recibirán esto."}
+{"key": "exefs/code.bin#0x42C80C", "es": "No tienes acompañantes."}
+{"key": "exefs/code.bin#0x42D04F", "es": "(ID del cubo portal: 1/4)"}
+{"key": "exefs/code.bin#0x42D0B7", "es": "(ID del cubo portal: 1/4)"}
+{"key": "exefs/code.bin#0x42D11F", "es": "(ID del cubo portal: 1/6)"}
+{"key": "exefs/code.bin#0x42D187", "es": "(ID del cubo portal: 1/5)"}
+{"key": "exefs/code.bin#0x42D1EF", "es": "(ID del cubo portal: 5/5)"}
+{"key": "exefs/code.bin#0x42D257", "es": "(ID del cubo portal: 3/4)"}
+{"key": "exefs/code.bin#0x42D2BF", "es": "(ID del cubo portal: 2/4)"}
+{"key": "exefs/code.bin#0x42D327", "es": "(ID del cubo portal: 3/4)"}
+{"key": "exefs/code.bin#0x42D38F", "es": "(ID del cubo portal: 2/4)"}
+{"key": "exefs/code.bin#0x42D3F7", "es": "(ID del cubo portal: 4/4)"}
+{"key": "exefs/code.bin#0x42D45F", "es": "(ID del cubo portal: 5/6)"}
+{"key": "exefs/code.bin#0x42D4C7", "es": "(ID del cubo portal: 2/6)"}
+{"key": "exefs/code.bin#0x42D52F", "es": "(ID del cubo portal: 6/6)"}
+{"key": "exefs/code.bin#0x42D597", "es": "(ID del cubo portal: 3/6)"}
+{"key": "exefs/code.bin#0x42D5FF", "es": "(ID del cubo portal: 2/5)"}
+{"key": "exefs/code.bin#0x42D667", "es": "(ID del cubo portal: 3/5)"}
+{"key": "exefs/code.bin#0x42D6CF", "es": "(ID del cubo portal: 4/5)"}
+{"key": "exefs/code.bin#0x42D737", "es": "(ID del cubo portal: 4/4)"}
+{"key": "exefs/code.bin#0x42D79F", "es": "(ID del cubo portal: 4/6)"}
+{"key": "exefs/code.bin#0x42E2F8", "es": "Fin"}
+{"key": "exefs/code.bin#0x42FADC", "es": "¡Se detectó a Shesha! ¡Ten cuidado!"}
+{"key": "exefs/code.bin#0x42FFE8", "es": "Aumento de Estoma"}
+{"key": "exefs/code.bin#0x430028", "es": "Remontada"}
+{"key": "exefs/code.bin#0x430068", "es": "Frenesí"}
+{"key": "exefs/code.bin#0x4300A8", "es": "Aniquilación"}
+{"key": "exefs/code.bin#0x4301CC", "es": "Nanashi"}
+{"key": "exefs/code.bin#0x4301DB", "es": "Mikado"}
+{"key": "exefs/code.bin#0x430340", "es": "El efecto del agua seductora se acabó."}
+{"key": "exefs/code.bin#0x43039C", "es": "El efecto de Riberama se acabó."}
+{"key": "exefs/code.bin#0x430A98", "es": "Hay una app nueva disponible."}
+{"key": "exefs/code.bin#0x430B3C", "es": "Daga... pesada... ¡¿Cómo mostraré mi poder?!"}
+{"key": "exefs/code.bin#0x430B9C", "es": "La daga de jade perdió su poder..."}
+{"key": "exefs/code.bin#0x431160", "es": "¡Te atraparon! ¡Presiona rápido el botón X!"}
+{"key": "exefs/code.bin#0x4316C8", "es": "Falló el análisis del Cartógrafo"}
+{"key": "exefs/code.bin#0x4316F8", "es": "Destino del Cartógrafo: desconocido"}
+{"key": "exefs/code.bin#0x431730", "es": "Controlando el Cartógrafo... Botón B: Cancelar"}
+{"key": "exefs/code.bin#0x4324F8", "es": "No hay misiones que se puedan completar."}
+{"key": "exefs/code.bin#0x435B94", "es": "Fin"}
+{"key": "exefs/code.bin#0x45BC40", "es": "MA"}
+{"key": "exefs/code.bin#0x45BC45", "es": "DF"}
+{"key": "exefs/code.bin#0x45BC4A", "es": "PR"}
+{"key": "exefs/code.bin#0x45BC4F", "es": "AT"}
+{"key": "exefs/code.bin#0x45BC54", "es": "HT"}
+{"key": "exefs/code.bin#0x45CFD0", "es": ": información del demonio"}
+{"key": "exefs/code.bin#0x45CFF9", "es": ": lista de encuentros"}
+{"key": "exefs/code.bin#0x45D1C4", "es": "Auto-Ayuda de maná"}
+{"key": "exefs/code.bin#0x45D1DF", "es": "Auto-Ayuda vital"}
+{"key": "exefs/code.bin#0x45D1FA", "es": "Curativa"}
+{"key": "exefs/code.bin#0x45D209", "es": "Especial"}
+{"key": "exefs/code.bin#0x45D218", "es": "Auto-Objeto"}
+{"key": "exefs/code.bin#0x45D22B", "es": "Potenciar"}
+{"key": "exefs/code.bin#0x45D240", "es": "Debilitar"}
+{"key": "exefs/code.bin#0x45D24D", "es": "Auto-Otros"}
+{"key": "exefs/code.bin#0x45D262", "es": "Estado alterado"}
+{"key": "exefs/code.bin#0x45D27F", "es": "No especificar"}
+{"key": "exefs/code.bin#0x45D29A", "es": "Todopoderoso"}
+{"key": "exefs/code.bin#0x45D2AB", "es": "Afinidad"}
+{"key": "exefs/code.bin#0x45D4B1", "es": "Sunshine 60"}
+{"key": "exefs/code.bin#0x45D4F5", "es": "Shibuya"}
+{"key": "exefs/code.bin#0x45D504", "es": "Parque Miyashita"}
+{"key": "exefs/code.bin#0x45D521", "es": "Ikebukuro"}
+{"key": "exefs/code.bin#0x45D54B", "es": "¡Muere por mí!"}
+{"key": "exefs/code.bin#0x45D562", "es": "¡Míranos, Maruo!"}
+{"key": "exefs/code.bin#0x45D583", "es": "¡Contemplen a Maruo!"}
+{"key": "exefs/code.bin#0x45D5A4", "es": "Rakunda"}
+{"key": "exefs/code.bin#0x45D5B3", "es": "Dekunda"}
+{"key": "exefs/code.bin#0x45D5C2", "es": "Sukunda"}
+{"key": "exefs/code.bin#0x45D5D1", "es": "Tarunda"}
+{"key": "exefs/code.bin#0x45D5E0", "es": "Raga del sueño"}
+{"key": "exefs/code.bin#0x45D5F5", "es": "Raga venenosa"}
+{"key": "exefs/code.bin#0x45D610", "es": "Zionga"}
+{"key": "exefs/code.bin#0x45D61D", "es": "Mazionga"}
+{"key": "exefs/code.bin#0x45D62E", "es": "Dia"}
+{"key": "exefs/code.bin#0x45D635", "es": "Media"}
+{"key": "exefs/code.bin#0x45D640", "es": "Titanomaquia"}
+{"key": "exefs/code.bin#0x45D659", "es": "Andalusia"}
+{"key": "exefs/code.bin#0x45D66C", "es": "Makakaja"}
+{"key": "exefs/code.bin#0x45D67D", "es": "Dekaja"}
+{"key": "exefs/code.bin#0x45D68A", "es": "Rakukaja"}
+{"key": "exefs/code.bin#0x45D69B", "es": "Sukukaja"}
+{"key": "exefs/code.bin#0x45D6AC", "es": "Tarukaja"}
+{"key": "exefs/code.bin#0x45D6BD", "es": "Tetraja"}
+{"key": "exefs/code.bin#0x45D6CC", "es": "Nandaka de oscuridad"}
+{"key": "exefs/code.bin#0x45D6E5", "es": "Nandaka de luz"}
+{"key": "exefs/code.bin#0x45D700", "es": "Megidola"}
+{"key": "exefs/code.bin#0x45D711", "es": "Rey Bufula"}
+{"key": "exefs/code.bin#0x45D728", "es": "Mabufula"}
+{"key": "exefs/code.bin#0x45D739", "es": "Hama"}
+{"key": "exefs/code.bin#0x45D742", "es": "Mahama"}
+{"key": "exefs/code.bin#0x45D74F", "es": "Diarama"}
+{"key": "exefs/code.bin#0x45D75E", "es": "Mediarama"}
+{"key": "exefs/code.bin#0x45D771", "es": "Zanma"}
+{"key": "exefs/code.bin#0x45D77C", "es": "Mazanma"}
+{"key": "exefs/code.bin#0x45D78B", "es": "Pléroma eléctrico alto"}
+{"key": "exefs/code.bin#0x45D7AE", "es": "Pléroma de hielo alto"}
+{"key": "exefs/code.bin#0x45D7CF", "es": "Pléroma de choque alto"}
+{"key": "exefs/code.bin#0x45D7F4", "es": "Pléroma de fuego alto"}
+{"key": "exefs/code.bin#0x45D817", "es": "Pléroma de oscur. alto"}
+{"key": "exefs/code.bin#0x45D83A", "es": "Pléroma curativo alto"}
+{"key": "exefs/code.bin#0x45D85D", "es": "Pléroma de disparo alto"}
+{"key": "exefs/code.bin#0x45D87E", "es": "Pléroma físico alto"}
+{"key": "exefs/code.bin#0x45D8A1", "es": "Pléroma de luz alto"}
+{"key": "exefs/code.bin#0x45D8C6", "es": "Pléroma múltiple alto"}
+{"key": "exefs/code.bin#0x45D8E9", "es": "Pléroma todopoderoso"}
+{"key": "exefs/code.bin#0x45D90A", "es": "Estoma"}
+{"key": "exefs/code.bin#0x45D917", "es": "Venema"}
+{"key": "exefs/code.bin#0x45D924", "es": "Sabbatma"}
+{"key": "exefs/code.bin#0x45D935", "es": "Dormina"}
+{"key": "exefs/code.bin#0x45D944", "es": "Pulinpa"}
+{"key": "exefs/code.bin#0x45D953", "es": "Danza de Mara"}
+{"key": "exefs/code.bin#0x45D96E", "es": "Tara de combate"}
+{"key": "exefs/code.bin#0x45D985", "es": "Recarmdra"}
+{"key": "exefs/code.bin#0x45D998", "es": "Me Patra"}
+{"key": "exefs/code.bin#0x45D9A9", "es": "Oni-Kagura"}
+{"key": "exefs/code.bin#0x45D9BE", "es": "Nata del asesino"}
+{"key": "exefs/code.bin#0x45D9DD", "es": "Estigmas sagrados"}
+{"key": "exefs/code.bin#0x45D9F8", "es": "Moxagita"}
+{"key": "exefs/code.bin#0x45DA09", "es": "Amrita"}
+{"key": "exefs/code.bin#0x45DA16", "es": "Supernova"}
+{"key": "exefs/code.bin#0x45DA29", "es": "Bomba pandémica"}
+{"key": "exefs/code.bin#0x45DA44", "es": "Repeler electricidad"}
+{"key": "exefs/code.bin#0x45DA59", "es": "Anular elec."}
+{"key": "exefs/code.bin#0x45DA6C", "es": "Absorber elec."}
+{"key": "exefs/code.bin#0x45DA81", "es": "Resistir electricidad"}
+{"key": "exefs/code.bin#0x45DA98", "es": "Adicto al trabajo"}
+{"key": "exefs/code.bin#0x45DAAD", "es": "Jihad mortal"}
+{"key": "exefs/code.bin#0x45DAC6", "es": "Ayuda de maná leve"}
+{"key": "exefs/code.bin#0x45DAE3", "es": "Ayuda vital leve"}
+{"key": "exefs/code.bin#0x45DB00", "es": "Makabuild"}
+{"key": "exefs/code.bin#0x45DB13", "es": "Mundo frío"}
+{"key": "exefs/code.bin#0x45DB28", "es": "Marca infernal"}
+{"key": "exefs/code.bin#0x45DB43", "es": "Marca ruinosa"}
+{"key": "exefs/code.bin#0x45DB5E", "es": "Atadura rápida"}
+{"key": "exefs/code.bin#0x45DB73", "es": "Anular mental"}
+{"key": "exefs/code.bin#0x45DB86", "es": "Voluntad del viento"}
+{"key": "exefs/code.bin#0x45DB9F", "es": "Viento mortal"}
+{"key": "exefs/code.bin#0x45DBB6", "es": "Rayo celestial"}
+{"key": "exefs/code.bin#0x45DBD7", "es": "Boca de Dios"}
+{"key": "exefs/code.bin#0x45DBF0", "es": "Granizada celestial"}
+{"key": "exefs/code.bin#0x45DC11", "es": "Tornado celestial"}
+{"key": "exefs/code.bin#0x45DC2E", "es": "Infierno celestial"}
+{"key": "exefs/code.bin#0x45DC4B", "es": "Dios frenético"}
+{"key": "exefs/code.bin#0x45DC66", "es": "Ventisca furiosa"}
+{"key": "exefs/code.bin#0x45DC85", "es": "Filo oscuro"}
+{"key": "exefs/code.bin#0x45DC9A", "es": "Filo letal"}
+{"key": "exefs/code.bin#0x45DCB1", "es": "Espada de Matadioses"}
+{"key": "exefs/code.bin#0x45DCD4", "es": "Repeler hielo"}
+{"key": "exefs/code.bin#0x45DCE7", "es": "Anular hielo"}
+{"key": "exefs/code.bin#0x45DCF8", "es": "Absorber hielo"}
+{"key": "exefs/code.bin#0x45DD0B", "es": "Resistir hielo"}
+{"key": "exefs/code.bin#0x45DD20", "es": "Tajo fino"}
+{"key": "exefs/code.bin#0x45DD35", "es": "Voz de pánico"}
+{"key": "exefs/code.bin#0x45DD4C", "es": "Voz de atadura"}
+{"key": "exefs/code.bin#0x45DD61", "es": "Baile de arañazos"}
+{"key": "exefs/code.bin#0x45DD7C", "es": "Danza Maru-Maru"}
+{"key": "exefs/code.bin#0x45DD9B", "es": "Danza seductora"}
+{"key": "exefs/code.bin#0x45DDB0", "es": "Postura autoritaria"}
+{"key": "exefs/code.bin#0x45DDD9", "es": "Postura de presión"}
+{"key": "exefs/code.bin#0x45DDFC", "es": "Postura imponente"}
+{"key": "exefs/code.bin#0x45DE1B", "es": "Silencio"}
+{"key": "exefs/code.bin#0x45DE2A", "es": "Pestilencia"}
+{"key": "exefs/code.bin#0x45DE3F", "es": "Perforar electricidad"}
+{"key": "exefs/code.bin#0x45DE56", "es": "Perforar hielo"}
+{"key": "exefs/code.bin#0x45DE6B", "es": "Perforar choque"}
+{"key": "exefs/code.bin#0x45DE84", "es": "Perforar fuego"}
+{"key": "exefs/code.bin#0x45DE9B", "es": "Perforar oscuridad"}
+{"key": "exefs/code.bin#0x45DEB2", "es": "Perforar disparo"}
+{"key": "exefs/code.bin#0x45DEC7", "es": "Perforación de Gungnir"}
+{"key": "exefs/code.bin#0x45DEE4", "es": "Perforación de Miguel"}
+{"key": "exefs/code.bin#0x45DF05", "es": "Perforación del Lancero"}
+{"key": "exefs/code.bin#0x45DF28", "es": "Perforar físico"}
+{"key": "exefs/code.bin#0x45DF3F", "es": "Perforar luz"}
+{"key": "exefs/code.bin#0x45DF58", "es": "Choque diploide"}
+{"key": "exefs/code.bin#0x45DF73", "es": "Repeler choque"}
+{"key": "exefs/code.bin#0x45DF8A", "es": "Anular choque"}
+{"key": "exefs/code.bin#0x45DF9F", "es": "Absorber choque"}
+{"key": "exefs/code.bin#0x45DFB6", "es": "Resistir choque"}
+{"key": "exefs/code.bin#0x45DFCF", "es": "Hoja temporal"}
+{"key": "exefs/code.bin#0x45DFEC", "es": "División del alma"}
+{"key": "exefs/code.bin#0x45E003", "es": "Júbilo sangriento"}
+{"key": "exefs/code.bin#0x45E01A", "es": "Manantial de vida"}
+{"key": "exefs/code.bin#0x45E037", "es": "Edad de hielo"}
+{"key": "exefs/code.bin#0x45E046", "es": "Furia"}
+{"key": "exefs/code.bin#0x45E055", "es": "Bombardeo"}
+{"key": "exefs/code.bin#0x45E064", "es": "Rencor de oscuridad"}
+{"key": "exefs/code.bin#0x45E07B", "es": "Acometida"}
+{"key": "exefs/code.bin#0x45E086", "es": "Carga sonriente"}
+{"key": "exefs/code.bin#0x45E09F", "es": "Oleada de maná"}
+{"key": "exefs/code.bin#0x45E0B4", "es": "Oleada de vida"}
+{"key": "exefs/code.bin#0x45E0C9", "es": "Terremoto"}
+{"key": "exefs/code.bin#0x45E0DE", "es": "Golpe doble de Gungnir"}
+{"key": "exefs/code.bin#0x45E105", "es": "Golpe doble de Miguel"}
+{"key": "exefs/code.bin#0x45E130", "es": "Golpe doble del Lancero"}
+{"key": "exefs/code.bin#0x45E15D", "es": "Golpe de Gungnir"}
+{"key": "exefs/code.bin#0x45E17A", "es": "Golpe de Miguel"}
+{"key": "exefs/code.bin#0x45E19B", "es": "Golpe del Lancero"}
+{"key": "exefs/code.bin#0x45E1BE", "es": "Humo púrpura"}
+{"key": "exefs/code.bin#0x45E1D7", "es": "Milagro"}
+{"key": "exefs/code.bin#0x45E1E6", "es": "Aguja rápida"}
+{"key": "exefs/code.bin#0x45E1FF", "es": "Aguja onírica"}
+{"key": "exefs/code.bin#0x45E218", "es": "Aguja aturdidora"}
+{"key": "exefs/code.bin#0x45E22F", "es": "Aguja de locura"}
+{"key": "exefs/code.bin#0x45E24C", "es": "Forcejeo"}
+{"key": "exefs/code.bin#0x45E25D", "es": "Agujero negro"}
+{"key": "exefs/code.bin#0x45E272", "es": "Engullir"}
+{"key": "exefs/code.bin#0x45E285", "es": "Voluntad de la llama"}
+{"key": "exefs/code.bin#0x45E2A0", "es": "Majestad"}
+{"key": "exefs/code.bin#0x45E2B5", "es": "Disciplina de madre"}
+{"key": "exefs/code.bin#0x45E2DC", "es": "Piedra Dekunda"}
+{"key": "exefs/code.bin#0x45E2F7", "es": "Piedra Zionga"}
+{"key": "exefs/code.bin#0x45E310", "es": "Piedra Dekaja"}
+{"key": "exefs/code.bin#0x45E329", "es": "Piedra Megidola"}
+{"key": "exefs/code.bin#0x45E346", "es": "Piedra Bufula"}
+{"key": "exefs/code.bin#0x45E35F", "es": "Piedra Zanma"}
+{"key": "exefs/code.bin#0x45E376", "es": "Piedra Hamaon"}
+{"key": "exefs/code.bin#0x45E38F", "es": "Piedra Mudoon"}
+{"key": "exefs/code.bin#0x45E3A8", "es": "Piedra Agilao"}
+{"key": "exefs/code.bin#0x45E3C1", "es": "Agidyne verdadero"}
+{"key": "exefs/code.bin#0x45E3DA", "es": "Maragidyne"}
+{"key": "exefs/code.bin#0x45E3EF", "es": "Zandyne verdadero"}
+{"key": "exefs/code.bin#0x45E408", "es": "Mazandyne"}
+{"key": "exefs/code.bin#0x45E41B", "es": "Ziodyne verdadero"}
+{"key": "exefs/code.bin#0x45E434", "es": "Maziodyne"}
+{"key": "exefs/code.bin#0x45E447", "es": "Bufudyne verdadero"}
+{"key": "exefs/code.bin#0x45E462", "es": "Mabufudyne"}
+{"key": "exefs/code.bin#0x45E477", "es": "Llamarada venenosa"}
+{"key": "exefs/code.bin#0x45E494", "es": "Mirada"}
+{"key": "exefs/code.bin#0x45E49F", "es": "Repeler fuego"}
+{"key": "exefs/code.bin#0x45E4B4", "es": "Anular fuego"}
+{"key": "exefs/code.bin#0x45E4C7", "es": "Absorber fuego"}
+{"key": "exefs/code.bin#0x45E4DC", "es": "Resistir fuego"}
+{"key": "exefs/code.bin#0x45E4F3", "es": "Fuego del averno furioso"}
+{"key": "exefs/code.bin#0x45E512", "es": "Brillar más"}
+{"key": "exefs/code.bin#0x45E527", "es": "Últ.aliento"}
+{"key": "exefs/code.bin#0x45E534", "es": "Presión"}
+{"key": "exefs/code.bin#0x45E545", "es": "Maldición sin fin"}
+{"key": "exefs/code.bin#0x45E562", "es": "Maldición vengativa"}
+{"key": "exefs/code.bin#0x45E57F", "es": "Maldición antigua"}
+{"key": "exefs/code.bin#0x45E59A", "es": "Represalia aliada"}
+{"key": "exefs/code.bin#0x45E5B7", "es": "Calibrar"}
+{"key": "exefs/code.bin#0x45E5CA", "es": "Concentrar"}
+{"key": "exefs/code.bin#0x45E5E1", "es": "Debilitar"}
+{"key": "exefs/code.bin#0x45E5F6", "es": "Onda divina"}
+{"key": "exefs/code.bin#0x45E60D", "es": "Onda aplastante"}
+{"key": "exefs/code.bin#0x45E628", "es": "Ola crítica"}
+{"key": "exefs/code.bin#0x45E643", "es": "Ola de calor"}
+{"key": "exefs/code.bin#0x45E656", "es": "Anular nervios"}
+{"key": "exefs/code.bin#0x45E66B", "es": "Ojo crítico"}
+{"key": "exefs/code.bin#0x45E684", "es": "Ojo del guardián"}
+{"key": "exefs/code.bin#0x45E6A1", "es": "Ser quien soy"}
+{"key": "exefs/code.bin#0x45E6BA", "es": "Escondite"}
+{"key": "exefs/code.bin#0x45E6C7", "es": "No hacer nada"}
+{"key": "exefs/code.bin#0x45E6DC", "es": "Rayo furioso"}
+{"key": "exefs/code.bin#0x45E6FD", "es": "Dopaje"}
+{"key": "exefs/code.bin#0x45E70A", "es": "Aguja tóxica"}
+{"key": "exefs/code.bin#0x45E721", "es": "Puñetazo potente"}
+{"key": "exefs/code.bin#0x45E738", "es": "Tos"}
+{"key": "exefs/code.bin#0x45E743", "es": "Flash fotográfico"}
+{"key": "exefs/code.bin#0x45E75A", "es": "Tajo de lealtad"}
+{"key": "exefs/code.bin#0x45E775", "es": "A mi antojo"}
+{"key": "exefs/code.bin#0x45E788", "es": "Acom. neblinosa"}
+{"key": "exefs/code.bin#0x45E79B", "es": "Aplastar cabeza"}
+{"key": "exefs/code.bin#0x45E7B0", "es": "Parpadeo de muerte"}
+{"key": "exefs/code.bin#0x45E7CD", "es": "Aliento ácido"}
+{"key": "exefs/code.bin#0x45E7E4", "es": "Aliento del viento"}
+{"key": "exefs/code.bin#0x45E7FB", "es": "Aliento helado"}
+{"key": "exefs/code.bin#0x45E810", "es": "Aliento ígneo"}
+{"key": "exefs/code.bin#0x45E827", "es": "Aliento de niebla"}
+{"key": "exefs/code.bin#0x45E83C", "es": "Aliento de veneno"}
+{"key": "exefs/code.bin#0x45E857", "es": "Ira divina"}
+{"key": "exefs/code.bin#0x45E86C", "es": "Fuego del Sinaí"}
+{"key": "exefs/code.bin#0x45E887", "es": "Posumudi"}
+{"key": "exefs/code.bin#0x45E898", "es": "Agi"}
+{"key": "exefs/code.bin#0x45E89F", "es": "Maragi"}
+{"key": "exefs/code.bin#0x45E8AC", "es": "Trafuri"}
+{"key": "exefs/code.bin#0x45E8BB", "es": "Makarabreak"}
+{"key": "exefs/code.bin#0x45E8D2", "es": "Tetrabreak"}
+{"key": "exefs/code.bin#0x45E8E7", "es": "Gran embestida"}
+{"key": "exefs/code.bin#0x45E8FC", "es": "Ataque sigiloso"}
+{"key": "exefs/code.bin#0x45E915", "es": "Ataque normal"}
+{"key": "exefs/code.bin#0x45E930", "es": "Ataque de apoyo"}
+{"key": "exefs/code.bin#0x45E94B", "es": "Descarga"}
+{"key": "exefs/code.bin#0x45E956", "es": "Paso de chakra"}
+{"key": "exefs/code.bin#0x45E96D", "es": "Ragnarok"}
+{"key": "exefs/code.bin#0x45E97E", "es": "Arca de Megiddo"}
+{"key": "exefs/code.bin#0x45E995", "es": "Repeler oscuridad"}
+{"key": "exefs/code.bin#0x45E9AA", "es": "Anular oscuridad"}
+{"key": "exefs/code.bin#0x45E9BD", "es": "Absorber oscuridad"}
+{"key": "exefs/code.bin#0x45E9D2", "es": "Resistir oscuridad"}
+{"key": "exefs/code.bin#0x45E9E9", "es": "Máscara infernal"}
+{"key": "exefs/code.bin#0x45EA02", "es": "Negación"}
+{"key": "exefs/code.bin#0x45EA0F", "es": "Ritual de sangre"}
+{"key": "exefs/code.bin#0x45EA28", "es": "Lanza de Miguel"}
+{"key": "exefs/code.bin#0x45EA49", "es": "Granizo infernal"}
+{"key": "exefs/code.bin#0x45EA64", "es": "Alma inmortal"}
+{"key": "exefs/code.bin#0x45EA7F", "es": "Rayo de macca"}
+{"key": "exefs/code.bin#0x45EA94", "es": "Rayo derrochador"}
+{"key": "exefs/code.bin#0x45EAAD", "es": "Brillo vil"}
+{"key": "exefs/code.bin#0x45EAC2", "es": "Makajam"}
+{"key": "exefs/code.bin#0x45EAD1", "es": "Hexagrama"}
+{"key": "exefs/code.bin#0x45EAE2", "es": "Himno de Maruología"}
+{"key": "exefs/code.bin#0x45EB03", "es": "Recarm"}
+{"key": "exefs/code.bin#0x45EB10", "es": "Samarecarm"}
+{"key": "exefs/code.bin#0x45EB25", "es": "Tormenta de agujas"}
+{"key": "exefs/code.bin#0x45EB3C", "es": "Zan"}
+{"key": "exefs/code.bin#0x45EB43", "es": "Diarahan"}
+{"key": "exefs/code.bin#0x45EB54", "es": "Mediarahan"}
+{"key": "exefs/code.bin#0x45EB69", "es": "Mazan"}
+{"key": "exefs/code.bin#0x45EB74", "es": "Reino del trueno"}
+{"key": "exefs/code.bin#0x45EB8F", "es": "Ganancia de maná"}
+{"key": "exefs/code.bin#0x45EBA2", "es": "Ganancia de vida"}
+{"key": "exefs/code.bin#0x45EBB5", "es": "Lluvia de jabalinas"}
+{"key": "exefs/code.bin#0x45EBCE", "es": "Absorción vital"}
+{"key": "exefs/code.bin#0x45EBE3", "es": "Absorción de alma"}
+{"key": "exefs/code.bin#0x45EBF8", "es": "Drenaje espiritual"}
+{"key": "exefs/code.bin#0x45EC11", "es": "Absorción de energía"}
+{"key": "exefs/code.bin#0x45EC2A", "es": "Marin Karin"}
+{"key": "exefs/code.bin#0x45EC41", "es": "Magaon"}
+{"key": "exefs/code.bin#0x45EC4E", "es": "Megidolaon"}
+{"key": "exefs/code.bin#0x45EC63", "es": "Hamaon"}
+{"key": "exefs/code.bin#0x45EC70", "es": "Mahamaon"}
+{"key": "exefs/code.bin#0x45EC81", "es": "Makajamaon"}
+{"key": "exefs/code.bin#0x45EC96", "es": "Succión de Gungnir"}
+{"key": "exefs/code.bin#0x45ECB3", "es": "Succión de Miguel"}
+{"key": "exefs/code.bin#0x45ECD4", "es": "Succión del Lancero"}
+{"key": "exefs/code.bin#0x45ECF7", "es": "Antichthon"}
+{"key": "exefs/code.bin#0x45ED0C", "es": "Coerción"}
+{"key": "exefs/code.bin#0x45ED1D", "es": "Maragion"}
+{"key": "exefs/code.bin#0x45ED2E", "es": "Trisagion"}
+{"key": "exefs/code.bin#0x45ED41", "es": "Compresión de magia"}
+{"key": "exefs/code.bin#0x45ED64", "es": "Invitación"}
+{"key": "exefs/code.bin#0x45ED79", "es": "Salvación"}
+{"key": "exefs/code.bin#0x45ED8C", "es": "Reacción dracónica"}
+{"key": "exefs/code.bin#0x45EDAF", "es": "Sin reacción"}
+{"key": "exefs/code.bin#0x45EDC6", "es": "Reacción bestial"}
+{"key": "exefs/code.bin#0x45EDE7", "es": "Rechazo ilógico"}
+{"key": "exefs/code.bin#0x45EE0E", "es": "Mudoon"}
+{"key": "exefs/code.bin#0x45EE1B", "es": "Mamudoon"}
+{"key": "exefs/code.bin#0x45EE2C", "es": "Makarakarn"}
+{"key": "exefs/code.bin#0x45EE41", "es": "Tetrakarn"}
+{"key": "exefs/code.bin#0x45EE54", "es": "Desdén"}
+{"key": "exefs/code.bin#0x45EE5F", "es": "Repeler disparo"}
+{"key": "exefs/code.bin#0x45EE72", "es": "Anular disparo"}
+{"key": "exefs/code.bin#0x45EE83", "es": "Absorber disparo"}
+{"key": "exefs/code.bin#0x45EE96", "es": "Arma antimotines"}
+{"key": "exefs/code.bin#0x45EEA7", "es": "Resistir disparo"}
+{"key": "exefs/code.bin#0x45EEBC", "es": "Bostezo sísmico"}
+{"key": "exefs/code.bin#0x45EED5", "es": "Agilao"}
+{"key": "exefs/code.bin#0x45EEE2", "es": "Megido"}
+{"key": "exefs/code.bin#0x45EEEF", "es": "Mudo"}
+{"key": "exefs/code.bin#0x45EEF8", "es": "Mamudo"}
+{"key": "exefs/code.bin#0x45EF05", "es": "Zio"}
+{"key": "exefs/code.bin#0x45EF0C", "es": "Mazio"}
+{"key": "exefs/code.bin#0x45EF17", "es": "Tabú estremecedor"}
+{"key": "exefs/code.bin#0x45EF36", "es": "Shibaboo"}
+{"key": "exefs/code.bin#0x45EF47", "es": "Festín frenético"}
+{"key": "exefs/code.bin#0x45EF64", "es": "Lucero del alba"}
+{"key": "exefs/code.bin#0x45EF7D", "es": "Voluntad del trueno"}
+{"key": "exefs/code.bin#0x45EF9C", "es": "Trueno vengativo"}
+{"key": "exefs/code.bin#0x45EFBD", "es": "Ánimo perdurable"}
+{"key": "exefs/code.bin#0x45EFDA", "es": "Hambre de la serpiente"}
+{"key": "exefs/code.bin#0x45EFFB", "es": "Atrapaperdidos"}
+{"key": "exefs/code.bin#0x45F014", "es": "Rompecolmillos"}
+{"key": "exefs/code.bin#0x45F02D", "es": "Trabajo arduo"}
+{"key": "exefs/code.bin#0x45F044", "es": "Devorador de luz"}
+{"key": "exefs/code.bin#0x45F061", "es": "Contraataque aliado"}
+{"key": "exefs/code.bin#0x45F07A", "es": "Tajo de Gungnir"}
+{"key": "exefs/code.bin#0x45F095", "es": "Poder despierto"}
+{"key": "exefs/code.bin#0x45F0B2", "es": "Poder infinito"}
+{"key": "exefs/code.bin#0x45F0CF", "es": "Onda de poder sin fin"}
+{"key": "exefs/code.bin#0x45F0FA", "es": "Plegaria silenciosa"}
+{"key": "exefs/code.bin#0x45F115", "es": "Gungnir"}
+{"key": "exefs/code.bin#0x45F124", "es": "Perforar armadura"}
+{"key": "exefs/code.bin#0x45F13D", "es": "Puerta de la muerte"}
+{"key": "exefs/code.bin#0x45F156", "es": "Hoja del terror"}
+{"key": "exefs/code.bin#0x45F175", "es": "Espejo mágico"}
+{"key": "exefs/code.bin#0x45F18E", "es": "Espejo ofensivo"}
+{"key": "exefs/code.bin#0x45F1A9", "es": "Mil cabezas"}
+{"key": "exefs/code.bin#0x45F1C6", "es": "5.67 mil millones de manos"}
+{"key": "exefs/code.bin#0x45F1EB", "es": "Dioses del trueno"}
+{"key": "exefs/code.bin#0x45F204", "es": "Agujas aturdidoras"}
+{"key": "exefs/code.bin#0x45F21D", "es": "Colmillos de serpiente"}
+{"key": "exefs/code.bin#0x45F238", "es": "Garras de locura"}
+{"key": "exefs/code.bin#0x45F253", "es": "Caos planeado"}
+{"key": "exefs/code.bin#0x45F26E", "es": "Mar de Caos"}
+{"key": "exefs/code.bin#0x45F287", "es": "Gran Logos"}
+{"key": "exefs/code.bin#0x45F29E", "es": "Megatón de presión"}
+{"key": "exefs/code.bin#0x45F2B9", "es": "Artes de Akasha"}
+{"key": "exefs/code.bin#0x45F2D0", "es": "Bono de maná"}
+{"key": "exefs/code.bin#0x45F2E5", "es": "Bono de vida"}
+{"key": "exefs/code.bin#0x45F2FA", "es": "Garras desgarradoras"}
+{"key": "exefs/code.bin#0x45F315", "es": "Miríada de flechas"}
+{"key": "exefs/code.bin#0x45F330", "es": "Repeler físico"}
+{"key": "exefs/code.bin#0x45F345", "es": "Anular físico"}
+{"key": "exefs/code.bin#0x45F358", "es": "Absorber físico"}
+{"key": "exefs/code.bin#0x45F36D", "es": "Resistir físico"}
+{"key": "exefs/code.bin#0x45F384", "es": "Cáliz de Babilonia"}
+{"key": "exefs/code.bin#0x45F3A1", "es": "Bala de fogueo"}
+{"key": "exefs/code.bin#0x45F3BA", "es": "Repeler luz"}
+{"key": "exefs/code.bin#0x45F3D1", "es": "Anular luz"}
+{"key": "exefs/code.bin#0x45F3E6", "es": "Absorber luz"}
+{"key": "exefs/code.bin#0x45F3FD", "es": "Luz justiciera"}
+{"key": "exefs/code.bin#0x45F41A", "es": "Resistir luz"}
+{"key": "exefs/code.bin#0x45F433", "es": "Plaga"}
+{"key": "exefs/code.bin#0x45F440", "es": "Golpe desesperado"}
+{"key": "exefs/code.bin#0x45F45B", "es": "Golpe de cántico"}
+{"key": "exefs/code.bin#0x45F46E", "es": "Golpe perdido"}
+{"key": "exefs/code.bin#0x45F47F", "es": "Juicio severo"}
+{"key": "exefs/code.bin#0x45F49E", "es": "Juicio de hierro"}
+{"key": "exefs/code.bin#0x45F4B9", "es": "Iluminación"}
+{"key": "exefs/code.bin#0x45F4D4", "es": "Torrente mágico"}
+{"key": "exefs/code.bin#0x45F4EF", "es": "Provocar"}
+{"key": "exefs/code.bin#0x45F4FA", "es": "Disparo de aguja"}
+{"key": "exefs/code.bin#0x45F511", "es": "Disparo seductor"}
+{"key": "exefs/code.bin#0x45F52C", "es": "Disparo de tathlum"}
+{"key": "exefs/code.bin#0x45F545", "es": "Disparo de sueño"}
+{"key": "exefs/code.bin#0x45F55A", "es": "Carro"}
+{"key": "exefs/code.bin#0x45F569", "es": "Estallido mesiánico"}
+{"key": "exefs/code.bin#0x45F584", "es": "Estallido glacial"}
+{"key": "exefs/code.bin#0x45F59F", "es": "Estallido de Hades"}
+{"key": "exefs/code.bin#0x45F5B6", "es": "Descanso eterno"}
+{"key": "exefs/code.bin#0x45F5CF", "es": "Tempestad furiosa"}
+{"key": "exefs/code.bin#0x45F5EC", "es": "Puño onírico"}
+{"key": "exefs/code.bin#0x45F601", "es": "No resistirás"}
+{"key": "exefs/code.bin#0x45F622", "es": "Voluntad de la escarcha"}
+{"key": "exefs/code.bin#0x45F63D", "es": "Ráfaga floral"}
+{"key": "exefs/code.bin#0x45F654", "es": "Lujuria de la muerte"}
+{"key": "exefs/code.bin#0x45F669", "es": "Envite infernal"}
+{"key": "exefs/code.bin#0x45F680", "es": "Corte de tétanos"}
+{"key": "exefs/code.bin#0x45F697", "es": "Grito protector"}
+{"key": "exefs/code.bin#0x45F6B2", "es": "Bufu"}
+{"key": "exefs/code.bin#0x45F6BB", "es": "Mabufu"}
+{"key": "exefs/code.bin#0x45F6C8", "es": "Garra enérgica"}
+{"key": "exefs/code.bin#0x45F6E3", "es": "Garra de contención"}
+{"key": "exefs/code.bin#0x45F6FC", "es": "Garra axel"}
+{"key": "exefs/code.bin#0x45F70F", "es": "Garra nihil"}
+{"key": "exefs/code.bin#0x45F724", "es": "Garra venenosa"}
+{"key": "exefs/code.bin#0x45F73B", "es": "Garra de Damasco"}
+{"key": "exefs/code.bin#0x45F756", "es": "Arco de Dios"}
+{"key": "exefs/code.bin#0x45F769", "es": "Arco del cielo"}
+{"key": "exefs/code.bin#0x45F782", "es": "Voto santurrón"}
+{"key": "exefs/code.bin#0x45F7A7", "es": "Pericia curativa"}
+{"key": "exefs/code.bin#0x45F7C6", "es": "Pericia de ataque"}
+{"key": "exefs/code.bin#0x45F7E3", "es": "Flecha explosiva"}
+{"key": "exefs/code.bin#0x45F7FA", "es": "Rayo enigmático"}
+{"key": "exefs/code.bin#0x45F815", "es": "Rayo extraño"}
+{"key": "exefs/code.bin#0x45F82C", "es": "Manejo experto de lanza"}
+{"key": "exefs/code.bin#0x45F84D", "es": "Buenas noches, bebé"}
+{"key": "exefs/code.bin#0x45F86E", "es": "Canc. de cuna"}
+{"key": "exefs/code.bin#0x45F87D", "es": "Caramelo brillante"}
+{"key": "exefs/code.bin#0x45F896", "es": "Melodía malvada"}
+{"key": "exefs/code.bin#0x45F8AD", "es": "Rapsodia embrujada"}
+{"key": "exefs/code.bin#0x45F8D0", "es": "Ideales de Maruología"}
+{"key": "exefs/code.bin#0x45F8F7", "es": "Fuego del letargo"}
+{"key": "exefs/code.bin#0x45F918", "es": "Llamar aliado"}
+{"key": "exefs/code.bin#0x45F92B", "es": "Movimiento lento"}
+{"key": "exefs/code.bin#0x45F94D", "es": "Mala compañía"}
+{"key": "exefs/code.bin#0x45F964", "es": "Armonía divina"}
+{"key": "exefs/code.bin#0x45F981", "es": "Grito bélico"}
+{"key": "exefs/code.bin#0x45F990", "es": "Grito de victoria"}
+{"key": "exefs/code.bin#0x45F9A7", "es": "Autoridad"}
+{"key": "exefs/code.bin#0x45FCE8", "es": "Chiyoda"}
+{"key": "exefs/code.bin#0x45FCF7", "es": "Anillo de Gea"}
+{"key": "exefs/code.bin#0x45FD10", "es": "Asakusa Land"}
+{"key": "exefs/code.bin#0x45FD29", "es": "Almacén de Kiba"}
+{"key": "exefs/code.bin#0x45FD42", "es": "Santuario de Kabuto"}
+{"key": "exefs/code.bin#0x45FD5D", "es": "Almacenes Nikoshi"}
+{"key": "exefs/code.bin#0x45FD8E", "es": "Almacenes Tosho"}
+{"key": "exefs/code.bin#0x45FDBB", "es": "Librería Juraku"}
+{"key": "exefs/code.bin#0x45FDDC", "es": "Edificio de la Dieta Nacional"}
+{"key": "exefs/code.bin#0x45FE09", "es": "Edificio de empresa de carga"}
+{"key": "exefs/code.bin#0x45FE3A", "es": "Roppongi"}
+{"key": "exefs/code.bin#0x45FE4B", "es": "Hospital San Juan"}
+{"key": "exefs/code.bin#0x45FE72", "es": "Dominio del refugio"}
+{"key": "exefs/code.bin#0x45FE8F", "es": "Dominio del distrito subterráneo"}
+{"key": "exefs/code.bin#0x45FEC6", "es": "Dominio de Naraku"}
+{"key": "exefs/code.bin#0x45FEE1", "es": "Tougu Gosho"}
+{"key": "exefs/code.bin#0x45FEF8", "es": "Ueno"}
+{"key": "exefs/code.bin#0x45FF01", "es": "Campamento Meguro"}
+{"key": "exefs/code.bin#0x45FF18", "es": "Joto"}
+{"key": "exefs/code.bin#0x45FF21", "es": "Rompeolas central"}
+{"key": "exefs/code.bin#0x45FF46", "es": "Ruinas del Parque Ogunohara"}
+{"key": "exefs/code.bin#0x45FF6F", "es": "Johoku"}
+{"key": "exefs/code.bin#0x45FF7C", "es": "Shinjuku"}
+{"key": "exefs/code.bin#0x45FF8D", "es": "Bahía"}
+{"key": "exefs/code.bin#0x45FF94", "es": "Cementerio de Aoyama"}
+{"key": "exefs/code.bin#0x45FFB3", "es": "Universidad Gakushuin"}
+{"key": "exefs/code.bin#0x45FFDC", "es": "Ya casi. No bajes la guardia, chico."}
+{"key": "exefs/code.bin#0x460037", "es": "No descuides el entrenamiento de tus demonios, chico."}
+{"key": "exefs/code.bin#0x460092", "es": "Para volver a Tokio, solo toca el Monolito."}
+{"key": "exefs/code.bin#0x4600EB", "es": "Nos acercamos. No bajes la guardia."}
+{"key": "exefs/code.bin#0x46014C", "es": "Toca el Monolito para volver a Tokio."}
+{"key": "exefs/code.bin#0x460199", "es": "Sería buena idea alejar el mapa."}
+{"key": "exefs/code.bin#0x4601F2", "es": "Es enorme... Mejor aleja el mapa."}
+{"key": "exefs/code.bin#0x460245", "es": "Acabemos con esto. Entrena bien a tus demonios."}
+{"key": "exefs/code.bin#0x4602A6", "es": "Comida"}
+{"key": "exefs/code.bin#0x4602AF", "es": "Fragancia"}
+{"key": "exefs/code.bin#0x4602C2", "es": "Medicina"}
+{"key": "exefs/code.bin#0x4602D3", "es": "Ocio"}
+{"key": "exefs/code.bin#0x4602E2", "es": "Mueble"}
+{"key": "exefs/code.bin#0x4602F5", "es": "Ropa"}
+{"key": "exefs/code.bin#0x460306", "es": "Material negro"}
+{"key": "exefs/code.bin#0x460323", "es": "Cosmético"}
+{"key": "exefs/code.bin#0x460336", "es": "Artilugio"}
+{"key": "exefs/code.bin#0x460343", "es": "Documento"}
+{"key": "exefs/code.bin#0x460354", "es": "Mercancía"}
+{"key": "exefs/code.bin#0x460367", "es": "Edificio de la Dieta Nacional"}
+{"key": "exefs/code.bin#0x46038E", "es": "Okachimachi"}
+{"key": "exefs/code.bin#0x4603A5", "es": "Ooimachi"}
+{"key": "exefs/code.bin#0x4603B6", "es": "Suidobashi"}
+{"key": "exefs/code.bin#0x4603CB", "es": "Azabu Juban"}
+{"key": "exefs/code.bin#0x4603E2", "es": "Confines"}
+{"key": "exefs/code.bin#0x460403", "es": "Ochanomizu"}
+{"key": "exefs/code.bin#0x460418", "es": "Dominio de Shibuya arrasado"}
+{"key": "exefs/code.bin#0x460445", "es": "Dominio de Shibuya infernal"}
+{"key": "exefs/code.bin#0x460474", "es": "Dominio de Tsukiji Konganji"}
+{"key": "exefs/code.bin#0x4604A3", "es": "Dominio de Midtown"}
+{"key": "exefs/code.bin#0x4604C0", "es": "Dominio de Ikebukuro infernal"}
+{"key": "exefs/code.bin#0x4604F3", "es": "Dominio de Shinjuku infernal"}
+{"key": "exefs/code.bin#0x460BF4", "es": "Ruta neutral completada"}
+{"key": "exefs/code.bin#0x460C1B", "es": "Ruta del Caos completada"}
+{"key": "exefs/code.bin#0x460C3E", "es": "Ruta de la Ley completada"}
+{"key": "exefs/code.bin#0x460C5D", "es": "Final de la nada completado"}
+{"key": "exefs/code.bin#0x46ED3F", "es": "Mikado"}
+{"key": "exefs/code.bin#0x46ED7B", "es": "Sky"}
+{"key": "exefs/code.bin#0x46EDB7", "es": "Ueno"}
+{"key": "exefs/code.bin#0x46EDF3", "es": "Kasumigaseki"}
+{"key": "exefs/code.bin#0x46EE2F", "es": "Shinjuku"}
+{"key": "exefs/code.bin#0x46EE6B", "es": "Ikebukuro"}
+{"key": "exefs/code.bin#0x46EEA7", "es": "Shibuya"}
+{"key": "exefs/code.bin#0x46EEE3", "es": "Ginza"}
+{"key": "exefs/code.bin#0x46EF1F", "es": "Yoyogi"}
+{"key": "exefs/code.bin#0x46EF5B", "es": "Shinjuku arrasado"}
+{"key": "exefs/code.bin#0x46EF97", "es": "Shibuya arrasado"}
+{"key": "exefs/code.bin#0x46EFD3", "es": "Ikebukuro arrasado"}
+{"key": "exefs/code.bin#0x46F00F", "es": "Kasumigaseki infernal"}
+{"key": "exefs/code.bin#0x46F04B", "es": "Shinjuku infernal"}
+{"key": "exefs/code.bin#0x46F087", "es": "Shibuya infernal"}
+{"key": "exefs/code.bin#0x46F0C3", "es": "Ikebukuro infernal"}
+{"key": "exefs/code.bin#0x46F0FF", "es": "Toyosu"}
+{"key": "exefs/code.bin#0x46F13B", "es": "Tennozu"}
+{"key": "exefs/code.bin#0x46F177", "es": "Purgatorium"}
+{"key": "exefs/code.bin#0x46F1B3", "es": "Palacio de Lucifer"}
+{"key": "exefs/code.bin#0x46F1EF", "es": "Kinshicho"}
+{"key": "exefs/code.bin#0x46F22B", "es": "Minami Sunamachi"}
+{"key": "exefs/code.bin#0x481B50", "es": "Plaza del Gobierno"}
+{"key": "exefs/code.bin#0x481BAC", "es": "Entrada sur"}
+{"key": "exefs/code.bin#0x481C08", "es": "Calle principal de la entrada este"}
+{"key": "exefs/code.bin#0x481C64", "es": "Kabuki-cho"}
+{"key": "exefs/code.bin#0x481CC0", "es": "Golden Gai"}
+{"key": "exefs/code.bin#0x481D1C", "es": "Nicho"}
+{"key": "exefs/code.bin#0x481DD4", "es": "Estación - Entrada oeste"}
+{"key": "exefs/code.bin#0x481E8C", "es": "Edificios de la entrada oeste"}
+{"key": "exefs/code.bin#0x481EE8", "es": "Estación - Subsuelo"}
+{"key": "exefs/code.bin#0x481F44", "es": "Subsuelo de la entrada oeste"}
+{"key": "exefs/code.bin#0x481FA0", "es": "Pasaje de la entrada oeste"}
+{"key": "exefs/code.bin#0x481FFC", "es": "Pasaje de Kabuki-cho"}
+{"key": "exefs/code.bin#0x482058", "es": "Estación - Cruce peatonal frontal"}
+{"key": "exefs/code.bin#0x4820B4", "es": "Edificio 108"}
+{"key": "exefs/code.bin#0x482110", "es": "Dogenzaka"}
+{"key": "exefs/code.bin#0x48216C", "es": "Inokashira-dori"}
+{"key": "exefs/code.bin#0x4821C8", "es": "Parque Miyashita"}
+{"key": "exefs/code.bin#0x482224", "es": "Estación - Entrada oeste"}
+{"key": "exefs/code.bin#0x482280", "es": "Distrito subterráneo A"}
+{"key": "exefs/code.bin#0x4822DC", "es": "Distrito subterráneo B"}
+{"key": "exefs/code.bin#0x482338", "es": "Distrito subterráneo C"}
+{"key": "exefs/code.bin#0x482394", "es": "Distrito subterráneo D"}
+{"key": "exefs/code.bin#0x4823F0", "es": "Dentro de Mark City"}
+{"key": "exefs/code.bin#0x48244C", "es": "Sakurada-dori"}
+{"key": "exefs/code.bin#0x4824A8", "es": "S1 - Pasaje de Nagatacho"}
+{"key": "exefs/code.bin#0x482504", "es": "S2 - Nueva sede"}
+{"key": "exefs/code.bin#0x482560", "es": "Estación - Pasaje"}
+{"key": "exefs/code.bin#0x4825BC", "es": "Estación - Andén"}
+{"key": "exefs/code.bin#0x482618", "es": "Acceso restringido"}
+{"key": "exefs/code.bin#0x482674", "es": "Almacén para desastres A"}
+{"key": "exefs/code.bin#0x4826D0", "es": "Almacén para desastres B"}
+{"key": "exefs/code.bin#0x48272C", "es": "S4 - Laboratorio"}
+{"key": "exefs/code.bin#0x482788", "es": "Frente a Sunshine"}
+{"key": "exefs/code.bin#0x4827E4", "es": "Autopista Metropolitana 5"}
+{"key": "exefs/code.bin#0x48289C", "es": "Distrito subterráneo"}
+{"key": "exefs/code.bin#0x4828F8", "es": "Estación - Entrada este"}
+{"key": "exefs/code.bin#0x482954", "es": "Cruce peatonal del distrito 4"}
+{"key": "exefs/code.bin#0x4829B0", "es": "Calle Harumi A"}
+{"key": "exefs/code.bin#0x482A0C", "es": "Calle Central A"}
+{"key": "exefs/code.bin#0x482A68", "es": "Calle Harumi B"}
+{"key": "exefs/code.bin#0x482AC4", "es": "Calle Central B"}
+{"key": "exefs/code.bin#0x482B20", "es": "Zona comercial"}
+{"key": "exefs/code.bin#0x482BD8", "es": "Distrito subterráneo"}
+{"key": "exefs/code.bin#0x482C34", "es": "Pasaje suroeste"}
+{"key": "exefs/code.bin#0x482C90", "es": "Pasaje sureste"}
+{"key": "exefs/code.bin#0x482CEC", "es": "Pasaje de Konganji"}
+{"key": "exefs/code.bin#0x482D48", "es": "Cruce peatonal del distrito 4"}
+{"key": "exefs/code.bin#0x482DA4", "es": "Estación - Entrada frontal"}
+{"key": "exefs/code.bin#0x482E00", "es": "Calle Central"}
+{"key": "exefs/code.bin#0x482E5C", "es": "Calle Ameyoko"}
+{"key": "exefs/code.bin#0x482EB8", "es": "Estanque de Shinobazu"}
+{"key": "exefs/code.bin#0x482F14", "es": "Estación - Distrito subterráneo"}
+{"key": "exefs/code.bin#0x482F70", "es": "Distrito subterráneo central"}
+{"key": "exefs/code.bin#0x482FCC", "es": "Pasaje subterráneo"}
+{"key": "exefs/code.bin#0x483028", "es": "Subsuelo"}
+{"key": "exefs/code.bin#0x483084", "es": "Subsuelo"}
+{"key": "exefs/code.bin#0x4830E0", "es": "Pasaje de Yaesu"}
+{"key": "exefs/code.bin#0x48313C", "es": "Salida"}
+{"key": "exefs/code.bin#0x483198", "es": "Quinto estrato"}
+{"key": "exefs/code.bin#0x4831F4", "es": "Cuarto estrato"}
+{"key": "exefs/code.bin#0x483250", "es": "Tercer estrato"}
+{"key": "exefs/code.bin#0x4832AC", "es": "Segundo estrato"}
+{"key": "exefs/code.bin#0x483308", "es": "Primer estrato"}
+{"key": "exefs/code.bin#0x483364", "es": "Sala del Pesar"}
+{"key": "exefs/code.bin#0x4833C0", "es": "Dormitorio de excavadores"}
+{"key": "exefs/code.bin#0x48341C", "es": "Andamios temporales"}
+{"key": "exefs/code.bin#0x483478", "es": "Plataforma de observación 1"}
+{"key": "exefs/code.bin#0x4834D4", "es": "Zona comercial"}
+{"key": "exefs/code.bin#0x483530", "es": "Plaza del agua"}
+{"key": "exefs/code.bin#0x48358C", "es": "Jardín del estanque"}
+{"key": "exefs/code.bin#0x483758", "es": "Pasaje de empleados"}
+{"key": "exefs/code.bin#0x4837B4", "es": "Antiguo refugio militar"}
+{"key": "exefs/code.bin#0x483810", "es": "Templo principal"}
+{"key": "exefs/code.bin#0x48386C", "es": "Templo principal"}
+{"key": "exefs/code.bin#0x4838C8", "es": "Sala de entrenamiento 1"}
+{"key": "exefs/code.bin#0x483924", "es": "Sala de entrenamiento 2"}
+{"key": "exefs/code.bin#0x483980", "es": "Pasaje oculto"}
+{"key": "exefs/code.bin#0x4839DC", "es": "Pasaje de lapislázuli"}
+{"key": "exefs/code.bin#0x483A38", "es": "Pasaje de ámbar"}
+{"key": "exefs/code.bin#0x483A94", "es": "Pasaje de jade"}
+{"key": "exefs/code.bin#0x483AF0", "es": "Pasaje central"}
+{"key": "exefs/code.bin#0x483B4C", "es": "Tesorería subterránea"}
+{"key": "exefs/code.bin#0x483BA8", "es": "Ruinas del refugio"}
+{"key": "exefs/code.bin#0x483C04", "es": "Sala de entrenamiento 1 P2"}
+{"key": "exefs/code.bin#0x483C60", "es": "Sala de entrenamiento 2 P2"}
+{"key": "exefs/code.bin#0x483CBC", "es": "Sala de entrenamiento 1 P3"}
+{"key": "exefs/code.bin#0x483D18", "es": "Sala de entrenamiento 2 P3"}
+{"key": "exefs/code.bin#0x483D74", "es": "Templo principal P2"}
+{"key": "exefs/code.bin#0x483DD0", "es": "Templo principal"}
+{"key": "exefs/code.bin#0x4840B0", "es": "Sala de la eternidad A"}
+{"key": "exefs/code.bin#0x48410C", "es": "Sala de la eternidad A"}
+{"key": "exefs/code.bin#0x484168", "es": "Sala de la eternidad B"}
+{"key": "exefs/code.bin#0x4841C4", "es": "Sala de la luz eterna"}
+{"key": "exefs/code.bin#0x484220", "es": "Torre de la Luna"}
+{"key": "exefs/code.bin#0x48427C", "es": "Sala de la eternidad B"}
+{"key": "exefs/code.bin#0x4842D8", "es": "Dominio"}
+{"key": "exefs/code.bin#0x484334", "es": "Colina superior"}
+{"key": "exefs/code.bin#0x484390", "es": "Colina Terminal"}
+{"key": "exefs/code.bin#0x4843EC", "es": "Primero"}
+{"key": "exefs/code.bin#0x484448", "es": "Primero"}
+{"key": "exefs/code.bin#0x4844A4", "es": "Primer pasaje"}
+{"key": "exefs/code.bin#0x484500", "es": "Segundo"}
+{"key": "exefs/code.bin#0x48455C", "es": "Segundo pasaje"}
+{"key": "exefs/code.bin#0x4845B8", "es": "Tercero"}
+{"key": "exefs/code.bin#0x484614", "es": "Tercero"}
+{"key": "exefs/code.bin#0x484670", "es": "Tercer pasaje"}
+{"key": "exefs/code.bin#0x4846CC", "es": "Cuarto"}
+{"key": "exefs/code.bin#0x484728", "es": "Cuarto pasaje"}
+{"key": "exefs/code.bin#0x484784", "es": "Quinto"}
+{"key": "exefs/code.bin#0x4847E0", "es": "Quinto"}
+{"key": "exefs/code.bin#0x48483C", "es": "Quinto"}
+{"key": "exefs/code.bin#0x484898", "es": "Quinto pasaje"}
+{"key": "exefs/code.bin#0x4848F4", "es": "Sexto"}
+{"key": "exefs/code.bin#0x484950", "es": "Sexto pasaje"}
+{"key": "exefs/code.bin#0x4849AC", "es": "Corazón"}
+{"key": "exefs/code.bin#0x484A08", "es": "Corazón"}
+{"key": "exefs/code.bin#0x484A64", "es": "Brana 1 A"}
+{"key": "exefs/code.bin#0x484AC0", "es": "Brana 1 B"}
+{"key": "exefs/code.bin#0x484B1C", "es": "Brana 1 C"}
+{"key": "exefs/code.bin#0x484B78", "es": "Brana 1 D"}
+{"key": "exefs/code.bin#0x484BD4", "es": "Brana 1 E"}
+{"key": "exefs/code.bin#0x484C30", "es": "Brana 1 F"}
+{"key": "exefs/code.bin#0x484C8C", "es": "Brana 1 G"}
+{"key": "exefs/code.bin#0x484CE8", "es": "Brana 1 H"}
+{"key": "exefs/code.bin#0x484D44", "es": "Brana 1 I"}
+{"key": "exefs/code.bin#0x484DA0", "es": "Brana 1 J"}
+{"key": "exefs/code.bin#0x484DFC", "es": "Brana 1 K"}
+{"key": "exefs/code.bin#0x484E58", "es": "Brana 1 L"}
+{"key": "exefs/code.bin#0x484EB4", "es": "Brana 1 M"}
+{"key": "exefs/code.bin#0x484F10", "es": "Brana 2 A"}
+{"key": "exefs/code.bin#0x484F6C", "es": "Brana 2 B"}
+{"key": "exefs/code.bin#0x484FC8", "es": "Brana 2 C"}
+{"key": "exefs/code.bin#0x485024", "es": "Brana 2 D"}
+{"key": "exefs/code.bin#0x485080", "es": "Brana 2 E"}
+{"key": "exefs/code.bin#0x4850DC", "es": "Brana 2 F"}
+{"key": "exefs/code.bin#0x485138", "es": "Brana 2 G"}
+{"key": "exefs/code.bin#0x485194", "es": "Brana 2 H"}
+{"key": "exefs/code.bin#0x4851F0", "es": "Brana 2 I"}
+{"key": "exefs/code.bin#0x48524C", "es": "Brana 2 J"}
+{"key": "exefs/code.bin#0x4852A8", "es": "Brana 2 K"}
+{"key": "exefs/code.bin#0x485304", "es": "Brana 2 L"}
+{"key": "exefs/code.bin#0x485360", "es": "Brana 2 M"}
+{"key": "exefs/code.bin#0x4853BC", "es": "Brana 3 A"}
+{"key": "exefs/code.bin#0x485418", "es": "Brana 3 B"}
+{"key": "exefs/code.bin#0x485474", "es": "Brana 3 C"}
+{"key": "exefs/code.bin#0x4854D0", "es": "Brana 3 D"}
+{"key": "exefs/code.bin#0x48552C", "es": "Brana 3 E"}
+{"key": "exefs/code.bin#0x485588", "es": "Brana 3 F"}
+{"key": "exefs/code.bin#0x4855E4", "es": "Brana 3 G"}
+{"key": "exefs/code.bin#0x485640", "es": "Brana 3 H"}
+{"key": "exefs/code.bin#0x48569C", "es": "Brana 3 I"}
+{"key": "exefs/code.bin#0x4856F8", "es": "Brana 3 J"}
+{"key": "exefs/code.bin#0x485754", "es": "Brana 3 K"}
+{"key": "exefs/code.bin#0x4857B0", "es": "Brana 3 L"}
+{"key": "exefs/code.bin#0x48580C", "es": "Brana 3 M"}
+{"key": "exefs/code.bin#0x485868", "es": "Brana 3 N"}
+{"key": "exefs/code.bin#0x4858C4", "es": "Brana 4 A"}
+{"key": "exefs/code.bin#0x485920", "es": "Brana 4 B"}
+{"key": "exefs/code.bin#0x48597C", "es": "Brana 4 C"}
+{"key": "exefs/code.bin#0x4859D8", "es": "Brana 4 D"}
+{"key": "exefs/code.bin#0x485A34", "es": "Brana 4 E"}
+{"key": "exefs/code.bin#0x485A90", "es": "Brana 4 F"}
+{"key": "exefs/code.bin#0x485AEC", "es": "Brana 4 G"}
+{"key": "exefs/code.bin#0x485B48", "es": "Brana 4 H"}
+{"key": "exefs/code.bin#0x485BA4", "es": "Brana 4 I"}
+{"key": "exefs/code.bin#0x485C00", "es": "Brana 4 J"}
+{"key": "exefs/code.bin#0x485CB8", "es": "Brana 4 K"}
+{"key": "exefs/code.bin#0x485D14", "es": "Brana 4 L"}
+{"key": "exefs/code.bin#0x485D70", "es": "Brana 4 M"}
+{"key": "exefs/code.bin#0x485DCC", "es": "Brana 4 N"}
+{"key": "exefs/code.bin#0x485E28", "es": "Brana 4 O"}
+{"key": "exefs/code.bin#0x485E84", "es": "Brana 4 P"}
+{"key": "exefs/code.bin#0x485EE0", "es": "Brana 4 Q"}
+{"key": "exefs/code.bin#0x485F3C", "es": "Brana 4 R"}
+{"key": "exefs/code.bin#0x485F98", "es": "Brana 4 S"}
+{"key": "exefs/code.bin#0x485FF4", "es": "Espacio no euclidiano"}
+{"key": "exefs/code.bin#0x486050", "es": "Espacio no euclidiano"}
+{"key": "exefs/code.bin#0x4860AC", "es": "Parque Kinshi"}
+{"key": "exefs/code.bin#0x486108", "es": "Zona comercial Salida Sur"}
+{"key": "exefs/code.bin#0x486164", "es": "Distrito subterráneo"}
+{"key": "exefs/code.bin#0x4861C0", "es": "Distrito residencial"}
+{"key": "exefs/code.bin#0x48621C", "es": "Andén"}
+{"key": "exefs/code.bin#0x486278", "es": "Pasaje subterráneo"}
+{"key": "exefs/code.bin#0x4863E8", "es": "Sala de piedra"}
+{"key": "exefs/code.bin#0x4864A0", "es": "Puente sur del estanque"}
+{"key": "exefs/code.bin#0x4864FC", "es": "Camino de Kakuun"}
+{"key": "exefs/code.bin#0x486558", "es": "Camino de Kiyomasa"}
+{"key": "exefs/code.bin#0x4865B4", "es": "Camino sur"}
+{"key": "exefs/code.bin#0x486610", "es": "Camino central"}
+{"key": "exefs/code.bin#0x48666C", "es": "Plaza Kagura"}
+{"key": "exefs/code.bin#0x4866C8", "es": "Colina del Lago Norte"}
+{"key": "exefs/code.bin#0x486724", "es": "Jardín laberinto"}
+{"key": "exefs/code.bin#0x486780", "es": "Jardín laberinto"}
+{"key": "exefs/code.bin#0x4867DC", "es": "Jardín laberinto"}
+{"key": "exefs/code.bin#0x486838", "es": "Jardín laberinto"}
+{"key": "exefs/code.bin#0x486894", "es": "Camino central"}
+{"key": "exefs/code.bin#0x4868F0", "es": "Puerta central"}
+{"key": "exefs/code.bin#0x48694C", "es": "Puerta central"}
+{"key": "exefs/code.bin#0x4869A8", "es": "Puente sur del estanque"}
+{"key": "exefs/code.bin#0x486A04", "es": "Camino de Kakuun"}
+{"key": "exefs/code.bin#0x486A60", "es": "Camino de Kiyomasa"}
+{"key": "exefs/code.bin#0x486ABC", "es": "Camino sur"}
+{"key": "exefs/code.bin#0x486B18", "es": "Camino central"}
+{"key": "exefs/code.bin#0x486B74", "es": "Sala de reuniones A"}
+{"key": "exefs/code.bin#0x486BD0", "es": "Sala de reuniones B"}
+{"key": "exefs/code.bin#0x486C2C", "es": "Centro"}
+{"key": "exefs/code.bin#0x486C88", "es": "Pasaje sur"}
+{"key": "exefs/code.bin#0x486CE4", "es": "Suroeste"}
+{"key": "exefs/code.bin#0x486D40", "es": "Sureste"}
+{"key": "exefs/code.bin#0x486D9C", "es": "Noroeste"}
+{"key": "exefs/code.bin#0x486DF8", "es": "Noreste"}
+{"key": "exefs/code.bin#0x486E54", "es": "Pasaje norte"}
+{"key": "exefs/code.bin#0x486EB0", "es": "Oeste"}
+{"key": "exefs/code.bin#0x486F0C", "es": "Este"}
+{"key": "exefs/code.bin#0x486F68", "es": "Llanuras"}
+{"key": "exefs/code.bin#0x486FC4", "es": "Costa"}
+{"key": "exefs/code.bin#0x487020", "es": "Costa"}
+{"key": "exefs/code.bin#0x48707C", "es": "Llanuras"}
+{"key": "exefs/code.bin#0x4870D8", "es": "Llanuras"}
+{"key": "exefs/code.bin#0x487134", "es": "Costa"}
+{"key": "exefs/code.bin#0x487190", "es": "Región de Ueno"}
+{"key": "exefs/code.bin#0x4871EC", "es": "Región de Chiyoda"}
+{"key": "exefs/code.bin#0x487248", "es": "Ikebukuro"}
+{"key": "exefs/code.bin#0x4872A4", "es": "Región de Shinjuku"}
+{"key": "exefs/code.bin#0x487300", "es": "Región de Roppongi"}
+{"key": "exefs/code.bin#0x48735C", "es": "Región costera"}
+{"key": "exefs/code.bin#0x4873B8", "es": "Región de Joto"}
+{"key": "exefs/code.bin#0x487414", "es": "Región de Johoku"}
+{"key": "exefs/code.bin#0x487470", "es": "Rompeolas central"}
+{"key": "exefs/code.bin#0x48763C", "es": "Estatua de Aquila"}
+{"key": "exefs/code.bin#0x487698", "es": "Terminal"}
+{"key": "exefs/code.bin#0x487702", "es": "Prueba"}
+{"key": "exefs/code.bin#0x487724", "es": "Subsuelo"}
+{"key": "exefs/code.bin#0x487746", "es": "Tokio L"}
+{"key": "exefs/code.bin#0x487768", "es": "Tokio C"}

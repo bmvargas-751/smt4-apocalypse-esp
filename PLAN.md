@@ -74,13 +74,14 @@ Datos e interfaz primero; después la historia en orden, las secundarias y las n
 - [x] 6.6 Negociaciones
 - [x] 6.7 Demonios en combate
 - [x] 6.8 Contenido descargable
+- [x] 6.9 Ejecutable: los textos cortos de interfaz de `exefs/code.bin` (`tools/codebin.py`) (2026-11-16)
 
 ### Fase 7. Prueba en el juego
 
 La traducción está completa y la revisión de PENDING, terminada (2026-11-16). Se juega con `install.bat` y se anota lo que se vea. Lo que quede por decidir en pantalla está en [PENDING.md](PENDING.md), «Para la prueba en el juego».
 
 - [ ] Jugar con la traducción completa y anotar cortes, cajas que se pasan, glifos que faltan y texto que quedó en inglés.
-- [ ] Ida y vuelta del ejecutable (`code.bin`): tiene unos mil textos de interfaz en inglés de ancho completo (elementos, estados, mensajes cortos).
+- [x] Ida y vuelta del ejecutable (`code.bin`): 1029 textos en inglés de ancho completo; `tools/codebin.py roundtrip` da el archivo idéntico (2026-11-16).
 - [ ] Ida y vuelta de las texturas con texto.
 - [ ] Una línea con «¿Ñandú? ¡Sí!» en el emulador, con `install.py --test`: mensajes de crear datos, guardar y cargar (`tests/font.jsonl`) y menú de título, que es de una tabla (`tests/tables.jsonl`). Falta verlo en el juego.
 - [ ] Pseudolocalización: todo el texto un 35% más largo, con á é í ó ú ü ñ, sus mayúsculas, ¿ ¡ y un ID corto por línea. Jugar una hora (menús, combate, negociación, compendio) y anotar los glifos que faltan en cada fuente, los cortes, los cuelgues y el texto que no cambió (está en el ejecutable o en una textura).
@@ -90,7 +91,7 @@ La traducción está completa y la revisión de PENDING, terminada (2026-11-16).
 ### Fase 8. Entrega
 
 - [ ] Idealmente, una prueba en una 3DS real.
-- [ ] Registro de cambios ([CHANGELOG.md](CHANGELOG.md)) y publicación: versión 1.0.0.
+- [x] Registro de cambios ([CHANGELOG.md](CHANGELOG.md)) y publicación: versión 1.0.0 (2026-11-16).
 
 ## Notas de IVA
 

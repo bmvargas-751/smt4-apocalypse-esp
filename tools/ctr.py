@@ -89,6 +89,16 @@ class Image:
         self._files = index
         return index
 
+    def exefs_file(self, name):
+        """Un archivo del ExeFS («.code» es el code.bin, comprimido con BLZ)."""
+        base, _ = self.exefs
+        h = self.read(base, 0x200)
+        for i in range(10):
+            if h[i * 16:i * 16 + 8].rstrip(b"\0").decode() == name:
+                off, size = struct.unpack_from("<II", h, i * 16 + 8)
+                return self.read(base + 0x200 + off, size)
+        raise InvalidImage(f"no hay {name} en el ExeFS")
+
     def read_file(self, path):
         off, size = self.files()[path]
         return self.read(off, size)

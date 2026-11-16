@@ -3,9 +3,9 @@
 
     python3 tools/progress.py [--en EN.jsonl] [--tbb TBB.jsonl] [--readme]
 
-Cuenta los textos del juego (los mensajes de `mbm.py export` y los de las
-tablas de `tbb.py export`; por defecto ../smt4a-local/en.jsonl y
-../smt4a-local/tbb.jsonl) y los traducidos en translation/. Con --readme
+Cuenta los textos del juego (los mensajes de `mbm.py export`, los de las
+tablas de `tbb.py export` y los del ejecutable de `codebin.py export`; por
+defecto ../smt4a-local/en.jsonl, tbb.jsonl y codebin.jsonl) y los traducidos en translation/. Con --readme
 reescribe las tablas entre <!-- progress --> y <!-- /progress --> en README.md
 y en translation/README.md, y la etapa actual (lo primero pendiente de PLAN.md).
 """
@@ -35,6 +35,7 @@ SECTIONS = [
     ("6.7", "Demonios en combate", "Frases de demonios y compañeros en combate y en StreetPass", [
         "battle/DevilMsg/", "camp/CecDevilMsg/", "battle/PartnerAttack.mbm", "battle/Legion/"]),
     ("6.8", "Contenido descargable", "Misiones descargables", ["addon/testdata/"]),
+    ("6.9", "Ejecutable", "Textos cortos de interfaz del ejecutable (exefs/code.bin)", ["exefs/"]),
 ]
 TABLES, DLC = "Tablas", "Contenido descargable"
 EXCLUDED = ["test/"]           # mensajes de prueba de los desarrolladores
@@ -65,12 +66,18 @@ COMBAT_DLC = ("battle/DevilMsg/", "camp/CecDevilMsg/", "battle/PartnerAttack", "
 COMBAT_DLC_FILLER = re.compile(r"(?i:Dummy(?: text)?|TEST|\(provisional\) \w+|Download Quest 1(?: again|, 2nd time))\W*$|^Godslayers need exp!.*Dummy text\W*$")
 
 
+# Ejecutable (DECISIONS 2026-11-16): relleno de los desarrolladores («NOT USED», «Dummy», «Dummy A»...).
+EXE_FILLER = re.compile(r"(?:NOT USED|Dummy(?: [A-Z])?)$")
+
+
 def excluded(key, en):
     """Fuera de la cuenta: relleno y mensajes sin texto, solo códigos (DECISIONS 2026-11-09)."""
     text = CODE.sub("", en).strip()
     if key.startswith("battle/talk/") and TALK_FILLER.match(text):
         return True
     if key.startswith(COMBAT_DLC) and COMBAT_DLC_FILLER.match(text):
+        return True
+    if key.startswith("exefs/") and EXE_FILLER.match(text):
         return True
     if JAPANESE.search(PORTRAIT.sub("", en)):  # restos sin localizar (T-6, DECISIONS 2026-11-10)
         return True
@@ -157,12 +164,15 @@ def main():
     a = argparse.ArgumentParser()
     a.add_argument("--en", default=str(REPO.parent / "smt4a-local" / "en.jsonl"))
     a.add_argument("--tbb", default=str(REPO.parent / "smt4a-local" / "tbb.jsonl"))
+    a.add_argument("--codebin", default=str(REPO.parent / "smt4a-local" / "codebin.jsonl"))
     a.add_argument("--readme", action="store_true")
     args = a.parse_args()
     for path, tool in ((args.en, "mbm"), (args.tbb, "tbb")):
         if not Path(path).exists():
             sys.exit(f"No encuentro {path}; créalo con: python3 tools/{tool}.py export ROMFS {path}")
-    total, done = count([args.en, args.tbb])
+    if not Path(args.codebin).exists():
+        sys.exit(f"No encuentro {args.codebin}; créalo con: python3 tools/codebin.py export CODE.bin {args.codebin}")
+    total, done = count([args.en, args.tbb, args.codebin])
     if not args.readme:
         print(table(total, done, False))
         return

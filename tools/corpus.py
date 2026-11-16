@@ -1,7 +1,7 @@
 """El texto del juego y la traducción, para los scripts del lote.
 
-Lo del juego se lee de la extracción local (../smt4a-local: romfs/, en.jsonl y
-tbb.jsonl); la traducción, de translation/. Una clave es «archivo#número» en
+Lo del juego se lee de la extracción local (../smt4a-local: romfs/, en.jsonl,
+tbb.jsonl y codebin.jsonl); la traducción, de translation/. Una clave es «archivo#número» en
 los mensajes y «archivo#tabla.registro.posición» en las tablas.
 La traducción de los mensajes se guarda en forma de lectura (ver layout.py).
 """
@@ -27,7 +27,9 @@ def rel_of(key):
 
 
 def kind_of(key):
-    return "tbb" if rel_of(key).endswith(".tbb") else "mbm"
+    """mbm (mensajes), tbb (tablas) o exe (textos del ejecutable, exefs/code.bin)."""
+    rel = rel_of(key)
+    return "tbb" if rel.endswith(".tbb") else "exe" if rel.startswith("exefs/") else "mbm"
 
 
 def translation_file(rel):
@@ -38,9 +40,11 @@ def translation_file(rel):
 def english():
     """{clave: {"en": texto original, "max": bytes (tablas)}} en el orden del juego."""
     out = {}
-    for name in ("en.jsonl", "tbb.jsonl"):
+    for name in ("en.jsonl", "tbb.jsonl", "codebin.jsonl"):
         path = LOCAL / name
         if not path.exists():
+            if name == "codebin.jsonl":
+                sys.exit(f"No encuentro {path}; créalo con: python3 tools/codebin.py export CODE.bin {path}")
             tool = "mbm" if name == "en.jsonl" else "tbb"
             sys.exit(f"No encuentro {path}; créalo con: python3 tools/{tool}.py export ROMFS {path}")
         for line in open(path, encoding="utf-8"):
@@ -66,7 +70,7 @@ def file_limits(rel):
 def reading_en(key):
     """El inglés como lo ve el traductor."""
     en = english()[key]["en"]
-    if kind_of(key) == "tbb":
+    if kind_of(key) != "mbm":
         return en
     return layout.reading_form(en, meter(), file_limits(rel_of(key))[0])
 

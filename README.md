@@ -2,7 +2,7 @@
 
 Traducción fan al español neutro de *Shin Megami Tensei IV: Apocalypse* (Nintendo 3DS), hecha desde el inglés oficial.
 
-**Estado:** traducción completa (todos los diálogos, misiones, negociaciones, descripciones y menús de los archivos de texto del juego, y el contenido descargable). Quedan en inglés los textos del ejecutable (unos mil textos cortos de interfaz) y los de las texturas.
+**Estado:** traducción completa (todos los diálogos, misiones, negociaciones, descripciones y menús de los archivos de texto del juego, el contenido descargable y los textos cortos de interfaz del ejecutable). Quedan en inglés los textos de las texturas.
 
 > Es un proyecto de fans, sin relación con Atlus ni con Nintendo. **No incluye el juego ni sus archivos:** el instalador arma la traducción a partir de tu propia copia.
 
@@ -21,7 +21,8 @@ Traducción fan al español neutro de *Shin Megami Tensei IV: Apocalypse* (Ninte
 | 6.6 | Negociaciones | 5.847 | 5.847 | 100,0 % |
 | 6.7 | Demonios en combate | 1.973 | 1.973 | 100,0 % |
 | 6.8 | Contenido descargable | 488 | 488 | 100,0 % |
-| | **Total** | **21.846** | **21.846** | **100,0 %** |
+| 6.9 | Ejecutable | 1.016 | 1.016 | 100,0 % |
+| | **Total** | **22.862** | **22.862** | **100,0 %** |
 <!-- /progress -->
 
 Qué entra en cada sección y cómo se cuenta: [translation/README.md](translation/README.md).
@@ -33,12 +34,12 @@ Necesitas la versión **europea** del juego en un `.3ds` (o `.cxi`) descifrado.
 **Windows:**
 
 1. Descarga `smt4a-esp-install.exe` de la [última versión](../../releases/latest). No hace falta Python.
-2. Ábrelo con doble clic.
-3. Elige dónde instalar: **Azahar**, **Citra** o **la SD de una 3DS** con Luma3DS. Después arrastra tu `.3ds` a la ventana y presiona Enter.
+2. Ábrelo con doble clic, arrastra tu `.3ds` a la ventana y presiona Enter.
+3. Al lado de tu copia aparece otra, traducida: «NOMBRE (Español).3ds». Ábrela en Azahar o Citra. La original no se toca.
 
 **Linux o macOS** (o Windows con Python 3): descarga este repositorio y ejecuta `python3 install.py` (en Windows, `install.bat`).
 
-El instalador encuentra solo la carpeta de los emuladores. En una 3DS, activa *Enable game patching* en la configuración de Luma3DS (mantén SELECT al encenderla). Para quitar la traducción, abre el instalador otra vez y elige *Desinstalar*: borra solo lo que instaló.
+**En una 3DS** (con Luma3DS), la traducción va como mod en la SD: `python3 install.py --rom TU_JUEGO.3ds --target sd --folder E:\` (la raíz de la SD), y en la configuración de Luma3DS se activa *Enable game patching* (mantén SELECT al encenderla). Con `--target azahar` o `--target citra` también se puede instalar como mod en un emulador; `--uninstall` lo quita.
 
 Para armar el `.exe` desde el repositorio: `tools\build_exe.bat` (Windows, con Python 3); queda en `build\exe\`.
 

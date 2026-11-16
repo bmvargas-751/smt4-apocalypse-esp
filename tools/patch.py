@@ -12,6 +12,8 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import blz  # noqa: E402
+import codebin  # noqa: E402
 import layout  # noqa: E402
 import mbm  # noqa: E402
 import tbb  # noqa: E402
@@ -37,6 +39,8 @@ def read_translations(paths):
                 continue
             d = json.loads(line)
             rel, sub = d["key"].rsplit("#", 1)
+            if rel == codebin.PREFIX:
+                continue  # el ejecutable va aparte, en build_code()
             if rel.endswith(".mbm"):
                 if not d["es"].endswith("{FFFF}"):
                     raise ValueError(f"{path}:{n}: el texto debe terminar en {{FFFF}}")
@@ -75,3 +79,24 @@ def build(rom, test=False, log=print):
         else:
             files[rel] = tbb.apply_texts(original, changes, rel)
     return files
+
+
+def build_code_bin(rom, test=False, log=print):
+    """(code.bin original, code.bin traducido), ya descomprimidos, o None si no hay textos del ejecutable."""
+    sources = jsonl_files(REPO / "translation") + (jsonl_files(REPO / "tests") if test else [])
+    texts = codebin.read_jsonl(sources)
+    if not texts:
+        return None
+    log(f"Aplicando la traducción del ejecutable ({len(texts)} textos)...")
+    code = blz.decompress(Image(rom).exefs_file(".code"))
+    new, errors = codebin.apply(code, texts)
+    if errors:
+        raise ValueError("ejecutable: " + "; ".join(errors[:5]))
+    return code, new
+
+
+def build_code(rom, test=False, log=print):
+    """Parche IPS del ejecutable con los textos traducidos, o None si no hay ninguno."""
+    pair = build_code_bin(rom, test, log)
+    return codebin.ips(*pair) if pair else None
+
