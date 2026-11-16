@@ -79,7 +79,7 @@ Datos e interfaz primero; después la historia en orden, las secundarias y las n
 - [x] 6.5 Secundarias
 - [x] 6.6 Negociaciones
 - [x] 6.7 Demonios en combate
-- [ ] 6.8 Contenido descargable
+- [x] 6.8 Contenido descargable
 
 ### Fase 7. Entrega
 
