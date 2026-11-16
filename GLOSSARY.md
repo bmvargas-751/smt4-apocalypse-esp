@@ -908,6 +908,10 @@ Aprobados en bloque el 2026-11-09 (las propuestas del terminólogo). *Lord X* �
 | Tamagami’s remnants | Remanente de Tamagami | Decidido 2026-11-09 (G-2) | Etiqueta; un solo hablante. |
 | Street vendor | Vendedor ambulante | Decidido 2026-11-09 (G-2) | Etiqueta. |
 | Woman called ”Noa” | Mujer llamada “Noa” | Decidido 2026-11-09 (G-2) | Etiqueta. |
+| Torifune’s Shawl | Chal de Torifune | Decidido por el usuario (2026-11-16) | Objeto clave (map/L001/l001.mbm#10). |
+| Hexagram Rosary | Rosario del Hexagrama | Decidido por el usuario (2026-11-16) | Objeto clave. |
+| Hills building | edificio Hills | Decidido por el usuario (2026-11-16) | Lugar (map/L001/l001.mbm#18). |
+| training partner | compañero de entrenamiento | Decidido por el usuario (2026-11-16) | Rival de práctica (Systematic_004#1); no es el *partner* del sistema («acompañante»). |
 
 #### Propuestas aprobadas de Historia (detalle)
 
