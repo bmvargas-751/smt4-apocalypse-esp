@@ -68,3 +68,4 @@ Las decisiones del usuario, con fecha. Una regla nueva de [STYLE.md](STYLE.md), 
 - **2026-11-16** Revisión de PENDING, bloque 13 (Negociaciones 015-017), aprobado: soluciones de delicadas sin cambios.
 - **2026-11-16** Revisión de PENDING, bloque 14 (Negociaciones 018-020), aprobado: soluciones de delicadas sin cambios.
 - **2026-11-16** Revisión de PENDING, bloque 15 (Demonios en combate 001-003), aprobado: soluciones de delicadas sin cambios. LegionMsg#212 se ve en el juego.
+- **2026-11-16** Revisión de PENDING, bloque 16 (Demonios en combate 004-006 y contenido descargable), aprobado: soluciones de delicadas sin cambios; Oldwoman en combate «al calor de mi pecho»; los códigos repetidos de dMsg_Shiki03#4 y dMsg_Shiki09#4 quedan como el original. Con esto se cierra la revisión de los lotes; queda la lista «Para la prueba en el juego».

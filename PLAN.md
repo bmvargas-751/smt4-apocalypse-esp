@@ -12,7 +12,7 @@
 
 ## Pendiente de decidir
 
-Las decisiones de traducción pendientes están en [PENDING.md](PENDING.md) (el registro de época y las líneas delicadas).
+Las decisiones de traducción pendientes están en [PENDING.md](PENDING.md): solo quedan las que se ven en la prueba en el juego (revisión de PENDING terminada el 2026-11-16).
 
 1. **Dónde vive el equipo.** Propuesta: un repo propio, como translation-reviewer, con los roles, las plantillas y los chequeos generales. Aquí quedaría solo lo de IVA. Mientras tanto, el equipo vive aquí ([TEAM.md](TEAM.md), [.claude/](.claude)).
 
