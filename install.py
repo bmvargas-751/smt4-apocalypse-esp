@@ -25,13 +25,14 @@ import sys
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
+FROZEN = getattr(sys, "frozen", False)  # el .exe de PyInstaller
 sys.path.insert(0, str(HERE / "tools"))
 from ctr import InvalidImage  # noqa: E402
 from patch import GAME_ID, build  # noqa: E402
 
 TITLE_ID = f"{GAME_ID:016X}"
 MANIFEST = "smt4a-esp.json"
-CONFIG = HERE / "install.json"
+CONFIG = (Path(sys.executable).parent if FROZEN else HERE) / "install.json"
 EMULATORS = {
     "azahar": {"name": "Azahar", "windows": "Azahar", "linux": "azahar-emu", "mac": "Azahar"},
     "citra": {"name": "Citra", "windows": "Citra", "linux": "citra-emu", "mac": "Citra"},
@@ -192,6 +193,15 @@ def menu(test):
     save_config(cfg)
 
 
+def pause():
+    """Con doble clic en el .exe, la ventana se cerraría sin dejar leer el resultado."""
+    if FROZEN:
+        try:
+            input("\nPresiona Enter para salir.")
+        except (KeyboardInterrupt, EOFError):
+            pass
+
+
 def main():
     a = argparse.ArgumentParser(description="Instala la traducción al español de SMT IV: Apocalypse.")
     a.add_argument("--rom", help="tu copia del juego (.3ds o .cxi descifrado)")
@@ -203,6 +213,7 @@ def main():
     try:
         if not args.target:
             menu(args.test)
+            pause()
         elif args.uninstall:
             uninstall(target_dir(args.target, args.folder))
         else:
@@ -210,7 +221,9 @@ def main():
                 raise Error("falta --rom")
             install(args.rom, target_dir(args.target, args.folder), test=args.test)
     except (Error, InvalidImage, ValueError, OSError) as e:
-        sys.exit(f"Error: {e}")
+        print(f"Error: {e}")
+        pause()
+        sys.exit(1)
     except (KeyboardInterrupt, EOFError):
         sys.exit("\nCancelado.")
 

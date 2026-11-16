@@ -20,7 +20,8 @@ from ctr import Image, InvalidImage  # noqa: E402
 from font import FONTS, compose  # noqa: E402
 
 GAME_ID = 0x00040000001A6B00           # versión europea
-REPO = Path(__file__).resolve().parent.parent
+# En el .exe (PyInstaller), translation/ y tests/ van dentro del paquete.
+REPO = Path(getattr(sys, "_MEIPASS", Path(__file__).resolve().parent.parent))
 
 
 def jsonl_files(folder):

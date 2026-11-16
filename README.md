@@ -2,7 +2,7 @@
 
 Traducción fan al español neutro de *Shin Megami Tensei IV: Apocalypse* (Nintendo 3DS), hecha desde el inglés oficial.
 
-**Estado:** en preparación. Ya hay instalador, pero por ahora solo agrega las letras españolas a las fuentes del juego. Todavía no hay texto traducido.
+**Estado:** traducción completa (todos los diálogos, misiones, negociaciones, descripciones y menús de los archivos de texto del juego, y el contenido descargable). Quedan en inglés los textos del ejecutable (unos mil textos cortos de interfaz) y los de las texturas.
 
 > Es un proyecto de fans, sin relación con Atlus ni con Nintendo. **No incluye el juego ni sus archivos:** el instalador arma la traducción a partir de tu propia copia.
 
@@ -28,13 +28,19 @@ Qué entra en cada sección y cómo se cuenta: [translation/README.md](translati
 
 ## Instalar
 
-Necesitas la versión **europea** del juego en un `.3ds` (o `.cxi`) descifrado, y Python 3.
+Necesitas la versión **europea** del juego en un `.3ds` (o `.cxi`) descifrado.
 
-1. Descarga este repositorio.
-2. En Windows, abre `install.bat`. En Linux o macOS, ejecuta `python3 install.py`.
-3. Elige dónde instalar: **Azahar**, **Citra** o **la SD de una 3DS** con Luma3DS. Después arrastra tu `.3ds` a la ventana.
+**Windows:**
+
+1. Descarga `smt4a-esp-install.exe` de la [última versión](../../releases/latest). No hace falta Python.
+2. Ábrelo con doble clic.
+3. Elige dónde instalar: **Azahar**, **Citra** o **la SD de una 3DS** con Luma3DS. Después arrastra tu `.3ds` a la ventana y presiona Enter.
+
+**Linux o macOS** (o Windows con Python 3): descarga este repositorio y ejecuta `python3 install.py` (en Windows, `install.bat`).
 
 El instalador encuentra solo la carpeta de los emuladores. En una 3DS, activa *Enable game patching* en la configuración de Luma3DS (mantén SELECT al encenderla). Para quitar la traducción, abre el instalador otra vez y elige *Desinstalar*: borra solo lo que instaló.
+
+Para armar el `.exe` desde el repositorio: `tools\build_exe.bat` (Windows, con Python 3); queda en `build\exe\`.
 
 ## Documentos
 
