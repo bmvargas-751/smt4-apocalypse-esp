@@ -4,48 +4,12 @@ La cola del usuario: lo que ninguna regla cubre, las líneas delicadas con su so
 
 Formato: `- [ ] \`clave\` (rol, motivo): «fragmento» → «propuesta». Por qué.` `tools/review.py` agrega aquí, solo, los hallazgos sin regla de cada lote.
 
-## Decisiones generales
+## Para la prueba en el juego
 
-- [ ] **«¡Demonios!» y «¡Diablos!»**: en este juego se vuelven ambiguas. ¿Se evitan? (PLAN, notas de IVA)
-- [ ] **El texto original del encargo de 11 secciones**: los roles parten del resumen fiel de THL ([TEAM.md](TEAM.md#el-encargo)) hasta que aparezca.
+Se deciden al ver la pantalla (DECISIONS 2026-11-16).
 
-## Términos
-
-Candidatos de SMT V que en IVA tienen otro sentido (G-2). No salen en la Interfaz: se deciden al llegar a su sección (DECISIONS 2026-11-08).
-
-- [ ] `Teacher` (terminólogo, otro sentido): «Teacher...? You’re alright, you know?» (battle/talk/TalkToneBoy.mbm#313) → no se fija: *profesor* o *maestro* según la línea. En SMT V es una etiqueta de quien habla.
-- [ ] `Concentrate` (terminólogo, otro sentido): «Concentrate your fire!» (battle/PartnerAttack.mbm#90) → no se fija; es el verbo común. En SMT V es una habilidad.
-- [ ] `Confusion` (terminólogo, otro sentido): «Confusion and uncertainty is written across your friends’ faces.» (event/e063/e063.mbm#23) → no se fija; es la palabra común. En SMT V es un estado alterado que IVA no tiene (IVA usa *Panic*).
-
-### Datos (2026-11-09)
-
-- [ ] `item/ItemTable.tbb#1.57.0` (orquestador, ancho T-3): *Expanse Meat* → «Carne de la Inmensidad», como lo decidido (*Expanse* → «Inmensidad»), no cabe en su columna: 157 px, y el inglés más ancho llega a 112 (*Gold Death Mask*). Queda «Carne del Cielo» (103 px) hasta decidir. Opciones: a) «Carne de la Inmensidad» y verlo en el juego; b) dejar «Carne del Cielo»; c) otro nombre corto.
-
-### Historia (2026-11-09)
-
-- [ ] **Género de Burroughs** (perfilador): el inglés no lo marca; su japonés usa terminaciones de habla femenina (わ, かしら). Mientras, sin marcar género (DECISIONS 2026-11-09).
-- [ ] **Concordancia de Tamagami’s remnants** (perfilador): el narrador y otros lo tratan en masculino, pero en la misma escena habla como *Haughty woman's voice* y *Woman called “Noa”*. Ninguna línea suya obliga a elegir por ahora.
-- [ ] **Género de Merkabah** (perfilador): masculino solo por el título *Lord Merkabah*; ningún pronombre. Se confirma si una línea lo exige.
-- [ ] `battle/event/Systematic_004/Systematic_004.mbm#2` (perfilador): lleva la etiqueta de Dagda pero tiene los *hee-ho* de Demonee-ho. Parece mal etiquetada; se traduce como la dice el texto.
-- [ ] `BtlEvent075#6`, `BtlEvent298#6` (perfilador): la etiqueta japonesa de Lucifer con registro casual (オレ, お前). Al traducir, mirar quién habla en la escena.
 - [ ] `Attack` del tutorial (terminólogo): «Choose ”Attack” from the list of commands.» (BtlEvent001#4, BtlEventSub150#4) → «Atacar». Si el menú de combate es una textura y queda en inglés, el tutorial tiene que citar «Attack». Se ve en el juego.
-- [ ] **Professor/Dr. Matsuda** (perfilador, §6): Asahi le dice *Professor Matsuda* (e049#4) y los demás *Dr. Matsuda*. Se traduce como dice cada línea.
-
-### Demonios en combate y Contenido descargable (2026-11-15)
-
 - [ ] `addon/testdata/content24/tbl/SkillName.tbb#0.5.2` (terminólogo, sentido dudoso): *Forfeit* → «Confiscación» (provisional). Puede ser quitarle algo al rival o renunciar a algo; el contenido descargable no trae la descripción. Alternativa: «Renuncia». Se ve en el juego.
-- [ ] `addon/testdata/content23/evt/e241.mbm#155` (perfilador y delicadas, cita de *Fausto*): «”Stay, thou art so beautiful.”» → «“Detente, instante, eres tan bello.”». Es el verso que da por cumplido el contrato de Mephisto: es la cuarta opción, después de Asahi, Nozomi y Toki, y lleva a #159 (*You wish to end things here... The contract is complete.*). «Detente, instante, eres tan bello» es como suele citarse el verso en español, y el *tú* del verso es el instante. Así la cita se reconoce, y la opción se entiende aunque no se conozca (que este momento no termine). Sin «instante», «eres tan bello», en masculino, va después de tres nombres de chicas y no se sabe a quién le habla. El inglés no dice *moment*, pero el verso sí le habla al instante: no es un dato nuevo de la escena (E-3, E-23). El *thou* solo marca la cita, y en español la cita ya va con *tú*. El punto va dentro de las comillas, como en las otras opciones citadas ya traducidas («“No necesito ayuda.”»), aunque E-58 lo pone fuera. Alternativas: «“Detente, eres tan bello.”» (el provisional, sin «instante», como el inglés); «“¡Detente, instante, eres tan bello!”», con los signos con que suele citarse; «hermoso» por «bello».
-
-### Posibles regionalismos en Tablas (2026-11-16)
-
-Nombres de objeto que pueden sonar locales en algunos países. Sin cambio hasta que se decida; todas las alternativas caben en bytes (max 31).
-
-- [ ] `map/all/ms_search_Table.tbb#0.0.0` y `#0.13.0` (orquestador, posible regionalismo): *Garbage Can* → «Bote de basura». Alternativas: «Cesto de basura», «Basurero».
-- [ ] `item/ItemTable.tbb#4.455.0` (orquestador, posible regionalismo): *Sneakers* → «Tenis». Alternativas: «Zapatillas deportivas», «Zapatillas».
-- [ ] `item/ItemTable.tbb#4.165.0` (orquestador, posible regionalismo): *Closet* → «Clóset». Alternativas: «Armario», «Ropero».
-- [ ] `item/ItemTable.tbb#4.261.0` (orquestador, posible regionalismo): *Yoga Mat* → «Tapete de yoga». Alternativa: «Colchoneta de yoga».
-- [ ] `item/ItemTable.tbb#4.212.0` (orquestador, posible regionalismo): *Rouge* → «Rubor». Alternativa: «Colorete».
-- [ ] `item/ItemTable.tbb#4.105.0` (orquestador, posible regionalismo): *Soy Sauce* → «Salsa de soya». Alternativa: «Salsa de soja».
 
 ## De los lotes
 

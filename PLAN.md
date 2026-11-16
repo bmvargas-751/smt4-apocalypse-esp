@@ -12,7 +12,7 @@
 
 ## Pendiente de decidir
 
-Las decisiones de traducción pendientes están en [PENDING.md](PENDING.md) (el encargo original, el registro de época, «¡Demonios!»).
+Las decisiones de traducción pendientes están en [PENDING.md](PENDING.md) (el registro de época y las líneas delicadas).
 
 1. **Dónde vive el equipo.** Propuesta: un repo propio, como translation-reviewer, con los roles, las plantillas y los chequeos generales. Aquí quedaría solo lo de IVA. Mientras tanto, el equipo vive aquí ([TEAM.md](TEAM.md), [.claude/](.claude)).
 
@@ -90,7 +90,7 @@ Datos e interfaz primero; después la historia en orden, las secundarias y las n
 
 - **Negociaciones:** si una misma línea la dicen demonios de distinto género, no puede marcar el género del que habla («¡Qué cansancio!», no «Estoy cansado»). Verificar al extraer.
 - **Nombres insertados** (demonio, objeto, cantidad): sin artículo ni participios con género; fórmulas como «Obtienes: X».
-- **«¡Demonios!» y «¡Diablos!»** se vuelven ambiguas en este juego: decidir si se evitan.
+- **«¡Demonios!» y «¡Diablos!»** se vuelven ambiguas en este juego: se evitan (STYLE E-24).
 - **Japonés en la versión inglesa:** se ignora (T-6, DECISIONS 2026-11-10). Lo que quedó en japonés son restos que el juego no muestra; si al jugar aparece alguna línea en japonés, se traduce esa.
 - **Límites:** con fuente proporcional se mide en píxeles; en los campos fijos, en bytes. En los mensajes cada carácter ocupa 2 bytes, también la «á».
 - **Tablas (`.tbb`):** guardan nombres y textos cortos en ASCII de un byte, en campos de largo fijo (objetos, demonios, razas, misiones, lugares, descripciones de menús). Las letras españolas usan los mismos códigos de dos bytes que los mensajes, porque son Shift-JIS válido, como el japonés que también traen las tablas; cuestan un byte más cada una. Falta comprobarlo en el juego. Si en el juego no se ven, la alternativa es un código de un byte (el katakana de un byte, que la fuente trae).
