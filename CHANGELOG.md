@@ -1,9 +1,11 @@
 # Registro de cambios
 
-## Sin publicar
+## 1.1.0 (2026-11-16)
 
 - Traducción de los textos del ejecutable (`code.bin`): 1016 textos cortos de interfaz (elementos, nombres de habilidades, lugares, menús), con el equipo completo y los nombres oficiales de SMT V.
 - El instalador crea una copia traducida del juego (`NOMBRE (Español).3ds`) junto a la original; el mod para la SD de una 3DS con Luma3DS sigue disponible.
+
+Quedan en inglés los textos que están dibujados en texturas.
 
 ## 1.0.0 (2026-11-16)
 
