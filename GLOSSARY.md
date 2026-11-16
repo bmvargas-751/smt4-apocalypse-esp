@@ -211,6 +211,7 @@ Pisos del ascensor (provisional, se comprueba en el juego): *1F, 2F...* → «P1
 | Slime | Limo | SMT V (personaje) | Demonio. |
 | Mitra | Mitra | SMT V (personaje) | Deidad. IVA también usa *Mitra-Buddha* (por decidir). |
 | Enduring Soul | Alma inmortal | SMT V (habilidad) | Habilidad. |
+| Enduring Cheer | Ánimo perdurable | Decidido por el usuario (2026-11-16) | Habilidad; no es *Enduring Soul*. |
 | Diamond | Diamante | SMT V (objeto) | Joya. En el contenido descargable va también en *Diamond Realm*, un lugar. |
 | Emerald | Esmeralda | SMT V (objeto) | Joya. |
 | Garnet | Granate | SMT V (objeto) | Joya. |
@@ -323,6 +324,7 @@ Candidatos de `glossary-candidates.tsv` que no aparecen en archivos de la Interf
 | Fafnir | Fafnir | SMT V (personaje) | Demonio. |
 | Fenrir | Fenrir | SMT V (personaje) | Demonio. |
 | Fortuna | Fortuna | SMT V (personaje) | Demonio. |
+| Tyche | Tique | SMT V (perfil de Fortuna) | Diosa griega; status/profile.mbm#40. |
 | Ishtar | Ishtar | SMT V (personaje) | Demonio. |
 | Jaki | Jaki | SMT V (raza) | Raza. |
 | Kinmamon | Kinmamon | SMT V (personaje) | Demonio. |
@@ -653,7 +655,7 @@ Propuestas del terminólogo aprobadas por el usuario. Los bytes son los de T-4 c
 - **Reliquias por estrellas** (#3.0-54.0, 55): *N-Star [X]* → «[X] de N estrellas», en singular para 1: «Artilugio de 1 estrella», «... de 5 estrellas». *Gadget* «Artilugio», *Leisure* «Ocio», *Food* «Comida», *Furniture* «Mueble», *Cosmetics* «Cosmético», *Commodity* «Mercancía», *Fragrance* «Fragancia», *Document* «Documento», *Medicine* «Medicina» (*Medicine* ⇒ *Medicina*), *Clothing* «Ropa», *Black Material* «Material negro» (29, el más largo).
 - **Inciensos** (#1.30-34.0, #6.1-7.0): *St/Ma/Dx/Ag/Lu Incense* → «Incienso de Fu/Ma/De/Ag/Su», *(Small)* → «(pequeño)», *HP/MP Incense* → «Incienso de PS/PM». SMT V: *Strength Incense* ⇒ *Incienso de fuerza*.
 - **Piedras** (#1.15-56.0, #6.8-15.0): *[Habilidad] Stone* → «Piedra [habilidad]» (*Agi Stone* → «Piedra Agi»), por *Life Stone* ⇒ *Piedra vital*. *Summon Stone* → «Piedra de invocación», *Destiny Stone* → «Piedra del destino».
-- **Otros consumibles**: *[Elemento] Battle Plans* (#6.25-36.0) → «Plan de batalla: [elemento]» (*Almighty* da 29); *Ailment Battle Plans* → «Plan de batalla: estados» (24; «estado alterado» da 32, **no cabe**); *Blade/Gun/Armor Boost Kit* → «Kit de mejora de espada/arma/armadura»; *5/10/20-Point Card* → «Tarjeta de 5/10/20 puntos»; *Balm of Rising* → «Bálsamo del renacer»; *Detox Solution* → «Solución desintoxicante»; *Expanse Meat* → «Carne del Cielo» (*Expanse* → «Inmensidad», decidido en Datos; el nombre largo no cabe: ver PENDING); *A5 Demoloin* (#1.59.0; *demon* + *sirloin*) → delicadas (E-23), provisional «Demolomo A5».
+- **Otros consumibles**: *[Elemento] Battle Plans* (#6.25-36.0) → «Plan de batalla: [elemento]» (*Almighty* da 29); *Ailment Battle Plans* → «Plan de batalla: estados» (24; «estado alterado» da 32, **no cabe**); *Blade/Gun/Armor Boost Kit* → «Kit de mejora de espada/arma/armadura»; *5/10/20-Point Card* → «Tarjeta de 5/10/20 puntos»; *Balm of Rising* → «Bálsamo del renacer»; *Detox Solution* → «Solución desintoxicante»; *Expanse Meat* → «Carne de la Inmensidad» (*Expanse* → «Inmensidad»; decidido 2026-11-16); *A5 Demoloin* (#1.59.0; *demon* + *sirloin*) → delicadas (E-23), provisional «Demolomo A5».
 - **Accesorios** (patrón): *Earring* → «Arete» (E-12: no *pendiente*): *Red Earring* → «Arete rojo»; *Bracelet* → «Pulsera»: *Sage Bracelet* → «Pulsera del sabio», *Master Bracelet* → «Pulsera del maestro», *Wise King Bracelet* → «Pulsera del rey sabio», *Warlord Bracelet* → «Pulsera del caudillo» (20; «Brazalete de señor de la guerra» da 32, **no cabe**); *Ring* → «Anillo», *Rosary* → «Rosario», *Soul* → «Alma» (*Heated Soul* → «Alma ardiente»).
 - **Munición** (patrón): *[X] Rounds* → «Balas [X]» (*Panic Rounds* → «Balas de pánico», *Flaemis Rounds* → «Balas Flaemis», *Zeus Rounds* → «Balas de Zeus»); *Shot* → «Disparo [X]»; *Hollow-Points* → «Balas de punta hueca».
 - **Trajes** (#2.240-358.0, cada uno tres veces: cabeza, torso y piernas): *[Color] [Estilo]* → «[Estilo] [color]», con el color invariable: *Blue Agent* → «Agente azul», *Crimson Ninja* → «Ninja carmesí», *Officer Gray* → «Oficial gris», *Hero Red* → «Héroe rojo», *Military Green* → «Militar verde», *Navy Marine* → «Marine azul marino», *Gray Stealth* → «Sigilo gris», *Gold Jinbaori* → «Jinbaori dorado», *Yellow Hazmat* → «Traje de protección amarillo», *Gray Power Suit* → «Servoarmadura gris», *Blue-Orange Combat* → «Combate azul-naranja», *Bare Chest Purple* → «Torso desnudo morado», *Black Demonica* → «Demonica negro», *Dark/Verdant Goth* → «Gótico oscuro/verdoso», *Wonderland Goth* (#2.272.0) → «Gótico de fantasía» (20; «Gótico del País de las Maravillas» da 35, **no cabe**). Con nombre: *Hunter Suit* → «Traje de cazador», *Samurai Uniform* → «Uniforme de samurái», *Superior Samurai Suit* → «Traje de samurái superior», *Garment of Hope* → «Prenda de la esperanza», *Wings of Order* → «Alas del Orden», *Horns of Chaos* → «Cuernos del Caos», *Ulster Armor* → «Armadura del Úlster». *Skins* (personaje) no tiene que ver con los trajes.
@@ -732,7 +734,7 @@ SMT V los nombra en sus perfiles con el mismo sentido (la misma figura, lugar, g
 | Ragnarok | Ragnarok | Decidido 2026-11-09 (G-2) | Con artículo: *el Ragnarok*. |
 | Wheel of Fortune | rueda de la fortuna | Decidido 2026-11-09 (G-2) | Como el perfil de SMT V, en minúscula. *Fortune* sola no se fija. |
 | Universe Ring | anillo del universo | Decidido 2026-11-09 (G-2) | El arma de Qiankun Quan, como el perfil de SMT V. |
-| Expanse | Inmensidad | Decidido 2026-11-09 (G-2) | El lugar de donde vienen los demonios: *la Inmensidad*. *Expanse Meat* sigue «Carne del Cielo», porque «Carne de la Inmensidad» no cabe en su columna (PENDING). |
+| Expanse | Inmensidad | Decidido 2026-11-09 (G-2) | El lugar de donde vienen los demonios: *la Inmensidad*. *Expanse Meat* → «Carne de la Inmensidad» (decidido 2026-11-16; más ancha que el inglés, se ve en el juego). |
 | Ceiling | Techo | Decidido 2026-11-09 (G-2) | La bóveda de roca que cubre Tokio: *el Techo*. |
 | God’s Plan | Plan de Dios | Decidido 2026-11-09 (G-2) | *el Plan de Dios*. |
 | God's Plan | Plan de Dios | Decidido 2026-11-09 (G-2) | Variante con apóstrofo recto. |
@@ -906,6 +908,10 @@ Aprobados en bloque el 2026-11-09 (las propuestas del terminólogo). *Lord X* �
 | Tamagami’s remnants | Remanente de Tamagami | Decidido 2026-11-09 (G-2) | Etiqueta; un solo hablante. |
 | Street vendor | Vendedor ambulante | Decidido 2026-11-09 (G-2) | Etiqueta. |
 | Woman called ”Noa” | Mujer llamada “Noa” | Decidido 2026-11-09 (G-2) | Etiqueta. |
+| Torifune’s Shawl | Chal de Torifune | Decidido por el usuario (2026-11-16) | Objeto clave (map/L001/l001.mbm#10). |
+| Hexagram Rosary | Rosario del Hexagrama | Decidido por el usuario (2026-11-16) | Objeto clave. |
+| Hills building | edificio Hills | Decidido por el usuario (2026-11-16) | Lugar (map/L001/l001.mbm#18). |
+| training partner | compañero de entrenamiento | Decidido por el usuario (2026-11-16) | Rival de práctica (Systematic_004#1); no es el *partner* del sistema («acompañante»). |
 
 #### Propuestas aprobadas de Historia (detalle)
 
