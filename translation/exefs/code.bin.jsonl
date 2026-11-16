@@ -22,7 +22,7 @@
 {"key": "exefs/code.bin#0x10D3C0", "es": "Todopoderoso"}
 {"key": "exefs/code.bin#0x10EF4C", "es": "Veneno"}
 {"key": "exefs/code.bin#0x10EF5C", "es": "Enfermedad"}
-{"key": "exefs/code.bin#0x11524A", "es": "H %sM"}
+{"key": "exefs/code.bin#0x115248", "es": "%sH %sM"}
 {"key": "exefs/code.bin#0x118E68", "es": "%s macca"}
 {"key": "exefs/code.bin#0x11B4B4", "es": "No especificar"}
 {"key": "exefs/code.bin#0x12A9E0", "es": "No se pudo obtener el nombre del mapa"}
@@ -44,7 +44,7 @@
 {"key": "exefs/code.bin#0x13BDCC", "es": "Ocurrió un error de fusión."}
 {"key": "exefs/code.bin#0x13C044", "es": "Buscando"}
 {"key": "exefs/code.bin#0x13DCBC", "es": "No hay habilidades disponibles."}
-{"key": "exefs/code.bin#0x1548EA", "es": " lanza Estoma."}
+{"key": "exefs/code.bin#0x1548E8", "es": "%s lanza Estoma."}
 {"key": "exefs/code.bin#0x154910", "es": "El efecto de Estoma se acabó."}
 {"key": "exefs/code.bin#0x154968", "es": "El agua seductora se acabó."}
 {"key": "exefs/code.bin#0x1549A0", "es": "El efecto de Riberama se acabó."}
@@ -68,7 +68,7 @@
 {"key": "exefs/code.bin#0x1617D8", "es": "        1ro (H)"}
 {"key": "exefs/code.bin#0x1617F8", "es": "        3ro (G)"}
 {"key": "exefs/code.bin#0x164BBC", "es": "Fusión de demonios"}
-{"key": "exefs/code.bin#0x178FDE", "es": " lanzan Estoma."}
+{"key": "exefs/code.bin#0x178FDC", "es": "%s lanzan Estoma."}
 {"key": "exefs/code.bin#0x179000", "es": "El efecto de Estoma se acabó."}
 {"key": "exefs/code.bin#0x1844A0", "es": "〉 ¿A dónde quieres ir?"}
 {"key": "exefs/code.bin#0x18568C", "es": "Zona actual"}
@@ -160,7 +160,7 @@
 {"key": "exefs/code.bin#0x24D838", "es": "Todos"}
 {"key": "exefs/code.bin#0x24D840", "es": "Múltiple"}
 {"key": "exefs/code.bin#0x259C6C", "es": "Uno mismo"}
-{"key": "exefs/code.bin#0x26D2F6", "es": "H %02dM"}
+{"key": "exefs/code.bin#0x26D2F4", "es": "%dH %02dM"}
 {"key": "exefs/code.bin#0x26DE54", "es": "〉 ¿A dónde quieres ir?"}
 {"key": "exefs/code.bin#0x274E40", "es": "Atacar"}
 {"key": "exefs/code.bin#0x274E50", "es": "Disparar"}
@@ -208,7 +208,7 @@
 {"key": "exefs/code.bin#0x3AA714", "es": "Huir"}
 {"key": "exefs/code.bin#0x3ABF6C", "es": "¡El enemigo ataca primero!"}
 {"key": "exefs/code.bin#0x3B1DB8", "es": "Fin"}
-{"key": "exefs/code.bin#0x3CE760", "es": "Manantial de curación"}
+{"key": "exefs/code.bin#0x3CE760", "es": "Manantial curativo"}
 {"key": "exefs/code.bin#0x3E3F4C", "es": "Físico"}
 {"key": "exefs/code.bin#0x3E3F58", "es": "Disparo"}
 {"key": "exefs/code.bin#0x3E3F60", "es": "Fuego"}
@@ -221,7 +221,7 @@
 {"key": "exefs/code.bin#0x425194", "es": "Brana 2"}
 {"key": "exefs/code.bin#0x4251A8", "es": "Brana 3"}
 {"key": "exefs/code.bin#0x4251BC", "es": "Brana 4"}
-{"key": "exefs/code.bin#0x425212", "es": " Terminal"}
+{"key": "exefs/code.bin#0x425210", "es": "Terminal de %s"}
 {"key": "exefs/code.bin#0x42A484", "es": "Atacar"}
 {"key": "exefs/code.bin#0x42A494", "es": "El enemigo espera para ver qué haces."}
 {"key": "exefs/code.bin#0x42A818", "es": "Veneno"}
@@ -277,8 +277,8 @@
 {"key": "exefs/code.bin#0x45BC4A", "es": "PR"}
 {"key": "exefs/code.bin#0x45BC4F", "es": "AT"}
 {"key": "exefs/code.bin#0x45BC54", "es": "HT"}
-{"key": "exefs/code.bin#0x45CFD0", "es": " - información del demonio"}
-{"key": "exefs/code.bin#0x45CFF9", "es": " - lista de encuentros"}
+{"key": "exefs/code.bin#0x45CFD0", "es": ": información del demonio"}
+{"key": "exefs/code.bin#0x45CFF9", "es": ": lista de encuentros"}
 {"key": "exefs/code.bin#0x45D1C4", "es": "Auto-Ayuda de maná"}
 {"key": "exefs/code.bin#0x45D1DF", "es": "Auto-Ayuda vital"}
 {"key": "exefs/code.bin#0x45D1FA", "es": "Curativa"}
@@ -308,7 +308,7 @@
 {"key": "exefs/code.bin#0x45D61D", "es": "Mazionga"}
 {"key": "exefs/code.bin#0x45D62E", "es": "Dia"}
 {"key": "exefs/code.bin#0x45D635", "es": "Media"}
-{"key": "exefs/code.bin#0x45D640", "es": "Titanomachia"}
+{"key": "exefs/code.bin#0x45D640", "es": "Titanomaquia"}
 {"key": "exefs/code.bin#0x45D659", "es": "Andalusia"}
 {"key": "exefs/code.bin#0x45D66C", "es": "Makakaja"}
 {"key": "exefs/code.bin#0x45D67D", "es": "Dekaja"}
@@ -319,7 +319,7 @@
 {"key": "exefs/code.bin#0x45D6CC", "es": "Nandaka de oscuridad"}
 {"key": "exefs/code.bin#0x45D6E5", "es": "Nandaka de luz"}
 {"key": "exefs/code.bin#0x45D700", "es": "Megidola"}
-{"key": "exefs/code.bin#0x45D711", "es": "Bufula del Rey"}
+{"key": "exefs/code.bin#0x45D711", "es": "Rey Bufula"}
 {"key": "exefs/code.bin#0x45D728", "es": "Mabufula"}
 {"key": "exefs/code.bin#0x45D739", "es": "Hama"}
 {"key": "exefs/code.bin#0x45D742", "es": "Mahama"}
@@ -327,19 +327,19 @@
 {"key": "exefs/code.bin#0x45D75E", "es": "Mediarama"}
 {"key": "exefs/code.bin#0x45D771", "es": "Zanma"}
 {"key": "exefs/code.bin#0x45D77C", "es": "Mazanma"}
-{"key": "exefs/code.bin#0x45D78B", "es": "Pleroma superior de electricidad"}
-{"key": "exefs/code.bin#0x45D7AE", "es": "Pleroma superior de hielo"}
-{"key": "exefs/code.bin#0x45D7CF", "es": "Pleroma superior de choque"}
-{"key": "exefs/code.bin#0x45D7F4", "es": "Pleroma superior de fuego"}
-{"key": "exefs/code.bin#0x45D817", "es": "Pleroma superior de oscuridad"}
-{"key": "exefs/code.bin#0x45D83A", "es": "Pleroma superior curativo"}
+{"key": "exefs/code.bin#0x45D78B", "es": "Pléroma eléctrico alto"}
+{"key": "exefs/code.bin#0x45D7AE", "es": "Pléroma de hielo alto"}
+{"key": "exefs/code.bin#0x45D7CF", "es": "Pléroma de choque alto"}
+{"key": "exefs/code.bin#0x45D7F4", "es": "Pléroma de fuego alto"}
+{"key": "exefs/code.bin#0x45D817", "es": "Pléroma de oscur. alto"}
+{"key": "exefs/code.bin#0x45D83A", "es": "Pléroma curativo alto"}
 {"key": "exefs/code.bin#0x45D85D", "es": "Pleroma superior de disparo"}
-{"key": "exefs/code.bin#0x45D87E", "es": "Pleroma superior físico"}
-{"key": "exefs/code.bin#0x45D8A1", "es": "Pleroma superior de luz"}
+{"key": "exefs/code.bin#0x45D87E", "es": "Pléroma físico alto"}
+{"key": "exefs/code.bin#0x45D8A1", "es": "Pléroma de luz alto"}
 {"key": "exefs/code.bin#0x45D8C6", "es": "Pleroma superior múltiple"}
-{"key": "exefs/code.bin#0x45D8E9", "es": "Pleroma todopoderoso"}
+{"key": "exefs/code.bin#0x45D8E9", "es": "Pléroma todopoderoso"}
 {"key": "exefs/code.bin#0x45D90A", "es": "Estoma"}
-{"key": "exefs/code.bin#0x45D917", "es": "Poisma"}
+{"key": "exefs/code.bin#0x45D917", "es": "Venema"}
 {"key": "exefs/code.bin#0x45D924", "es": "Sabbatma"}
 {"key": "exefs/code.bin#0x45D935", "es": "Dormina"}
 {"key": "exefs/code.bin#0x45D944", "es": "Pulinpa"}
@@ -354,12 +354,12 @@
 {"key": "exefs/code.bin#0x45DA09", "es": "Amrita"}
 {"key": "exefs/code.bin#0x45DA16", "es": "Supernova"}
 {"key": "exefs/code.bin#0x45DA29", "es": "Bomba pandémica"}
-{"key": "exefs/code.bin#0x45DA44", "es": "Repeler elec."}
+{"key": "exefs/code.bin#0x45DA44", "es": "Repeler electricidad"}
 {"key": "exefs/code.bin#0x45DA59", "es": "Anular elec."}
 {"key": "exefs/code.bin#0x45DA6C", "es": "Absorber elec."}
-{"key": "exefs/code.bin#0x45DA81", "es": "Resistir elec."}
+{"key": "exefs/code.bin#0x45DA81", "es": "Resistir electricidad"}
 {"key": "exefs/code.bin#0x45DA98", "es": "Adicto al trabajo"}
-{"key": "exefs/code.bin#0x45DAAD", "es": "Yihad mortal"}
+{"key": "exefs/code.bin#0x45DAAD", "es": "Jihad mortal"}
 {"key": "exefs/code.bin#0x45DAC6", "es": "Ayuda de maná leve"}
 {"key": "exefs/code.bin#0x45DAE3", "es": "Ayuda vital leve"}
 {"key": "exefs/code.bin#0x45DB00", "es": "Makabuild"}
@@ -370,26 +370,26 @@
 {"key": "exefs/code.bin#0x45DB73", "es": "Anular mental"}
 {"key": "exefs/code.bin#0x45DB86", "es": "Voluntad del viento"}
 {"key": "exefs/code.bin#0x45DB9F", "es": "Viento mortal"}
-{"key": "exefs/code.bin#0x45DBB6", "es": "Rayo de Dios"}
+{"key": "exefs/code.bin#0x45DBB6", "es": "Rayo celestial"}
 {"key": "exefs/code.bin#0x45DBD7", "es": "Boca de Dios"}
-{"key": "exefs/code.bin#0x45DBF0", "es": "Granizada de Dios"}
-{"key": "exefs/code.bin#0x45DC11", "es": "Tornado de Dios"}
-{"key": "exefs/code.bin#0x45DC2E", "es": "Infierno de Dios"}
-{"key": "exefs/code.bin#0x45DC4B", "es": "Dios berserker"}
+{"key": "exefs/code.bin#0x45DBF0", "es": "Granizada celestial"}
+{"key": "exefs/code.bin#0x45DC11", "es": "Tornado celestial"}
+{"key": "exefs/code.bin#0x45DC2E", "es": "Infierno celestial"}
+{"key": "exefs/code.bin#0x45DC4B", "es": "Dios frenético"}
 {"key": "exefs/code.bin#0x45DC66", "es": "Ventisca furiosa"}
-{"key": "exefs/code.bin#0x45DC85", "es": "Espada de oscuridad"}
-{"key": "exefs/code.bin#0x45DC9A", "es": "Espada fatal"}
+{"key": "exefs/code.bin#0x45DC85", "es": "Filo oscuro"}
+{"key": "exefs/code.bin#0x45DC9A", "es": "Filo letal"}
 {"key": "exefs/code.bin#0x45DCB1", "es": "Espada de Matadioses"}
 {"key": "exefs/code.bin#0x45DCD4", "es": "Repeler hielo"}
 {"key": "exefs/code.bin#0x45DCE7", "es": "Anular hielo"}
 {"key": "exefs/code.bin#0x45DCF8", "es": "Absorber hielo"}
 {"key": "exefs/code.bin#0x45DD0B", "es": "Resistir hielo"}
-{"key": "exefs/code.bin#0x45DD20", "es": "Corte de Gram"}
+{"key": "exefs/code.bin#0x45DD20", "es": "Tajo fino"}
 {"key": "exefs/code.bin#0x45DD35", "es": "Voz de Pánico"}
 {"key": "exefs/code.bin#0x45DD4C", "es": "Voz de atadura"}
-{"key": "exefs/code.bin#0x45DD61", "es": "Danza del arañazo"}
+{"key": "exefs/code.bin#0x45DD61", "es": "Baile de arañazos"}
 {"key": "exefs/code.bin#0x45DD7C", "es": "Danza Maru-Maru"}
-{"key": "exefs/code.bin#0x45DD9B", "es": "Danza sexy"}
+{"key": "exefs/code.bin#0x45DD9B", "es": "Danza seductora"}
 {"key": "exefs/code.bin#0x45DDB0", "es": "Postura autoritaria"}
 {"key": "exefs/code.bin#0x45DDD9", "es": "Postura de presión"}
 {"key": "exefs/code.bin#0x45DDFC", "es": "Postura imponente"}
@@ -415,11 +415,11 @@
 {"key": "exefs/code.bin#0x45DFEC", "es": "División del alma"}
 {"key": "exefs/code.bin#0x45E003", "es": "Júbilo sangriento"}
 {"key": "exefs/code.bin#0x45E01A", "es": "Manantial de vida"}
-{"key": "exefs/code.bin#0x45E037", "es": "Era de hielo"}
-{"key": "exefs/code.bin#0x45E046", "es": "Desenfreno"}
+{"key": "exefs/code.bin#0x45E037", "es": "Edad de hielo"}
+{"key": "exefs/code.bin#0x45E046", "es": "Furia"}
 {"key": "exefs/code.bin#0x45E055", "es": "Bombardeo"}
 {"key": "exefs/code.bin#0x45E064", "es": "Rencor de oscuridad"}
-{"key": "exefs/code.bin#0x45E07B", "es": "Estocada"}
+{"key": "exefs/code.bin#0x45E07B", "es": "Acometida"}
 {"key": "exefs/code.bin#0x45E086", "es": "Carga sonriente"}
 {"key": "exefs/code.bin#0x45E09F", "es": "Oleada de maná"}
 {"key": "exefs/code.bin#0x45E0B4", "es": "Oleada de vida"}
@@ -433,14 +433,14 @@
 {"key": "exefs/code.bin#0x45E1BE", "es": "Humo púrpura"}
 {"key": "exefs/code.bin#0x45E1D7", "es": "Milagro"}
 {"key": "exefs/code.bin#0x45E1E6", "es": "Aguja rápida"}
-{"key": "exefs/code.bin#0x45E1FF", "es": "Aguja del sueño"}
+{"key": "exefs/code.bin#0x45E1FF", "es": "Aguja onírica"}
 {"key": "exefs/code.bin#0x45E218", "es": "Aguja aturdidora"}
 {"key": "exefs/code.bin#0x45E22F", "es": "Aguja de locura"}
 {"key": "exefs/code.bin#0x45E24C", "es": "Forcejeo"}
 {"key": "exefs/code.bin#0x45E25D", "es": "Agujero negro"}
-{"key": "exefs/code.bin#0x45E272", "es": "Tragar entero"}
+{"key": "exefs/code.bin#0x45E272", "es": "Engullir"}
 {"key": "exefs/code.bin#0x45E285", "es": "Voluntad de la llama"}
-{"key": "exefs/code.bin#0x45E2A0", "es": "Soberano"}
+{"key": "exefs/code.bin#0x45E2A0", "es": "Majestad"}
 {"key": "exefs/code.bin#0x45E2B5", "es": "Disciplina de madre"}
 {"key": "exefs/code.bin#0x45E2DC", "es": "Piedra Dekunda"}
 {"key": "exefs/code.bin#0x45E2F7", "es": "Piedra Zionga"}
@@ -465,9 +465,9 @@
 {"key": "exefs/code.bin#0x45E4B4", "es": "Anular fuego"}
 {"key": "exefs/code.bin#0x45E4C7", "es": "Absorber fuego"}
 {"key": "exefs/code.bin#0x45E4DC", "es": "Resistir fuego"}
-{"key": "exefs/code.bin#0x45E4F3", "es": "Infierno furioso"}
+{"key": "exefs/code.bin#0x45E4F3", "es": "Fuego del averno furioso"}
 {"key": "exefs/code.bin#0x45E512", "es": "Brillar más"}
-{"key": "exefs/code.bin#0x45E527", "es": "Aguante"}
+{"key": "exefs/code.bin#0x45E527", "es": "Últ.aliento"}
 {"key": "exefs/code.bin#0x45E534", "es": "Presión"}
 {"key": "exefs/code.bin#0x45E545", "es": "Maldición sin fin"}
 {"key": "exefs/code.bin#0x45E562", "es": "Maldición vengativa"}
@@ -478,32 +478,32 @@
 {"key": "exefs/code.bin#0x45E5E1", "es": "Debilitar"}
 {"key": "exefs/code.bin#0x45E5F6", "es": "Onda divina"}
 {"key": "exefs/code.bin#0x45E60D", "es": "Onda aplastante"}
-{"key": "exefs/code.bin#0x45E628", "es": "Onda crítica"}
-{"key": "exefs/code.bin#0x45E643", "es": "Onda de calor"}
+{"key": "exefs/code.bin#0x45E628", "es": "Ola crítica"}
+{"key": "exefs/code.bin#0x45E643", "es": "Ola de calor"}
 {"key": "exefs/code.bin#0x45E656", "es": "Anular nervios"}
 {"key": "exefs/code.bin#0x45E66B", "es": "Ojo crítico"}
 {"key": "exefs/code.bin#0x45E684", "es": "Ojo del guardián"}
-{"key": "exefs/code.bin#0x45E6A1", "es": "Ser yo"}
+{"key": "exefs/code.bin#0x45E6A1", "es": "Ser quien soy"}
 {"key": "exefs/code.bin#0x45E6BA", "es": "Escondite"}
 {"key": "exefs/code.bin#0x45E6C7", "es": "No hacer nada"}
 {"key": "exefs/code.bin#0x45E6DC", "es": "Rayo furioso"}
 {"key": "exefs/code.bin#0x45E6FD", "es": "Dopaje"}
-{"key": "exefs/code.bin#0x45E70A", "es": "Aguijón tóxico"}
-{"key": "exefs/code.bin#0x45E721", "es": "Puñetazo fuerte"}
+{"key": "exefs/code.bin#0x45E70A", "es": "Aguja tóxica"}
+{"key": "exefs/code.bin#0x45E721", "es": "Puñetazo potente"}
 {"key": "exefs/code.bin#0x45E738", "es": "Tos"}
 {"key": "exefs/code.bin#0x45E743", "es": "Flash fotográfico"}
 {"key": "exefs/code.bin#0x45E75A", "es": "Tajo de lealtad"}
 {"key": "exefs/code.bin#0x45E775", "es": "A mi antojo"}
-{"key": "exefs/code.bin#0x45E788", "es": "Carga de niebla"}
+{"key": "exefs/code.bin#0x45E788", "es": "Acom. neblinosa"}
 {"key": "exefs/code.bin#0x45E79B", "es": "Aplastar cabeza"}
 {"key": "exefs/code.bin#0x45E7B0", "es": "Parpadeo de muerte"}
 {"key": "exefs/code.bin#0x45E7CD", "es": "Aliento ácido"}
-{"key": "exefs/code.bin#0x45E7E4", "es": "Aliento de viento"}
-{"key": "exefs/code.bin#0x45E7FB", "es": "Aliento de hielo"}
-{"key": "exefs/code.bin#0x45E810", "es": "Aliento de fuego"}
+{"key": "exefs/code.bin#0x45E7E4", "es": "Aliento del viento"}
+{"key": "exefs/code.bin#0x45E7FB", "es": "Aliento helado"}
+{"key": "exefs/code.bin#0x45E810", "es": "Aliento ígneo"}
 {"key": "exefs/code.bin#0x45E827", "es": "Aliento de niebla"}
 {"key": "exefs/code.bin#0x45E83C", "es": "Aliento de veneno"}
-{"key": "exefs/code.bin#0x45E857", "es": "Ira sagrada"}
+{"key": "exefs/code.bin#0x45E857", "es": "Ira divina"}
 {"key": "exefs/code.bin#0x45E86C", "es": "Fuego del Sinaí"}
 {"key": "exefs/code.bin#0x45E887", "es": "Posumudi"}
 {"key": "exefs/code.bin#0x45E898", "es": "Agi"}
@@ -531,7 +531,7 @@
 {"key": "exefs/code.bin#0x45EA64", "es": "Alma inmortal"}
 {"key": "exefs/code.bin#0x45EA7F", "es": "Rayo de macca"}
 {"key": "exefs/code.bin#0x45EA94", "es": "Rayo derrochador"}
-{"key": "exefs/code.bin#0x45EAAD", "es": "Destello maligno"}
+{"key": "exefs/code.bin#0x45EAAD", "es": "Brillo vil"}
 {"key": "exefs/code.bin#0x45EAC2", "es": "Makajam"}
 {"key": "exefs/code.bin#0x45EAD1", "es": "Hexagrama"}
 {"key": "exefs/code.bin#0x45EAE2", "es": "Himno de Maruología"}
@@ -542,14 +542,14 @@
 {"key": "exefs/code.bin#0x45EB43", "es": "Diarahan"}
 {"key": "exefs/code.bin#0x45EB54", "es": "Mediarahan"}
 {"key": "exefs/code.bin#0x45EB69", "es": "Mazan"}
-{"key": "exefs/code.bin#0x45EB74", "es": "Reinado del trueno"}
+{"key": "exefs/code.bin#0x45EB74", "es": "Reino del trueno"}
 {"key": "exefs/code.bin#0x45EB8F", "es": "Ganancia de maná"}
 {"key": "exefs/code.bin#0x45EBA2", "es": "Ganancia de vida"}
 {"key": "exefs/code.bin#0x45EBB5", "es": "Lluvia de jabalinas"}
-{"key": "exefs/code.bin#0x45EBCE", "es": "Absorber vida"}
-{"key": "exefs/code.bin#0x45EBE3", "es": "Absorber alma"}
-{"key": "exefs/code.bin#0x45EBF8", "es": "Absorber espíritu"}
-{"key": "exefs/code.bin#0x45EC11", "es": "Absorber energía"}
+{"key": "exefs/code.bin#0x45EBCE", "es": "Absorción vital"}
+{"key": "exefs/code.bin#0x45EBE3", "es": "Absorción de alma"}
+{"key": "exefs/code.bin#0x45EBF8", "es": "Drenaje espiritual"}
+{"key": "exefs/code.bin#0x45EC11", "es": "Absorción de energía"}
 {"key": "exefs/code.bin#0x45EC2A", "es": "Marin Karin"}
 {"key": "exefs/code.bin#0x45EC41", "es": "Magaon"}
 {"key": "exefs/code.bin#0x45EC4E", "es": "Megidolaon"}
@@ -578,7 +578,7 @@
 {"key": "exefs/code.bin#0x45EE5F", "es": "Repeler disparo"}
 {"key": "exefs/code.bin#0x45EE72", "es": "Anular disparo"}
 {"key": "exefs/code.bin#0x45EE83", "es": "Absorber disparo"}
-{"key": "exefs/code.bin#0x45EE96", "es": "Arma antimotín"}
+{"key": "exefs/code.bin#0x45EE96", "es": "Arma antimotines"}
 {"key": "exefs/code.bin#0x45EEA7", "es": "Resistir disparo"}
 {"key": "exefs/code.bin#0x45EEBC", "es": "Bostezo sísmico"}
 {"key": "exefs/code.bin#0x45EED5", "es": "Agilao"}
@@ -589,13 +589,13 @@
 {"key": "exefs/code.bin#0x45EF0C", "es": "Mazio"}
 {"key": "exefs/code.bin#0x45EF17", "es": "Tabú estremecedor"}
 {"key": "exefs/code.bin#0x45EF36", "es": "Shibaboo"}
-{"key": "exefs/code.bin#0x45EF47", "es": "Mordisco frenético"}
+{"key": "exefs/code.bin#0x45EF47", "es": "Festín frenético"}
 {"key": "exefs/code.bin#0x45EF64", "es": "Lucero del alba"}
 {"key": "exefs/code.bin#0x45EF7D", "es": "Voluntad del trueno"}
 {"key": "exefs/code.bin#0x45EF9C", "es": "Trueno vengativo"}
 {"key": "exefs/code.bin#0x45EFBD", "es": "Ánimo perdurable"}
 {"key": "exefs/code.bin#0x45EFDA", "es": "Hambre de la serpiente"}
-{"key": "exefs/code.bin#0x45EFFB", "es": "Cazador de perdidos"}
+{"key": "exefs/code.bin#0x45EFFB", "es": "Atrapaperdidos"}
 {"key": "exefs/code.bin#0x45F014", "es": "Rompecolmillos"}
 {"key": "exefs/code.bin#0x45F02D", "es": "Trabajo arduo"}
 {"key": "exefs/code.bin#0x45F044", "es": "Devorador de luz"}
@@ -616,11 +616,11 @@
 {"key": "exefs/code.bin#0x45F1EB", "es": "Dioses del trueno"}
 {"key": "exefs/code.bin#0x45F204", "es": "Agujas aturdidoras"}
 {"key": "exefs/code.bin#0x45F21D", "es": "Colmillos de serpiente"}
-{"key": "exefs/code.bin#0x45F238", "es": "Uñas de locura"}
+{"key": "exefs/code.bin#0x45F238", "es": "Garras de locura"}
 {"key": "exefs/code.bin#0x45F253", "es": "Caos planeado"}
 {"key": "exefs/code.bin#0x45F26E", "es": "Mar de Caos"}
 {"key": "exefs/code.bin#0x45F287", "es": "Gran Logos"}
-{"key": "exefs/code.bin#0x45F29E", "es": "Prensa de megatones"}
+{"key": "exefs/code.bin#0x45F29E", "es": "Megatón de presión"}
 {"key": "exefs/code.bin#0x45F2B9", "es": "Artes de Akasha"}
 {"key": "exefs/code.bin#0x45F2D0", "es": "Bono de maná"}
 {"key": "exefs/code.bin#0x45F2E5", "es": "Bono de vida"}
@@ -635,7 +635,7 @@
 {"key": "exefs/code.bin#0x45F3BA", "es": "Repeler luz"}
 {"key": "exefs/code.bin#0x45F3D1", "es": "Anular luz"}
 {"key": "exefs/code.bin#0x45F3E6", "es": "Absorber luz"}
-{"key": "exefs/code.bin#0x45F3FD", "es": "Luz del juicio"}
+{"key": "exefs/code.bin#0x45F3FD", "es": "Luz justiciera"}
 {"key": "exefs/code.bin#0x45F41A", "es": "Resistir luz"}
 {"key": "exefs/code.bin#0x45F433", "es": "Plaga"}
 {"key": "exefs/code.bin#0x45F440", "es": "Golpe desesperado"}
@@ -645,7 +645,7 @@
 {"key": "exefs/code.bin#0x45F49E", "es": "Juicio de hierro"}
 {"key": "exefs/code.bin#0x45F4B9", "es": "Iluminación"}
 {"key": "exefs/code.bin#0x45F4D4", "es": "Torrente mágico"}
-{"key": "exefs/code.bin#0x45F4EF", "es": "Burla"}
+{"key": "exefs/code.bin#0x45F4EF", "es": "Provocar"}
 {"key": "exefs/code.bin#0x45F4FA", "es": "Disparo de aguja"}
 {"key": "exefs/code.bin#0x45F511", "es": "Disparo seductor"}
 {"key": "exefs/code.bin#0x45F52C", "es": "Disparo de tathlum"}
@@ -656,20 +656,20 @@
 {"key": "exefs/code.bin#0x45F59F", "es": "Estallido de Hades"}
 {"key": "exefs/code.bin#0x45F5B6", "es": "Descanso eterno"}
 {"key": "exefs/code.bin#0x45F5CF", "es": "Tempestad furiosa"}
-{"key": "exefs/code.bin#0x45F5EC", "es": "Puño del sueño"}
+{"key": "exefs/code.bin#0x45F5EC", "es": "Puño onírico"}
 {"key": "exefs/code.bin#0x45F601", "es": "No resistirás"}
 {"key": "exefs/code.bin#0x45F622", "es": "Voluntad de la escarcha"}
 {"key": "exefs/code.bin#0x45F63D", "es": "Ráfaga floral"}
-{"key": "exefs/code.bin#0x45F654", "es": "Sed de muerte"}
-{"key": "exefs/code.bin#0x45F669", "es": "Estocada infernal"}
+{"key": "exefs/code.bin#0x45F654", "es": "Lujuria de la muerte"}
+{"key": "exefs/code.bin#0x45F669", "es": "Envite infernal"}
 {"key": "exefs/code.bin#0x45F680", "es": "Corte de tétanos"}
 {"key": "exefs/code.bin#0x45F697", "es": "Grito protector"}
 {"key": "exefs/code.bin#0x45F6B2", "es": "Bufu"}
 {"key": "exefs/code.bin#0x45F6BB", "es": "Mabufu"}
-{"key": "exefs/code.bin#0x45F6C8", "es": "Garra rebotante"}
+{"key": "exefs/code.bin#0x45F6C8", "es": "Garra enérgica"}
 {"key": "exefs/code.bin#0x45F6E3", "es": "Garra de contención"}
-{"key": "exefs/code.bin#0x45F6FC", "es": "Garra Axel"}
-{"key": "exefs/code.bin#0x45F70F", "es": "Garra Nihil"}
+{"key": "exefs/code.bin#0x45F6FC", "es": "Garra axel"}
+{"key": "exefs/code.bin#0x45F70F", "es": "Garra nihil"}
 {"key": "exefs/code.bin#0x45F724", "es": "Garra venenosa"}
 {"key": "exefs/code.bin#0x45F73B", "es": "Garra de Damasco"}
 {"key": "exefs/code.bin#0x45F756", "es": "Arco de Dios"}
@@ -684,7 +684,7 @@
 {"key": "exefs/code.bin#0x45F84D", "es": "Buenas noches, bebé"}
 {"key": "exefs/code.bin#0x45F86E", "es": "Arrullo"}
 {"key": "exefs/code.bin#0x45F87D", "es": "Caramelo brillante"}
-{"key": "exefs/code.bin#0x45F896", "es": "Melodía maligna"}
+{"key": "exefs/code.bin#0x45F896", "es": "Melodía malvada"}
 {"key": "exefs/code.bin#0x45F8AD", "es": "Rapsodia embrujada"}
 {"key": "exefs/code.bin#0x45F8D0", "es": "Ideales de Maruología"}
 {"key": "exefs/code.bin#0x45F8F7", "es": "Fuego del letargo"}
@@ -775,7 +775,7 @@
 {"key": "exefs/code.bin#0x46F0C3", "es": "Ikebukuro infernal"}
 {"key": "exefs/code.bin#0x46F0FF", "es": "Toyosu"}
 {"key": "exefs/code.bin#0x46F13B", "es": "Tennozu"}
-{"key": "exefs/code.bin#0x46F177", "es": "Purgatorium"}
+{"key": "exefs/code.bin#0x46F177", "es": "Purgatorio"}
 {"key": "exefs/code.bin#0x46F1B3", "es": "Palacio de Lucifer"}
 {"key": "exefs/code.bin#0x46F1EF", "es": "Kinshicho"}
 {"key": "exefs/code.bin#0x46F22B", "es": "Minami Sunamachi"}

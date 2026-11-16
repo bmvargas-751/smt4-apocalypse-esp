@@ -89,8 +89,9 @@ def start(code, i):
         i -= 2
     head = code[max(0, i - 8):i]
     m = FORMAT_PREFIX.search(head)
-    if m and (i - len(head) + m.start() == 0 or code[i - len(head) + m.start() - 1] == 0):
-        i -= len(head) - m.start()
+    at = i - len(head) + m.start() if m else 0
+    if m and (at == 0 or code[at - 1] == 0 or at % 4 == 0):  # los textos empiezan tras un 00 o alineados a 4
+        i = at
     return i
 
 
