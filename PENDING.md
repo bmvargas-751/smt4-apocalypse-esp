@@ -14,19 +14,6 @@ Se deciden al ver la pantalla (DECISIONS 2026-11-16).
 
 ## De los lotes
 
-### Lote tablas-001 (2026-11-08)
-
-- [ ] `battle/NKMSortIndex.tbb` (reviewer, glosario): *Awakened* → «Despertado» (glosario) mide 76 px de 74; el traductor puso «Despierto». ¿Se cambia el glosario?
-
-### Lote tablas-002 (2026-11-09)
-
-Títulos de misiones (event/quest/SubQuestData.tbb y QuestData.tbb, columna 8, max 55). La columna mide 213 px en SubQuestData, lo que mide *Lend a Demon Hand to Children*, y 215 en QuestData.
-
-- [ ] `event/quest/SubQuestData.tbb#0.0.8` (delicadas, juego de palabras): «I'll Make You Full» → «Te llenaré la panza» (20, 128 px), sin cambio. Es la promesa de un restaurante, el cliente, de dejarte satisfecho. *Llenar la panza* es la frase hecha con el mismo tono casual, se entiende en toda América y no marca el género de a quién se le habla. Forma serie con #0.39.8. Alternativa: «Te voy a llenar la panza» (161 px), más hablada.
-- [ ] `event/quest/SubQuestData.tbb#0.39.8` (delicadas, paralelo): «Making Tokyo Full» → «Llenarle la panza a Tokio» (25, 170 px). Es la segunda misión del mismo cliente y repite el verbo de #0.0.8 (*make you full* → *making Tokyo full*): primero a ti, después a toda la ciudad. «Llenarle la panza a Tokio» repite «llenar la panza» y personifica la ciudad como el inglés, en infinitivo como los demás títulos («Asegurar una fuente de agua»). El provisional «Tokio con la panza llena» describe el resultado y no la tarea. Alternativa: ese mismo provisional (164 px).
-- [ ] `event/quest/SubQuestData.tbb#0.26.8` (delicadas, habla de chat): «u have a guest!!!» → «¡¡¡t buscan!!!» (17, 81 px). El inglés abrevia el pronombre (*u* por *you*), va en minúscula y con tres signos. En español el sujeto no se escribe, así que no hay *tú* que abreviar. *Te buscan* es lo que se dice cuando alguien viene a ver a otro, y *t* por *te* es una abreviatura común del chat (*t quiero*, *t llamo*). Lleva los tres ¡ por E-52 y E-53, aunque en el chat suelen faltar; quitarlos sería una excepción a E-52, y eso lo decide el usuario. No marca género, y el tuteo va con la ficha de Napaea. El provisional «¡¡¡Tienes una visita!!!» es correcto, pero pierde el chat. Alternativa: «¡¡¡tienes visita!!!» (104 px), más cerca del inglés, con el chat solo en la minúscula.
-- [ ] `event/quest/SubQuestData.tbb#0.20.8` (reviewer, juego de palabras): «Hunter Hunters» → «[Obj] Perseguir cazacazadores» (provisional, 205/213 px). «Cazar a los cazadores» se leería al revés.
-
 ### Lote datos-001 (2026-11-09)
 
 - [ ] `battle/SkillHelpMess.mbm#296` (proofreader, sin regla): «Ataque medio de tipo {F87D}{0F00}.» → «Ataque medio de tipo {F87D}{0E00}.». El primer código es el del objetivo (0F00) en vez del elemento (0E00), como en #307; en el juego saldría el nombre del objetivo donde va el tipo de ataque. Revisar si es error de copia. (Orquestador: el inglés trae el mismo código; la traducción lo conserva por T-1. Si se corrige, es un arreglo al juego, no a la traducción.)

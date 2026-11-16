@@ -1,4 +1,4 @@
-{"key": "event/quest/SubQuestData.tbb#0.0.8", "es": "Te llenaré la panza"}
+{"key": "event/quest/SubQuestData.tbb#0.0.8", "es": "Te dejaré satisfecho"}
 {"key": "event/quest/SubQuestData.tbb#0.0.64", "es": "Restaurante Akujiki"}
 {"key": "event/quest/SubQuestData.tbb#0.0.116", "es": "0"}
 {"key": "event/quest/SubQuestData.tbb#0.1.8", "es": "[Apo] Asegurar la ruta"}
@@ -58,7 +58,7 @@
 {"key": "event/quest/SubQuestData.tbb#0.19.8", "es": "[Cus] Parque Entrada Oeste"}
 {"key": "event/quest/SubQuestData.tbb#0.19.64", "es": "División de Rescate"}
 {"key": "event/quest/SubQuestData.tbb#0.19.116", "es": "Ahuyentar a la turba"}
-{"key": "event/quest/SubQuestData.tbb#0.20.8", "es": "[Obj] Perseguir cazacazadores"}
+{"key": "event/quest/SubQuestData.tbb#0.20.8", "es": "[Obj] Tras los cazacazadores"}
 {"key": "event/quest/SubQuestData.tbb#0.20.64", "es": "División de Seguridad"}
 {"key": "event/quest/SubQuestData.tbb#0.20.116", "es": "Derrotar a los demonios que cazan cazadores"}
 {"key": "event/quest/SubQuestData.tbb#0.21.8", "es": "[Otr] Examen normal: Búsqueda"}
@@ -76,7 +76,7 @@
 {"key": "event/quest/SubQuestData.tbb#0.25.8", "es": "[Inf] Investigar el Tokyo Dome"}
 {"key": "event/quest/SubQuestData.tbb#0.25.64", "es": "Administración de Cazadores"}
 {"key": "event/quest/SubQuestData.tbb#0.25.116", "es": "Fotografiar a los fantasmas del Tokyo Dome"}
-{"key": "event/quest/SubQuestData.tbb#0.26.8", "es": "¡¡¡t buscan!!!"}
+{"key": "event/quest/SubQuestData.tbb#0.26.8", "es": "¡¡¡tienes visita!!!"}
 {"key": "event/quest/SubQuestData.tbb#0.26.64", "es": "Napaea"}
 {"key": "event/quest/SubQuestData.tbb#0.26.116", "es": "Llevar al demonio al Bosque de las Hadas"}
 {"key": "event/quest/SubQuestData.tbb#0.27.8", "es": "Ingredientes de nueva creación"}
@@ -115,7 +115,7 @@
 {"key": "event/quest/SubQuestData.tbb#0.38.8", "es": "Magia usurpada"}
 {"key": "event/quest/SubQuestData.tbb#0.38.64", "es": "Culto siniestro"}
 {"key": "event/quest/SubQuestData.tbb#0.38.116", "es": "0"}
-{"key": "event/quest/SubQuestData.tbb#0.39.8", "es": "Llenarle la panza a Tokio"}
+{"key": "event/quest/SubQuestData.tbb#0.39.8", "es": "Dejar satisfecho a Tokio"}
 {"key": "event/quest/SubQuestData.tbb#0.39.64", "es": "Restaurante Akujiki"}
 {"key": "event/quest/SubQuestData.tbb#0.39.116", "es": "0"}
 {"key": "event/quest/SubQuestData.tbb#0.40.8", "es": "[Obj] Asegurar punto de evacuación"}
