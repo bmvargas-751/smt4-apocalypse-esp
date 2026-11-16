@@ -90,7 +90,7 @@ La traducción está completa y la revisión de PENDING, terminada (2026-11-16).
 ### Fase 8. Entrega
 
 - [ ] Idealmente, una prueba en una 3DS real.
-- [ ] Registro de cambios ([CHANGELOG.md](CHANGELOG.md)) y publicación: versión 1.0.0.
+- [x] Registro de cambios ([CHANGELOG.md](CHANGELOG.md)) y publicación: versión 1.0.0 (2026-11-16).
 
 ## Notas de IVA
 

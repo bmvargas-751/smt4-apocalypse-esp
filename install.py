@@ -28,7 +28,7 @@ HERE = Path(__file__).resolve().parent
 FROZEN = getattr(sys, "frozen", False)  # el .exe de PyInstaller
 sys.path.insert(0, str(HERE / "tools"))
 from ctr import InvalidImage  # noqa: E402
-from patch import GAME_ID, build  # noqa: E402
+from patch import GAME_ID, build, build_code  # noqa: E402
 
 TITLE_ID = f"{GAME_ID:016X}"
 MANIFEST = "smt4a-esp.json"
@@ -99,8 +99,14 @@ def uninstall(target, log=print):
     if not manifest.exists():
         raise Error(f"no hay una traducción instalada por este programa en {target}")
     romfs = target / "romfs"
-    for rel in json.loads(manifest.read_text(encoding="utf-8"))["files"]:
+    installed = json.loads(manifest.read_text(encoding="utf-8"))
+    for rel in installed["files"]:
         (romfs / rel).unlink(missing_ok=True)
+    if installed.get("code"):
+        code = target / installed["code"]
+        code.unlink(missing_ok=True)
+        if code.parent != target and code.parent.is_dir() and not any(code.parent.iterdir()):
+            code.parent.rmdir()
     for d in sorted((p for p in romfs.rglob("*") if p.is_dir()), key=lambda p: -len(p.parts)):
         if not any(d.iterdir()):
             d.rmdir()
@@ -112,23 +118,36 @@ def uninstall(target, log=print):
     log(f"Traducción desinstalada de {target}")
 
 
+def code_path(target):
+    """Dónde va el parche del ejecutable: Luma3DS lo lee junto a romfs/; Azahar y Citra, en exefs/."""
+    return Path("code.ips") if target.parent.name == "titles" else Path("exefs") / "code.ips"
+
+
 def install(rom, target, test=False, log=print):
     romfs = target / "romfs"
     if not (target / MANIFEST).exists() and romfs.is_dir() and any(romfs.rglob("*")):
         raise Error(f"ya hay otro mod en {romfs}; quítalo antes de instalar la traducción")
+    code = code_path(target)
+    if not (target / MANIFEST).exists() and (target / code).exists():
+        raise Error(f"ya hay otro parche del ejecutable en {target / code}; quítalo antes de instalar la traducción")
     files = build(rom, test=test, log=log)
+    ips = build_code(rom, test=test, log=log)
     if (target / MANIFEST).exists():
         uninstall(target, log=lambda _: None)
     for rel, data in files.items():
         (romfs / rel).parent.mkdir(parents=True, exist_ok=True)
         (romfs / rel).write_bytes(data)
+    if ips:
+        (target / code).parent.mkdir(parents=True, exist_ok=True)
+        (target / code).write_bytes(ips)
     (target / MANIFEST).write_text(json.dumps({
         "game": TITLE_ID,
         "installed": datetime.datetime.now().isoformat(timespec="seconds"),
         "test": test,
         "files": sorted(files),
+        "code": code.as_posix() if ips else None,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
-    log(f"Listo: {len(files)} archivos en {romfs}")
+    log(f"Listo: {len(files)} archivos en {romfs}" + (f", y el parche del ejecutable en {target / code}" if ips else ""))
 
 
 # ---------- menú ----------
