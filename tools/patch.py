@@ -81,8 +81,8 @@ def build(rom, test=False, log=print):
     return files
 
 
-def build_code(rom, test=False, log=print):
-    """Parche IPS del ejecutable con los textos traducidos, o None si no hay ninguno."""
+def build_code_bin(rom, test=False, log=print):
+    """(code.bin original, code.bin traducido), ya descomprimidos, o None si no hay textos del ejecutable."""
     sources = jsonl_files(REPO / "translation") + (jsonl_files(REPO / "tests") if test else [])
     texts = codebin.read_jsonl(sources)
     if not texts:
@@ -92,5 +92,11 @@ def build_code(rom, test=False, log=print):
     new, errors = codebin.apply(code, texts)
     if errors:
         raise ValueError("ejecutable: " + "; ".join(errors[:5]))
-    return codebin.ips(code, new)
+    return code, new
+
+
+def build_code(rom, test=False, log=print):
+    """Parche IPS del ejecutable con los textos traducidos, o None si no hay ninguno."""
+    pair = build_code_bin(rom, test, log)
+    return codebin.ips(*pair) if pair else None
 

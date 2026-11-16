@@ -1,14 +1,17 @@
 #!/usr/bin/env python3
 """Instalador de la traducción al español de Shin Megami Tensei IV: Apocalypse.
 
-Con doble clic en install.bat (Windows), o desde una terminal:
+Con doble clic en el .exe o en install.bat (Windows), o desde una terminal:
 
-    python3 install.py                                   menú
+    python3 install.py                                   menú: crea la copia traducida
+    python3 install.py --rom JUEGO.3ds [--output SALIDA.3ds] [--test]
     python3 install.py --rom JUEGO.3ds --target azahar|citra|sd [--folder RUTA] [--test]
     python3 install.py --uninstall --target azahar|citra|sd [--folder RUTA]
 
-Arma los archivos traducidos desde tu propia copia del juego (versión europea,
-.3ds/.cci o .cxi descifrado) y los copia a:
+Sin --target, crea una copia traducida de tu juego (versión europea, .3ds/.cci o
+.cxi descifrado), junto a la original: «NOMBRE (Español).3ds». La original no se toca.
+
+Con --target, en lugar de eso, instala la traducción como mod en:
   azahar, citra  la carpeta de mods del emulador (load/mods/00040000001A6B00);
                  --folder indica la carpeta de usuario si no se encuentra sola
   sd             la SD de una 3DS con Luma3DS (luma/titles/00040000001A6B00);
@@ -28,7 +31,8 @@ HERE = Path(__file__).resolve().parent
 FROZEN = getattr(sys, "frozen", False)  # el .exe de PyInstaller
 sys.path.insert(0, str(HERE / "tools"))
 from ctr import InvalidImage  # noqa: E402
-from patch import GAME_ID, build, build_code  # noqa: E402
+from patch import GAME_ID, build, build_code, build_code_bin  # noqa: E402
+from rom import build_rom  # noqa: E402
 
 TITLE_ID = f"{GAME_ID:016X}"
 MANIFEST = "smt4a-esp.json"
@@ -118,6 +122,29 @@ def uninstall(target, log=print):
     log(f"Traducción desinstalada de {target}")
 
 
+def default_output(rom):
+    rom = Path(rom)
+    return rom.with_name(f"{rom.stem} (Español){rom.suffix}")
+
+
+def make_rom(rom, output=None, test=False, log=print):
+    """Crea la copia traducida del juego; devuelve su ruta."""
+    output = Path(output) if output else default_output(rom)
+    if output.resolve() == Path(rom).resolve():
+        raise Error("la copia traducida no puede reemplazar a la original")
+    files = build(rom, test=test, log=log)
+    pair = build_code_bin(rom, test=test, log=log)
+    log(f"Creando {output.name} (tarda unos minutos)...")
+    tmp = output.with_name(output.name + ".tmp")
+    try:
+        build_rom(rom, tmp, files, pair[1] if pair else None, log=log)
+        tmp.replace(output)
+    finally:
+        tmp.unlink(missing_ok=True)
+    log(f"Listo: {output}")
+    return output
+
+
 def code_path(target):
     """Dónde va el parche del ejecutable: Luma3DS lo lee junto a romfs/; Azahar y Citra, en exefs/."""
     return Path("code.ips") if target.parent.name == "titles" else Path("exefs") / "code.ips"
@@ -184,32 +211,14 @@ def ask_path(question, previous=None):
 
 def menu(test):
     print("Traducción al español de Shin Megami Tensei IV: Apocalypse\n")
+    print("Crea una copia traducida de tu juego, junto a la original (que no se toca).\n")
     cfg = load_config()
-    places = {"Azahar": "azahar", "Citra": "citra", "La SD de una 3DS (Luma3DS)": "sd"}
-    action = choose("¿Qué quieres hacer?", ["Instalar", "Desinstalar", "Salir"])
-    if action == "Salir":
-        return
-    kind = places[choose("¿Dónde?", list(places))]
-    if kind == "sd":
-        cfg["sd"] = ask_path("Raíz de la SD (por ejemplo E:\\):", cfg.get("sd"))
-        target = target_dir("sd", cfg["sd"])
-    else:
-        try:
-            target = target_dir(kind, cfg.get(kind), ask=choose)
-        except Error as e:
-            print(f"No pude encontrarla sola: {e}")
-            cfg[kind] = ask_path("Carpeta de usuario del emulador:", cfg.get(kind))
-            target = target_dir(kind, cfg[kind])
-    if action == "Desinstalar":
-        uninstall(target)
-    else:
-        rom = ask_path("Arrastra aquí tu copia del juego (.3ds) y presiona Enter:", cfg.get("rom"))
-        cfg["rom"] = rom
-        install(rom, target, test=test)
-        if kind == "sd":
-            print("En la 3DS, activa «Enable game patching» en la configuración de Luma3DS "
-                  "(mantén SELECT al encenderla).")
+    rom = ask_path("Arrastra aquí tu copia del juego (.3ds) y presiona Enter:", cfg.get("rom"))
+    if not rom:
+        raise Error("falta la copia del juego")
+    cfg["rom"] = rom
     save_config(cfg)
+    make_rom(rom, test=test)
 
 
 def pause():
@@ -224,15 +233,18 @@ def pause():
 def main():
     a = argparse.ArgumentParser(description="Instala la traducción al español de SMT IV: Apocalypse.")
     a.add_argument("--rom", help="tu copia del juego (.3ds o .cxi descifrado)")
+    a.add_argument("--output", help="dónde crear la copia traducida (sin --target)")
     a.add_argument("--target", choices=["azahar", "citra", "sd"])
     a.add_argument("--folder", help="carpeta de usuario del emulador, o raíz de la SD")
     a.add_argument("--uninstall", action="store_true")
     a.add_argument("--test", action="store_true", help="agrega los textos de tests/")
     args = a.parse_args()
     try:
-        if not args.target:
+        if not args.target and not args.rom:
             menu(args.test)
             pause()
+        elif not args.target:
+            make_rom(args.rom, args.output, test=args.test)
         elif args.uninstall:
             uninstall(target_dir(args.target, args.folder))
         else:

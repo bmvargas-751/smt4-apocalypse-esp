@@ -33,12 +33,12 @@ Necesitas la versión **europea** del juego en un `.3ds` (o `.cxi`) descifrado.
 **Windows:**
 
 1. Descarga `smt4a-esp-install.exe` de la [última versión](../../releases/latest). No hace falta Python.
-2. Ábrelo con doble clic.
-3. Elige dónde instalar: **Azahar**, **Citra** o **la SD de una 3DS** con Luma3DS. Después arrastra tu `.3ds` a la ventana y presiona Enter.
+2. Ábrelo con doble clic, arrastra tu `.3ds` a la ventana y presiona Enter.
+3. Al lado de tu copia aparece otra, traducida: «NOMBRE (Español).3ds». Ábrela en Azahar o Citra. La original no se toca.
 
 **Linux o macOS** (o Windows con Python 3): descarga este repositorio y ejecuta `python3 install.py` (en Windows, `install.bat`).
 
-El instalador encuentra solo la carpeta de los emuladores. En una 3DS, activa *Enable game patching* en la configuración de Luma3DS (mantén SELECT al encenderla). Para quitar la traducción, abre el instalador otra vez y elige *Desinstalar*: borra solo lo que instaló.
+**En una 3DS** (con Luma3DS), la traducción va como mod en la SD: `python3 install.py --rom TU_JUEGO.3ds --target sd --folder E:\` (la raíz de la SD), y en la configuración de Luma3DS se activa *Enable game patching* (mantén SELECT al encenderla). Con `--target azahar` o `--target citra` también se puede instalar como mod en un emulador; `--uninstall` lo quita.
 
 Para armar el `.exe` desde el repositorio: `tools\build_exe.bat` (Windows, con Python 3); queda en `build\exe\`.
 
