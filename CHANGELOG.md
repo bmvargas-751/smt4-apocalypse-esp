@@ -1,5 +1,9 @@
 # Registro de cambios
 
+## 1.1.1 (2026-11-16)
+
+- Revisión de las líneas delicadas del ejecutable: la habilidad *Mist Rush* pasa a «Acometida brumosa», con la palabra completa en lugar de la abreviatura «Acom. neblinosa».
+
 ## 1.1.0 (2026-11-16)
 
 - Traducción de los textos del ejecutable (`code.bin`): 1016 textos cortos de interfaz (elementos, nombres de habilidades, lugares, menús), con el equipo completo y los nombres oficiales de SMT V.
