@@ -1,1 +1,16 @@
+{"key": "addon/testdata/content24/evt/e220.mbm#0", "es": "〉 Esta historia ocurre después de que {F843}{0000} abandonara a sus aliados y a la humanidad...{F801}{FFFF}"}
+{"key": "addon/testdata/content24/evt/e220.mbm#1", "es": "〉 Aceptas una nueva misión y te diriges a la Puerta de los Lamentos de Sky Tower.{F801}{F802}〉 Los samuráis montan guardia fuera de la puerta.{F801}{FFFF}"}
+{"key": "addon/testdata/content24/evt/e220.mbm#2", "es": "{F812}Vigía samurái{0000}{F81B}{4930}{3336}{3031}{3600}{0000}{0000}¿Mmm...?{F801}{FFFF}"}
+{"key": "addon/testdata/content24/evt/e220.mbm#3", "es": "〉 El samurái percibe tu presencia.{F801}{FFFF}"}
+{"key": "addon/testdata/content24/evt/e220.mbm#4", "es": "{F812}Vigía samurái{0000}{F87A}{7200}¿Un humano? Así que de verdad quedan algunos en Tokio.{F801}{F802}Por supuesto, todo eso cambiará pronto...{F801}{F802}Te quedan {F804}{0500}25 turnos{F804}{0000}...{F801}{FFFF}"}
+{"key": "addon/testdata/content24/evt/e220.mbm#5", "es": "{F812}Vigía samurái{0000}{F87A}{7500}{F81B}{4930}{3336}{3031}{3700}{0000}{0000}Relájate y tómate tu tiempo para pelear con nosotros... ¡Dentro de poco serás igual que nosotros!{F801}{FFFF}"}
+{"key": "addon/testdata/content24/evt/e220.mbm#20", "es": "〉 Dagda pasa la mano sobre los restos del samurái.{F801}{F802}〉 Niega con la cabeza y se vuelve hacia ti.{F801}{FFFF}"}
+{"key": "addon/testdata/content24/evt/e220.mbm#21", "es": "{F812}Dagda{0000}{F87A}{AD00}{F81B}{4930}{3132}{3031}{3900}{0000}{0000}Es inútil... Sus almas están atadas a otro.{F801}{F802}Sospecho que algo raro está pasando en Mikado. Sigamos adelante.{F801}{FFFF}"}
+{"key": "addon/testdata/content24/evt/e220.mbm#22", "es": "〉 Asientes y continúas por la Puerta de los Lamentos.{F801}{FFFF}"}
+{"key": "addon/testdata/content24/evt/e220.mbm#23", "es": "{F812}Voz de Dagda{0000}{F87A}{AD00}{F81B}{4930}{3132}{3031}{3900}{0000}{0000}Hmph. Los humanos se están convirtiendo en demonios...{F801}{FFFF}"}
+{"key": "addon/testdata/content24/evt/e220.mbm#30", "es": "〉 Mikado arde, invadido por gente enloquecida.{F801}{F802}〉 El olor a sangre y carne quemada te asalta la nariz.{F801}{FFFF}"}
+{"key": "addon/testdata/content24/evt/e220.mbm#32", "es": "〉 Un samurái de mirada aguda sale corriendo hacia ti, como si te estuviera esperando.{F801}{FFFF}"}
+{"key": "addon/testdata/content24/evt/e220.mbm#33", "es": "{F812}Samurái de mirada aguda{0000}{F87A}{0800}Eres {F843}{0000}. Parece que los guardias no fueron rivales para ti.{F801}{FFFF}"}
+{"key": "addon/testdata/content24/evt/e220.mbm#34", "es": "〉 El samurái de mirada aguda te fulmina con la mirada.{F801}{FFFF}"}
+{"key": "addon/testdata/content24/evt/e220.mbm#35", "es": "{F812}Samurái de mirada aguda{0000}{F87A}{0800}¿Entiendes la situación actual?{F801}{FFFF}"}
 {"key": "addon/testdata/content24/evt/e220.mbm#36", "es": "〉 Niegas con la cabeza.{F801}{FFFF}"}
