@@ -13,22 +13,6 @@ Actualizado: 2026-11-22.
 
 **Etapa actual:** Fase 7. Prueba en el juego: Jugar con la traducción completa y anotar cortes, cajas que se pasan, glifos que faltan y texto que quedó en inglés.
 
-### Fases
-
-| Fase | Estado |
-|---|---|
-| 0. Decisiones | ✅ |
-| 1. Prueba técnica | ✅ |
-| 2. Inventario y costo | ✅ 22.862 líneas |
-| 3. Glosario y fichas | ✅ |
-| 4. Herramientas | ✅ |
-| 5. Piloto | ✅ |
-| 6. Traducción | ✅ 100,0 % |
-| 7. Prueba en el juego | ⏳ |
-| 8. Entrega | ⏳ |
-
-### Secciones
-
 | Sección | Líneas | Traducidas | Avance |
 |---|---:|---:|---:|
 | Interfaz | 688 | 688 | 100,0 % |
