@@ -18,7 +18,7 @@ Las decisiones de traducción pendientes están en [PENDING.md](PENDING.md): sol
 
 ## Fases
 
-### Fase 0. Antes de empezar
+### Fase 0. Decisiones
 
 - [x] Verificar si existe una traducción fan de IVA al español: no hay ninguna (2026-11-07). Se hace desde cero.
 - [x] Revisar la versión del juego: europea, sin actualización.
@@ -32,12 +32,12 @@ Antes de esto no se decide nada más.
 - [x] Ida y vuelta de las tablas (`.tbb`): 489 de 489 archivos idénticos (`tools/tbb.py roundtrip`). 6.757 textos para traducir, con su largo máximo en bytes.
 - [x] Fuente: las 16 letras (á é í ó ú ü ñ, sus mayúsculas, ¿ ¡) dibujadas en las 4 fuentes (`tools/font.py`), en los códigos del cirílico (`tools/letters.py`).
 
-### Fase 2. Inventario y presupuesto
+### Fase 2. Inventario y costo
 
 - [x] Volumen por tipo de texto: historia, secundarias, negociaciones, descripciones, interfaz, combate (`tools/progress.py`, por sección).
 - [x] Costo por pasada (en THL: ~25k tokens leídos y ~18k escritos cada 250 líneas) y cuántas pasadas recibe cada tipo: estimado antes de cada sección.
 
-### Fase 3. Documentos
+### Fase 3. Glosario y fichas
 
 - [x] Leer *SMT V: Vengeance*: `tools/smt5v.py` (con ooz, de `tools/build_ooz.sh`) empareja sus nombres en inglés y en español por posición. Lo extraído queda local.
 - [x] Glosario ([GLOSSARY.md](GLOSSARY.md)): el terminólogo revisa los 317 candidatos de SMT V que aparecen en IVA y, antes de cada sección, sus términos de sistema (`tools/smt5v.py terms`), y propone las filas. Hechos: los 317 candidatos (343 filas oficiales; 29 por decidir en PENDING) y la Interfaz (2026-11-08); después, una sección por cada parte de la Fase 6.

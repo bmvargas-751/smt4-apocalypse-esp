@@ -1,0 +1,142 @@
+{
+ "updated": "2026-11-22",
+ "status": "finished",
+ "stage": "Fase 7. Prueba en el juego: Jugar con la traducción completa y anotar cortes, cajas que se pasan, glifos que faltan y texto que quedó en inglés.",
+ "version": "1.1.1",
+ "lines": 22862,
+ "done": 22862,
+ "sections": [
+  {
+   "name": "Interfaz",
+   "lines": 688,
+   "done": 688
+  },
+  {
+   "name": "Tablas",
+   "lines": 6757,
+   "done": 6757
+  },
+  {
+   "name": "Datos",
+   "lines": 2599,
+   "done": 2599
+  },
+  {
+   "name": "Historia",
+   "lines": 2409,
+   "done": 2409
+  },
+  {
+   "name": "Secundarias",
+   "lines": 1085,
+   "done": 1085
+  },
+  {
+   "name": "Negociaciones",
+   "lines": 5847,
+   "done": 5847
+  },
+  {
+   "name": "Demonios en combate",
+   "lines": 1973,
+   "done": 1973
+  },
+  {
+   "name": "Contenido descargable",
+   "lines": 488,
+   "done": 488
+  },
+  {
+   "name": "Ejecutable",
+   "lines": 1016,
+   "done": 1016
+  }
+ ],
+ "phases": [
+  {
+   "n": 0,
+   "name": "Decisiones",
+   "state": "done",
+   "note": null
+  },
+  {
+   "n": 1,
+   "name": "Prueba técnica",
+   "state": "done",
+   "note": null
+  },
+  {
+   "n": 2,
+   "name": "Inventario y costo",
+   "state": "done",
+   "note": "22.862 líneas"
+  },
+  {
+   "n": 3,
+   "name": "Glosario y fichas",
+   "state": "done",
+   "note": null
+  },
+  {
+   "n": 4,
+   "name": "Herramientas",
+   "state": "done",
+   "note": null
+  },
+  {
+   "n": 5,
+   "name": "Piloto",
+   "state": "done",
+   "note": null
+  },
+  {
+   "n": 6,
+   "name": "Traducción",
+   "state": "done",
+   "note": "100,0 %"
+  },
+  {
+   "n": 7,
+   "name": "Prueba en el juego",
+   "state": "in_progress",
+   "note": null
+  },
+  {
+   "n": 8,
+   "name": "Entrega",
+   "state": "in_progress",
+   "note": null
+  }
+ ],
+ "changes": [
+  {
+   "version": "1.1.1",
+   "date": "2026-11-16",
+   "title": null,
+   "items": [
+    "Revisión de las líneas delicadas del ejecutable: la habilidad *Mist Rush* pasa a «Acometida brumosa», con la palabra completa en lugar de la abreviatura «Acom. neblinosa»."
+   ]
+  },
+  {
+   "version": "1.1.0",
+   "date": "2026-11-16",
+   "title": null,
+   "items": [
+    "Traducción de los textos del ejecutable (`code.bin`): 1016 textos cortos de interfaz (elementos, nombres de habilidades, lugares, menús), con el equipo completo y los nombres oficiales de SMT V.",
+    "El instalador crea una copia traducida del juego (`NOMBRE (Español).3ds`) junto a la original; el mod para la SD de una 3DS con Luma3DS sigue disponible."
+   ]
+  },
+  {
+   "version": "1.0.0",
+   "date": "2026-11-16",
+   "title": "Primera versión completa.",
+   "items": [
+    "Traducción al español neutro de todos los archivos de texto del juego (21 846 líneas): interfaz, tablas, datos (habilidades, objetos y perfiles de demonios), historia, misiones secundarias, negociaciones, mensajes de los demonios en combate y contenido descargable.",
+    "Letras españolas (á é í ó ú ü ñ, sus mayúsculas, ¿ ¡) en las cuatro fuentes del juego.",
+    "Instalador para Azahar, Citra y la SD de una 3DS con Luma3DS, con desinstalador. En Windows, un `.exe` que no necesita Python.",
+    "Los textos del ejecutable (`code.bin`): unos mil textos cortos de interfaz.",
+    "Los textos que están dibujados en texturas."
+   ]
+  }
+ ]
+}

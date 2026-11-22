@@ -1,0 +1,43 @@
+{
+  "title": "Shin Megami Tensei IV: Apocalypse",
+  "platform": "3DS",
+  "translated_from": "Inglés oficial",
+  "owner": "Atlus",
+  "platform_long": "Nintendo 3DS (Azahar, Citra o una 3DS con Luma3DS)",
+  "game_version": "Europea, en un .3ds o .cxi descifrado",
+  "untranslated": "Los textos dibujados en texturas",
+  "tagline": "",
+  "requirements": "Necesitas tu propia copia de la versión europea del juego en un .3ds (o .cxi) descifrado.",
+  "install": [
+    {
+      "system": "Windows",
+      "steps": [
+        "Descarga **smt4a-esp-install.exe** de la última versión. No hace falta Python.",
+        "Ábrelo con doble clic, arrastra tu .3ds a la ventana y presiona Enter.",
+        "Al lado de tu copia aparece otra, traducida: «NOMBRE (Español).3ds». Ábrela en Azahar o Citra. La original no se toca."
+      ]
+    },
+    {
+      "system": "Linux o macOS",
+      "steps": [
+        "Descarga el repositorio y ejecuta el instalador (en Windows con Python 3, también sirve **install.bat**)."
+      ],
+      "code": "python3 install.py"
+    },
+    {
+      "system": "3DS con Luma3DS",
+      "steps": [
+        "Instala la traducción como mod en la SD (E:\\ es la raíz de la SD).",
+        "En la configuración de Luma3DS, activa **Enable game patching** (mantén SELECT al encenderla)."
+      ],
+      "code": "python3 install.py --rom TU_JUEGO.3ds --target sd --folder E:\\"
+    }
+  ],
+  "downloads": [
+    {
+      "asset": "smt4a-esp-install.exe",
+      "label": "Descargar para Windows",
+      "primary": true
+    }
+  ]
+}
