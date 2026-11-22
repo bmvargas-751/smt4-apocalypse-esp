@@ -15,6 +15,6 @@ Traducción de *Shin Megami Tensei IV: Apocalypse* al español con el kit de tra
 - IVA es anterior al kit: el kit salió de aquí. Lo adoptó la skill `loc-adopt` (2026-11-22).
   - El original se exporta con `python3 tools/kit_adapter.py export`, a `../smt4a-local/kit-source.jsonl`, en forma de lectura (TECH T-2).
   - `tools/hooks.py` usa las secciones y exclusiones de `tools/progress.py`, y la caja y la fuente de `tools/check.py`.
-- El avance del README lo escribe `loc.py progress --readme`. `tools/progress.py --readme` solo actualiza `translation/README.md`.
+- El README tiene la forma común del kit (REPO.md). «Instalar» y «Avance» los escribe `loc.py progress --readme`: los pasos de instalación se cambian en `project.json`, no en el README. `tools/progress.py --readme` solo actualiza `translation/README.md`.
 - `.claude/agents/` y la skill `translate-batch` son el equipo de IVA de antes del kit: no se usan. Las correcciones van con la skill `loc-batch` del kit, que pide armar antes el set de oro (skill `loc-start`, fase 4).
 - El instalador es `install.py` (y `install.bat`); el `.exe` de Windows se arma con `tools\build_exe.bat`.
