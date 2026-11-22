@@ -8,22 +8,40 @@ Traducción fan al español neutro de *Shin Megami Tensei IV: Apocalypse* (Ninte
 
 ## Avance
 
-<!-- progress: lo actualiza `python3 -I tools/progress.py --readme` en cada commit que toca translation/ -->
+<!-- loc:progress -->
+Actualizado: 2026-11-22.
+
 **Etapa actual:** Fase 7. Prueba en el juego: Jugar con la traducción completa y anotar cortes, cajas que se pasan, glifos que faltan y texto que quedó en inglés.
 
-| Fase | Sección | Traducidos | Total | % |
-|---|---|---:|---:|---:|
-| 6.1 | Interfaz | 688 | 688 | 100,0 % |
-| 6.2 | Tablas | 6.757 | 6.757 | 100,0 % |
-| 6.3 | Datos | 2.599 | 2.599 | 100,0 % |
-| 6.4 | Historia | 2.409 | 2.409 | 100,0 % |
-| 6.5 | Secundarias | 1.085 | 1.085 | 100,0 % |
-| 6.6 | Negociaciones | 5.847 | 5.847 | 100,0 % |
-| 6.7 | Demonios en combate | 1.973 | 1.973 | 100,0 % |
-| 6.8 | Contenido descargable | 488 | 488 | 100,0 % |
-| 6.9 | Ejecutable | 1.016 | 1.016 | 100,0 % |
-| | **Total** | **22.862** | **22.862** | **100,0 %** |
-<!-- /progress -->
+### Fases
+
+| Fase | Estado |
+|---|---|
+| 0. Decisiones | ✅ |
+| 1. Prueba técnica | ✅ |
+| 2. Inventario y costo | ✅ 22.862 líneas |
+| 3. Glosario y fichas | ✅ |
+| 4. Herramientas | ✅ |
+| 5. Piloto | ✅ |
+| 6. Traducción | ✅ 100,0 % |
+| 7. Prueba en el juego | ⏳ |
+| 8. Entrega | ⏳ |
+
+### Secciones
+
+| Sección | Líneas | Traducidas | Avance |
+|---|---:|---:|---:|
+| Interfaz | 688 | 688 | 100,0 % |
+| Tablas | 6.757 | 6.757 | 100,0 % |
+| Datos | 2.599 | 2.599 | 100,0 % |
+| Historia | 2.409 | 2.409 | 100,0 % |
+| Secundarias | 1.085 | 1.085 | 100,0 % |
+| Negociaciones | 5.847 | 5.847 | 100,0 % |
+| Demonios en combate | 1.973 | 1.973 | 100,0 % |
+| Contenido descargable | 488 | 488 | 100,0 % |
+| Ejecutable | 1.016 | 1.016 | 100,0 % |
+| **Total** | **22.862** | **22.862** | **100,0 %** |
+<!-- /loc:progress -->
 
 Qué entra en cada sección y cómo se cuenta: [translation/README.md](translation/README.md).
 

@@ -6,8 +6,9 @@
 Cuenta los textos del juego (los mensajes de `mbm.py export`, los de las
 tablas de `tbb.py export` y los del ejecutable de `codebin.py export`; por
 defecto ../smt4a-local/en.jsonl, tbb.jsonl y codebin.jsonl) y los traducidos en translation/. Con --readme
-reescribe las tablas entre <!-- progress --> y <!-- /progress --> en README.md
-y en translation/README.md, y la etapa actual (lo primero pendiente de PLAN.md).
+reescribe la tabla entre <!-- progress --> y <!-- /progress --> de
+translation/README.md (la que dice qué entra en cada sección). El avance del README
+principal lo escribe el kit: python3 -I ~/.claude/loc-kit/tools/loc.py progress --readme.
 """
 import argparse
 import json
@@ -176,9 +177,8 @@ def main():
     if not args.readme:
         print(table(total, done, False))
         return
-    replace_block(REPO / "README.md", f"**Etapa actual:** {current_stage()}\n\n{table(total, done, False)}")
     replace_block(REPO / "translation" / "README.md", table(total, done, True))
-    print("README.md y translation/README.md actualizados")
+    print("translation/README.md actualizado (el README principal lo escribe `loc.py progress --readme`)")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,56 @@
+{
+  "name": "Shin Megami Tensei IV: Apocalypse",
+  "source_language": "en",
+  "target_language": "es",
+  "source": "../smt4a-local/kit-source.jsonl",
+  "translation": "translation",
+  "work": "build/work/batches",
+  "sections": [
+    {
+      "name": "Interfaz",
+      "prefixes": []
+    },
+    {
+      "name": "Tablas",
+      "prefixes": []
+    },
+    {
+      "name": "Datos",
+      "prefixes": []
+    },
+    {
+      "name": "Historia",
+      "prefixes": []
+    },
+    {
+      "name": "Secundarias",
+      "prefixes": []
+    },
+    {
+      "name": "Negociaciones",
+      "prefixes": []
+    },
+    {
+      "name": "Demonios en combate",
+      "prefixes": []
+    },
+    {
+      "name": "Contenido descargable",
+      "prefixes": []
+    },
+    {
+      "name": "Ejecutable",
+      "prefixes": []
+    }
+  ],
+  "excluded": [],
+  "codes": [
+    "\\{[0-9A-F]{4}\\}",
+    "%[-+0-9.]*[sdifxXu]"
+  ],
+  "fixed_break": "{F801}",
+  "encoding": "utf-8",
+  "spanish_checks": true,
+  "hooks": "tools/hooks.py",
+  "support": null
+}
