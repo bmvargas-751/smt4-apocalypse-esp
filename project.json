@@ -38,5 +38,11 @@
       "label": "Descargar para Windows",
       "primary": true
     }
-  ]
+  ],
+  "art": {
+    "cover": "art/cover.jpg",
+    "wide": "art/wide.jpg",
+    "card": "cover",
+    "fill": "#443222"
+  }
 }
