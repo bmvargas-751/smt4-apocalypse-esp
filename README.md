@@ -39,9 +39,6 @@ python3 install.py
 ## Avance
 
 <!-- loc:progress -->
-Versión 1.1.1, publicada el 16 nov 2026 · [Cambios](CHANGELOG.md)\
-Etapa: Prueba en el juego · actualizado el 23 nov 2026
-
 | Sección | Líneas | Traducidas | Avance |
 |---|---:|---:|---:|
 | Interfaz | 688 | 688 | 100,0 % |
@@ -58,8 +55,6 @@ Etapa: Prueba en el juego · actualizado el 23 nov 2026
 | Demonios en combate | 1.973 | 1.973 | 100,0 % |
 | Contenido descargable | 488 | 488 | 100,0 % |
 | Ejecutable | 1.016 | 1.016 | 100,0 % |
-
-**Total: 22.862 de 22.862 líneas (100,0 %)**
 <!-- /loc:progress -->
 
 ## Documentación
