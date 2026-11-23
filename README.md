@@ -1,14 +1,14 @@
 # Shin Megami Tensei IV: Apocalypse en español
 
-Traducción fan al español neutro de *Shin Megami Tensei IV: Apocalypse*, desde el inglés oficial, para Nintendo 3DS (versión europea).
-Quedan en inglés: los textos dibujados en texturas.
+Traducción fan al español neutro de *Shin Megami Tensei IV: Apocalypse*, basada en la versión oficial en inglés, para Nintendo 3DS (versión europea).
+Los textos integrados en las texturas permanecen en inglés.
 
 > Proyecto de fans, sin relación con Atlus ni con Nintendo. **No incluye el juego**: el instalador arma la traducción a partir de tu propia copia.
 
 ## Instalar
 
 <!-- loc:install -->
-Necesitas tu propia copia de la versión europea del juego en un .3ds (o .cxi) descifrado.
+Necesitas tu propia copia de la versión europea del juego (no sirve la estadounidense ni la japonesa), en un .3ds (o .cxi) descifrado.
 
 **Windows:**
 
@@ -17,19 +17,20 @@ Necesitas tu propia copia de la versión europea del juego en un .3ds (o .cxi) d
 3. Al lado de tu copia aparece otra, traducida: «NOMBRE (Español).3ds». Ábrela en Azahar o Citra. La original no se toca.
 
 <details>
-<summary>Linux o macOS · 3DS con Luma3DS</summary>
+<summary>Linux o macOS</summary>
 
-**Linux o macOS:**
-
-1. Descarga el repositorio y, en su carpeta, ejecuta el instalador:
+1. Descarga el repositorio y, en su carpeta, ejecuta el instalador. Te pide la ruta de tu .3ds (puedes arrastrarlo a la terminal) y crea a su lado la copia traducida:
 
 ```sh
 python3 install.py
 ```
 
-**3DS con Luma3DS:**
+</details>
 
-1. Instala la traducción como mod en la SD: `python3 install.py --rom TU_JUEGO.3ds --target sd --folder E:\` (`E:\` es la raíz de la SD).
+<details>
+<summary>3DS con Luma3DS</summary>
+
+1. Instala la traducción como mod en la SD: `python3 install.py --rom TU_JUEGO.3ds --target sd --folder RAÍZ_DE_LA_SD`. La raíz de la SD es la letra de la unidad en Windows (`E:\`) o la carpeta donde se monta en Linux (`/media/TU_USUARIO/NOMBRE_SD`) o en macOS (`/Volumes/NOMBRE_SD`).
 2. En la configuración de Luma3DS (mantén SELECT al encenderla), activa **Enable game patching**.
 
 </details>
@@ -38,23 +39,32 @@ python3 install.py
 ## Avance
 
 <!-- loc:progress -->
-Versión 1.1.1 (16 nov 2026) · Etapa: Prueba en el juego · Actualizado el 22 nov 2026 · [Cambios](CHANGELOG.md)
+Versión 1.1.1, publicada el 16 nov 2026 · [Cambios](CHANGELOG.md)\
+Etapa: Prueba en el juego · actualizado el 23 nov 2026
 
 | Sección | Líneas | Traducidas | Avance |
 |---|---:|---:|---:|
 | Interfaz | 688 | 688 | 100,0 % |
 | Historia | 2.409 | 2.409 | 100,0 % |
 | Secundarias | 1.085 | 1.085 | 100,0 % |
-| | | | |
+
+**Propio de este juego**
+
+| Sección | Líneas | Traducidas | Avance |
+|---|---:|---:|---:|
 | Tablas | 6.757 | 6.757 | 100,0 % |
 | Datos | 2.599 | 2.599 | 100,0 % |
 | Negociaciones | 5.847 | 5.847 | 100,0 % |
 | Demonios en combate | 1.973 | 1.973 | 100,0 % |
 | Contenido descargable | 488 | 488 | 100,0 % |
 | Ejecutable | 1.016 | 1.016 | 100,0 % |
-| **Total** | **22.862** | **22.862** | **100,0 %** |
+
+**Total: 22.862 de 22.862 líneas (100,0 %)**
 <!-- /loc:progress -->
 
-## Para colaborar
+## Documentación
 
-[Plan](PLAN.md) · [Decisiones](DECISIONS.md) · [Estilo](STYLE.md) · [Glosario](GLOSSARY.md) · [Personajes](characters) · [Técnica](TECH.md) · [Pendientes](PENDING.md) · [Secciones](translation/README.md) · [Herramientas](tools/README.md)
+<!-- loc:docs -->
+Localización: [Glosario](GLOSSARY.md) · [Personajes](characters/) · [Estilo](STYLE.md) · [Decisiones](DECISIONS.md)\
+Desarrollo: [Plan](PLAN.md) · [Técnica](TECH.md) · [Herramientas](tools/README.md) · [Pendientes](PENDING.md)
+<!-- /loc:docs -->
