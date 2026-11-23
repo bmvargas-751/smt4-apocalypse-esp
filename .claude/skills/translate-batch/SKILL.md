@@ -13,7 +13,7 @@ El método está en [TEAM.md](../../../TEAM.md) («Un lote, paso a paso»). Esta
 1. Confirma con el usuario la sección (o los archivos) y el tamaño del lote, salvo que ya lo haya dicho. El tamaño por defecto es 250 líneas.
 2. **Estima el costo y pide el visto bueno** si el lote es nuevo o más grande que el anterior. Referencia de THL: unos 25.000 tokens leídos y 18.000 escritos cada 250 líneas, por agente. En un lote pasan el traductor, el revisor, el corrector y el editor, más delicadas si hay. [TEAM: uso]
 3. Nunca más de unos 3 agentes a la vez. [TEAM: uso]
-4. Si la extracción local no está (`../smt4a-local/en.jsonl`, `tbb.jsonl`), créala con `tools/mbm.py export` y `tools/tbb.py export`.
+4. Si la extracción local no está (`../local/smt4-apocalypse/en.jsonl`, `tbb.jsonl`), créala con `tools/mbm.py export` y `tools/tbb.py export`.
 
 ## Pasos
 

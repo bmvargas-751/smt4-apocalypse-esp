@@ -1,6 +1,6 @@
 """El texto del juego y la traducción, para los scripts del lote.
 
-Lo del juego se lee de la extracción local (../smt4a-local: romfs/, en.jsonl,
+Lo del juego se lee de la extracción local (../local/smt4-apocalypse: romfs/, en.jsonl,
 tbb.jsonl y codebin.jsonl); la traducción, de translation/. Una clave es «archivo#número» en
 los mensajes y «archivo#tabla.registro.posición» en las tablas.
 La traducción de los mensajes se guarda en forma de lectura (ver layout.py).
@@ -17,7 +17,7 @@ from bcfnt import Bcfnt  # noqa: E402
 from font import compose  # noqa: E402
 
 REPO = Path(__file__).resolve().parent.parent
-LOCAL = REPO.parent / "smt4a-local"
+LOCAL = REPO.parent / "local" / "smt4-apocalypse"
 ROMFS = LOCAL / "romfs"
 TRANSLATION = REPO / "translation"
 

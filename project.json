@@ -12,7 +12,7 @@
     {
       "system": "Windows",
       "steps": [
-        "Descarga **smt4a-esp-install.exe** de la [última versión](https://github.com/bmvargas-751/smt4-apocalypse-esp/releases/latest). No hace falta Python.",
+        "Descarga **smt4a-esp-install.exe** de la [última versión](https://github.com/nox-traducciones/smt4-apocalypse/releases/latest). No hace falta Python.",
         "Ábrelo con doble clic, arrastra tu .3ds a la ventana y presiona Enter.",
         "Al lado de tu copia aparece otra, traducida: «NOMBRE (Español).3ds». Ábrela en Azahar o Citra. La original no se toca."
       ]

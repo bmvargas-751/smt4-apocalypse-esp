@@ -20,7 +20,7 @@ Lo extraído es texto de otro juego: los TSV quedan fuera del repo.
 
 Los paquetes de SMT V vienen comprimidos con Oodle. Se descomprimen con ooz,
 de código abierto, compilado en cada equipo con `tools/build_ooz.sh` (no va
-en el repo). Por defecto se busca en ../smt4a-local/ooz/libooz.so.
+en el repo). Por defecto se busca en ../local/smt4-apocalypse/ooz/libooz.so.
 """
 import argparse
 import ctypes
@@ -33,7 +33,7 @@ import zlib
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
-LOCAL = REPO.parent / "smt4a-local"
+LOCAL = REPO.parent / "local" / "smt4-apocalypse"
 PAKS = Path("/mnt/c/Steam/steamapps/common/SMT5V/Project/Content/Paks")
 OOZ = LOCAL / "ooz" / "libooz.so"
 BINTABLE = "Project/Content/L10N/{lang}/Blueprints/Gamedata/BinTable/"

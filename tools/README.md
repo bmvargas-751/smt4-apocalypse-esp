@@ -1,6 +1,6 @@
 # Herramientas
 
-Lo que se programó para SMT IV: Apocalypse. Se corren desde la raíz del repo, con la extracción del juego en `../smt4a-local/`.
+Lo que se programó para SMT IV: Apocalypse. Se corren desde la raíz del repo, con la extracción del juego en `../local/smt4-apocalypse/`.
 
 | Script | Qué hace |
 |---|---|

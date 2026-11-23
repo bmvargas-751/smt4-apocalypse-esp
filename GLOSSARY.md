@@ -10,8 +10,8 @@ Términos fijos de la traducción. La guía de estilo está en [STYLE.md](STYLE.
 
 ## Cómo se arma
 
-1. `tools/smt5v.py candidates` empareja los nombres de SMT V en inglés y en español y busca cada uno en IVA. El resultado queda fuera del repo (`../smt4a-local/glossary-candidates.tsv`), porque es texto de otro juego.
-   Antes de cada sección, `tools/smt5v.py terms --section SECCIÓN` saca sus términos de sistema (lo que IVA escribe con mayúscula y las etiquetas de los menús de SMT V que IVA usa), con el español de SMT V si lo tiene (`../smt4a-local/system-terms.tsv`).
+1. `tools/smt5v.py candidates` empareja los nombres de SMT V en inglés y en español y busca cada uno en IVA. El resultado queda fuera del repo (`../local/smt4-apocalypse/glossary-candidates.tsv`), porque es texto de otro juego.
+   Antes de cada sección, `tools/smt5v.py terms --section SECCIÓN` saca sus términos de sistema (lo que IVA escribe con mayúscula y las etiquetas de los menús de SMT V que IVA usa), con el español de SMT V si lo tiene (`../local/smt4-apocalypse/system-terms.tsv`).
 2. El terminólogo revisa los candidatos y propone las filas: *oficial* si es el mismo término en los dos juegos, o *por decidir* si el término inglés significa otra cosa en IVA.
 3. Las filas *oficial* entran a la tabla. Las *por decidir* van a [PENDING.md](PENDING.md) para que las decida el usuario.
 

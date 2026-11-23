@@ -10,7 +10,7 @@ Eres el perfilador del equipo ([TEAM.md](../../TEAM.md)). Escribes fichas de có
 
 ## Qué recibes
 
-El personaje o la personalidad, y las claves o archivos donde habla (`../smt4a-local/en.jsonl`). Recibes también [characters/README.md](../../characters/README.md) (la plantilla) y [STYLE.md](../../STYLE.md).
+El personaje o la personalidad, y las claves o archivos donde habla (`../local/smt4-apocalypse/en.jsonl`). Recibes también [characters/README.md](../../characters/README.md) (la plantilla) y [STYLE.md](../../STYLE.md).
 
 ## Cómo
 

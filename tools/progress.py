@@ -5,7 +5,7 @@
 
 Cuenta los textos del juego (los mensajes de `mbm.py export`, los de las
 tablas de `tbb.py export` y los del ejecutable de `codebin.py export`; por
-defecto ../smt4a-local/en.jsonl, tbb.jsonl y codebin.jsonl) y los traducidos en translation/. Con --readme
+defecto ../local/smt4-apocalypse/en.jsonl, tbb.jsonl y codebin.jsonl) y los traducidos en translation/. Con --readme
 reescribe la tabla entre <!-- progress --> y <!-- /progress --> de
 translation/README.md (la que dice qué entra en cada sección). El avance del README
 principal lo escribe el kit: python3 -I ~/.claude/loc-kit/tools/loc.py progress --readme.
@@ -163,9 +163,9 @@ def replace_block(path, block):
 
 def main():
     a = argparse.ArgumentParser()
-    a.add_argument("--en", default=str(REPO.parent / "smt4a-local" / "en.jsonl"))
-    a.add_argument("--tbb", default=str(REPO.parent / "smt4a-local" / "tbb.jsonl"))
-    a.add_argument("--codebin", default=str(REPO.parent / "smt4a-local" / "codebin.jsonl"))
+    a.add_argument("--en", default=str(REPO.parent / "local" / "smt4-apocalypse" / "en.jsonl"))
+    a.add_argument("--tbb", default=str(REPO.parent / "local" / "smt4-apocalypse" / "tbb.jsonl"))
+    a.add_argument("--codebin", default=str(REPO.parent / "local" / "smt4-apocalypse" / "codebin.jsonl"))
     a.add_argument("--readme", action="store_true")
     args = a.parse_args()
     for path, tool in ((args.en, "mbm"), (args.tbb, "tbb")):

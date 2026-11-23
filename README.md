@@ -12,7 +12,7 @@ Necesitas tu propia copia de la versión europea del juego (no sirve la estadoun
 
 **Windows:**
 
-1. Descarga **smt4a-esp-install.exe** de la [última versión](https://github.com/bmvargas-751/smt4-apocalypse-esp/releases/latest). No hace falta Python.
+1. Descarga **smt4a-esp-install.exe** de la [última versión](https://github.com/nox-traducciones/smt4-apocalypse/releases/latest). No hace falta Python.
 2. Ábrelo con doble clic, arrastra tu .3ds a la ventana y presiona Enter.
 3. Al lado de tu copia aparece otra, traducida: «NOMBRE (Español).3ds». Ábrela en Azahar o Citra. La original no se toca.
 
