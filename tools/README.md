@@ -9,7 +9,7 @@ Lo que se programó para SMT IV: Apocalypse. Se corren desde la raíz del repo, 
 | `layout.py` | Mide los renglones en píxeles y los parte |
 | `patch.py` | Arma la traducción |
 | `kit_adapter.py`, `hooks.py` | El adaptador del kit de traducción: `kit_adapter.py export` escribe el original en el formato común, y `hooks.py` le da al kit las secciones, la caja y los bytes de este repo |
-| `progress.py` | Las secciones y lo que no se cuenta; con `--readme`, actualiza `translation/README.md` |
+| `progress.py` | Las secciones y lo que no se cuenta; con `--readme`, actualiza [translation/README.md](../translation/README.md) (el detalle de cada sección) |
 | `batch.py`, `check.py`, `review.py`, `corpus.py` | Los lotes de antes del kit (los chequeos y el corpus los sigue usando `hooks.py`) |
 | `smt5v.py`, `build_ooz.sh` | Leen los términos oficiales de *SMT V: Vengeance* |
 
