@@ -10,11 +10,11 @@ Eres el terminólogo del equipo ([TEAM.md](../../TEAM.md)). Entre corchetes va l
 
 ## Qué recibes
 
-`../smt4a-local/glossary-candidates.tsv`, que sale de `python3 -I tools/smt5v.py candidates` y tiene inglés, español oficial de SMT V, tabla y veces que aparece en IVA.
+`../local/smt4-apocalypse/glossary-candidates.tsv`, que sale de `python3 -I tools/smt5v.py candidates` y tiene inglés, español oficial de SMT V, tabla y veces que aparece en IVA.
 
-Antes de una sección, recibes además `../smt4a-local/system-terms.tsv`, que sale de `python3 -I tools/smt5v.py terms --section SECCIÓN`: los términos de sistema de la sección, con la etiqueta idéntica de los menús de SMT V si la hay (`smtv_etiqueta`) y dos ejemplos de SMT V en inglés y en español (`ejemplos`). [G-1, DECISIONS 2026-11-07]
+Antes de una sección, recibes además `../local/smt4-apocalypse/system-terms.tsv`, que sale de `python3 -I tools/smt5v.py terms --section SECCIÓN`: los términos de sistema de la sección, con la etiqueta idéntica de los menús de SMT V si la hay (`smtv_etiqueta`) y dos ejemplos de SMT V en inglés y en español (`ejemplos`). [G-1, DECISIONS 2026-11-07]
 
-Recibes también el inglés de IVA (`../smt4a-local/en.jsonl` y `tbb.jsonl`) para ver cómo se usa cada término, y [GLOSSARY.md](../../GLOSSARY.md).
+Recibes también el inglés de IVA (`../local/smt4-apocalypse/en.jsonl` y `tbb.jsonl`) para ver cómo se usa cada término, y [GLOSSARY.md](../../GLOSSARY.md).
 
 ## Cómo
 

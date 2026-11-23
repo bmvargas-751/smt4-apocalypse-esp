@@ -3,7 +3,7 @@
 
     python3 tools/kit_adapter.py export [SALIDA]
 
-Por defecto escribe ../smt4a-local/kit-source.jsonl (el «source» de loc.json): una línea
+Por defecto escribe ../local/smt4-apocalypse/kit-source.jsonl (el «source» de loc.json): una línea
 {key, en, max?} por texto, en el orden del juego. Los mensajes van en forma de lectura
 (TECH.md, T-2), como los ve el traductor; las tablas y el ejecutable llevan su «max» en
 bytes (T-4). Se lee de la extracción local, igual que las demás herramientas

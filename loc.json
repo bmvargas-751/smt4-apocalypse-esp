@@ -2,7 +2,7 @@
   "name": "Shin Megami Tensei IV: Apocalypse",
   "source_language": "en",
   "target_language": "es",
-  "source": "../smt4a-local/kit-source.jsonl",
+  "source": "../local/smt4-apocalypse/kit-source.jsonl",
   "translation": "translation",
   "work": "build/work/batches",
   "sections": [

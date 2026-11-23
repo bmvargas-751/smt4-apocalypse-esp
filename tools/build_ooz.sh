@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # Descarga y compila ooz (descompresor de Oodle de código abierto, GPL-3.0) para
 # leer los paquetes de SMT V con tools/smt5v.py. Queda fuera del repo:
-# ../smt4a-local/ooz/ (código en src/, biblioteca en libooz.so). Necesita git y g++.
+# ../local/smt4-apocalypse/ooz/ (código en src/, biblioteca en libooz.so). Necesita git y g++.
 set -euo pipefail
-DEST="$(cd "$(dirname "$0")/../.." && pwd)/smt4a-local/ooz"
+DEST="$(cd "$(dirname "$0")/../.." && pwd)/local/smt4-apocalypse/ooz"
 COMMIT=360fc8a                       # rarten/ooz, la versión revisada
 mkdir -p "$DEST"
 if [ ! -d "$DEST/src" ]; then
